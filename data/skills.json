@@ -3366,7 +3366,7 @@
     "npx skills add agentspace-so/runcomfy-skills --skill image-to-video -g"
    ],
    "meta": "Animate any still image on RunComfy — this skill is a smart router that matches the user's intent to the right i2v model in the RunComfy catalog. Picks…",
-   "installs_display": "408.0K",
+   "installs_display": "408.1K",
    "stars": "38",
    "first_seen": "Apr 30, 2026",
    "audits": [
@@ -8592,7 +8592,7 @@
     "# 1. Install (see runcomfy-cli skill for details)"
    ],
    "meta": "Generate AI videos on RunComfy via the `runcomfy` CLI — a smart router across the full video-model catalog: HappyHorse 1.0 (Arena #1, native in-pass audio),…",
-   "installs_display": "183.1K",
+   "installs_display": "184.5K",
    "stars": "2",
    "first_seen": "14 days ago",
    "audits": [
