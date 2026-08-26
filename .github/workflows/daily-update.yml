@@ -16,7 +16,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - name: Checkout
@@ -32,24 +32,27 @@ jobs:
 
       - name: Rebuild the archive
         id: build
+        env:
+          TOP_N: '1000'
         run: python scripts/build_archive.py
 
       - name: Commit and push if changed
         env:
           NEW_COUNT: ${{ steps.build.outputs.new_count }}
-          GONE_COUNT: ${{ steps.build.outputs.gone_count }}
+          DUP_COUNT: ${{ steps.build.outputs.dup_count }}
+          ARCHIVE_SIZE: ${{ steps.build.outputs.archive_size }}
         run: |
           set -euo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet -- abbas-skills.md README.md CHANGELOG.md data/skills.json; then
+          if git diff --quiet -- abbas-skills.md INDEX.md README.md CHANGELOG.md DUPLICATES.md data/skills.json; then
             echo "لا تغييرات — تخطّي الرفع"
             exit 0
           fi
 
-          git add abbas-skills.md README.md CHANGELOG.md data/skills.json
-          git commit -m "تحديث تلقائي للأرشيف $(date -u +%Y-%m-%d) — جديد: ${NEW_COUNT:-0} · خارج: ${GONE_COUNT:-0}"
+          git add abbas-skills.md INDEX.md README.md CHANGELOG.md DUPLICATES.md data/skills.json
+          git commit -m "تحديث تلقائي $(date -u +%Y-%m-%d) — جديد: ${NEW_COUNT:-0} · مكرّر محذوف: ${DUP_COUNT:-0} · المجموع: ${ARCHIVE_SIZE:-?}"
 
           for i in 1 2 3 4; do
             git push && exit 0
