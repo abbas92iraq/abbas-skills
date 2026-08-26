@@ -2,6 +2,8 @@
 
 أرشيف منظّم لمهارات الوكلاء (**Agent Skills**) المأخوذة من [skills.sh](https://www.skills.sh/)، لاستخدامها كمرجع داخل المحادثات مع Claude Code وبقية وكلاء البرمجة.
 
+🔄 **يُحدَّث تلقائيًا كل يوم** الساعة ٦ صباحًا بتوقيت بغداد عبر GitHub Actions.
+
 ## 📄 الملف الرئيسي
 
 ### 👉 [`abbas-skills.md`](./abbas-skills.md)
@@ -12,6 +14,7 @@
 | مهارات في الفهرس السريع | **600** |
 | منها مهارات رسمية (Official) | **139** |
 | إجمالي المهارات المتاحة على skills.sh | **9,684** |
+| آخر تحديث | **2026-08-26** |
 
 ## ✅ ما الذي يحتويه كل سجل؟
 
@@ -36,6 +39,17 @@ npx skills add vercel-labs/skills
 
 > «راجع `abbas-skills.md` واختر لي مهارة مناسبة لـ ... ثم ثبّتها.»
 
+## ⚙️ آلية التحديث
+
+| الملف | الوظيفة |
+|---|---|
+| [`scripts/build_archive.py`](./scripts/build_archive.py) | يسحب البيانات من skills.sh ويعيد بناء الأرشيف |
+| [`.github/workflows/daily-update.yml`](./.github/workflows/daily-update.yml) | يشغّل السكربت يوميًا ويرفع التغييرات |
+| [`data/skills.json`](./data/skills.json) | لقطة البيانات، تُستخدم لرصد الداخل والخارج من القائمة |
+| [`CHANGELOG.md`](./CHANGELOG.md) | سجل التغييرات اليومي |
+
+للتشغيل اليدوي: تبويب **Actions** ← **Daily skills archive update** ← **Run workflow**.
+
 ---
 
-**تاريخ الأرشفة:** 2026-08-26 · **المصدر:** https://www.skills.sh/
+**المصدر:** https://www.skills.sh/

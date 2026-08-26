@@ -1,0 +1,60 @@
+name: Daily skills archive update
+
+on:
+  schedule:
+    # 03:00 UTC = 06:00 بتوقيت بغداد
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install --quiet requests
+
+      - name: Rebuild the archive
+        id: build
+        run: python scripts/build_archive.py
+
+      - name: Commit and push if changed
+        env:
+          NEW_COUNT: ${{ steps.build.outputs.new_count }}
+          GONE_COUNT: ${{ steps.build.outputs.gone_count }}
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- abbas-skills.md README.md CHANGELOG.md data/skills.json; then
+            echo "لا تغييرات — تخطّي الرفع"
+            exit 0
+          fi
+
+          git add abbas-skills.md README.md CHANGELOG.md data/skills.json
+          git commit -m "تحديث تلقائي للأرشيف $(date -u +%Y-%m-%d) — جديد: ${NEW_COUNT:-0} · خارج: ${GONE_COUNT:-0}"
+
+          for i in 1 2 3 4; do
+            git push && exit 0
+            echo "فشل الرفع، إعادة المحاولة بعد $((2**i)) ثانية"
+            sleep $((2**i))
+            git pull --rebase --autostash origin main || true
+          done
+          exit 1
