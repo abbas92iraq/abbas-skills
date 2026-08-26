@@ -571,498 +571,498 @@ npx skills add vercel-labs/skills
 | 458 | **remotion-docs** ⭐ | `remotion-dev/skills` | 49,540 | [↓](#skill-458) |
 | 459 | **developing-genkit-go** ⭐ | `firebase/agent-skills` | 49,535 | [↓](#skill-459) |
 | 460 | **firecrawl-parse** ⭐ | `firecrawl/cli` | 48,931 | [↓](#skill-460) |
-| 461 | **signup** 🆕 | `coreyhaines31/marketingskills` | 48,913 | [↓](#skill-461) |
-| 462 | **free-tools** 🆕 | `coreyhaines31/marketingskills` | 48,904 | [↓](#skill-462) |
-| 463 | **aso** 🆕 | `coreyhaines31/marketingskills` | 48,895 | [↓](#skill-463) |
-| 464 | **referrals** 🆕 | `coreyhaines31/marketingskills` | 48,849 | [↓](#skill-464) |
-| 465 | **web-search** 🆕 | `skills-101/superpowers` | 48,529 | [↓](#skill-465) |
-| 466 | **popups** 🆕 | `coreyhaines31/marketingskills` | 48,459 | [↓](#skill-466) |
-| 467 | **paywalls** 🆕 | `coreyhaines31/marketingskills` | 48,399 | [↓](#skill-467) |
-| 468 | **agent-tools** 🆕 | `skills-101/superpowers` | 48,366 | [↓](#skill-468) |
-| 469 | **infsh-cli** 🆕 | `skills-101/superpowers` | 48,352 | [↓](#skill-469) |
-| 470 | **python-executor** 🆕 | `skills-101/superpowers` | 48,316 | [↓](#skill-470) |
-| 471 | **gsap-scrolltrigger** 🆕 | `greensock/gsap-skills` | 48,116 | [↓](#skill-471) |
-| 472 | **accessibility** 🆕 | `addyosmani/web-quality-skills` | 47,688 | [↓](#skill-472) |
-| 473 | **cloudflare-email-service** ⭐ 🆕 | `cloudflare/skills` | 47,402 | [↓](#skill-473) |
-| 474 | **native-data-fetching** ⭐ 🆕 | `expo/skills` | 47,137 | [↓](#skill-474) |
-| 475 | **hallmark** 🆕 | `nutlope/hallmark` | 46,921 | [↓](#skill-475) |
-| 476 | **compress** 🆕 | `juliusbrussee/caveman` | 46,723 | [↓](#skill-476) |
-| 477 | **captions-overlay** 🆕 | `heygen-com/hyperframes` | 46,693 | [↓](#skill-477) |
-| 478 | **motion-doctrine** 🆕 | `heygen-com/hyperframes` | 46,678 | [↓](#skill-478) |
-| 479 | **cut-the-curve** 🆕 | `heygen-com/hyperframes` | 46,507 | [↓](#skill-479) |
-| 480 | **gsap-performance** 🆕 | `greensock/gsap-skills` | 46,367 | [↓](#skill-480) |
-| 481 | **seam-craft** 🆕 | `heygen-com/hyperframes` | 46,269 | [↓](#skill-481) |
-| 482 | **changelog-video** 🆕 | `heygen-com/hyperframes` | 46,208 | [↓](#skill-482) |
-| 483 | **gsap-timeline** 🆕 | `greensock/gsap-skills` | 46,174 | [↓](#skill-483) |
-| 484 | **oversized-cursor** 🆕 | `heygen-com/hyperframes` | 46,173 | [↓](#skill-484) |
-| 485 | **humanizer-zh** 🆕 | `op7418/humanizer-zh` | 45,699 | [↓](#skill-485) |
-| 486 | **momentic-test** 🆕 | `momentic-ai/skills` | 45,470 | [↓](#skill-486) |
-| 487 | **momentic-result-classification** 🆕 | `momentic-ai/skills` | 45,453 | [↓](#skill-487) |
-| 488 | **gsap-plugins** 🆕 | `greensock/gsap-skills` | 45,256 | [↓](#skill-488) |
-| 489 | **ponytail** 🆕 | `dietrichgebert/ponytail` | 45,246 | [↓](#skill-489) |
-| 490 | **decision-mapping** 🆕 | `mattpocock/skills` | 44,613 | [↓](#skill-490) |
-| 491 | **huashu-design** 🆕 | `alchaincyf/huashu-design` | 44,428 | [↓](#skill-491) |
-| 492 | **gsap-utils** 🆕 | `greensock/gsap-skills` | 44,332 | [↓](#skill-492) |
-| 493 | **gsap-react** 🆕 | `greensock/gsap-skills` | 44,132 | [↓](#skill-493) |
-| 494 | **gws-sheets-read** ⭐ 🆕 | `googleworkspace/cli` | 43,729 | [↓](#skill-494) |
-| 495 | **nodejs-backend-patterns** 🆕 | `wshobson/agents` | 43,729 | [↓](#skill-495) |
-| 496 | **remotion-upgrade** ⭐ 🆕 | `remotion-dev/skills` | 43,605 | [↓](#skill-496) |
-| 497 | **seo-geo** 🆕 | `resciencelab/opc-skills` | 43,539 | [↓](#skill-497) |
-| 498 | **git-commit** ⭐ 🆕 | `github/awesome-copilot` | 43,461 | [↓](#skill-498) |
-| 499 | **gws-docs-write** ⭐ 🆕 | `googleworkspace/cli` | 43,140 | [↓](#skill-499) |
-| 500 | **upgrading-expo** ⭐ 🆕 | `expo/skills` | 42,989 | [↓](#skill-500) |
-| 501 | **gws-calendar-agenda** ⭐ 🆕 | `googleworkspace/cli` | 42,895 | [↓](#skill-501) |
-| 502 | **gws-drive-upload** ⭐ 🆕 | `googleworkspace/cli` | 42,526 | [↓](#skill-502) |
-| 503 | **gsap-frameworks** 🆕 | `greensock/gsap-skills` | 42,332 | [↓](#skill-503) |
-| 504 | **marketing-plan** 🆕 | `coreyhaines31/marketingskills` | 42,304 | [↓](#skill-504) |
-| 505 | **sms** 🆕 | `coreyhaines31/marketingskills` | 42,203 | [↓](#skill-505) |
-| 506 | **prospecting** 🆕 | `coreyhaines31/marketingskills` | 41,831 | [↓](#skill-506) |
-| 507 | **gws-calendar-insert** ⭐ 🆕 | `googleworkspace/cli` | 41,808 | [↓](#skill-507) |
-| 508 | **seo** 🆕 | `addyosmani/web-quality-skills` | 41,782 | [↓](#skill-508) |
-| 509 | **agent-pulse** 🆕 | `jane-o-o-o-o/agent-pulse-skill` | 41,537 | [↓](#skill-509) |
-| 510 | **planning-with-files** 🆕 | `othmanadi/planning-with-files` | 41,338 | [↓](#skill-510) |
-| 511 | **animate** 🆕 | `emilkowalski/skills` | 41,124 | [↓](#skill-511) |
-| 512 | **expo-deployment** ⭐ 🆕 | `expo/skills` | 40,894 | [↓](#skill-512) |
-| 513 | **fastify-best-practices** 🆕 | `mcollina/skills` | 40,321 | [↓](#skill-513) |
-| 514 | **arrange** 🆕 | `pbakaus/impeccable` | 40,110 | [↓](#skill-514) |
-| 515 | **gws-gmail-triage** ⭐ 🆕 | `googleworkspace/cli` | 40,091 | [↓](#skill-515) |
-| 516 | **expo-cicd-workflows** ⭐ 🆕 | `expo/skills` | 39,879 | [↓](#skill-516) |
-| 517 | **gws-sheets-append** ⭐ 🆕 | `googleworkspace/cli` | 39,873 | [↓](#skill-517) |
-| 518 | **byted-web-search** 🆕 | `skills.volces.com` | 39,797 | [↓](#skill-518) |
-| 519 | **turnstile-spin** ⭐ 🆕 | `cloudflare/skills` | 39,645 | [↓](#skill-519) |
-| 520 | **pexo-agent** 🆕 | `pexoai/pexo-skills` | 39,639 | [↓](#skill-520) |
-| 521 | **golang-code-style** 🆕 | `samber/cc-skills-golang` | 39,050 | [↓](#skill-521) |
-| 522 | **design-doc-mermaid** 🆕 | `spillwavesolutions/design-doc-mermaid` | 38,859 | [↓](#skill-522) |
-| 523 | **weread-skills** 🆕 | `tencent/wechatreading` | 38,563 | [↓](#skill-523) |
-| 524 | **golang-error-handling** 🆕 | `samber/cc-skills-golang` | 38,390 | [↓](#skill-524) |
-| 525 | **golang-testing** 🆕 | `samber/cc-skills-golang` | 38,280 | [↓](#skill-525) |
-| 526 | **gws-tasks** ⭐ 🆕 | `googleworkspace/cli` | 38,225 | [↓](#skill-526) |
-| 527 | **remotion** ⭐ 🆕 | `google-labs-code/stitch-skills` | 38,151 | [↓](#skill-527) |
-| 528 | **expo-api-routes** ⭐ 🆕 | `expo/skills` | 37,824 | [↓](#skill-528) |
-| 529 | **golang-design-patterns** 🆕 | `samber/cc-skills-golang` | 37,777 | [↓](#skill-529) |
-| 530 | **golang-performance** 🆕 | `samber/cc-skills-golang` | 37,750 | [↓](#skill-530) |
-| 531 | **golang-security** 🆕 | `samber/cc-skills-golang` | 37,595 | [↓](#skill-531) |
-| 532 | **remotion-maps** ⭐ 🆕 | `remotion-dev/skills` | 37,448 | [↓](#skill-532) |
-| 533 | **vue-best-practices** 🆕 | `vuejs-ai/skills` | 37,426 | [↓](#skill-533) |
-| 534 | **cloudflare-one** ⭐ 🆕 | `cloudflare/skills` | 37,323 | [↓](#skill-534) |
-| 535 | **clerk-setup** ⭐ 🆕 | `clerk/skills` | 37,286 | [↓](#skill-535) |
-| 536 | **anysearch** 🆕 | `anysearch-ai/anysearch-skill` | 37,118 | [↓](#skill-536) |
-| 537 | **firebase-firestore-standard** ⭐ 🆕 | `firebase/agent-skills` | 37,114 | [↓](#skill-537) |
-| 538 | **golang-concurrency** 🆕 | `samber/cc-skills-golang` | 37,106 | [↓](#skill-538) |
-| 539 | **mastra** ⭐ 🆕 | `mastra-ai/skills` | 37,098 | [↓](#skill-539) |
-| 540 | **clerk-nextjs-patterns** ⭐ 🆕 | `clerk/skills` | 36,875 | [↓](#skill-540) |
-| 541 | **cloudflare-one-migrations** ⭐ 🆕 | `cloudflare/skills` | 36,768 | [↓](#skill-541) |
-| 542 | **golang-naming** 🆕 | `samber/cc-skills-golang` | 36,752 | [↓](#skill-542) |
-| 543 | **golang-context** 🆕 | `samber/cc-skills-golang` | 36,692 | [↓](#skill-543) |
-| 544 | **golang-database** 🆕 | `samber/cc-skills-golang` | 36,611 | [↓](#skill-544) |
-| 545 | **golang-documentation** 🆕 | `samber/cc-skills-golang` | 36,610 | [↓](#skill-545) |
-| 546 | **golang-data-structures** 🆕 | `samber/cc-skills-golang` | 36,571 | [↓](#skill-546) |
-| 547 | **gws-slides** ⭐ 🆕 | `googleworkspace/cli` | 36,514 | [↓](#skill-547) |
-| 548 | **golang-safety** 🆕 | `samber/cc-skills-golang` | 36,507 | [↓](#skill-548) |
-| 549 | **golang-modernize** 🆕 | `samber/cc-skills-golang` | 36,489 | [↓](#skill-549) |
-| 550 | **golang-project-layout** 🆕 | `samber/cc-skills-golang` | 36,408 | [↓](#skill-550) |
-| 551 | **brand-landingpage** 🆕 | `wshobson/agents` | 36,354 | [↓](#skill-551) |
-| 552 | **golang-lint** 🆕 | `samber/cc-skills-golang` | 36,337 | [↓](#skill-552) |
-| 553 | **golang-troubleshooting** 🆕 | `samber/cc-skills-golang` | 36,232 | [↓](#skill-553) |
-| 554 | **gws-gmail-read** ⭐ 🆕 | `googleworkspace/cli` | 36,181 | [↓](#skill-554) |
-| 555 | **golang-observability** 🆕 | `samber/cc-skills-golang` | 36,178 | [↓](#skill-555) |
-| 556 | **clerk-custom-ui** ⭐ 🆕 | `clerk/skills` | 36,129 | [↓](#skill-556) |
-| 557 | **golang-dependency-management** 🆕 | `samber/cc-skills-golang` | 36,098 | [↓](#skill-557) |
-| 558 | **golang-popular-libraries** 🆕 | `samber/cc-skills-golang` | 36,075 | [↓](#skill-558) |
-| 559 | **golang-structs-interfaces** 🆕 | `samber/cc-skills-golang` | 36,053 | [↓](#skill-559) |
-| 560 | **firebase-firestore-enterprise-native-mode** ⭐ 🆕 | `firebase/agent-skills` | 36,051 | [↓](#skill-560) |
-| 561 | **golang-dependency-injection** 🆕 | `samber/cc-skills-golang` | 35,985 | [↓](#skill-561) |
-| 562 | **golang-benchmark** 🆕 | `samber/cc-skills-golang` | 35,938 | [↓](#skill-562) |
-| 563 | **golang-cli** 🆕 | `samber/cc-skills-golang` | 35,908 | [↓](#skill-563) |
-| 564 | **insforge** 🆕 | `insforge/insforge-skills` | 35,906 | [↓](#skill-564) |
-| 565 | **golang-stretchr-testify** 🆕 | `samber/cc-skills-golang` | 35,862 | [↓](#skill-565) |
-| 566 | **remotion-multimedia** ⭐ 🆕 | `remotion-dev/skills` | 35,830 | [↓](#skill-566) |
-| 567 | **insforge-cli** 🆕 | `insforge/insforge-skills` | 35,802 | [↓](#skill-567) |
-| 568 | **golang-grpc** 🆕 | `samber/cc-skills-golang` | 35,801 | [↓](#skill-568) |
-| 569 | **golang-continuous-integration** 🆕 | `samber/cc-skills-golang` | 35,795 | [↓](#skill-569) |
-| 570 | **value** 🆕 | `hugmouse/skills` | 35,521 | [↓](#skill-570) |
-| 571 | **golang-stay-updated** 🆕 | `samber/cc-skills-golang` | 35,388 | [↓](#skill-571) |
-| 572 | **golang-samber-lo** 🆕 | `samber/cc-skills-golang` | 35,309 | [↓](#skill-572) |
-| 573 | **review-loop** 🆕 | `2dmurali/review-loop-skill` | 35,265 | [↓](#skill-573) |
-| 574 | **nx-workspace** 🆕 | `nrwl/nx-ai-agents-config` | 35,263 | [↓](#skill-574) |
-| 575 | **golang-samber-do** 🆕 | `samber/cc-skills-golang` | 35,227 | [↓](#skill-575) |
-| 576 | **golang-samber-slog** 🆕 | `samber/cc-skills-golang` | 35,191 | [↓](#skill-576) |
-| 577 | **golang-samber-oops** 🆕 | `samber/cc-skills-golang` | 35,163 | [↓](#skill-577) |
-| 578 | **golang-samber-mo** 🆕 | `samber/cc-skills-golang` | 35,143 | [↓](#skill-578) |
-| 579 | **golang-samber-hot** 🆕 | `samber/cc-skills-golang` | 35,126 | [↓](#skill-579) |
-| 580 | **golang-samber-ro** 🆕 | `samber/cc-skills-golang` | 35,115 | [↓](#skill-580) |
-| 581 | **gws-forms** ⭐ 🆕 | `googleworkspace/cli` | 34,954 | [↓](#skill-581) |
-| 582 | **clerk-backend-api** ⭐ 🆕 | `clerk/skills` | 34,926 | [↓](#skill-582) |
-| 583 | **replicas-agent** 🆕 | `replicas-group/skill` | 34,891 | [↓](#skill-583) |
-| 584 | **last30days** 🆕 | `mvanhorn/last30days-skill` | 34,824 | [↓](#skill-584) |
-| 585 | **firebase-ai-logic** ⭐ 🆕 | `firebase/agent-skills` | 34,578 | [↓](#skill-585) |
-| 586 | **gws-meet** ⭐ 🆕 | `googleworkspace/cli` | 34,405 | [↓](#skill-586) |
-| 587 | **clerk-webhooks** ⭐ 🆕 | `clerk/skills` | 34,356 | [↓](#skill-587) |
-| 588 | **herdr** 🆕 | `herdrdev/herdr` | 34,086 | [↓](#skill-588) |
-| 589 | **golang-swagger** 🆕 | `samber/cc-skills-golang` | 33,918 | [↓](#skill-589) |
-| 590 | **golang-spf13-cobra** 🆕 | `samber/cc-skills-golang` | 33,838 | [↓](#skill-590) |
-| 591 | **golang-graphql** 🆕 | `samber/cc-skills-golang` | 33,831 | [↓](#skill-591) |
-| 592 | **vite** 🆕 | `antfu/skills` | 33,712 | [↓](#skill-592) |
-| 593 | **golang-spf13-viper** 🆕 | `samber/cc-skills-golang` | 33,709 | [↓](#skill-593) |
-| 594 | **golang-google-wire** 🆕 | `samber/cc-skills-golang` | 33,658 | [↓](#skill-594) |
-| 595 | **developing-genkit-python** ⭐ 🆕 | `firebase/agent-skills` | 33,634 | [↓](#skill-595) |
-| 596 | **golang-uber-fx** 🆕 | `samber/cc-skills-golang` | 33,603 | [↓](#skill-596) |
-| 597 | **golang-uber-dig** 🆕 | `samber/cc-skills-golang` | 33,553 | [↓](#skill-597) |
-| 598 | **karpathy-guidelines** 🆕 | `multica-ai/andrej-karpathy-skills` | 33,425 | [↓](#skill-598) |
-| 599 | **vitest** 🆕 | `antfu/skills` | 33,415 | [↓](#skill-599) |
-| 600 | **sandbox-sdk** ⭐ 🆕 | `cloudflare/skills` | 33,408 | [↓](#skill-600) |
-| 601 | **firecrawl-deep-research** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 33,287 | [↓](#skill-601) |
-| 602 | **self-improving-agent** 🆕 | `zhaono1/agent-playbook` | 33,232 | [↓](#skill-602) |
-| 603 | **baoyu-post-to-wechat** 🆕 | `jimliu/baoyu-skills` | 33,017 | [↓](#skill-603) |
-| 604 | **public-relations** 🆕 | `coreyhaines31/marketingskills` | 32,844 | [↓](#skill-604) |
-| 605 | **ckm:design-system** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,840 | [↓](#skill-605) |
-| 606 | **gws-gmail-watch** ⭐ 🆕 | `googleworkspace/cli` | 32,827 | [↓](#skill-606) |
-| 607 | **golang-how-to** 🆕 | `samber/cc-skills-golang` | 32,756 | [↓](#skill-607) |
-| 608 | **ckm:design** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,541 | [↓](#skill-608) |
-| 609 | **vue** 🆕 | `antfu/skills` | 32,533 | [↓](#skill-609) |
-| 610 | **clerk-orgs** ⭐ 🆕 | `clerk/skills` | 32,516 | [↓](#skill-610) |
-| 611 | **ckm:ui-styling** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,475 | [↓](#skill-611) |
-| 612 | **gws-keep** ⭐ 🆕 | `googleworkspace/cli` | 32,463 | [↓](#skill-612) |
-| 613 | **firecrawl-research-papers** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 32,402 | [↓](#skill-613) |
-| 614 | **code-review-and-quality** 🆕 | `addyosmani/agent-skills` | 32,268 | [↓](#skill-614) |
-| 615 | **firecrawl-website-design-clone** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 32,152 | [↓](#skill-615) |
-| 616 | **insforge-debug** 🆕 | `insforge/insforge-skills` | 32,104 | [↓](#skill-616) |
-| 617 | **flutter-apply-architecture-best-practices** ⭐ 🆕 | `flutter/agent-plugins` | 32,061 | [↓](#skill-617) |
-| 618 | **ckm:brand** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,040 | [↓](#skill-618) |
-| 619 | **ckm:banner-design** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,012 | [↓](#skill-619) |
-| 620 | **ckm:slides** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 31,923 | [↓](#skill-620) |
-| 621 | **clerk-testing** ⭐ 🆕 | `clerk/skills` | 31,872 | [↓](#skill-621) |
-| 622 | **python-performance-optimization** 🆕 | `wshobson/agents` | 31,866 | [↓](#skill-622) |
-| 623 | **baoyu-image-gen** 🆕 | `jimliu/baoyu-skills` | 31,741 | [↓](#skill-623) |
-| 624 | **offers** 🆕 | `coreyhaines31/marketingskills` | 31,629 | [↓](#skill-624) |
-| 625 | **firecrawl-market-research** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 31,621 | [↓](#skill-625) |
-| 626 | **angular-developer** 🆕 | `angular/skills` | 31,428 | [↓](#skill-626) |
-| 627 | **insforge-integrations** 🆕 | `insforge/insforge-skills` | 31,367 | [↓](#skill-627) |
-| 628 | **performance** 🆕 | `addyosmani/web-quality-skills` | 31,348 | [↓](#skill-628) |
-| 629 | **browser-mcp-agent** 🆕 | `antibrow/anti-detect-browser-skills` | 31,325 | [↓](#skill-629) |
-| 630 | **multi-account-isolation** 🆕 | `antibrow/anti-detect-browser-skills` | 31,319 | [↓](#skill-630) |
-| 631 | **firecrawl-seo-audit** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 31,287 | [↓](#skill-631) |
-| 632 | **email-and-password-best-practices** ⭐ 🆕 | `better-auth/skills` | 31,238 | [↓](#skill-632) |
-| 633 | **momentic-mobile-test** 🆕 | `momentic-ai/skills` | 31,232 | [↓](#skill-633) |
-| 634 | **firecrawl-monitor** ⭐ 🆕 | `firecrawl/cli` | 31,208 | [↓](#skill-634) |
-| 635 | **firecrawl-knowledge-base** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 31,145 | [↓](#skill-635) |
-| 636 | **firecrawl-workflows** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 31,086 | [↓](#skill-636) |
-| 637 | **flutter-build-responsive-layout** ⭐ 🆕 | `flutter/agent-plugins` | 31,071 | [↓](#skill-637) |
-| 638 | **firecrawl-dashboard-reporting** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 31,044 | [↓](#skill-638) |
-| 639 | **firecrawl-lead-gen** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 30,967 | [↓](#skill-639) |
-| 640 | **python-testing-patterns** 🆕 | `wshobson/agents` | 30,926 | [↓](#skill-640) |
-| 641 | **baoyu-infographic** 🆕 | `jimliu/baoyu-skills` | 30,922 | [↓](#skill-641) |
-| 642 | **firecrawl-lead-research** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 30,921 | [↓](#skill-642) |
-| 643 | **firecrawl-shop** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 30,906 | [↓](#skill-643) |
-| 644 | **expo-module** ⭐ 🆕 | `expo/skills` | 30,896 | [↓](#skill-644) |
-| 645 | **firecrawl-competitive-intel** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 30,889 | [↓](#skill-645) |
-| 646 | **firecrawl-qa** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 30,889 | [↓](#skill-646) |
-| 647 | **use-dom** ⭐ 🆕 | `expo/skills` | 30,887 | [↓](#skill-647) |
-| 648 | **firecrawl-knowledge-ingest** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 30,858 | [↓](#skill-648) |
-| 649 | **firecrawl-company-directories** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 30,823 | [↓](#skill-649) |
-| 650 | **firecrawl-demo-walkthrough** ⭐ 🆕 | `firecrawl/firecrawl-workflows` | 30,808 | [↓](#skill-650) |
-| 651 | **improve** 🆕 | `shadcn/improve` | 30,805 | [↓](#skill-651) |
-| 652 | **baoyu-markdown-to-html** 🆕 | `jimliu/baoyu-skills` | 30,787 | [↓](#skill-652) |
-| 653 | **shape** 🆕 | `pbakaus/impeccable` | 30,779 | [↓](#skill-653) |
-| 654 | **gws-gmail-reply** ⭐ 🆕 | `googleworkspace/cli` | 30,737 | [↓](#skill-654) |
-| 655 | **baoyu-cover-image** 🆕 | `jimliu/baoyu-skills` | 30,518 | [↓](#skill-655) |
-| 656 | **baoyu-article-illustrator** 🆕 | `jimliu/baoyu-skills` | 30,338 | [↓](#skill-656) |
-| 657 | **tavily-search** ⭐ 🆕 | `tavily-ai/skills` | 30,034 | [↓](#skill-657) |
-| 658 | **swiftui-expert-skill** 🆕 | `avdlee/swiftui-agent-skill` | 29,955 | [↓](#skill-658) |
-| 659 | **baoyu-xhs-images** 🆕 | `jimliu/baoyu-skills` | 29,879 | [↓](#skill-659) |
-| 660 | **create-auth-skill** ⭐ 🆕 | `better-auth/skills` | 29,857 | [↓](#skill-660) |
-| 661 | **organization-best-practices** ⭐ 🆕 | `better-auth/skills` | 29,751 | [↓](#skill-661) |
-| 662 | **flutter-fix-layout-issues** ⭐ 🆕 | `flutter/agent-plugins` | 29,731 | [↓](#skill-662) |
-| 663 | **graphic-overlays** 🆕 | `heygen-com/hyperframes` | 29,699 | [↓](#skill-663) |
-| 664 | **wind-find-finance-skill** 🆕 | `wind-information-co-ltd/wind-skills` | 29,616 | [↓](#skill-664) |
-| 665 | **baoyu-slide-deck** 🆕 | `jimliu/baoyu-skills` | 29,509 | [↓](#skill-665) |
-| 666 | **gws-gmail-forward** ⭐ 🆕 | `googleworkspace/cli` | 29,441 | [↓](#skill-666) |
-| 667 | **gws-workflow** ⭐ 🆕 | `googleworkspace/cli` | 29,226 | [↓](#skill-667) |
-| 668 | **flutter-add-widget-test** ⭐ 🆕 | `flutter/agent-plugins` | 29,006 | [↓](#skill-668) |
-| 669 | **baoyu-url-to-markdown** 🆕 | `jimliu/baoyu-skills` | 28,910 | [↓](#skill-669) |
-| 670 | **gws-chat** ⭐ 🆕 | `googleworkspace/cli` | 28,845 | [↓](#skill-670) |
-| 671 | **frontend-ui-engineering** 🆕 | `addyosmani/agent-skills` | 28,814 | [↓](#skill-671) |
-| 672 | **gws-people** ⭐ 🆕 | `googleworkspace/cli` | 28,746 | [↓](#skill-672) |
-| 673 | **gws-gmail-reply-all** ⭐ 🆕 | `googleworkspace/cli` | 28,700 | [↓](#skill-673) |
-| 674 | **mmx-cli** 🆕 | `minimax-ai/cli` | 28,639 | [↓](#skill-674) |
-| 675 | **gws-workflow-email-to-task** ⭐ 🆕 | `googleworkspace/cli` | 28,471 | [↓](#skill-675) |
-| 676 | **flutter-add-integration-test** ⭐ 🆕 | `flutter/agent-plugins` | 28,464 | [↓](#skill-676) |
-| 677 | **baoyu-comic** 🆕 | `jimliu/baoyu-skills` | 28,395 | [↓](#skill-677) |
-| 678 | **recipe-create-presentation** ⭐ 🆕 | `googleworkspace/cli` | 28,380 | [↓](#skill-678) |
-| 679 | **planning-and-task-breakdown** 🆕 | `addyosmani/agent-skills` | 28,362 | [↓](#skill-679) |
-| 680 | **flutter-setup-declarative-routing** ⭐ 🆕 | `flutter/agent-plugins` | 28,338 | [↓](#skill-680) |
-| 681 | **security-and-hardening** 🆕 | `addyosmani/agent-skills` | 28,300 | [↓](#skill-681) |
-| 682 | **excalidraw-diagram-generator** ⭐ 🆕 | `github/awesome-copilot` | 28,250 | [↓](#skill-682) |
-| 683 | **landing-page-conversion-audit** 🆕 | `autonnel/autonnel-skills` | 28,230 | [↓](#skill-683) |
-| 684 | **nextjs-app-router-patterns** 🆕 | `wshobson/agents` | 28,213 | [↓](#skill-684) |
-| 685 | **spec-driven-development** 🆕 | `addyosmani/agent-skills` | 28,093 | [↓](#skill-685) |
-| 686 | **higgsfield-youtube-thumbnail** 🆕 | `higgsfield-ai/skills` | 27,916 | [↓](#skill-686) |
-| 687 | **higgsfield-brandkit** 🆕 | `higgsfield-ai/skills` | 27,914 | [↓](#skill-687) |
-| 688 | **two-factor-authentication-best-practices** ⭐ 🆕 | `better-auth/skills` | 27,908 | [↓](#skill-688) |
-| 689 | **azure-postgres** ⭐ 🆕 | `microsoft/azure-skills` | 27,848 | [↓](#skill-689) |
-| 690 | **gws-workflow-meeting-prep** ⭐ 🆕 | `googleworkspace/cli` | 27,835 | [↓](#skill-690) |
-| 691 | **sales-funnel-blueprint** 🆕 | `autonnel/autonnel-skills` | 27,834 | [↓](#skill-691) |
-| 692 | **server-side-conversion-tracking** 🆕 | `autonnel/autonnel-skills` | 27,801 | [↓](#skill-692) |
-| 693 | **gws-chat-send** ⭐ 🆕 | `googleworkspace/cli` | 27,768 | [↓](#skill-693) |
-| 694 | **funnel-platform-picker** 🆕 | `autonnel/autonnel-skills` | 27,753 | [↓](#skill-694) |
-| 695 | **fingerprint-ci-gate** 🆕 | `liarjsdev/liarjs-skills` | 27,738 | [↓](#skill-695) |
-| 696 | **browser-fingerprint-audit** 🆕 | `liarjsdev/liarjs-skills` | 27,724 | [↓](#skill-696) |
-| 697 | **recipe-draft-email-from-doc** ⭐ 🆕 | `googleworkspace/cli` | 27,721 | [↓](#skill-697) |
-| 698 | **ask-sonner** 🆕 | `emilkowalski/skills` | 27,709 | [↓](#skill-698) |
-| 699 | **playwright-stealth-verify** 🆕 | `liarjsdev/liarjs-skills` | 27,707 | [↓](#skill-699) |
-| 700 | **post-purchase-upsell-flow** 🆕 | `autonnel/autonnel-skills` | 27,698 | [↓](#skill-700) |
-| 701 | **self-hosted-funnel-launch** 🆕 | `autonnel/autonnel-skills` | 27,692 | [↓](#skill-701) |
-| 702 | **fingerprint-failure-triage** 🆕 | `liarjsdev/liarjs-skills` | 27,676 | [↓](#skill-702) |
-| 703 | **flutter-implement-json-serialization** ⭐ 🆕 | `flutter/agent-plugins` | 27,643 | [↓](#skill-703) |
-| 704 | **baoyu-post-to-x** 🆕 | `jimliu/baoyu-skills` | 27,639 | [↓](#skill-704) |
-| 705 | **persona-project-manager** ⭐ 🆕 | `googleworkspace/cli` | 27,621 | [↓](#skill-705) |
-| 706 | **recipe-email-drive-link** ⭐ 🆕 | `googleworkspace/cli` | 27,613 | [↓](#skill-706) |
-| 707 | **gws-workflow-weekly-digest** ⭐ 🆕 | `googleworkspace/cli` | 27,590 | [↓](#skill-707) |
-| 708 | **gws-workflow-standup-report** ⭐ 🆕 | `googleworkspace/cli` | 27,583 | [↓](#skill-708) |
-| 709 | **flutter-setup-localization** ⭐ 🆕 | `flutter/agent-plugins` | 27,507 | [↓](#skill-709) |
-| 710 | **gws-events** ⭐ 🆕 | `googleworkspace/cli` | 27,471 | [↓](#skill-710) |
-| 711 | **flutter-add-widget-preview** ⭐ 🆕 | `flutter/agent-plugins` | 27,465 | [↓](#skill-711) |
-| 712 | **recipe-create-gmail-filter** ⭐ 🆕 | `googleworkspace/cli` | 27,424 | [↓](#skill-712) |
-| 713 | **code-review-excellence** 🆕 | `wshobson/agents` | 27,323 | [↓](#skill-713) |
-| 714 | **performance-optimization** 🆕 | `addyosmani/agent-skills` | 27,268 | [↓](#skill-714) |
-| 715 | **persona-researcher** ⭐ 🆕 | `googleworkspace/cli` | 27,236 | [↓](#skill-715) |
-| 716 | **api-design-principles** 🆕 | `wshobson/agents` | 27,206 | [↓](#skill-716) |
-| 717 | **recipe-save-email-attachments** ⭐ 🆕 | `googleworkspace/cli` | 27,198 | [↓](#skill-717) |
-| 718 | **recipe-backup-sheet-as-csv** ⭐ 🆕 | `googleworkspace/cli` | 27,140 | [↓](#skill-718) |
-| 719 | **better-auth-security-best-practices** ⭐ 🆕 | `better-auth/skills` | 27,118 | [↓](#skill-719) |
-| 720 | **recipe-organize-drive-folder** ⭐ 🆕 | `googleworkspace/cli` | 27,115 | [↓](#skill-720) |
-| 721 | **flutter-use-http-package** ⭐ 🆕 | `flutter/agent-plugins` | 27,081 | [↓](#skill-721) |
-| 722 | **persona-exec-assistant** ⭐ 🆕 | `googleworkspace/cli` | 27,055 | [↓](#skill-722) |
-| 723 | **recipe-find-free-time** ⭐ 🆕 | `googleworkspace/cli` | 26,988 | [↓](#skill-723) |
-| 724 | **layout** 🆕 | `pbakaus/impeccable` | 26,983 | [↓](#skill-724) |
-| 725 | **swiftui-pro** 🆕 | `twostraws/swiftui-agent-skill` | 26,977 | [↓](#skill-725) |
-| 726 | **documentation-and-adrs** 🆕 | `addyosmani/agent-skills` | 26,910 | [↓](#skill-726) |
-| 727 | **recipe-compare-sheet-tabs** ⭐ 🆕 | `googleworkspace/cli` | 26,910 | [↓](#skill-727) |
-| 728 | **baoyu-compress-image** 🆕 | `jimliu/baoyu-skills` | 26,886 | [↓](#skill-728) |
-| 729 | **gws-workflow-file-announce** ⭐ 🆕 | `googleworkspace/cli` | 26,871 | [↓](#skill-729) |
-| 730 | **recipe-plan-weekly-schedule** ⭐ 🆕 | `googleworkspace/cli` | 26,865 | [↓](#skill-730) |
-| 731 | **recipe-create-doc-from-template** ⭐ 🆕 | `googleworkspace/cli` | 26,861 | [↓](#skill-731) |
-| 732 | **recipe-sync-contacts-to-sheet** ⭐ 🆕 | `googleworkspace/cli` | 26,856 | [↓](#skill-732) |
-| 733 | **gws-events-renew** ⭐ 🆕 | `googleworkspace/cli` | 26,850 | [↓](#skill-733) |
-| 734 | **recipe-bulk-download-folder** ⭐ 🆕 | `googleworkspace/cli` | 26,846 | [↓](#skill-734) |
-| 735 | **gws-events-subscribe** ⭐ 🆕 | `googleworkspace/cli` | 26,836 | [↓](#skill-735) |
-| 736 | **baoyu-danger-x-to-markdown** 🆕 | `jimliu/baoyu-skills` | 26,810 | [↓](#skill-736) |
-| 737 | **persona-content-creator** ⭐ 🆕 | `googleworkspace/cli` | 26,749 | [↓](#skill-737) |
-| 738 | **baoyu-format-markdown** 🆕 | `jimliu/baoyu-skills` | 26,748 | [↓](#skill-738) |
-| 739 | **baoyu-danger-gemini-web** 🆕 | `jimliu/baoyu-skills` | 26,719 | [↓](#skill-739) |
-| 740 | **gws-admin-reports** ⭐ 🆕 | `googleworkspace/cli` | 26,695 | [↓](#skill-740) |
-| 741 | **higgsfield-game-generation** 🆕 | `higgsfield-ai/skills` | 26,677 | [↓](#skill-741) |
-| 742 | **code-simplification** 🆕 | `addyosmani/agent-skills` | 26,674 | [↓](#skill-742) |
-| 743 | **recipe-generate-report-from-sheet** ⭐ 🆕 | `googleworkspace/cli` | 26,664 | [↓](#skill-743) |
-| 744 | **debugging-and-error-recovery** 🆕 | `addyosmani/agent-skills` | 26,641 | [↓](#skill-744) |
-| 745 | **docker-expert** 🆕 | `sickn33/agentic-awesome-skills` | 26,632 | [↓](#skill-745) |
-| 746 | **incremental-implementation** 🆕 | `addyosmani/agent-skills` | 26,622 | [↓](#skill-746) |
-| 747 | **recipe-reschedule-meeting** ⭐ 🆕 | `googleworkspace/cli` | 26,560 | [↓](#skill-747) |
-| 748 | **recipe-label-and-archive-emails** ⭐ 🆕 | `googleworkspace/cli` | 26,559 | [↓](#skill-748) |
-| 749 | **golang-linter** 🆕 | `samber/cc-skills-golang` | 26,543 | [↓](#skill-749) |
-| 750 | **recipe-save-email-to-doc** ⭐ 🆕 | `googleworkspace/cli` | 26,530 | [↓](#skill-750) |
-| 751 | **recipe-watch-drive-changes** ⭐ 🆕 | `googleworkspace/cli` | 26,503 | [↓](#skill-751) |
-| 752 | **recipe-block-focus-time** ⭐ 🆕 | `googleworkspace/cli` | 26,503 | [↓](#skill-752) |
-| 753 | **persona-team-lead** ⭐ 🆕 | `googleworkspace/cli` | 26,480 | [↓](#skill-753) |
-| 754 | **recipe-create-shared-drive** ⭐ 🆕 | `googleworkspace/cli` | 26,472 | [↓](#skill-754) |
-| 755 | **recipe-share-doc-and-notify** ⭐ 🆕 | `googleworkspace/cli` | 26,399 | [↓](#skill-755) |
-| 756 | **recipe-create-task-list** ⭐ 🆕 | `googleworkspace/cli` | 26,397 | [↓](#skill-756) |
-| 757 | **recipe-schedule-recurring-event** ⭐ 🆕 | `googleworkspace/cli` | 26,385 | [↓](#skill-757) |
-| 758 | **recipe-find-large-files** ⭐ 🆕 | `googleworkspace/cli` | 26,379 | [↓](#skill-758) |
-| 759 | **recipe-copy-sheet-for-new-month** ⭐ 🆕 | `googleworkspace/cli` | 26,317 | [↓](#skill-759) |
-| 760 | **recipe-review-overdue-tasks** ⭐ 🆕 | `googleworkspace/cli` | 26,316 | [↓](#skill-760) |
-| 761 | **recipe-batch-invite-to-event** ⭐ 🆕 | `googleworkspace/cli` | 26,279 | [↓](#skill-761) |
-| 762 | **recipe-collect-form-responses** ⭐ 🆕 | `googleworkspace/cli` | 26,269 | [↓](#skill-762) |
-| 763 | **recipe-create-events-from-sheet** ⭐ 🆕 | `googleworkspace/cli` | 26,246 | [↓](#skill-763) |
-| 764 | **mcp-apps-builder** ⭐ 🆕 | `mcp-use/mcp-use` | 26,199 | [↓](#skill-764) |
-| 765 | **persona-it-admin** ⭐ 🆕 | `googleworkspace/cli` | 26,198 | [↓](#skill-765) |
-| 766 | **recipe-share-folder-with-team** ⭐ 🆕 | `googleworkspace/cli` | 26,177 | [↓](#skill-766) |
-| 767 | **persona-event-coordinator** ⭐ 🆕 | `googleworkspace/cli` | 26,146 | [↓](#skill-767) |
-| 768 | **recipe-forward-labeled-emails** ⭐ 🆕 | `googleworkspace/cli` | 26,143 | [↓](#skill-768) |
-| 769 | **persona-customer-support** ⭐ 🆕 | `googleworkspace/cli` | 26,129 | [↓](#skill-769) |
-| 770 | **recipe-create-vacation-responder** ⭐ 🆕 | `googleworkspace/cli` | 26,129 | [↓](#skill-770) |
-| 771 | **persona-sales-ops** ⭐ 🆕 | `googleworkspace/cli` | 26,114 | [↓](#skill-771) |
-| 772 | **backlink-analyzer** 🆕 | `aaron-he-zhu/seo-geo-claude-skills` | 26,091 | [↓](#skill-772) |
-| 773 | **recipe-create-meet-space** ⭐ 🆕 | `googleworkspace/cli` | 26,090 | [↓](#skill-773) |
-| 774 | **recipe-create-expense-tracker** ⭐ 🆕 | `googleworkspace/cli` | 26,068 | [↓](#skill-774) |
-| 775 | **gws-modelarmor** ⭐ 🆕 | `googleworkspace/cli` | 26,059 | [↓](#skill-775) |
-| 776 | **recipe-create-feedback-form** ⭐ 🆕 | `googleworkspace/cli` | 26,058 | [↓](#skill-776) |
-| 777 | **recipe-review-meet-participants** ⭐ 🆕 | `googleworkspace/cli` | 26,047 | [↓](#skill-777) |
-| 778 | **recipe-post-mortem-setup** ⭐ 🆕 | `googleworkspace/cli` | 26,020 | [↓](#skill-778) |
-| 779 | **nestjs-best-practices** 🆕 | `kadajett/agent-nestjs-skills` | 25,979 | [↓](#skill-779) |
-| 780 | **persona-hr-coordinator** ⭐ 🆕 | `googleworkspace/cli` | 25,940 | [↓](#skill-780) |
-| 781 | **gws-modelarmor-create-template** ⭐ 🆕 | `googleworkspace/cli` | 25,925 | [↓](#skill-781) |
-| 782 | **recipe-share-event-materials** ⭐ 🆕 | `googleworkspace/cli` | 25,876 | [↓](#skill-782) |
-| 783 | **recipe-send-team-announcement** ⭐ 🆕 | `googleworkspace/cli` | 25,806 | [↓](#skill-783) |
-| 784 | **context-engineering** 🆕 | `addyosmani/agent-skills` | 25,801 | [↓](#skill-784) |
-| 785 | **gws-modelarmor-sanitize-prompt** ⭐ 🆕 | `googleworkspace/cli` | 25,717 | [↓](#skill-785) |
-| 786 | **recipe-log-deal-update** ⭐ 🆕 | `googleworkspace/cli` | 25,714 | [↓](#skill-786) |
-| 787 | **gws-modelarmor-sanitize-response** ⭐ 🆕 | `googleworkspace/cli` | 25,640 | [↓](#skill-787) |
-| 788 | **gws-classroom** ⭐ 🆕 | `googleworkspace/cli` | 25,604 | [↓](#skill-788) |
-| 789 | **recipe-create-classroom-course** ⭐ 🆕 | `googleworkspace/cli` | 25,576 | [↓](#skill-789) |
-| 790 | **stitch-design** ⭐ 🆕 | `google-labs-code/stitch-skills` | 25,461 | [↓](#skill-790) |
-| 791 | **api-and-interface-design** 🆕 | `addyosmani/agent-skills` | 25,451 | [↓](#skill-791) |
-| 792 | **documentation-writer** ⭐ 🆕 | `github/awesome-copilot` | 25,385 | [↓](#skill-792) |
-| 793 | **huashu-nuwa** 🆕 | `alchaincyf/nuwa-skill` | 25,305 | [↓](#skill-793) |
-| 794 | **remotion-studio** ⭐ 🆕 | `remotion-dev/skills` | 25,258 | [↓](#skill-794) |
-| 795 | **eas-update-insights** ⭐ 🆕 | `expo/skills` | 25,157 | [↓](#skill-795) |
-| 796 | **implement-spec** 🆕 | `mattpocock/skills` | 25,031 | [↓](#skill-796) |
-| 797 | **idea-refine** 🆕 | `addyosmani/agent-skills` | 24,730 | [↓](#skill-797) |
-| 798 | **using-agent-skills** 🆕 | `addyosmani/agent-skills` | 24,722 | [↓](#skill-798) |
-| 799 | **interface-design** 🆕 | `dammyjay93/interface-design` | 24,690 | [↓](#skill-799) |
-| 800 | **landing-page-design** 🆕 | `skills-101/superpowers` | 24,536 | [↓](#skill-800) |
-| 801 | **git-workflow-and-versioning** 🆕 | `addyosmani/agent-skills` | 24,382 | [↓](#skill-801) |
-| 802 | **guizang-ppt-skill** 🆕 | `op7418/guizang-ppt-skill` | 24,298 | [↓](#skill-802) |
-| 803 | **browser-testing-with-devtools** 🆕 | `addyosmani/agent-skills` | 24,281 | [↓](#skill-803) |
-| 804 | **app-store-screenshots** 🆕 | `skills-101/superpowers` | 24,249 | [↓](#skill-804) |
-| 805 | **postgresql-table-design** 🆕 | `wshobson/agents` | 24,247 | [↓](#skill-805) |
-| 806 | **product-photography** 🆕 | `skills-101/superpowers` | 24,221 | [↓](#skill-806) |
-| 807 | **storyboard-creation** 🆕 | `skills-101/superpowers` | 24,208 | [↓](#skill-807) |
-| 808 | **character-design-sheet** 🆕 | `skills-101/superpowers` | 24,199 | [↓](#skill-808) |
-| 809 | **competitor-teardown** 🆕 | `skills-101/superpowers` | 24,192 | [↓](#skill-809) |
-| 810 | **product-hunt-launch** 🆕 | `skills-101/superpowers` | 24,191 | [↓](#skill-810) |
-| 811 | **youtube-thumbnail-design** 🆕 | `skills-101/superpowers` | 24,186 | [↓](#skill-811) |
-| 812 | **video-ad-specs** 🆕 | `skills-101/superpowers` | 24,186 | [↓](#skill-812) |
-| 813 | **release-skills** 🆕 | `jimliu/baoyu-skills` | 24,130 | [↓](#skill-813) |
-| 814 | **ci-cd-and-automation** 🆕 | `addyosmani/agent-skills` | 24,082 | [↓](#skill-814) |
-| 815 | **vue-debug-guides** 🆕 | `vuejs-ai/skills` | 24,002 | [↓](#skill-815) |
-| 816 | **clerk** ⭐ 🆕 | `clerk/skills` | 23,939 | [↓](#skill-816) |
-| 817 | **niche-signal-discovery** 🆕 | `code.deepline.com` | 23,891 | [↓](#skill-817) |
-| 818 | **baoyu-translate** 🆕 | `jimliu/baoyu-skills` | 23,850 | [↓](#skill-818) |
-| 819 | **react-native-best-practices** ⭐ 🆕 | `callstackincubator/agent-skills` | 23,793 | [↓](#skill-819) |
-| 820 | **build-tam** 🆕 | `code.deepline.com` | 23,759 | [↓](#skill-820) |
-| 821 | **portfolio-prospecting** 🆕 | `code.deepline.com` | 23,669 | [↓](#skill-821) |
-| 822 | **deepline-feedback** 🆕 | `code.deepline.com` | 23,662 | [↓](#skill-822) |
-| 823 | **clay-to-deepline** 🆕 | `code.deepline.com` | 23,652 | [↓](#skill-823) |
-| 824 | **marketing-loops** 🆕 | `coreyhaines31/marketingskills` | 23,645 | [↓](#skill-824) |
-| 825 | **linkedin-url-lookup** 🆕 | `code.deepline.com` | 23,625 | [↓](#skill-825) |
-| 826 | **source-driven-development** 🆕 | `addyosmani/agent-skills` | 23,625 | [↓](#skill-826) |
-| 827 | **shipping-and-launch** 🆕 | `addyosmani/agent-skills` | 23,624 | [↓](#skill-827) |
-| 828 | **deepline-gtm** 🆕 | `code.deepline.com` | 23,483 | [↓](#skill-828) |
-| 829 | **web-quality-audit** 🆕 | `addyosmani/web-quality-skills` | 23,436 | [↓](#skill-829) |
-| 830 | **deepline-quickstart** 🆕 | `code.deepline.com` | 23,422 | [↓](#skill-830) |
-| 831 | **deprecation-and-migration** 🆕 | `addyosmani/agent-skills` | 23,361 | [↓](#skill-831) |
-| 832 | **fastapi-templates** 🆕 | `wshobson/agents` | 23,343 | [↓](#skill-832) |
-| 833 | **review-pr** 🆕 | `warpdotdev/common-skills` | 23,160 | [↓](#skill-833) |
-| 834 | **spec-driven-implementation** 🆕 | `warpdotdev/common-skills` | 23,093 | [↓](#skill-834) |
-| 835 | **stripe-directory** 🆕 | `docs.stripe.com` | 23,014 | [↓](#skill-835) |
-| 836 | **write-product-spec** 🆕 | `warpdotdev/common-skills` | 23,010 | [↓](#skill-836) |
-| 837 | **write-tech-spec** 🆕 | `warpdotdev/common-skills` | 22,954 | [↓](#skill-837) |
-| 838 | **fix-errors** 🆕 | `warpdotdev/common-skills` | 22,929 | [↓](#skill-838) |
-| 839 | **resolve-merge-conflicts** 🆕 | `warpdotdev/common-skills` | 22,922 | [↓](#skill-839) |
-| 840 | **implement-specs** 🆕 | `warpdotdev/common-skills` | 22,887 | [↓](#skill-840) |
-| 841 | **create-pr** 🆕 | `warpdotdev/common-skills` | 22,855 | [↓](#skill-841) |
-| 842 | **update-skill** 🆕 | `warpdotdev/common-skills` | 22,836 | [↓](#skill-842) |
-| 843 | **diagnose-ci-failures** 🆕 | `warpdotdev/common-skills` | 22,825 | [↓](#skill-843) |
-| 844 | **summarize** 🆕 | `openclaw/openclaw` | 22,705 | [↓](#skill-844) |
-| 845 | **core-web-vitals** 🆕 | `addyosmani/web-quality-skills` | 22,636 | [↓](#skill-845) |
-| 846 | **brandalf** 🆕 | `warpdotdev/common-skills` | 22,576 | [↓](#skill-846) |
-| 847 | **pr-walkthrough** 🆕 | `warpdotdev/common-skills` | 22,476 | [↓](#skill-847) |
-| 848 | **prd** ⭐ 🆕 | `github/awesome-copilot` | 22,472 | [↓](#skill-848) |
-| 849 | **dbs** 🆕 | `dontbesilent2025/dbskill` | 22,196 | [↓](#skill-849) |
-| 850 | **design-system** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 22,174 | [↓](#skill-850) |
-| 851 | **gws-script** ⭐ 🆕 | `googleworkspace/cli` | 22,054 | [↓](#skill-851) |
-| 852 | **multi-stage-dockerfile** ⭐ 🆕 | `github/awesome-copilot` | 21,926 | [↓](#skill-852) |
-| 853 | **interview-me** 🆕 | `addyosmani/agent-skills` | 21,915 | [↓](#skill-853) |
-| 854 | **gstack** 🆕 | `garrytan/gstack` | 21,905 | [↓](#skill-854) |
-| 855 | **council** 🆕 | `warpdotdev/common-skills` | 21,893 | [↓](#skill-855) |
-| 856 | **gh-cli** ⭐ 🆕 | `github/awesome-copilot` | 21,875 | [↓](#skill-856) |
-| 857 | **gws-script-push** ⭐ 🆕 | `googleworkspace/cli` | 21,789 | [↓](#skill-857) |
-| 858 | **marketing-council** 🆕 | `coreyhaines31/marketingskills` | 21,715 | [↓](#skill-858) |
-| 859 | **nuxt** 🆕 | `antfu/skills` | 21,708 | [↓](#skill-859) |
-| 860 | **doubt-driven-development** 🆕 | `addyosmani/agent-skills` | 21,687 | [↓](#skill-860) |
-| 861 | **dbs-content** 🆕 | `dontbesilent2025/dbskill` | 21,664 | [↓](#skill-861) |
-| 862 | **dbs-diagnosis** 🆕 | `dontbesilent2025/dbskill` | 21,564 | [↓](#skill-862) |
-| 863 | **e2e-testing-patterns** 🆕 | `wshobson/agents` | 21,558 | [↓](#skill-863) |
-| 864 | **sanity-best-practices** ⭐ 🆕 | `sanity-io/agent-toolkit` | 21,557 | [↓](#skill-864) |
-| 865 | **dbs-benchmark** 🆕 | `dontbesilent2025/dbskill` | 21,509 | [↓](#skill-865) |
-| 866 | **dbs-deconstruct** 🆕 | `dontbesilent2025/dbskill` | 21,438 | [↓](#skill-866) |
-| 867 | **design** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 21,430 | [↓](#skill-867) |
-| 868 | **extension-to-functions-codebase** ⭐ 🆕 | `firebase/agent-skills` | 21,398 | [↓](#skill-868) |
-| 869 | **check-impl-against-spec** 🆕 | `warpdotdev/common-skills` | 21,357 | [↓](#skill-869) |
-| 870 | **mobile-android-design** 🆕 | `wshobson/agents` | 21,318 | [↓](#skill-870) |
-| 871 | **refactor** ⭐ 🆕 | `github/awesome-copilot` | 21,233 | [↓](#skill-871) |
-| 872 | **reproduce-bug-report** 🆕 | `warpdotdev/common-skills` | 21,211 | [↓](#skill-872) |
-| 873 | **ui-styling** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 21,185 | [↓](#skill-873) |
-| 874 | **architecture-patterns** 🆕 | `wshobson/agents` | 21,152 | [↓](#skill-874) |
-| 875 | **best-practices** 🆕 | `addyosmani/web-quality-skills` | 21,048 | [↓](#skill-875) |
-| 876 | **fixing-motion-performance** 🆕 | `ibelick/ui-skills` | 21,043 | [↓](#skill-876) |
-| 877 | **mediabunny** ⭐ 🆕 | `remotion-dev/skills` | 20,909 | [↓](#skill-877) |
-| 878 | **skill-vetter** 🆕 | `useai-pro/openclaw-skills-security` | 20,866 | [↓](#skill-878) |
-| 879 | **mobile-ios-design** 🆕 | `wshobson/agents` | 20,853 | [↓](#skill-879) |
-| 880 | **dbs-hook** 🆕 | `dontbesilent2025/dbskill` | 20,850 | [↓](#skill-880) |
-| 881 | **laravel-specialist** 🆕 | `jeffallan/claude-skills` | 20,800 | [↓](#skill-881) |
-| 882 | **dbs-action** 🆕 | `dontbesilent2025/dbskill` | 20,646 | [↓](#skill-882) |
-| 883 | **brand** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 20,616 | [↓](#skill-883) |
-| 884 | **banner-design** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 20,592 | [↓](#skill-884) |
-| 885 | **vueuse-functions** 🆕 | `antfu/skills` | 20,536 | [↓](#skill-885) |
-| 886 | **firestore-security-rules-auditor** ⭐ 🆕 | `firebase/agent-skills` | 20,411 | [↓](#skill-886) |
-| 887 | **prompt-engineering-patterns** 🆕 | `wshobson/agents` | 20,407 | [↓](#skill-887) |
-| 888 | **baoyu-post-to-weibo** 🆕 | `jimliu/baoyu-skills` | 20,387 | [↓](#skill-888) |
-| 889 | **slides** 🆕 | `nextlevelbuilder/ui-ux-pro-max-skill` | 20,264 | [↓](#skill-889) |
-| 890 | **error-handling-patterns** 🆕 | `wshobson/agents` | 20,256 | [↓](#skill-890) |
-| 891 | **caveman-explore** 🆕 | `juliusbrussee/caveman` | 19,872 | [↓](#skill-891) |
-| 892 | **pnpm** 🆕 | `antfu/skills` | 19,758 | [↓](#skill-892) |
-| 893 | **caveman-optimize** 🆕 | `juliusbrussee/caveman` | 19,645 | [↓](#skill-893) |
-| 894 | **respond-to-pr-comments-in-blocklist** 🆕 | `warpdotdev/common-skills` | 19,574 | [↓](#skill-894) |
-| 895 | **caveman-learn** 🆕 | `juliusbrussee/caveman` | 19,559 | [↓](#skill-895) |
-| 896 | **java-springboot** ⭐ 🆕 | `github/awesome-copilot` | 19,545 | [↓](#skill-896) |
-| 897 | **investigate-first** 🆕 | `juliusbrussee/caveman` | 19,528 | [↓](#skill-897) |
-| 898 | **validate-changes-match-specs** 🆕 | `warpdotdev/common-skills` | 19,505 | [↓](#skill-898) |
-| 899 | **safe-refactor** 🆕 | `juliusbrussee/caveman` | 19,487 | [↓](#skill-899) |
-| 900 | **verify-and-stop** 🆕 | `juliusbrussee/caveman` | 19,480 | [↓](#skill-900) |
-| 901 | **baoyu-youtube-transcript** 🆕 | `jimliu/baoyu-skills` | 19,471 | [↓](#skill-901) |
-| 902 | **observability-and-instrumentation** 🆕 | `addyosmani/agent-skills` | 19,425 | [↓](#skill-902) |
-| 903 | **surgical-patch** 🆕 | `juliusbrussee/caveman` | 19,425 | [↓](#skill-903) |
-| 904 | **caveman-evidence-review** 🆕 | `juliusbrussee/caveman` | 19,383 | [↓](#skill-904) |
-| 905 | **caveman-discover** 🆕 | `juliusbrussee/caveman` | 19,373 | [↓](#skill-905) |
-| 906 | **dbs-xhs-title** 🆕 | `dontbesilent2025/dbskill` | 19,352 | [↓](#skill-906) |
-| 907 | **lean-build** 🆕 | `juliusbrussee/caveman` | 19,341 | [↓](#skill-907) |
-| 908 | **caveman-manage** 🆕 | `juliusbrussee/caveman` | 19,302 | [↓](#skill-908) |
-| 909 | **migration** 🆕 | `juliusbrussee/caveman` | 19,254 | [↓](#skill-909) |
-| 910 | **firecrawl-research-index** ⭐ 🆕 | `firecrawl/skills` | 19,252 | [↓](#skill-910) |
-| 911 | **python-design-patterns** 🆕 | `wshobson/agents` | 19,234 | [↓](#skill-911) |
-| 912 | **lark-meeting** 🆕 | `open.feishu.cn` | 19,176 | [↓](#skill-912) |
-| 913 | **caveman-setup** 🆕 | `juliusbrussee/caveman` | 19,148 | [↓](#skill-913) |
-| 914 | **gemini-api-dev** ⭐ 🆕 | `google-gemini/gemini-skills` | 19,099 | [↓](#skill-914) |
-| 915 | **opencli-usage** 🆕 | `jackwener/opencli` | 19,042 | [↓](#skill-915) |
-| 916 | **clerk-cli** ⭐ 🆕 | `clerk/skills` | 18,893 | [↓](#skill-916) |
-| 917 | **dbs-ai-check** 🆕 | `dontbesilent2025/dbskill` | 18,892 | [↓](#skill-917) |
-| 918 | **html-ppt** 🆕 | `lewislulu/html-ppt-skill` | 18,787 | [↓](#skill-918) |
-| 919 | **wecomcli-doc** 🆕 | `wecomteam/wecom-cli` | 18,687 | [↓](#skill-919) |
-| 920 | **dbs-chatroom** 🆕 | `dontbesilent2025/dbskill` | 18,640 | [↓](#skill-920) |
-| 921 | **dbs-slowisfast** 🆕 | `dontbesilent2025/dbskill` | 18,629 | [↓](#skill-921) |
-| 922 | **dbs-chatroom-austrian** 🆕 | `dontbesilent2025/dbskill` | 18,547 | [↓](#skill-922) |
-| 923 | **wecomcli-todo** 🆕 | `wecomteam/wecom-cli` | 18,499 | [↓](#skill-923) |
-| 924 | **wecomcli-contact** 🆕 | `wecomteam/wecom-cli` | 18,457 | [↓](#skill-924) |
-| 925 | **wecomcli-meeting** 🆕 | `wecomteam/wecom-cli` | 18,412 | [↓](#skill-925) |
-| 926 | **dbs-agent-migration** 🆕 | `dontbesilent2025/dbskill` | 18,411 | [↓](#skill-926) |
-| 927 | **baseline-ui** 🆕 | `ibelick/ui-skills` | 18,344 | [↓](#skill-927) |
-| 928 | **deepline-analytics** 🆕 | `code.deepline.com` | 18,294 | [↓](#skill-928) |
-| 929 | **modern-javascript-patterns** 🆕 | `wshobson/agents` | 18,222 | [↓](#skill-929) |
-| 930 | **feature-sliced-design** 🆕 | `feature-sliced/skills` | 18,038 | [↓](#skill-930) |
-| 931 | **security-requirement-extraction** 🆕 | `wshobson/agents` | 18,032 | [↓](#skill-931) |
-| 932 | **javascript-testing-patterns** 🆕 | `wshobson/agents` | 18,000 | [↓](#skill-932) |
-| 933 | **aso-audit** 🆕 | `coreyhaines31/marketingskills` | 17,996 | [↓](#skill-933) |
-| 934 | **vue-router-best-practices** 🆕 | `antfu/skills` | 17,902 | [↓](#skill-934) |
-| 935 | **playwright-generate-test** ⭐ 🆕 | `github/awesome-copilot` | 17,809 | [↓](#skill-935) |
-| 936 | **pricewin-hotel-deal-finder** 🆕 | `price-win/pricewin-skills-hub` | 17,775 | [↓](#skill-936) |
-| 937 | **opencli-browser** 🆕 | `jackwener/opencli` | 17,729 | [↓](#skill-937) |
-| 938 | **create-readme** ⭐ 🆕 | `github/awesome-copilot` | 17,694 | [↓](#skill-938) |
-| 939 | **rust-async-patterns** 🆕 | `wshobson/agents` | 17,617 | [↓](#skill-939) |
-| 940 | **agent development** ⭐ 🆕 | `anthropics/claude-code` | 17,555 | [↓](#skill-940) |
-| 941 | **responsive-design** 🆕 | `wshobson/agents` | 17,437 | [↓](#skill-941) |
-| 942 | **skill development** ⭐ 🆕 | `anthropics/claude-code` | 17,382 | [↓](#skill-942) |
-| 943 | **pinia** 🆕 | `antfu/skills` | 17,381 | [↓](#skill-943) |
-| 944 | **sql-optimization-patterns** 🆕 | `wshobson/agents` | 17,365 | [↓](#skill-944) |
-| 945 | **dbs-report** 🆕 | `dontbesilent2025/dbskill` | 17,324 | [↓](#skill-945) |
-| 946 | **dbs-save** 🆕 | `dontbesilent2025/dbskill` | 17,301 | [↓](#skill-946) |
-| 947 | **dbs-restore** 🆕 | `dontbesilent2025/dbskill` | 17,293 | [↓](#skill-947) |
-| 948 | **ponytail-review** 🆕 | `dietrichgebert/ponytail` | 17,207 | [↓](#skill-948) |
-| 949 | **planning-with-files-zh** 🆕 | `othmanadi/planning-with-files` | 17,204 | [↓](#skill-949) |
-| 950 | **fixing-accessibility** 🆕 | `ibelick/ui-skills` | 17,174 | [↓](#skill-950) |
-| 951 | **the-news** 🆕 | `sfkislev/the-news` | 17,165 | [↓](#skill-951) |
-| 952 | **golang-pro** 🆕 | `jeffallan/claude-skills` | 17,124 | [↓](#skill-952) |
+| 461 | **signup** | `coreyhaines31/marketingskills` | 48,913 | [↓](#skill-461) |
+| 462 | **free-tools** | `coreyhaines31/marketingskills` | 48,904 | [↓](#skill-462) |
+| 463 | **aso** | `coreyhaines31/marketingskills` | 48,895 | [↓](#skill-463) |
+| 464 | **referrals** | `coreyhaines31/marketingskills` | 48,849 | [↓](#skill-464) |
+| 465 | **web-search** | `skills-101/superpowers` | 48,529 | [↓](#skill-465) |
+| 466 | **popups** | `coreyhaines31/marketingskills` | 48,459 | [↓](#skill-466) |
+| 467 | **paywalls** | `coreyhaines31/marketingskills` | 48,399 | [↓](#skill-467) |
+| 468 | **agent-tools** | `skills-101/superpowers` | 48,366 | [↓](#skill-468) |
+| 469 | **infsh-cli** | `skills-101/superpowers` | 48,352 | [↓](#skill-469) |
+| 470 | **python-executor** | `skills-101/superpowers` | 48,316 | [↓](#skill-470) |
+| 471 | **gsap-scrolltrigger** | `greensock/gsap-skills` | 48,116 | [↓](#skill-471) |
+| 472 | **accessibility** | `addyosmani/web-quality-skills` | 47,688 | [↓](#skill-472) |
+| 473 | **cloudflare-email-service** ⭐ | `cloudflare/skills` | 47,402 | [↓](#skill-473) |
+| 474 | **native-data-fetching** ⭐ | `expo/skills` | 47,137 | [↓](#skill-474) |
+| 475 | **hallmark** | `nutlope/hallmark` | 46,921 | [↓](#skill-475) |
+| 476 | **compress** | `juliusbrussee/caveman` | 46,723 | [↓](#skill-476) |
+| 477 | **captions-overlay** | `heygen-com/hyperframes` | 46,693 | [↓](#skill-477) |
+| 478 | **motion-doctrine** | `heygen-com/hyperframes` | 46,678 | [↓](#skill-478) |
+| 479 | **cut-the-curve** | `heygen-com/hyperframes` | 46,507 | [↓](#skill-479) |
+| 480 | **gsap-performance** | `greensock/gsap-skills` | 46,367 | [↓](#skill-480) |
+| 481 | **seam-craft** | `heygen-com/hyperframes` | 46,269 | [↓](#skill-481) |
+| 482 | **changelog-video** | `heygen-com/hyperframes` | 46,208 | [↓](#skill-482) |
+| 483 | **gsap-timeline** | `greensock/gsap-skills` | 46,174 | [↓](#skill-483) |
+| 484 | **oversized-cursor** | `heygen-com/hyperframes` | 46,173 | [↓](#skill-484) |
+| 485 | **humanizer-zh** | `op7418/humanizer-zh` | 45,699 | [↓](#skill-485) |
+| 486 | **momentic-test** | `momentic-ai/skills` | 45,470 | [↓](#skill-486) |
+| 487 | **momentic-result-classification** | `momentic-ai/skills` | 45,453 | [↓](#skill-487) |
+| 488 | **gsap-plugins** | `greensock/gsap-skills` | 45,256 | [↓](#skill-488) |
+| 489 | **ponytail** | `dietrichgebert/ponytail` | 45,246 | [↓](#skill-489) |
+| 490 | **decision-mapping** | `mattpocock/skills` | 44,613 | [↓](#skill-490) |
+| 491 | **huashu-design** | `alchaincyf/huashu-design` | 44,428 | [↓](#skill-491) |
+| 492 | **gsap-utils** | `greensock/gsap-skills` | 44,332 | [↓](#skill-492) |
+| 493 | **gsap-react** | `greensock/gsap-skills` | 44,132 | [↓](#skill-493) |
+| 494 | **gws-sheets-read** ⭐ | `googleworkspace/cli` | 43,729 | [↓](#skill-494) |
+| 495 | **nodejs-backend-patterns** | `wshobson/agents` | 43,729 | [↓](#skill-495) |
+| 496 | **remotion-upgrade** ⭐ | `remotion-dev/skills` | 43,605 | [↓](#skill-496) |
+| 497 | **seo-geo** | `resciencelab/opc-skills` | 43,539 | [↓](#skill-497) |
+| 498 | **git-commit** ⭐ | `github/awesome-copilot` | 43,461 | [↓](#skill-498) |
+| 499 | **gws-docs-write** ⭐ | `googleworkspace/cli` | 43,140 | [↓](#skill-499) |
+| 500 | **upgrading-expo** ⭐ | `expo/skills` | 42,989 | [↓](#skill-500) |
+| 501 | **gws-calendar-agenda** ⭐ | `googleworkspace/cli` | 42,895 | [↓](#skill-501) |
+| 502 | **gws-drive-upload** ⭐ | `googleworkspace/cli` | 42,526 | [↓](#skill-502) |
+| 503 | **gsap-frameworks** | `greensock/gsap-skills` | 42,332 | [↓](#skill-503) |
+| 504 | **marketing-plan** | `coreyhaines31/marketingskills` | 42,304 | [↓](#skill-504) |
+| 505 | **sms** | `coreyhaines31/marketingskills` | 42,203 | [↓](#skill-505) |
+| 506 | **prospecting** | `coreyhaines31/marketingskills` | 41,831 | [↓](#skill-506) |
+| 507 | **gws-calendar-insert** ⭐ | `googleworkspace/cli` | 41,808 | [↓](#skill-507) |
+| 508 | **seo** | `addyosmani/web-quality-skills` | 41,782 | [↓](#skill-508) |
+| 509 | **agent-pulse** | `jane-o-o-o-o/agent-pulse-skill` | 41,537 | [↓](#skill-509) |
+| 510 | **planning-with-files** | `othmanadi/planning-with-files` | 41,338 | [↓](#skill-510) |
+| 511 | **animate** | `emilkowalski/skills` | 41,124 | [↓](#skill-511) |
+| 512 | **expo-deployment** ⭐ | `expo/skills` | 40,894 | [↓](#skill-512) |
+| 513 | **fastify-best-practices** | `mcollina/skills` | 40,321 | [↓](#skill-513) |
+| 514 | **arrange** | `pbakaus/impeccable` | 40,110 | [↓](#skill-514) |
+| 515 | **gws-gmail-triage** ⭐ | `googleworkspace/cli` | 40,091 | [↓](#skill-515) |
+| 516 | **expo-cicd-workflows** ⭐ | `expo/skills` | 39,879 | [↓](#skill-516) |
+| 517 | **gws-sheets-append** ⭐ | `googleworkspace/cli` | 39,873 | [↓](#skill-517) |
+| 518 | **byted-web-search** | `skills.volces.com` | 39,797 | [↓](#skill-518) |
+| 519 | **turnstile-spin** ⭐ | `cloudflare/skills` | 39,645 | [↓](#skill-519) |
+| 520 | **pexo-agent** | `pexoai/pexo-skills` | 39,639 | [↓](#skill-520) |
+| 521 | **golang-code-style** | `samber/cc-skills-golang` | 39,050 | [↓](#skill-521) |
+| 522 | **design-doc-mermaid** | `spillwavesolutions/design-doc-mermaid` | 38,859 | [↓](#skill-522) |
+| 523 | **weread-skills** | `tencent/wechatreading` | 38,563 | [↓](#skill-523) |
+| 524 | **golang-error-handling** | `samber/cc-skills-golang` | 38,390 | [↓](#skill-524) |
+| 525 | **golang-testing** | `samber/cc-skills-golang` | 38,280 | [↓](#skill-525) |
+| 526 | **gws-tasks** ⭐ | `googleworkspace/cli` | 38,225 | [↓](#skill-526) |
+| 527 | **remotion** ⭐ | `google-labs-code/stitch-skills` | 38,151 | [↓](#skill-527) |
+| 528 | **expo-api-routes** ⭐ | `expo/skills` | 37,824 | [↓](#skill-528) |
+| 529 | **golang-design-patterns** | `samber/cc-skills-golang` | 37,777 | [↓](#skill-529) |
+| 530 | **golang-performance** | `samber/cc-skills-golang` | 37,750 | [↓](#skill-530) |
+| 531 | **golang-security** | `samber/cc-skills-golang` | 37,595 | [↓](#skill-531) |
+| 532 | **remotion-maps** ⭐ | `remotion-dev/skills` | 37,448 | [↓](#skill-532) |
+| 533 | **vue-best-practices** | `vuejs-ai/skills` | 37,426 | [↓](#skill-533) |
+| 534 | **cloudflare-one** ⭐ | `cloudflare/skills` | 37,323 | [↓](#skill-534) |
+| 535 | **clerk-setup** ⭐ | `clerk/skills` | 37,286 | [↓](#skill-535) |
+| 536 | **anysearch** | `anysearch-ai/anysearch-skill` | 37,118 | [↓](#skill-536) |
+| 537 | **firebase-firestore-standard** ⭐ | `firebase/agent-skills` | 37,114 | [↓](#skill-537) |
+| 538 | **golang-concurrency** | `samber/cc-skills-golang` | 37,106 | [↓](#skill-538) |
+| 539 | **mastra** ⭐ | `mastra-ai/skills` | 37,098 | [↓](#skill-539) |
+| 540 | **clerk-nextjs-patterns** ⭐ | `clerk/skills` | 36,875 | [↓](#skill-540) |
+| 541 | **cloudflare-one-migrations** ⭐ | `cloudflare/skills` | 36,768 | [↓](#skill-541) |
+| 542 | **golang-naming** | `samber/cc-skills-golang` | 36,752 | [↓](#skill-542) |
+| 543 | **golang-context** | `samber/cc-skills-golang` | 36,692 | [↓](#skill-543) |
+| 544 | **golang-database** | `samber/cc-skills-golang` | 36,611 | [↓](#skill-544) |
+| 545 | **golang-documentation** | `samber/cc-skills-golang` | 36,610 | [↓](#skill-545) |
+| 546 | **golang-data-structures** | `samber/cc-skills-golang` | 36,571 | [↓](#skill-546) |
+| 547 | **gws-slides** ⭐ | `googleworkspace/cli` | 36,514 | [↓](#skill-547) |
+| 548 | **golang-safety** | `samber/cc-skills-golang` | 36,507 | [↓](#skill-548) |
+| 549 | **golang-modernize** | `samber/cc-skills-golang` | 36,489 | [↓](#skill-549) |
+| 550 | **golang-project-layout** | `samber/cc-skills-golang` | 36,408 | [↓](#skill-550) |
+| 551 | **brand-landingpage** | `wshobson/agents` | 36,354 | [↓](#skill-551) |
+| 552 | **golang-lint** | `samber/cc-skills-golang` | 36,337 | [↓](#skill-552) |
+| 553 | **golang-troubleshooting** | `samber/cc-skills-golang` | 36,232 | [↓](#skill-553) |
+| 554 | **gws-gmail-read** ⭐ | `googleworkspace/cli` | 36,181 | [↓](#skill-554) |
+| 555 | **golang-observability** | `samber/cc-skills-golang` | 36,178 | [↓](#skill-555) |
+| 556 | **clerk-custom-ui** ⭐ | `clerk/skills` | 36,129 | [↓](#skill-556) |
+| 557 | **golang-dependency-management** | `samber/cc-skills-golang` | 36,098 | [↓](#skill-557) |
+| 558 | **golang-popular-libraries** | `samber/cc-skills-golang` | 36,075 | [↓](#skill-558) |
+| 559 | **golang-structs-interfaces** | `samber/cc-skills-golang` | 36,053 | [↓](#skill-559) |
+| 560 | **firebase-firestore-enterprise-native-mode** ⭐ | `firebase/agent-skills` | 36,051 | [↓](#skill-560) |
+| 561 | **golang-dependency-injection** | `samber/cc-skills-golang` | 35,985 | [↓](#skill-561) |
+| 562 | **golang-benchmark** | `samber/cc-skills-golang` | 35,938 | [↓](#skill-562) |
+| 563 | **golang-cli** | `samber/cc-skills-golang` | 35,908 | [↓](#skill-563) |
+| 564 | **insforge** | `insforge/insforge-skills` | 35,906 | [↓](#skill-564) |
+| 565 | **golang-stretchr-testify** | `samber/cc-skills-golang` | 35,862 | [↓](#skill-565) |
+| 566 | **remotion-multimedia** ⭐ | `remotion-dev/skills` | 35,830 | [↓](#skill-566) |
+| 567 | **insforge-cli** | `insforge/insforge-skills` | 35,802 | [↓](#skill-567) |
+| 568 | **golang-grpc** | `samber/cc-skills-golang` | 35,801 | [↓](#skill-568) |
+| 569 | **golang-continuous-integration** | `samber/cc-skills-golang` | 35,795 | [↓](#skill-569) |
+| 570 | **value** | `hugmouse/skills` | 35,521 | [↓](#skill-570) |
+| 571 | **golang-stay-updated** | `samber/cc-skills-golang` | 35,388 | [↓](#skill-571) |
+| 572 | **golang-samber-lo** | `samber/cc-skills-golang` | 35,309 | [↓](#skill-572) |
+| 573 | **review-loop** | `2dmurali/review-loop-skill` | 35,265 | [↓](#skill-573) |
+| 574 | **nx-workspace** | `nrwl/nx-ai-agents-config` | 35,263 | [↓](#skill-574) |
+| 575 | **golang-samber-do** | `samber/cc-skills-golang` | 35,227 | [↓](#skill-575) |
+| 576 | **golang-samber-slog** | `samber/cc-skills-golang` | 35,191 | [↓](#skill-576) |
+| 577 | **golang-samber-oops** | `samber/cc-skills-golang` | 35,163 | [↓](#skill-577) |
+| 578 | **golang-samber-mo** | `samber/cc-skills-golang` | 35,143 | [↓](#skill-578) |
+| 579 | **golang-samber-hot** | `samber/cc-skills-golang` | 35,126 | [↓](#skill-579) |
+| 580 | **golang-samber-ro** | `samber/cc-skills-golang` | 35,115 | [↓](#skill-580) |
+| 581 | **gws-forms** ⭐ | `googleworkspace/cli` | 34,954 | [↓](#skill-581) |
+| 582 | **clerk-backend-api** ⭐ | `clerk/skills` | 34,926 | [↓](#skill-582) |
+| 583 | **replicas-agent** | `replicas-group/skill` | 34,891 | [↓](#skill-583) |
+| 584 | **last30days** | `mvanhorn/last30days-skill` | 34,824 | [↓](#skill-584) |
+| 585 | **firebase-ai-logic** ⭐ | `firebase/agent-skills` | 34,578 | [↓](#skill-585) |
+| 586 | **gws-meet** ⭐ | `googleworkspace/cli` | 34,405 | [↓](#skill-586) |
+| 587 | **clerk-webhooks** ⭐ | `clerk/skills` | 34,356 | [↓](#skill-587) |
+| 588 | **herdr** | `herdrdev/herdr` | 34,086 | [↓](#skill-588) |
+| 589 | **golang-swagger** | `samber/cc-skills-golang` | 33,918 | [↓](#skill-589) |
+| 590 | **golang-spf13-cobra** | `samber/cc-skills-golang` | 33,838 | [↓](#skill-590) |
+| 591 | **golang-graphql** | `samber/cc-skills-golang` | 33,831 | [↓](#skill-591) |
+| 592 | **vite** | `antfu/skills` | 33,712 | [↓](#skill-592) |
+| 593 | **golang-spf13-viper** | `samber/cc-skills-golang` | 33,709 | [↓](#skill-593) |
+| 594 | **golang-google-wire** | `samber/cc-skills-golang` | 33,658 | [↓](#skill-594) |
+| 595 | **developing-genkit-python** ⭐ | `firebase/agent-skills` | 33,634 | [↓](#skill-595) |
+| 596 | **golang-uber-fx** | `samber/cc-skills-golang` | 33,603 | [↓](#skill-596) |
+| 597 | **golang-uber-dig** | `samber/cc-skills-golang` | 33,553 | [↓](#skill-597) |
+| 598 | **karpathy-guidelines** | `multica-ai/andrej-karpathy-skills` | 33,425 | [↓](#skill-598) |
+| 599 | **vitest** | `antfu/skills` | 33,415 | [↓](#skill-599) |
+| 600 | **sandbox-sdk** ⭐ | `cloudflare/skills` | 33,408 | [↓](#skill-600) |
+| 601 | **firecrawl-deep-research** ⭐ | `firecrawl/firecrawl-workflows` | 33,287 | [↓](#skill-601) |
+| 602 | **self-improving-agent** | `zhaono1/agent-playbook` | 33,232 | [↓](#skill-602) |
+| 603 | **baoyu-post-to-wechat** | `jimliu/baoyu-skills` | 33,017 | [↓](#skill-603) |
+| 604 | **public-relations** | `coreyhaines31/marketingskills` | 32,844 | [↓](#skill-604) |
+| 605 | **ckm:design-system** | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,840 | [↓](#skill-605) |
+| 606 | **gws-gmail-watch** ⭐ | `googleworkspace/cli` | 32,827 | [↓](#skill-606) |
+| 607 | **golang-how-to** | `samber/cc-skills-golang` | 32,756 | [↓](#skill-607) |
+| 608 | **ckm:design** | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,541 | [↓](#skill-608) |
+| 609 | **vue** | `antfu/skills` | 32,533 | [↓](#skill-609) |
+| 610 | **clerk-orgs** ⭐ | `clerk/skills` | 32,516 | [↓](#skill-610) |
+| 611 | **ckm:ui-styling** | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,475 | [↓](#skill-611) |
+| 612 | **gws-keep** ⭐ | `googleworkspace/cli` | 32,463 | [↓](#skill-612) |
+| 613 | **firecrawl-research-papers** ⭐ | `firecrawl/firecrawl-workflows` | 32,402 | [↓](#skill-613) |
+| 614 | **code-review-and-quality** | `addyosmani/agent-skills` | 32,268 | [↓](#skill-614) |
+| 615 | **firecrawl-website-design-clone** ⭐ | `firecrawl/firecrawl-workflows` | 32,152 | [↓](#skill-615) |
+| 616 | **insforge-debug** | `insforge/insforge-skills` | 32,104 | [↓](#skill-616) |
+| 617 | **flutter-apply-architecture-best-practices** ⭐ | `flutter/agent-plugins` | 32,061 | [↓](#skill-617) |
+| 618 | **ckm:brand** | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,040 | [↓](#skill-618) |
+| 619 | **ckm:banner-design** | `nextlevelbuilder/ui-ux-pro-max-skill` | 32,012 | [↓](#skill-619) |
+| 620 | **ckm:slides** | `nextlevelbuilder/ui-ux-pro-max-skill` | 31,923 | [↓](#skill-620) |
+| 621 | **clerk-testing** ⭐ | `clerk/skills` | 31,872 | [↓](#skill-621) |
+| 622 | **python-performance-optimization** | `wshobson/agents` | 31,866 | [↓](#skill-622) |
+| 623 | **baoyu-image-gen** | `jimliu/baoyu-skills` | 31,741 | [↓](#skill-623) |
+| 624 | **offers** | `coreyhaines31/marketingskills` | 31,629 | [↓](#skill-624) |
+| 625 | **firecrawl-market-research** ⭐ | `firecrawl/firecrawl-workflows` | 31,621 | [↓](#skill-625) |
+| 626 | **angular-developer** | `angular/skills` | 31,428 | [↓](#skill-626) |
+| 627 | **insforge-integrations** | `insforge/insforge-skills` | 31,367 | [↓](#skill-627) |
+| 628 | **performance** | `addyosmani/web-quality-skills` | 31,348 | [↓](#skill-628) |
+| 629 | **browser-mcp-agent** | `antibrow/anti-detect-browser-skills` | 31,325 | [↓](#skill-629) |
+| 630 | **multi-account-isolation** | `antibrow/anti-detect-browser-skills` | 31,319 | [↓](#skill-630) |
+| 631 | **firecrawl-seo-audit** ⭐ | `firecrawl/firecrawl-workflows` | 31,287 | [↓](#skill-631) |
+| 632 | **email-and-password-best-practices** ⭐ | `better-auth/skills` | 31,238 | [↓](#skill-632) |
+| 633 | **momentic-mobile-test** | `momentic-ai/skills` | 31,232 | [↓](#skill-633) |
+| 634 | **firecrawl-monitor** ⭐ | `firecrawl/cli` | 31,208 | [↓](#skill-634) |
+| 635 | **firecrawl-knowledge-base** ⭐ | `firecrawl/firecrawl-workflows` | 31,145 | [↓](#skill-635) |
+| 636 | **firecrawl-workflows** ⭐ | `firecrawl/firecrawl-workflows` | 31,086 | [↓](#skill-636) |
+| 637 | **flutter-build-responsive-layout** ⭐ | `flutter/agent-plugins` | 31,071 | [↓](#skill-637) |
+| 638 | **firecrawl-dashboard-reporting** ⭐ | `firecrawl/firecrawl-workflows` | 31,044 | [↓](#skill-638) |
+| 639 | **firecrawl-lead-gen** ⭐ | `firecrawl/firecrawl-workflows` | 30,967 | [↓](#skill-639) |
+| 640 | **python-testing-patterns** | `wshobson/agents` | 30,926 | [↓](#skill-640) |
+| 641 | **baoyu-infographic** | `jimliu/baoyu-skills` | 30,922 | [↓](#skill-641) |
+| 642 | **firecrawl-lead-research** ⭐ | `firecrawl/firecrawl-workflows` | 30,921 | [↓](#skill-642) |
+| 643 | **firecrawl-shop** ⭐ | `firecrawl/firecrawl-workflows` | 30,906 | [↓](#skill-643) |
+| 644 | **expo-module** ⭐ | `expo/skills` | 30,896 | [↓](#skill-644) |
+| 645 | **firecrawl-competitive-intel** ⭐ | `firecrawl/firecrawl-workflows` | 30,889 | [↓](#skill-645) |
+| 646 | **firecrawl-qa** ⭐ | `firecrawl/firecrawl-workflows` | 30,889 | [↓](#skill-646) |
+| 647 | **use-dom** ⭐ | `expo/skills` | 30,887 | [↓](#skill-647) |
+| 648 | **firecrawl-knowledge-ingest** ⭐ | `firecrawl/firecrawl-workflows` | 30,858 | [↓](#skill-648) |
+| 649 | **firecrawl-company-directories** ⭐ | `firecrawl/firecrawl-workflows` | 30,823 | [↓](#skill-649) |
+| 650 | **firecrawl-demo-walkthrough** ⭐ | `firecrawl/firecrawl-workflows` | 30,808 | [↓](#skill-650) |
+| 651 | **improve** | `shadcn/improve` | 30,805 | [↓](#skill-651) |
+| 652 | **baoyu-markdown-to-html** | `jimliu/baoyu-skills` | 30,787 | [↓](#skill-652) |
+| 653 | **shape** | `pbakaus/impeccable` | 30,779 | [↓](#skill-653) |
+| 654 | **gws-gmail-reply** ⭐ | `googleworkspace/cli` | 30,737 | [↓](#skill-654) |
+| 655 | **baoyu-cover-image** | `jimliu/baoyu-skills` | 30,518 | [↓](#skill-655) |
+| 656 | **baoyu-article-illustrator** | `jimliu/baoyu-skills` | 30,338 | [↓](#skill-656) |
+| 657 | **tavily-search** ⭐ | `tavily-ai/skills` | 30,034 | [↓](#skill-657) |
+| 658 | **swiftui-expert-skill** | `avdlee/swiftui-agent-skill` | 29,955 | [↓](#skill-658) |
+| 659 | **baoyu-xhs-images** | `jimliu/baoyu-skills` | 29,879 | [↓](#skill-659) |
+| 660 | **create-auth-skill** ⭐ | `better-auth/skills` | 29,857 | [↓](#skill-660) |
+| 661 | **organization-best-practices** ⭐ | `better-auth/skills` | 29,751 | [↓](#skill-661) |
+| 662 | **flutter-fix-layout-issues** ⭐ | `flutter/agent-plugins` | 29,731 | [↓](#skill-662) |
+| 663 | **graphic-overlays** | `heygen-com/hyperframes` | 29,699 | [↓](#skill-663) |
+| 664 | **wind-find-finance-skill** | `wind-information-co-ltd/wind-skills` | 29,616 | [↓](#skill-664) |
+| 665 | **baoyu-slide-deck** | `jimliu/baoyu-skills` | 29,509 | [↓](#skill-665) |
+| 666 | **gws-gmail-forward** ⭐ | `googleworkspace/cli` | 29,441 | [↓](#skill-666) |
+| 667 | **gws-workflow** ⭐ | `googleworkspace/cli` | 29,226 | [↓](#skill-667) |
+| 668 | **flutter-add-widget-test** ⭐ | `flutter/agent-plugins` | 29,006 | [↓](#skill-668) |
+| 669 | **baoyu-url-to-markdown** | `jimliu/baoyu-skills` | 28,910 | [↓](#skill-669) |
+| 670 | **gws-chat** ⭐ | `googleworkspace/cli` | 28,845 | [↓](#skill-670) |
+| 671 | **frontend-ui-engineering** | `addyosmani/agent-skills` | 28,814 | [↓](#skill-671) |
+| 672 | **gws-people** ⭐ | `googleworkspace/cli` | 28,746 | [↓](#skill-672) |
+| 673 | **gws-gmail-reply-all** ⭐ | `googleworkspace/cli` | 28,700 | [↓](#skill-673) |
+| 674 | **mmx-cli** | `minimax-ai/cli` | 28,639 | [↓](#skill-674) |
+| 675 | **gws-workflow-email-to-task** ⭐ | `googleworkspace/cli` | 28,471 | [↓](#skill-675) |
+| 676 | **flutter-add-integration-test** ⭐ | `flutter/agent-plugins` | 28,464 | [↓](#skill-676) |
+| 677 | **baoyu-comic** | `jimliu/baoyu-skills` | 28,395 | [↓](#skill-677) |
+| 678 | **recipe-create-presentation** ⭐ | `googleworkspace/cli` | 28,380 | [↓](#skill-678) |
+| 679 | **planning-and-task-breakdown** | `addyosmani/agent-skills` | 28,362 | [↓](#skill-679) |
+| 680 | **flutter-setup-declarative-routing** ⭐ | `flutter/agent-plugins` | 28,338 | [↓](#skill-680) |
+| 681 | **security-and-hardening** | `addyosmani/agent-skills` | 28,300 | [↓](#skill-681) |
+| 682 | **excalidraw-diagram-generator** ⭐ | `github/awesome-copilot` | 28,250 | [↓](#skill-682) |
+| 683 | **landing-page-conversion-audit** | `autonnel/autonnel-skills` | 28,230 | [↓](#skill-683) |
+| 684 | **nextjs-app-router-patterns** | `wshobson/agents` | 28,213 | [↓](#skill-684) |
+| 685 | **spec-driven-development** | `addyosmani/agent-skills` | 28,093 | [↓](#skill-685) |
+| 686 | **higgsfield-youtube-thumbnail** | `higgsfield-ai/skills` | 27,916 | [↓](#skill-686) |
+| 687 | **higgsfield-brandkit** | `higgsfield-ai/skills` | 27,914 | [↓](#skill-687) |
+| 688 | **two-factor-authentication-best-practices** ⭐ | `better-auth/skills` | 27,908 | [↓](#skill-688) |
+| 689 | **azure-postgres** ⭐ | `microsoft/azure-skills` | 27,848 | [↓](#skill-689) |
+| 690 | **gws-workflow-meeting-prep** ⭐ | `googleworkspace/cli` | 27,835 | [↓](#skill-690) |
+| 691 | **sales-funnel-blueprint** | `autonnel/autonnel-skills` | 27,834 | [↓](#skill-691) |
+| 692 | **server-side-conversion-tracking** | `autonnel/autonnel-skills` | 27,801 | [↓](#skill-692) |
+| 693 | **gws-chat-send** ⭐ | `googleworkspace/cli` | 27,768 | [↓](#skill-693) |
+| 694 | **funnel-platform-picker** | `autonnel/autonnel-skills` | 27,753 | [↓](#skill-694) |
+| 695 | **fingerprint-ci-gate** | `liarjsdev/liarjs-skills` | 27,738 | [↓](#skill-695) |
+| 696 | **browser-fingerprint-audit** | `liarjsdev/liarjs-skills` | 27,724 | [↓](#skill-696) |
+| 697 | **recipe-draft-email-from-doc** ⭐ | `googleworkspace/cli` | 27,721 | [↓](#skill-697) |
+| 698 | **ask-sonner** | `emilkowalski/skills` | 27,709 | [↓](#skill-698) |
+| 699 | **playwright-stealth-verify** | `liarjsdev/liarjs-skills` | 27,707 | [↓](#skill-699) |
+| 700 | **post-purchase-upsell-flow** | `autonnel/autonnel-skills` | 27,698 | [↓](#skill-700) |
+| 701 | **self-hosted-funnel-launch** | `autonnel/autonnel-skills` | 27,692 | [↓](#skill-701) |
+| 702 | **fingerprint-failure-triage** | `liarjsdev/liarjs-skills` | 27,676 | [↓](#skill-702) |
+| 703 | **flutter-implement-json-serialization** ⭐ | `flutter/agent-plugins` | 27,643 | [↓](#skill-703) |
+| 704 | **baoyu-post-to-x** | `jimliu/baoyu-skills` | 27,639 | [↓](#skill-704) |
+| 705 | **persona-project-manager** ⭐ | `googleworkspace/cli` | 27,621 | [↓](#skill-705) |
+| 706 | **recipe-email-drive-link** ⭐ | `googleworkspace/cli` | 27,613 | [↓](#skill-706) |
+| 707 | **gws-workflow-weekly-digest** ⭐ | `googleworkspace/cli` | 27,590 | [↓](#skill-707) |
+| 708 | **gws-workflow-standup-report** ⭐ | `googleworkspace/cli` | 27,583 | [↓](#skill-708) |
+| 709 | **flutter-setup-localization** ⭐ | `flutter/agent-plugins` | 27,507 | [↓](#skill-709) |
+| 710 | **gws-events** ⭐ | `googleworkspace/cli` | 27,471 | [↓](#skill-710) |
+| 711 | **flutter-add-widget-preview** ⭐ | `flutter/agent-plugins` | 27,465 | [↓](#skill-711) |
+| 712 | **recipe-create-gmail-filter** ⭐ | `googleworkspace/cli` | 27,424 | [↓](#skill-712) |
+| 713 | **code-review-excellence** | `wshobson/agents` | 27,323 | [↓](#skill-713) |
+| 714 | **performance-optimization** | `addyosmani/agent-skills` | 27,268 | [↓](#skill-714) |
+| 715 | **persona-researcher** ⭐ | `googleworkspace/cli` | 27,236 | [↓](#skill-715) |
+| 716 | **api-design-principles** | `wshobson/agents` | 27,206 | [↓](#skill-716) |
+| 717 | **recipe-save-email-attachments** ⭐ | `googleworkspace/cli` | 27,198 | [↓](#skill-717) |
+| 718 | **recipe-backup-sheet-as-csv** ⭐ | `googleworkspace/cli` | 27,140 | [↓](#skill-718) |
+| 719 | **better-auth-security-best-practices** ⭐ | `better-auth/skills` | 27,118 | [↓](#skill-719) |
+| 720 | **recipe-organize-drive-folder** ⭐ | `googleworkspace/cli` | 27,115 | [↓](#skill-720) |
+| 721 | **flutter-use-http-package** ⭐ | `flutter/agent-plugins` | 27,081 | [↓](#skill-721) |
+| 722 | **persona-exec-assistant** ⭐ | `googleworkspace/cli` | 27,055 | [↓](#skill-722) |
+| 723 | **recipe-find-free-time** ⭐ | `googleworkspace/cli` | 26,988 | [↓](#skill-723) |
+| 724 | **layout** | `pbakaus/impeccable` | 26,983 | [↓](#skill-724) |
+| 725 | **swiftui-pro** | `twostraws/swiftui-agent-skill` | 26,977 | [↓](#skill-725) |
+| 726 | **documentation-and-adrs** | `addyosmani/agent-skills` | 26,910 | [↓](#skill-726) |
+| 727 | **recipe-compare-sheet-tabs** ⭐ | `googleworkspace/cli` | 26,910 | [↓](#skill-727) |
+| 728 | **baoyu-compress-image** | `jimliu/baoyu-skills` | 26,886 | [↓](#skill-728) |
+| 729 | **gws-workflow-file-announce** ⭐ | `googleworkspace/cli` | 26,871 | [↓](#skill-729) |
+| 730 | **recipe-plan-weekly-schedule** ⭐ | `googleworkspace/cli` | 26,865 | [↓](#skill-730) |
+| 731 | **recipe-create-doc-from-template** ⭐ | `googleworkspace/cli` | 26,861 | [↓](#skill-731) |
+| 732 | **recipe-sync-contacts-to-sheet** ⭐ | `googleworkspace/cli` | 26,856 | [↓](#skill-732) |
+| 733 | **gws-events-renew** ⭐ | `googleworkspace/cli` | 26,850 | [↓](#skill-733) |
+| 734 | **recipe-bulk-download-folder** ⭐ | `googleworkspace/cli` | 26,846 | [↓](#skill-734) |
+| 735 | **gws-events-subscribe** ⭐ | `googleworkspace/cli` | 26,836 | [↓](#skill-735) |
+| 736 | **baoyu-danger-x-to-markdown** | `jimliu/baoyu-skills` | 26,810 | [↓](#skill-736) |
+| 737 | **persona-content-creator** ⭐ | `googleworkspace/cli` | 26,749 | [↓](#skill-737) |
+| 738 | **baoyu-format-markdown** | `jimliu/baoyu-skills` | 26,748 | [↓](#skill-738) |
+| 739 | **baoyu-danger-gemini-web** | `jimliu/baoyu-skills` | 26,719 | [↓](#skill-739) |
+| 740 | **gws-admin-reports** ⭐ | `googleworkspace/cli` | 26,695 | [↓](#skill-740) |
+| 741 | **higgsfield-game-generation** | `higgsfield-ai/skills` | 26,677 | [↓](#skill-741) |
+| 742 | **code-simplification** | `addyosmani/agent-skills` | 26,674 | [↓](#skill-742) |
+| 743 | **recipe-generate-report-from-sheet** ⭐ | `googleworkspace/cli` | 26,664 | [↓](#skill-743) |
+| 744 | **debugging-and-error-recovery** | `addyosmani/agent-skills` | 26,641 | [↓](#skill-744) |
+| 745 | **docker-expert** | `sickn33/agentic-awesome-skills` | 26,632 | [↓](#skill-745) |
+| 746 | **incremental-implementation** | `addyosmani/agent-skills` | 26,622 | [↓](#skill-746) |
+| 747 | **recipe-reschedule-meeting** ⭐ | `googleworkspace/cli` | 26,560 | [↓](#skill-747) |
+| 748 | **recipe-label-and-archive-emails** ⭐ | `googleworkspace/cli` | 26,559 | [↓](#skill-748) |
+| 749 | **golang-linter** | `samber/cc-skills-golang` | 26,543 | [↓](#skill-749) |
+| 750 | **recipe-save-email-to-doc** ⭐ | `googleworkspace/cli` | 26,530 | [↓](#skill-750) |
+| 751 | **recipe-watch-drive-changes** ⭐ | `googleworkspace/cli` | 26,503 | [↓](#skill-751) |
+| 752 | **recipe-block-focus-time** ⭐ | `googleworkspace/cli` | 26,503 | [↓](#skill-752) |
+| 753 | **persona-team-lead** ⭐ | `googleworkspace/cli` | 26,480 | [↓](#skill-753) |
+| 754 | **recipe-create-shared-drive** ⭐ | `googleworkspace/cli` | 26,472 | [↓](#skill-754) |
+| 755 | **recipe-share-doc-and-notify** ⭐ | `googleworkspace/cli` | 26,399 | [↓](#skill-755) |
+| 756 | **recipe-create-task-list** ⭐ | `googleworkspace/cli` | 26,397 | [↓](#skill-756) |
+| 757 | **recipe-schedule-recurring-event** ⭐ | `googleworkspace/cli` | 26,385 | [↓](#skill-757) |
+| 758 | **recipe-find-large-files** ⭐ | `googleworkspace/cli` | 26,379 | [↓](#skill-758) |
+| 759 | **recipe-copy-sheet-for-new-month** ⭐ | `googleworkspace/cli` | 26,317 | [↓](#skill-759) |
+| 760 | **recipe-review-overdue-tasks** ⭐ | `googleworkspace/cli` | 26,316 | [↓](#skill-760) |
+| 761 | **recipe-batch-invite-to-event** ⭐ | `googleworkspace/cli` | 26,279 | [↓](#skill-761) |
+| 762 | **recipe-collect-form-responses** ⭐ | `googleworkspace/cli` | 26,269 | [↓](#skill-762) |
+| 763 | **recipe-create-events-from-sheet** ⭐ | `googleworkspace/cli` | 26,246 | [↓](#skill-763) |
+| 764 | **mcp-apps-builder** ⭐ | `mcp-use/mcp-use` | 26,199 | [↓](#skill-764) |
+| 765 | **persona-it-admin** ⭐ | `googleworkspace/cli` | 26,198 | [↓](#skill-765) |
+| 766 | **recipe-share-folder-with-team** ⭐ | `googleworkspace/cli` | 26,177 | [↓](#skill-766) |
+| 767 | **persona-event-coordinator** ⭐ | `googleworkspace/cli` | 26,146 | [↓](#skill-767) |
+| 768 | **recipe-forward-labeled-emails** ⭐ | `googleworkspace/cli` | 26,143 | [↓](#skill-768) |
+| 769 | **persona-customer-support** ⭐ | `googleworkspace/cli` | 26,129 | [↓](#skill-769) |
+| 770 | **recipe-create-vacation-responder** ⭐ | `googleworkspace/cli` | 26,129 | [↓](#skill-770) |
+| 771 | **persona-sales-ops** ⭐ | `googleworkspace/cli` | 26,114 | [↓](#skill-771) |
+| 772 | **backlink-analyzer** | `aaron-he-zhu/seo-geo-claude-skills` | 26,091 | [↓](#skill-772) |
+| 773 | **recipe-create-meet-space** ⭐ | `googleworkspace/cli` | 26,090 | [↓](#skill-773) |
+| 774 | **recipe-create-expense-tracker** ⭐ | `googleworkspace/cli` | 26,068 | [↓](#skill-774) |
+| 775 | **gws-modelarmor** ⭐ | `googleworkspace/cli` | 26,059 | [↓](#skill-775) |
+| 776 | **recipe-create-feedback-form** ⭐ | `googleworkspace/cli` | 26,058 | [↓](#skill-776) |
+| 777 | **recipe-review-meet-participants** ⭐ | `googleworkspace/cli` | 26,047 | [↓](#skill-777) |
+| 778 | **recipe-post-mortem-setup** ⭐ | `googleworkspace/cli` | 26,020 | [↓](#skill-778) |
+| 779 | **nestjs-best-practices** | `kadajett/agent-nestjs-skills` | 25,979 | [↓](#skill-779) |
+| 780 | **persona-hr-coordinator** ⭐ | `googleworkspace/cli` | 25,940 | [↓](#skill-780) |
+| 781 | **gws-modelarmor-create-template** ⭐ | `googleworkspace/cli` | 25,925 | [↓](#skill-781) |
+| 782 | **recipe-share-event-materials** ⭐ | `googleworkspace/cli` | 25,876 | [↓](#skill-782) |
+| 783 | **recipe-send-team-announcement** ⭐ | `googleworkspace/cli` | 25,806 | [↓](#skill-783) |
+| 784 | **context-engineering** | `addyosmani/agent-skills` | 25,801 | [↓](#skill-784) |
+| 785 | **gws-modelarmor-sanitize-prompt** ⭐ | `googleworkspace/cli` | 25,717 | [↓](#skill-785) |
+| 786 | **recipe-log-deal-update** ⭐ | `googleworkspace/cli` | 25,714 | [↓](#skill-786) |
+| 787 | **gws-modelarmor-sanitize-response** ⭐ | `googleworkspace/cli` | 25,640 | [↓](#skill-787) |
+| 788 | **gws-classroom** ⭐ | `googleworkspace/cli` | 25,604 | [↓](#skill-788) |
+| 789 | **recipe-create-classroom-course** ⭐ | `googleworkspace/cli` | 25,576 | [↓](#skill-789) |
+| 790 | **stitch-design** ⭐ | `google-labs-code/stitch-skills` | 25,461 | [↓](#skill-790) |
+| 791 | **api-and-interface-design** | `addyosmani/agent-skills` | 25,451 | [↓](#skill-791) |
+| 792 | **documentation-writer** ⭐ | `github/awesome-copilot` | 25,385 | [↓](#skill-792) |
+| 793 | **huashu-nuwa** | `alchaincyf/nuwa-skill` | 25,305 | [↓](#skill-793) |
+| 794 | **remotion-studio** ⭐ | `remotion-dev/skills` | 25,258 | [↓](#skill-794) |
+| 795 | **eas-update-insights** ⭐ | `expo/skills` | 25,157 | [↓](#skill-795) |
+| 796 | **implement-spec** | `mattpocock/skills` | 25,031 | [↓](#skill-796) |
+| 797 | **idea-refine** | `addyosmani/agent-skills` | 24,730 | [↓](#skill-797) |
+| 798 | **using-agent-skills** | `addyosmani/agent-skills` | 24,722 | [↓](#skill-798) |
+| 799 | **interface-design** | `dammyjay93/interface-design` | 24,690 | [↓](#skill-799) |
+| 800 | **landing-page-design** | `skills-101/superpowers` | 24,536 | [↓](#skill-800) |
+| 801 | **git-workflow-and-versioning** | `addyosmani/agent-skills` | 24,382 | [↓](#skill-801) |
+| 802 | **guizang-ppt-skill** | `op7418/guizang-ppt-skill` | 24,298 | [↓](#skill-802) |
+| 803 | **browser-testing-with-devtools** | `addyosmani/agent-skills` | 24,281 | [↓](#skill-803) |
+| 804 | **app-store-screenshots** | `skills-101/superpowers` | 24,249 | [↓](#skill-804) |
+| 805 | **postgresql-table-design** | `wshobson/agents` | 24,247 | [↓](#skill-805) |
+| 806 | **product-photography** | `skills-101/superpowers` | 24,221 | [↓](#skill-806) |
+| 807 | **storyboard-creation** | `skills-101/superpowers` | 24,208 | [↓](#skill-807) |
+| 808 | **character-design-sheet** | `skills-101/superpowers` | 24,199 | [↓](#skill-808) |
+| 809 | **competitor-teardown** | `skills-101/superpowers` | 24,192 | [↓](#skill-809) |
+| 810 | **product-hunt-launch** | `skills-101/superpowers` | 24,191 | [↓](#skill-810) |
+| 811 | **youtube-thumbnail-design** | `skills-101/superpowers` | 24,186 | [↓](#skill-811) |
+| 812 | **video-ad-specs** | `skills-101/superpowers` | 24,186 | [↓](#skill-812) |
+| 813 | **release-skills** | `jimliu/baoyu-skills` | 24,130 | [↓](#skill-813) |
+| 814 | **ci-cd-and-automation** | `addyosmani/agent-skills` | 24,082 | [↓](#skill-814) |
+| 815 | **vue-debug-guides** | `vuejs-ai/skills` | 24,002 | [↓](#skill-815) |
+| 816 | **clerk** ⭐ | `clerk/skills` | 23,939 | [↓](#skill-816) |
+| 817 | **niche-signal-discovery** | `code.deepline.com` | 23,891 | [↓](#skill-817) |
+| 818 | **baoyu-translate** | `jimliu/baoyu-skills` | 23,850 | [↓](#skill-818) |
+| 819 | **react-native-best-practices** ⭐ | `callstackincubator/agent-skills` | 23,793 | [↓](#skill-819) |
+| 820 | **build-tam** | `code.deepline.com` | 23,759 | [↓](#skill-820) |
+| 821 | **portfolio-prospecting** | `code.deepline.com` | 23,669 | [↓](#skill-821) |
+| 822 | **deepline-feedback** | `code.deepline.com` | 23,662 | [↓](#skill-822) |
+| 823 | **clay-to-deepline** | `code.deepline.com` | 23,652 | [↓](#skill-823) |
+| 824 | **marketing-loops** | `coreyhaines31/marketingskills` | 23,645 | [↓](#skill-824) |
+| 825 | **linkedin-url-lookup** | `code.deepline.com` | 23,625 | [↓](#skill-825) |
+| 826 | **source-driven-development** | `addyosmani/agent-skills` | 23,625 | [↓](#skill-826) |
+| 827 | **shipping-and-launch** | `addyosmani/agent-skills` | 23,624 | [↓](#skill-827) |
+| 828 | **deepline-gtm** | `code.deepline.com` | 23,483 | [↓](#skill-828) |
+| 829 | **web-quality-audit** | `addyosmani/web-quality-skills` | 23,436 | [↓](#skill-829) |
+| 830 | **deepline-quickstart** | `code.deepline.com` | 23,422 | [↓](#skill-830) |
+| 831 | **deprecation-and-migration** | `addyosmani/agent-skills` | 23,361 | [↓](#skill-831) |
+| 832 | **fastapi-templates** | `wshobson/agents` | 23,343 | [↓](#skill-832) |
+| 833 | **review-pr** | `warpdotdev/common-skills` | 23,160 | [↓](#skill-833) |
+| 834 | **spec-driven-implementation** | `warpdotdev/common-skills` | 23,093 | [↓](#skill-834) |
+| 835 | **stripe-directory** | `docs.stripe.com` | 23,014 | [↓](#skill-835) |
+| 836 | **write-product-spec** | `warpdotdev/common-skills` | 23,010 | [↓](#skill-836) |
+| 837 | **write-tech-spec** | `warpdotdev/common-skills` | 22,954 | [↓](#skill-837) |
+| 838 | **fix-errors** | `warpdotdev/common-skills` | 22,929 | [↓](#skill-838) |
+| 839 | **resolve-merge-conflicts** | `warpdotdev/common-skills` | 22,922 | [↓](#skill-839) |
+| 840 | **implement-specs** | `warpdotdev/common-skills` | 22,887 | [↓](#skill-840) |
+| 841 | **create-pr** | `warpdotdev/common-skills` | 22,855 | [↓](#skill-841) |
+| 842 | **update-skill** | `warpdotdev/common-skills` | 22,836 | [↓](#skill-842) |
+| 843 | **diagnose-ci-failures** | `warpdotdev/common-skills` | 22,825 | [↓](#skill-843) |
+| 844 | **summarize** | `openclaw/openclaw` | 22,705 | [↓](#skill-844) |
+| 845 | **core-web-vitals** | `addyosmani/web-quality-skills` | 22,636 | [↓](#skill-845) |
+| 846 | **brandalf** | `warpdotdev/common-skills` | 22,576 | [↓](#skill-846) |
+| 847 | **pr-walkthrough** | `warpdotdev/common-skills` | 22,476 | [↓](#skill-847) |
+| 848 | **prd** ⭐ | `github/awesome-copilot` | 22,472 | [↓](#skill-848) |
+| 849 | **dbs** | `dontbesilent2025/dbskill` | 22,196 | [↓](#skill-849) |
+| 850 | **design-system** | `nextlevelbuilder/ui-ux-pro-max-skill` | 22,174 | [↓](#skill-850) |
+| 851 | **gws-script** ⭐ | `googleworkspace/cli` | 22,054 | [↓](#skill-851) |
+| 852 | **multi-stage-dockerfile** ⭐ | `github/awesome-copilot` | 21,926 | [↓](#skill-852) |
+| 853 | **interview-me** | `addyosmani/agent-skills` | 21,915 | [↓](#skill-853) |
+| 854 | **gstack** | `garrytan/gstack` | 21,905 | [↓](#skill-854) |
+| 855 | **council** | `warpdotdev/common-skills` | 21,893 | [↓](#skill-855) |
+| 856 | **gh-cli** ⭐ | `github/awesome-copilot` | 21,875 | [↓](#skill-856) |
+| 857 | **gws-script-push** ⭐ | `googleworkspace/cli` | 21,789 | [↓](#skill-857) |
+| 858 | **marketing-council** | `coreyhaines31/marketingskills` | 21,715 | [↓](#skill-858) |
+| 859 | **nuxt** | `antfu/skills` | 21,708 | [↓](#skill-859) |
+| 860 | **doubt-driven-development** | `addyosmani/agent-skills` | 21,687 | [↓](#skill-860) |
+| 861 | **dbs-content** | `dontbesilent2025/dbskill` | 21,664 | [↓](#skill-861) |
+| 862 | **dbs-diagnosis** | `dontbesilent2025/dbskill` | 21,564 | [↓](#skill-862) |
+| 863 | **e2e-testing-patterns** | `wshobson/agents` | 21,558 | [↓](#skill-863) |
+| 864 | **sanity-best-practices** ⭐ | `sanity-io/agent-toolkit` | 21,557 | [↓](#skill-864) |
+| 865 | **dbs-benchmark** | `dontbesilent2025/dbskill` | 21,509 | [↓](#skill-865) |
+| 866 | **dbs-deconstruct** | `dontbesilent2025/dbskill` | 21,438 | [↓](#skill-866) |
+| 867 | **design** | `nextlevelbuilder/ui-ux-pro-max-skill` | 21,430 | [↓](#skill-867) |
+| 868 | **extension-to-functions-codebase** ⭐ | `firebase/agent-skills` | 21,398 | [↓](#skill-868) |
+| 869 | **check-impl-against-spec** | `warpdotdev/common-skills` | 21,357 | [↓](#skill-869) |
+| 870 | **mobile-android-design** | `wshobson/agents` | 21,318 | [↓](#skill-870) |
+| 871 | **refactor** ⭐ | `github/awesome-copilot` | 21,233 | [↓](#skill-871) |
+| 872 | **reproduce-bug-report** | `warpdotdev/common-skills` | 21,211 | [↓](#skill-872) |
+| 873 | **ui-styling** | `nextlevelbuilder/ui-ux-pro-max-skill` | 21,185 | [↓](#skill-873) |
+| 874 | **architecture-patterns** | `wshobson/agents` | 21,152 | [↓](#skill-874) |
+| 875 | **best-practices** | `addyosmani/web-quality-skills` | 21,048 | [↓](#skill-875) |
+| 876 | **fixing-motion-performance** | `ibelick/ui-skills` | 21,043 | [↓](#skill-876) |
+| 877 | **mediabunny** ⭐ | `remotion-dev/skills` | 20,909 | [↓](#skill-877) |
+| 878 | **skill-vetter** | `useai-pro/openclaw-skills-security` | 20,866 | [↓](#skill-878) |
+| 879 | **mobile-ios-design** | `wshobson/agents` | 20,853 | [↓](#skill-879) |
+| 880 | **dbs-hook** | `dontbesilent2025/dbskill` | 20,850 | [↓](#skill-880) |
+| 881 | **laravel-specialist** | `jeffallan/claude-skills` | 20,800 | [↓](#skill-881) |
+| 882 | **dbs-action** | `dontbesilent2025/dbskill` | 20,646 | [↓](#skill-882) |
+| 883 | **brand** | `nextlevelbuilder/ui-ux-pro-max-skill` | 20,616 | [↓](#skill-883) |
+| 884 | **banner-design** | `nextlevelbuilder/ui-ux-pro-max-skill` | 20,592 | [↓](#skill-884) |
+| 885 | **vueuse-functions** | `antfu/skills` | 20,536 | [↓](#skill-885) |
+| 886 | **firestore-security-rules-auditor** ⭐ | `firebase/agent-skills` | 20,411 | [↓](#skill-886) |
+| 887 | **prompt-engineering-patterns** | `wshobson/agents` | 20,407 | [↓](#skill-887) |
+| 888 | **baoyu-post-to-weibo** | `jimliu/baoyu-skills` | 20,387 | [↓](#skill-888) |
+| 889 | **slides** | `nextlevelbuilder/ui-ux-pro-max-skill` | 20,264 | [↓](#skill-889) |
+| 890 | **error-handling-patterns** | `wshobson/agents` | 20,256 | [↓](#skill-890) |
+| 891 | **caveman-explore** | `juliusbrussee/caveman` | 19,872 | [↓](#skill-891) |
+| 892 | **pnpm** | `antfu/skills` | 19,758 | [↓](#skill-892) |
+| 893 | **caveman-optimize** | `juliusbrussee/caveman` | 19,645 | [↓](#skill-893) |
+| 894 | **respond-to-pr-comments-in-blocklist** | `warpdotdev/common-skills` | 19,574 | [↓](#skill-894) |
+| 895 | **caveman-learn** | `juliusbrussee/caveman` | 19,559 | [↓](#skill-895) |
+| 896 | **java-springboot** ⭐ | `github/awesome-copilot` | 19,545 | [↓](#skill-896) |
+| 897 | **investigate-first** | `juliusbrussee/caveman` | 19,528 | [↓](#skill-897) |
+| 898 | **validate-changes-match-specs** | `warpdotdev/common-skills` | 19,505 | [↓](#skill-898) |
+| 899 | **safe-refactor** | `juliusbrussee/caveman` | 19,487 | [↓](#skill-899) |
+| 900 | **verify-and-stop** | `juliusbrussee/caveman` | 19,480 | [↓](#skill-900) |
+| 901 | **baoyu-youtube-transcript** | `jimliu/baoyu-skills` | 19,471 | [↓](#skill-901) |
+| 902 | **observability-and-instrumentation** | `addyosmani/agent-skills` | 19,425 | [↓](#skill-902) |
+| 903 | **surgical-patch** | `juliusbrussee/caveman` | 19,425 | [↓](#skill-903) |
+| 904 | **caveman-evidence-review** | `juliusbrussee/caveman` | 19,383 | [↓](#skill-904) |
+| 905 | **caveman-discover** | `juliusbrussee/caveman` | 19,373 | [↓](#skill-905) |
+| 906 | **dbs-xhs-title** | `dontbesilent2025/dbskill` | 19,352 | [↓](#skill-906) |
+| 907 | **lean-build** | `juliusbrussee/caveman` | 19,341 | [↓](#skill-907) |
+| 908 | **caveman-manage** | `juliusbrussee/caveman` | 19,302 | [↓](#skill-908) |
+| 909 | **migration** | `juliusbrussee/caveman` | 19,254 | [↓](#skill-909) |
+| 910 | **firecrawl-research-index** ⭐ | `firecrawl/skills` | 19,252 | [↓](#skill-910) |
+| 911 | **python-design-patterns** | `wshobson/agents` | 19,234 | [↓](#skill-911) |
+| 912 | **lark-meeting** | `open.feishu.cn` | 19,176 | [↓](#skill-912) |
+| 913 | **caveman-setup** | `juliusbrussee/caveman` | 19,148 | [↓](#skill-913) |
+| 914 | **gemini-api-dev** ⭐ | `google-gemini/gemini-skills` | 19,099 | [↓](#skill-914) |
+| 915 | **opencli-usage** | `jackwener/opencli` | 19,042 | [↓](#skill-915) |
+| 916 | **clerk-cli** ⭐ | `clerk/skills` | 18,893 | [↓](#skill-916) |
+| 917 | **dbs-ai-check** | `dontbesilent2025/dbskill` | 18,892 | [↓](#skill-917) |
+| 918 | **html-ppt** | `lewislulu/html-ppt-skill` | 18,787 | [↓](#skill-918) |
+| 919 | **wecomcli-doc** | `wecomteam/wecom-cli` | 18,687 | [↓](#skill-919) |
+| 920 | **dbs-chatroom** | `dontbesilent2025/dbskill` | 18,640 | [↓](#skill-920) |
+| 921 | **dbs-slowisfast** | `dontbesilent2025/dbskill` | 18,629 | [↓](#skill-921) |
+| 922 | **dbs-chatroom-austrian** | `dontbesilent2025/dbskill` | 18,547 | [↓](#skill-922) |
+| 923 | **wecomcli-todo** | `wecomteam/wecom-cli` | 18,499 | [↓](#skill-923) |
+| 924 | **wecomcli-contact** | `wecomteam/wecom-cli` | 18,457 | [↓](#skill-924) |
+| 925 | **wecomcli-meeting** | `wecomteam/wecom-cli` | 18,412 | [↓](#skill-925) |
+| 926 | **dbs-agent-migration** | `dontbesilent2025/dbskill` | 18,411 | [↓](#skill-926) |
+| 927 | **baseline-ui** | `ibelick/ui-skills` | 18,344 | [↓](#skill-927) |
+| 928 | **deepline-analytics** | `code.deepline.com` | 18,294 | [↓](#skill-928) |
+| 929 | **modern-javascript-patterns** | `wshobson/agents` | 18,222 | [↓](#skill-929) |
+| 930 | **feature-sliced-design** | `feature-sliced/skills` | 18,038 | [↓](#skill-930) |
+| 931 | **security-requirement-extraction** | `wshobson/agents` | 18,032 | [↓](#skill-931) |
+| 932 | **javascript-testing-patterns** | `wshobson/agents` | 18,000 | [↓](#skill-932) |
+| 933 | **aso-audit** | `coreyhaines31/marketingskills` | 17,996 | [↓](#skill-933) |
+| 934 | **vue-router-best-practices** | `antfu/skills` | 17,902 | [↓](#skill-934) |
+| 935 | **playwright-generate-test** ⭐ | `github/awesome-copilot` | 17,809 | [↓](#skill-935) |
+| 936 | **pricewin-hotel-deal-finder** | `price-win/pricewin-skills-hub` | 17,775 | [↓](#skill-936) |
+| 937 | **opencli-browser** | `jackwener/opencli` | 17,729 | [↓](#skill-937) |
+| 938 | **create-readme** ⭐ | `github/awesome-copilot` | 17,694 | [↓](#skill-938) |
+| 939 | **rust-async-patterns** | `wshobson/agents` | 17,617 | [↓](#skill-939) |
+| 940 | **agent development** ⭐ | `anthropics/claude-code` | 17,555 | [↓](#skill-940) |
+| 941 | **responsive-design** | `wshobson/agents` | 17,437 | [↓](#skill-941) |
+| 942 | **skill development** ⭐ | `anthropics/claude-code` | 17,382 | [↓](#skill-942) |
+| 943 | **pinia** | `antfu/skills` | 17,381 | [↓](#skill-943) |
+| 944 | **sql-optimization-patterns** | `wshobson/agents` | 17,365 | [↓](#skill-944) |
+| 945 | **dbs-report** | `dontbesilent2025/dbskill` | 17,324 | [↓](#skill-945) |
+| 946 | **dbs-save** | `dontbesilent2025/dbskill` | 17,301 | [↓](#skill-946) |
+| 947 | **dbs-restore** | `dontbesilent2025/dbskill` | 17,293 | [↓](#skill-947) |
+| 948 | **ponytail-review** | `dietrichgebert/ponytail` | 17,207 | [↓](#skill-948) |
+| 949 | **planning-with-files-zh** | `othmanadi/planning-with-files` | 17,204 | [↓](#skill-949) |
+| 950 | **fixing-accessibility** | `ibelick/ui-skills` | 17,174 | [↓](#skill-950) |
+| 951 | **the-news** | `sfkislev/the-news` | 17,165 | [↓](#skill-951) |
+| 952 | **golang-pro** | `jeffallan/claude-skills` | 17,124 | [↓](#skill-952) |
 
 </details>
 
@@ -7779,7 +7779,7 @@ npx skills add https://github.com/vercel-labs/agent-skills --skill deploy-to-ver
 npx skills add https://github.com/coreyhaines31/marketingskills --skill ai-seo
 ```
 
-**الأداء:** **التثبيتات:** 114,313 · **الاتجاه:** ➖ +1% (3,804 ← 3,753) · **نجوم GitHub:** 45.6K · **أول ظهور:** Feb 19, 2026
+**الأداء:** **التثبيتات:** 114,313 · **الاتجاه:** ➖ +1% (3,804 ← 3,753) · **نجوم GitHub:** 45.8K · **أول ظهور:** Feb 19, 2026
 
 **الفحص الأمني:** Gen Agent Trust Hub: Pass · Socket: Pass · Snyk: Warn
 
@@ -13261,7 +13261,7 @@ npx skills add https://github.com/firecrawl/cli --skill firecrawl-parse
 
 <a id="skill-461"></a>
 
-### 461. signup 🆕
+### 461. signup
 
 **الوصف:** You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation.
 
@@ -13287,7 +13287,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill signup
 
 <a id="skill-462"></a>
 
-### 462. free-tools 🆕
+### 462. free-tools
 
 **الوصف:** Free Tool Strategy (Engineering as Marketing)
 
@@ -13313,7 +13313,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill free-too
 
 <a id="skill-463"></a>
 
-### 463. aso 🆕
+### 463. aso
 
 **الوصف:** Analyze App Store and Google Play listings against ASO best practices. Fetches
 
@@ -13339,7 +13339,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill aso
 
 <a id="skill-464"></a>
 
-### 464. referrals 🆕
+### 464. referrals
 
 **الوصف:** Referral & Affiliate Programs
 
@@ -13365,7 +13365,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill referral
 
 <a id="skill-465"></a>
 
-### 465. web-search 🆕
+### 465. web-search
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -13391,7 +13391,7 @@ npx skills add https://github.com/skills-101/superpowers --skill web-search
 
 <a id="skill-466"></a>
 
-### 466. popups 🆕
+### 466. popups
 
 **الوصف:** You are an expert in popup and modal optimization. Your goal is to create popups that convert without annoying users or damaging brand perception.
 
@@ -13417,7 +13417,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill popups
 
 <a id="skill-467"></a>
 
-### 467. paywalls 🆕
+### 467. paywalls
 
 **الوصف:** Paywall and Upgrade Screen CRO
 
@@ -13443,7 +13443,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill paywalls
 
 <a id="skill-468"></a>
 
-### 468. agent-tools 🆕
+### 468. agent-tools
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -13468,7 +13468,7 @@ npx skills add https://github.com/skills-101/superpowers --skill agent-tools
 
 <a id="skill-469"></a>
 
-### 469. infsh-cli 🆕
+### 469. infsh-cli
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -13493,7 +13493,7 @@ npx skills add https://github.com/skills-101/superpowers --skill infsh-cli
 
 <a id="skill-470"></a>
 
-### 470. python-executor 🆕
+### 470. python-executor
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -13518,7 +13518,7 @@ npx skills add https://github.com/skills-101/superpowers --skill python-executor
 
 <a id="skill-471"></a>
 
-### 471. gsap-scrolltrigger 🆕
+### 471. gsap-scrolltrigger
 
 **الوصف:** Scroll-linked animations, pinning, scrubbing, and trigger-based callbacks for GSAP timelines and tweens.
 
@@ -13546,7 +13546,7 @@ npx skills add https://github.com/greensock/gsap-skills --skill gsap-scrolltrigg
 
 <a id="skill-472"></a>
 
-### 472. accessibility 🆕
+### 472. accessibility
 
 **الوصف:** Audit and improve web accessibility following WCAG 2.2 guidelines and best practices.
 
@@ -13573,7 +13573,7 @@ npx skills add https://github.com/addyosmani/web-quality-skills --skill accessib
 
 <a id="skill-473"></a>
 
-### 473. cloudflare-email-service ⭐ 🆕
+### 473. cloudflare-email-service ⭐
 
 **الوصف:** Your knowledge of the Cloudflare Email Service, Email Routing or Email Sending may be outdated. Prefer retrieval over pre-training for any Cloudflare Email Service task.
 
@@ -13599,7 +13599,7 @@ npx skills add https://github.com/cloudflare/skills --skill cloudflare-email-ser
 
 <a id="skill-474"></a>
 
-### 474. native-data-fetching ⭐ 🆕
+### 474. native-data-fetching ⭐
 
 **الوصف:** Network requests, API calls, and data fetching for Expo apps with caching, error handling, and offline support.
 
@@ -13626,7 +13626,7 @@ npx skills add https://github.com/expo/skills --skill native-data-fetching
 
 <a id="skill-475"></a>
 
-### 475. hallmark 🆕
+### 475. hallmark
 
 **الوصف:** A design skill for AI coding assistants. Makes the UIs they generate look made, not generated.
 
@@ -13652,7 +13652,7 @@ npx skills add https://github.com/nutlope/hallmark --skill hallmark
 
 <a id="skill-476"></a>
 
-### 476. compress 🆕
+### 476. compress
 
 **الوصف:** Compress natural language memory files into caveman-speak to reduce input tokens.
 
@@ -13679,7 +13679,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill compress
 
 <a id="skill-477"></a>
 
-### 477. captions-overlay 🆕
+### 477. captions-overlay
 
 **الوصف:** Overlay doctrine — supplements the upstream embedded-captions skill. Applies ON TOP of it; do not expect it folded into the upstream skill.
 
@@ -13705,7 +13705,7 @@ npx skills add https://github.com/heygen-com/hyperframes --skill captions-overla
 
 <a id="skill-478"></a>
 
-### 478. motion-doctrine 🆕
+### 478. motion-doctrine
 
 **الوصف:** Read this before composing any animation. It decides WHAT happens at every seam and how
 
@@ -13731,7 +13731,7 @@ npx skills add https://github.com/heygen-com/hyperframes --skill motion-doctrine
 
 <a id="skill-479"></a>
 
-### 479. cut-the-curve 🆕
+### 479. cut-the-curve
 
 **الوصف:** Cut the Curve — the technique catalog
 
@@ -13757,7 +13757,7 @@ npx skills add https://github.com/heygen-com/hyperframes --skill cut-the-curve
 
 <a id="skill-480"></a>
 
-### 480. gsap-performance 🆕
+### 480. gsap-performance
 
 **الوصف:** Optimize GSAP animations for smooth 60fps by favoring transforms, batching DOM operations, and avoiding layout thrashing.
 
@@ -13784,7 +13784,7 @@ npx skills add https://github.com/greensock/gsap-skills --skill gsap-performance
 
 <a id="skill-481"></a>
 
-### 481. seam-craft 🆕
+### 481. seam-craft
 
 **الوصف:** Seam Craft — render prerequisites for scene-to-scene transitions
 
@@ -13810,7 +13810,7 @@ npx skills add https://github.com/heygen-com/hyperframes --skill seam-craft
 
 <a id="skill-482"></a>
 
-### 482. changelog-video 🆕
+### 482. changelog-video
 
 **الوصف:** Input: a changelog .md (themes + items, like the weekly HyperFrames digest).
 
@@ -13836,7 +13836,7 @@ npx skills add https://github.com/heygen-com/hyperframes --skill changelog-video
 
 <a id="skill-483"></a>
 
-### 483. gsap-timeline 🆕
+### 483. gsap-timeline
 
 **الوصف:** Sequence and choreograph multi-step animations with precise timing control and nested timelines.
 
@@ -13864,7 +13864,7 @@ npx skills add https://github.com/greensock/gsap-skills --skill gsap-timeline
 
 <a id="skill-484"></a>
 
-### 484. oversized-cursor 🆕
+### 484. oversized-cursor
 
 **الوصف:** Oversized Cursor — the eye-carrier
 
@@ -13890,7 +13890,7 @@ npx skills add https://github.com/heygen-com/hyperframes --skill oversized-curso
 
 <a id="skill-485"></a>
 
-### 485. humanizer-zh 🆕
+### 485. humanizer-zh
 
 **الوصف:** Detects and removes AI writing patterns to make text sound more natural and human.
 
@@ -13917,7 +13917,7 @@ npx skills add https://github.com/op7418/humanizer-zh --skill humanizer-zh
 
 <a id="skill-486"></a>
 
-### 486. momentic-test 🆕
+### 486. momentic-test
 
 **الوصف:** Create, run, and maintain end-to-end tests using AI-driven browser automation with YAML serialization.
 
@@ -13945,7 +13945,7 @@ npx skills add https://github.com/momentic-ai/skills --skill momentic-test
 
 <a id="skill-487"></a>
 
-### 487. momentic-result-classification 🆕
+### 487. momentic-result-classification
 
 **الوصف:** Momentic result classification (MCP)
 
@@ -13971,7 +13971,7 @@ npx skills add https://github.com/momentic-ai/skills --skill momentic-result-cla
 
 <a id="skill-488"></a>
 
-### 488. gsap-plugins 🆕
+### 488. gsap-plugins
 
 **الوصف:** Complete toolkit for GSAP plugins: scroll, DOM layout, dragging, text splitting, SVG morphing, easing, and physics.
 
@@ -13998,7 +13998,7 @@ npx skills add https://github.com/greensock/gsap-skills --skill gsap-plugins
 
 <a id="skill-489"></a>
 
-### 489. ponytail 🆕
+### 489. ponytail
 
 **الوصف:** You are a lazy senior developer. Lazy means efficient, not careless. You have
 
@@ -14024,7 +14024,7 @@ npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail
 
 <a id="skill-490"></a>
 
-### 490. decision-mapping 🆕
+### 490. decision-mapping
 
 **الوصف:** This skill is invoked when a loose idea requires more than one agent session to turn into a plan. It creates a stateful decision map in a markdown file, and drives the user through a sequence of tickets to resolve the open questions - which may require either prototyping, research or grilling. The map is domain-agnostic: it plans engineering work, course content, or anything else that fits the sam
 
@@ -14050,7 +14050,7 @@ npx skills add https://github.com/mattpocock/skills --skill decision-mapping
 
 <a id="skill-491"></a>
 
-### 491. huashu-design 🆕
+### 491. huashu-design
 
 **الوصف:** Huashu-Design · HTML-first prototyping, animations, and design direction for AI agents.
 
@@ -14078,7 +14078,7 @@ npx skills add https://github.com/alchaincyf/huashu-design --skill huashu-design
 
 <a id="skill-492"></a>
 
-### 492. gsap-utils 🆕
+### 492. gsap-utils
 
 **الوصف:** Pure utility functions for math, value mapping, randomization, array handling, and unit parsing in GSAP animations.
 
@@ -14105,7 +14105,7 @@ npx skills add https://github.com/greensock/gsap-skills --skill gsap-utils
 
 <a id="skill-493"></a>
 
-### 493. gsap-react 🆕
+### 493. gsap-react
 
 **الوصف:** Official GSAP integration for React with useGSAP hook, automatic cleanup, and scoped selectors.
 
@@ -14132,7 +14132,7 @@ npx skills add https://github.com/greensock/gsap-skills --skill gsap-react
 
 <a id="skill-494"></a>
 
-### 494. gws-sheets-read ⭐ 🆕
+### 494. gws-sheets-read ⭐
 
 **الوصف:** Read cell values from a Google Sheet by spreadsheet ID and range.
 
@@ -14159,7 +14159,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-sheets-read
 
 <a id="skill-495"></a>
 
-### 495. nodejs-backend-patterns 🆕
+### 495. nodejs-backend-patterns
 
 **الوصف:** Production-ready Node.js backend patterns with Express/Fastify, middleware, authentication, and database integration.
 
@@ -14187,7 +14187,7 @@ npx skills add https://github.com/wshobson/agents --skill nodejs-backend-pattern
 
 <a id="skill-496"></a>
 
-### 496. remotion-upgrade ⭐ 🆕
+### 496. remotion-upgrade ⭐
 
 **الوصف:** Inspect the project manifests and lockfile to identify the package manager and workspaces. Preserve unrelated changes.
 
@@ -14213,7 +14213,7 @@ npx skills add https://github.com/remotion-dev/skills --skill remotion-upgrade
 
 <a id="skill-497"></a>
 
-### 497. seo-geo 🆕
+### 497. seo-geo
 
 **الوصف:** Optimize websites for AI search engines (ChatGPT, Perplexity, Gemini, Copilot, Claude) and traditional search.
 
@@ -14240,7 +14240,7 @@ npx skills add https://github.com/resciencelab/opc-skills --skill seo-geo
 
 <a id="skill-498"></a>
 
-### 498. git-commit ⭐ 🆕
+### 498. git-commit ⭐
 
 **الوصف:** Standardized git commits using Conventional Commits specification with intelligent diff analysis and message generation.
 
@@ -14268,7 +14268,7 @@ npx skills add https://github.com/github/awesome-copilot --skill git-commit
 
 <a id="skill-499"></a>
 
-### 499. gws-docs-write ⭐ 🆕
+### 499. gws-docs-write ⭐
 
 **الوصف:** Append plain text to the end of a Google Docs document.
 
@@ -14294,7 +14294,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-docs-write
 
 <a id="skill-500"></a>
 
-### 500. upgrading-expo ⭐ 🆕
+### 500. upgrading-expo ⭐
 
 **الوصف:** Structured guidance for upgrading Expo SDK versions and resolving dependency conflicts.
 
@@ -14321,7 +14321,7 @@ npx skills add https://github.com/expo/skills --skill upgrading-expo
 
 <a id="skill-501"></a>
 
-### 501. gws-calendar-agenda ⭐ 🆕
+### 501. gws-calendar-agenda ⭐
 
 **الوصف:** Display upcoming events across all Google Calendars with flexible time range and filtering options.
 
@@ -14348,7 +14348,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-calendar-agend
 
 <a id="skill-502"></a>
 
-### 502. gws-drive-upload ⭐ 🆕
+### 502. gws-drive-upload ⭐
 
 **الوصف:** Upload files to Google Drive with automatic MIME type detection and metadata.
 
@@ -14374,7 +14374,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-drive-upload
 
 <a id="skill-503"></a>
 
-### 503. gsap-frameworks 🆕
+### 503. gsap-frameworks
 
 **الوصف:** GSAP animation setup for Vue, Svelte, Nuxt, and other component frameworks with lifecycle management.
 
@@ -14401,7 +14401,7 @@ npx skills add https://github.com/greensock/gsap-skills --skill gsap-frameworks
 
 <a id="skill-504"></a>
 
-### 504. marketing-plan 🆕
+### 504. marketing-plan
 
 **الوصف:** You are an expert marketing strategist operating at fCMO (fractional CMO) level. Your job is to produce a comprehensive, executable 12-month marketing plan for a specific client or company, structured by AARRR (Acquisition, Activation, Retention, Referral, Revenue), customized to their actual budget, team, stage, and capabilities, and cross-referenced with the full marketing-ideas library and the
 
@@ -14427,7 +14427,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill marketin
 
 <a id="skill-505"></a>
 
-### 505. sms 🆕
+### 505. sms
 
 **الوصف:** You are an expert in SMS and MMS marketing for direct-to-consumer brands, mobile apps, and SaaS products with high-engagement use cases. Your goal is to help plan, build, and optimize SMS programs that drive measurable revenue or activation while staying fully compliant with TCPA and carrier rules.
 
@@ -14453,7 +14453,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill sms
 
 <a id="skill-506"></a>
 
-### 506. prospecting 🆕
+### 506. prospecting
 
 **الوصف:** You are an expert at building qualified prospect lists across four motions: B2B SaaS, general B2B, local small businesses, and early-stage demand-signal discovery (finding your first customers from public pain signals). Your goal is to turn an ICP definition into a verified, scored, ready-to-outreach lead sheet — using the right data sources, qualification signals, and compliance posture for each
 
@@ -14479,7 +14479,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill prospect
 
 <a id="skill-507"></a>
 
-### 507. gws-calendar-insert ⭐ 🆕
+### 507. gws-calendar-insert ⭐
 
 **الوصف:** Create a new Google Calendar event with customizable details and optional attendees.
 
@@ -14506,7 +14506,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-calendar-inser
 
 <a id="skill-508"></a>
 
-### 508. seo 🆕
+### 508. seo
 
 **الوصف:** Technical SEO optimization covering crawlability, on-page elements, structured data, and mobile best practices.
 
@@ -14534,7 +14534,7 @@ npx skills add https://github.com/addyosmani/web-quality-skills --skill seo
 
 <a id="skill-509"></a>
 
-### 509. agent-pulse 🆕
+### 509. agent-pulse
 
 **الوصف:** Use the installed agent-pulse CLI as the source of truth for local AI-agent activity. The PyPI package is agentpulse-cli, while the command remains agent-pulse. Prefer running commands and summarizing their output over reading the Agent Pulse source code.
 
@@ -14560,7 +14560,7 @@ npx skills add https://github.com/jane-o-o-o-o/agent-pulse-skill --skill agent-p
 
 <a id="skill-510"></a>
 
-### 510. planning-with-files 🆕
+### 510. planning-with-files
 
 **الوصف:** File-based task organization and progress tracking for complex multi-step projects.
 
@@ -14587,7 +14587,7 @@ npx skills add https://github.com/othmanadi/planning-with-files --skill planning
 
 <a id="skill-511"></a>
 
-### 511. animate 🆕
+### 511. animate
 
 **الوصف:** A construction skill. It does ONE thing: turn a request for motion into an implementation that would survive a strict review. It does not audit a codebase (that's improve-animations), critique a diff (that's review-animations), hunt for places that could animate (that's find-animation-opportunities), or build for React Native (that's animate-expo).
 
@@ -14613,7 +14613,7 @@ npx skills add https://github.com/emilkowalski/skills --skill animate
 
 <a id="skill-512"></a>
 
-### 512. expo-deployment ⭐ 🆕
+### 512. expo-deployment ⭐
 
 **الوصف:** Automated deployment of Expo apps to iOS App Store, Android Play Store, web hosting, and preview environments.
 
@@ -14641,7 +14641,7 @@ npx skills add https://github.com/expo/skills --skill expo-deployment
 
 <a id="skill-513"></a>
 
-### 513. fastify-best-practices 🆕
+### 513. fastify-best-practices
 
 **الوصف:** Use this skill when you need to:
 
@@ -14667,7 +14667,7 @@ npx skills add https://github.com/mcollina/skills --skill fastify-best-practices
 
 <a id="skill-514"></a>
 
-### 514. arrange 🆕
+### 514. arrange
 
 **الوصف:** Assess and improve layout spacing, visual hierarchy, and rhythm to transform generic arrangements into intentional compositions.
 
@@ -14695,7 +14695,7 @@ npx skills add https://github.com/pbakaus/impeccable --skill arrange
 
 <a id="skill-515"></a>
 
-### 515. gws-gmail-triage ⭐ 🆕
+### 515. gws-gmail-triage ⭐
 
 **الوصف:** Quickly summarize unread Gmail inbox messages with sender, subject, and date.
 
@@ -14722,7 +14722,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-triage
 
 <a id="skill-516"></a>
 
-### 516. expo-cicd-workflows ⭐ 🆕
+### 516. expo-cicd-workflows ⭐
 
 **الوصف:** Write and validate EAS CI/CD workflow YAML files for Expo projects.
 
@@ -14749,7 +14749,7 @@ npx skills add https://github.com/expo/skills --skill expo-cicd-workflows
 
 <a id="skill-517"></a>
 
-### 517. gws-sheets-append ⭐ 🆕
+### 517. gws-sheets-append ⭐
 
 **الوصف:** Append rows to a Google Sheet with simple or bulk input modes.
 
@@ -14776,7 +14776,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-sheets-append
 
 <a id="skill-518"></a>
 
-### 518. byted-web-search 🆕
+### 518. byted-web-search
 
 **الوصف:** 火山引擎 豆包搜索 API（曾用名：联网搜索 / 融合信息搜索 ）。凭证请从 豆包搜索控制台 获取；或从Agent Plan控制台（Agent Plan企业用户Agent Plan企业版控制台）「配置harness」再在 API Key 页 复制 Key。
 
@@ -14802,7 +14802,7 @@ npx skills add https://skills.volces.com/skills/bytedance/agentkit-samples
 
 <a id="skill-519"></a>
 
-### 519. turnstile-spin ⭐ 🆕
+### 519. turnstile-spin ⭐
 
 **الوصف:** Turns the prompt "set up Turnstile" into a working end-to-end integration: a widget, frontend snippets at every chosen insertion point, canonical server-side siteverify in the customer's existing backend, and a real validation pass before reporting success.
 
@@ -14828,7 +14828,7 @@ npx skills add https://github.com/cloudflare/skills --skill turnstile-spin
 
 <a id="skill-520"></a>
 
-### 520. pexo-agent 🆕
+### 520. pexo-agent
 
 **الوصف:** Conversational AI video creation agent that plans, generates, and delivers finished videos from natural language descriptions.
 
@@ -14855,7 +14855,7 @@ npx skills add https://github.com/pexoai/pexo-skills --skill pexo-agent
 
 <a id="skill-521"></a>
 
-### 521. golang-code-style 🆕
+### 521. golang-code-style
 
 **الوصف:** Orchestration mode: Fan out the sub-agents described in the "Parallelizing Code Style Reviews" section, each covering an independent style concern, when reviewing code style across a large codebase, and merge their findings. On Claude Code, use ultracode to opt into multi-agent orchestration explicitly.
 
@@ -14881,7 +14881,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-code-st
 
 <a id="skill-522"></a>
 
-### 522. design-doc-mermaid 🆕
+### 522. design-doc-mermaid
 
 **الوصف:** Mermaid Architect - Hierarchical Diagram and Documentation Skill
 
@@ -14905,7 +14905,7 @@ npx skills add https://github.com/spillwavesolutions/design-doc-mermaid --skill 
 
 <a id="skill-523"></a>
 
-### 523. weread-skills 🆕
+### 523. weread-skills
 
 **الوصف:** 通过 Agent API Gateway 调用微信读书接口，提供搜索、书架、笔记、书评等能力。
 
@@ -14931,7 +14931,7 @@ npx skills add https://github.com/tencent/wechatreading --skill weread-skills
 
 <a id="skill-524"></a>
 
-### 524. golang-error-handling 🆕
+### 524. golang-error-handling
 
 **الوصف:** Persona: You are a Go reliability engineer. You treat every error as an event that must either be handled or propagated with context — silent failures and duplicate logs are equally unacceptable.
 
@@ -14957,7 +14957,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-error-h
 
 <a id="skill-525"></a>
 
-### 525. golang-testing 🆕
+### 525. golang-testing
 
 **الوصف:** Persona: You are a Go engineer who treats tests as executable specifications. You write tests to constrain behavior, not to hit coverage targets.
 
@@ -14983,7 +14983,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-testing
 
 <a id="skill-526"></a>
 
-### 526. gws-tasks ⭐ 🆕
+### 526. gws-tasks ⭐
 
 **الوصف:** Manage Google Tasks lists and individual tasks via command-line API calls.
 
@@ -15010,7 +15010,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-tasks
 
 <a id="skill-527"></a>
 
-### 527. remotion ⭐ 🆕
+### 527. remotion ⭐
 
 **الوصف:** Create professional walkthrough videos from Stitch app designs using Remotion with smooth transitions and text overlays.
 
@@ -15037,7 +15037,7 @@ npx skills add https://github.com/google-labs-code/stitch-skills --skill remotio
 
 <a id="skill-528"></a>
 
-### 528. expo-api-routes ⭐ 🆕
+### 528. expo-api-routes ⭐
 
 **الوصف:** API routes in Expo Router for server-side logic, secrets, and third-party integrations on EAS Hosting.
 
@@ -15065,7 +15065,7 @@ npx skills add https://github.com/expo/skills --skill expo-api-routes
 
 <a id="skill-529"></a>
 
-### 529. golang-design-patterns 🆕
+### 529. golang-design-patterns
 
 **الوصف:** Persona: You are a Go architect who values simplicity and explicitness. You apply patterns only when they solve a real problem — not to demonstrate sophistication — and you push back on premature abstraction.
 
@@ -15091,7 +15091,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-design-
 
 <a id="skill-530"></a>
 
-### 530. golang-performance 🆕
+### 530. golang-performance
 
 **الوصف:** Persona: You are a Go performance engineer. You never optimize without profiling first — measure, hypothesize, change one thing, re-measure.
 
@@ -15117,7 +15117,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-perform
 
 <a id="skill-531"></a>
 
-### 531. golang-security 🆕
+### 531. golang-security
 
 **الوصف:** Persona: You are a senior Go security engineer. You apply security thinking both when auditing existing code and when writing new code — threats are easier to prevent than to fix.
 
@@ -15143,7 +15143,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-securit
 
 <a id="skill-532"></a>
 
-### 532. remotion-maps ⭐ 🆕
+### 532. remotion-maps ⭐
 
 **الوصف:** Choose exactly one technique from the intended shot, then load only that technique's TECHNIQUE.md.
 
@@ -15169,7 +15169,7 @@ npx skills add https://github.com/remotion-dev/skills --skill remotion-maps
 
 <a id="skill-533"></a>
 
-### 533. vue-best-practices 🆕
+### 533. vue-best-practices
 
 **الوصف:** Vue Best Practices Workflow
 
@@ -15195,7 +15195,7 @@ npx skills add https://github.com/vuejs-ai/skills --skill vue-best-practices
 
 <a id="skill-534"></a>
 
-### 534. cloudflare-one ⭐ 🆕
+### 534. cloudflare-one ⭐
 
 **الوصف:** Before citing limits, settings, API fields, category IDs, or exact UI paths, retrieve current information from the Cloudflare One docs, the Cloudflare docs MCP server, or the Cloudflare API schema.
 
@@ -15221,7 +15221,7 @@ npx skills add https://github.com/cloudflare/skills --skill cloudflare-one
 
 <a id="skill-535"></a>
 
-### 535. clerk-setup ⭐ 🆕
+### 535. clerk-setup ⭐
 
 **الوصف:** Framework-agnostic Clerk authentication setup following official quickstart guides.
 
@@ -15249,7 +15249,7 @@ npx skills add https://github.com/clerk/skills --skill clerk-setup
 
 <a id="skill-536"></a>
 
-### 536. anysearch 🆕
+### 536. anysearch
 
 **الوصف:** AnySearch is a unified real-time search service supporting general web search, vertical domain search, parallel batch search, and full-page content extraction. The bundled cross-platform CLI tools call the public HTTP endpoints directly; no MCP server installation or JSON-RPC wrapper is required. Use the configured runtime directly for routine search, batch_search, extract, and get_sub_domains cal
 
@@ -15275,7 +15275,7 @@ npx skills add https://github.com/anysearch-ai/anysearch-skill --skill anysearch
 
 <a id="skill-537"></a>
 
-### 537. firebase-firestore-standard ⭐ 🆕
+### 537. firebase-firestore-standard ⭐
 
 **الوصف:** Complete guide for provisioning, securing, and integrating Cloud Firestore Standard Edition.
 
@@ -15302,7 +15302,7 @@ npx skills add https://github.com/firebase/agent-skills --skill firebase-firesto
 
 <a id="skill-538"></a>
 
-### 538. golang-concurrency 🆕
+### 538. golang-concurrency
 
 **الوصف:** Persona: You are a Go concurrency engineer. You assume every goroutine is a liability until proven necessary — correctness and leak-freedom come before performance.
 
@@ -15328,7 +15328,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-concurr
 
 <a id="skill-539"></a>
 
-### 539. mastra ⭐ 🆕
+### 539. mastra ⭐
 
 **الوصف:** Reference guide for building agents and workflows with current Mastra APIs.
 
@@ -15345,7 +15345,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-concurr
 npx skills add https://github.com/mastra-ai/skills --skill mastra
 ```
 
-**الأداء:** **التثبيتات:** 37,098 · **الاتجاه:** 📈 +343% (3,693 ← 834) · **نجوم GitHub:** 74 · **أول ظهور:** Jan 28, 2026
+**الأداء:** **التثبيتات:** 37,098 · **الاتجاه:** 📈 +343% (3,693 ← 834) · **نجوم GitHub:** 75 · **أول ظهور:** Jan 28, 2026
 
 **الفحص الأمني:** Gen Agent Trust Hub: Pass · Socket: Pass · Snyk: Warn
 
@@ -15355,7 +15355,7 @@ npx skills add https://github.com/mastra-ai/skills --skill mastra
 
 <a id="skill-540"></a>
 
-### 540. clerk-nextjs-patterns ⭐ 🆕
+### 540. clerk-nextjs-patterns ⭐
 
 **الوصف:** Advanced Next.js patterns for authentication, middleware, Server Actions, and user-scoped caching with Clerk.
 
@@ -15382,7 +15382,7 @@ npx skills add https://github.com/clerk/skills --skill clerk-nextjs-patterns
 
 <a id="skill-541"></a>
 
-### 541. cloudflare-one-migrations ⭐ 🆕
+### 541. cloudflare-one-migrations ⭐
 
 **الوصف:** Retrieve current Cloudflare docs, Cloudflare API schemas, and source-vendor export docs before generating exact configuration.
 
@@ -15408,7 +15408,7 @@ npx skills add https://github.com/cloudflare/skills --skill cloudflare-one-migra
 
 <a id="skill-542"></a>
 
-### 542. golang-naming 🆕
+### 542. golang-naming
 
 **الوصف:** Community default. A company skill that explicitly supersedes samber/cc-skills-golang@golang-naming skill takes precedence.
 
@@ -15434,7 +15434,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-naming
 
 <a id="skill-543"></a>
 
-### 543. golang-context 🆕
+### 543. golang-context
 
 **الوصف:** Community default. A company skill that explicitly supersedes samber/cc-skills-golang@golang-context skill takes precedence.
 
@@ -15460,7 +15460,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-context
 
 <a id="skill-544"></a>
 
-### 544. golang-database 🆕
+### 544. golang-database
 
 **الوصف:** Persona: You are a Go backend engineer who writes safe, explicit, and observable database code. You treat SQL as a first-class language — no ORMs, no magic — and you catch data integrity issues at the boundary, not deep in the application.
 
@@ -15486,7 +15486,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-databas
 
 <a id="skill-545"></a>
 
-### 545. golang-documentation 🆕
+### 545. golang-documentation
 
 **الوصف:** Persona: You are a Go technical writer and API designer. You treat documentation as a first-class deliverable — accurate, example-driven, and written for the reader who has never seen this codebase before.
 
@@ -15512,7 +15512,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-documen
 
 <a id="skill-546"></a>
 
-### 546. golang-data-structures 🆕
+### 546. golang-data-structures
 
 **الوصف:** Persona: You are a Go engineer who understands data structure internals. You choose the right structure for the job — not the most familiar one — by reasoning about memory layout, allocation cost, and access patterns.
 
@@ -15538,7 +15538,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-data-st
 
 <a id="skill-547"></a>
 
-### 547. gws-slides ⭐ 🆕
+### 547. gws-slides ⭐
 
 **الوصف:** Read, write, and batch-update Google Slides presentations programmatically.
 
@@ -15565,7 +15565,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-slides
 
 <a id="skill-548"></a>
 
-### 548. golang-safety 🆕
+### 548. golang-safety
 
 **الوصف:** Persona: You are a defensive Go engineer. You treat every untested assumption about nil, capacity, and numeric range as a latent crash waiting to happen.
 
@@ -15591,7 +15591,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-safety
 
 <a id="skill-549"></a>
 
-### 549. golang-modernize 🆕
+### 549. golang-modernize
 
 **الوصف:** Persona: You are a Go modernization engineer. You keep codebases current with the latest Go idioms and standard library improvements — you prioritize safety and correctness fixes first, then readability, then gradual improvements.
 
@@ -15617,7 +15617,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-moderni
 
 <a id="skill-550"></a>
 
-### 550. golang-project-layout 🆕
+### 550. golang-project-layout
 
 **الوصف:** Persona: You are a Go project architect. You right-size structure to the problem — a script stays flat, a service gets layers only when justified by actual complexity.
 
@@ -15643,7 +15643,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-project
 
 <a id="skill-551"></a>
 
-### 551. brand-landingpage 🆕
+### 551. brand-landingpage
 
 **الوصف:** Brand-first landing page designer that interviews your brand identity, then generates and iterates on deployment-ready HTML.
 
@@ -15670,7 +15670,7 @@ npx skills add https://github.com/wshobson/agents --skill brand-landingpage
 
 <a id="skill-552"></a>
 
-### 552. golang-lint 🆕
+### 552. golang-lint
 
 **الوصف:** Persona: You are a Go code quality engineer. You treat linting as a first-class part of the development workflow — not a post-hoc cleanup step.
 
@@ -15696,7 +15696,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-lint
 
 <a id="skill-553"></a>
 
-### 553. golang-troubleshooting 🆕
+### 553. golang-troubleshooting
 
 **الوصف:** Persona: You are a Go systems debugger. You follow evidence, not intuition — instrument, reproduce, and trace root causes systematically.
 
@@ -15722,7 +15722,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-trouble
 
 <a id="skill-554"></a>
 
-### 554. gws-gmail-read ⭐ 🆕
+### 554. gws-gmail-read ⭐
 
 **الوصف:** Extract message body and headers from Gmail using message IDs.
 
@@ -15749,7 +15749,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-read
 
 <a id="skill-555"></a>
 
-### 555. golang-observability 🆕
+### 555. golang-observability
 
 **الوصف:** Persona: You are a Go observability engineer. You treat every unobserved production system as a liability — instrument proactively, correlate signals to diagnose, and never consider a feature done until it is observable.
 
@@ -15775,7 +15775,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-observa
 
 <a id="skill-556"></a>
 
-### 556. clerk-custom-ui ⭐ 🆕
+### 556. clerk-custom-ui ⭐
 
 **الوصف:** Prerequisite: Ensure ClerkProvider wraps your app. See clerk-setup skill.
 
@@ -15801,7 +15801,7 @@ npx skills add https://github.com/clerk/skills --skill clerk-custom-ui
 
 <a id="skill-557"></a>
 
-### 557. golang-dependency-management 🆕
+### 557. golang-dependency-management
 
 **الوصف:** Persona: You are a Go dependency steward. You treat every new dependency as a long-term maintenance commitment — you ask whether the standard library already solves the problem before reaching for an external package.
 
@@ -15827,7 +15827,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-depende
 
 <a id="skill-558"></a>
 
-### 558. golang-popular-libraries 🆕
+### 558. golang-popular-libraries
 
 **الوصف:** Persona: You are a Go ecosystem expert. You know the library landscape well enough to recommend the simplest production-ready option — and to tell the developer when the standard library is already enough.
 
@@ -15853,7 +15853,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-popular
 
 <a id="skill-559"></a>
 
-### 559. golang-structs-interfaces 🆕
+### 559. golang-structs-interfaces
 
 **الوصف:** Persona: You are a Go type system designer. You favor small, composable interfaces and concrete return types — you design for testability and clarity, not for abstraction's sake.
 
@@ -15879,7 +15879,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-structs
 
 <a id="skill-560"></a>
 
-### 560. firebase-firestore-enterprise-native-mode ⭐ 🆕
+### 560. firebase-firestore-enterprise-native-mode ⭐
 
 **الوصف:** Complete guide for provisioning, configuring, and securing Firestore Enterprise Native Mode.
 
@@ -15906,7 +15906,7 @@ npx skills add https://github.com/firebase/agent-skills --skill firebase-firesto
 
 <a id="skill-561"></a>
 
-### 561. golang-dependency-injection 🆕
+### 561. golang-dependency-injection
 
 **الوصف:** Persona: You are a Go software architect. You guide teams toward testable, loosely coupled designs — you choose the simplest DI approach that solves the problem, and you never over-engineer.
 
@@ -15932,7 +15932,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-depende
 
 <a id="skill-562"></a>
 
-### 562. golang-benchmark 🆕
+### 562. golang-benchmark
 
 **الوصف:** Persona: You are a Go performance measurement engineer. You never draw conclusions from a single benchmark run — statistical rigor and controlled conditions are prerequisites before any optimization decision.
 
@@ -15958,7 +15958,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-benchma
 
 <a id="skill-563"></a>
 
-### 563. golang-cli 🆕
+### 563. golang-cli
 
 **الوصف:** Persona: You are a Go CLI engineer. You build tools that feel native to the Unix shell — composable, scriptable, and predictable under automation.
 
@@ -15984,7 +15984,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-cli
 
 <a id="skill-564"></a>
 
-### 564. insforge 🆕
+### 564. insforge
 
 **الوصف:** InsForge App Integration Skill
 
@@ -16010,7 +16010,7 @@ npx skills add https://github.com/insforge/insforge-skills --skill insforge
 
 <a id="skill-565"></a>
 
-### 565. golang-stretchr-testify 🆕
+### 565. golang-stretchr-testify
 
 **الوصف:** Persona: You are a Go engineer who treats tests as executable specifications. You write tests to constrain behavior and make failures self-explanatory — not to hit coverage targets.
 
@@ -16036,7 +16036,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-stretch
 
 <a id="skill-566"></a>
 
-### 566. remotion-multimedia ⭐ 🆕
+### 566. remotion-multimedia ⭐
 
 **الوصف:** Mediabunny is a multimedia library for dealing with audio and video in the browser.
 
@@ -16062,7 +16062,7 @@ npx skills add https://github.com/remotion-dev/skills --skill remotion-multimedi
 
 <a id="skill-567"></a>
 
-### 567. insforge-cli 🆕
+### 567. insforge-cli
 
 **الوصف:** Use this skill whenever someone needs a backend, or when managing InsForge backend and cloud infrastructure with the InsForge CLI. For application code that calls InsForge from a frontend, backend, or edge function, use the insforge app-integration skill instead.
 
@@ -16088,7 +16088,7 @@ npx skills add https://github.com/insforge/insforge-skills --skill insforge-cli
 
 <a id="skill-568"></a>
 
-### 568. golang-grpc 🆕
+### 568. golang-grpc
 
 **الوصف:** Persona: You are a Go distributed systems engineer. You design gRPC services for correctness and operability — proper status codes, deadlines, interceptors, and graceful shutdown matter as much as the happy path.
 
@@ -16114,7 +16114,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-grpc
 
 <a id="skill-569"></a>
 
-### 569. golang-continuous-integration 🆕
+### 569. golang-continuous-integration
 
 **الوصف:** Persona: You are a Go DevOps engineer. You treat CI as a quality gate — every pipeline decision is weighed against build speed, signal reliability, and security posture.
 
@@ -16140,7 +16140,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-continu
 
 <a id="skill-570"></a>
 
-### 570. value 🆕
+### 570. value
 
 **الوصف:** This skill does absolutely nothing.
 
@@ -16160,7 +16160,7 @@ npx skills add https://github.com/hugmouse/skills --skill value
 
 <a id="skill-571"></a>
 
-### 571. golang-stay-updated 🆕
+### 571. golang-stay-updated
 
 **الوصف:** A curated guide to keeping your finger on the pulse of the Go ecosystem.
 
@@ -16186,7 +16186,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-stay-up
 
 <a id="skill-572"></a>
 
-### 572. golang-samber-lo 🆕
+### 572. golang-samber-lo
 
 **الوصف:** Persona: You are a Go engineer who prefers declarative collection transforms over manual loops. You reach for lo to eliminate boilerplate, but you know when the stdlib is enough and when to upgrade to lop, lom, or loi.
 
@@ -16212,7 +16212,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-
 
 <a id="skill-573"></a>
 
-### 573. review-loop 🆕
+### 573. review-loop
 
 **الوصف:** Iterative worker-reviewer cycle within a single session. You do the work, spawn a reviewer subagent to critique it, revise based on feedback, repeat until quality gate is met.
 
@@ -16238,7 +16238,7 @@ npx skills add https://github.com/2dmurali/review-loop-skill --skill review-loop
 
 <a id="skill-574"></a>
 
-### 574. nx-workspace 🆕
+### 574. nx-workspace
 
 **الوصف:** This skill provides read-only exploration of Nx workspaces. Use it to understand workspace structure, project configuration, available targets, and dependencies.
 
@@ -16264,7 +16264,7 @@ npx skills add https://github.com/nrwl/nx-ai-agents-config --skill nx-workspace
 
 <a id="skill-575"></a>
 
-### 575. golang-samber-do 🆕
+### 575. golang-samber-do
 
 **الوصف:** Persona: You are a Go architect setting up dependency injection. You keep the container at the composition root, depend on interfaces not concrete types, and treat provider errors as first-class failures.
 
@@ -16290,7 +16290,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-
 
 <a id="skill-576"></a>
 
-### 576. golang-samber-slog 🆕
+### 576. golang-samber-slog
 
 **الوصف:** Persona: You are a Go logging architect. You design log pipelines where every record flows through the right handlers — sampling drops noise early, formatters strip PII before records leave the process, and routers send errors to Sentry while info goes to Loki.
 
@@ -16316,7 +16316,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-
 
 <a id="skill-577"></a>
 
-### 577. golang-samber-oops 🆕
+### 577. golang-samber-oops
 
 **الوصف:** Persona: You are a Go engineer who treats errors as structured data. Every error carries enough context — domain, attributes, trace — for an on-call engineer to diagnose the problem without asking the developer.
 
@@ -16342,7 +16342,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-
 
 <a id="skill-578"></a>
 
-### 578. golang-samber-mo 🆕
+### 578. golang-samber-mo
 
 **الوصف:** Persona: You are a Go engineer bringing functional programming safety to Go. You use monads to make impossible states unrepresentable — nil checks become type constraints, error handling becomes composable pipelines.
 
@@ -16368,7 +16368,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-
 
 <a id="skill-579"></a>
 
-### 579. golang-samber-hot 🆕
+### 579. golang-samber-hot
 
 **الوصف:** Persona: You are a Go engineer who treats caching as a system design decision. You choose eviction algorithms based on measured access patterns, size caches from working-set data, and always plan for expiration, loader failures, and monitoring.
 
@@ -16394,7 +16394,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-
 
 <a id="skill-580"></a>
 
-### 580. golang-samber-ro 🆕
+### 580. golang-samber-ro
 
 **الوصف:** Persona: You are a Go engineer who reaches for reactive streams when data flows asynchronously or infinitely. You use samber/ro to build declarative pipelines instead of manual goroutine/channel wiring, but you know when a simple slice + samber/lo is enough.
 
@@ -16420,7 +16420,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-
 
 <a id="skill-581"></a>
 
-### 581. gws-forms ⭐ 🆕
+### 581. gws-forms ⭐
 
 **الوصف:** Read and write Google Forms through direct API resource commands.
 
@@ -16447,7 +16447,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-forms
 
 <a id="skill-582"></a>
 
-### 582. clerk-backend-api ⭐ 🆕
+### 582. clerk-backend-api ⭐
 
 **الوصف:** CRITICAL: Mandatory checks before EVERY write request
 
@@ -16473,7 +16473,7 @@ npx skills add https://github.com/clerk/skills --skill clerk-backend-api
 
 <a id="skill-583"></a>
 
-### 583. replicas-agent 🆕
+### 583. replicas-agent
 
 **الوصف:** Background coding agent guide for Replicas cloud workspaces with integrations for previews, Slack, Linear, GitHub, Google Workspace, Docker, and media sharing.
 
@@ -16501,7 +16501,7 @@ npx skills add https://github.com/replicas-group/skill --skill replicas-agent
 
 <a id="skill-584"></a>
 
-### 584. last30days 🆕
+### 584. last30days
 
 **الوصف:** STEP 0: STALE-CLONE SELF-CHECK — RUN BEFORE READING BELOW
 
@@ -16525,7 +16525,7 @@ npx skills add https://github.com/mvanhorn/last30days-skill --skill last30days
 
 <a id="skill-585"></a>
 
-### 585. firebase-ai-logic ⭐ 🆕
+### 585. firebase-ai-logic ⭐
 
 **الوصف:** Client-side Gemini integration for web apps with multimodal inference, streaming, and on-device hybrid execution.
 
@@ -16553,7 +16553,7 @@ npx skills add https://github.com/firebase/agent-skills --skill firebase-ai-logi
 
 <a id="skill-586"></a>
 
-### 586. gws-meet ⭐ 🆕
+### 586. gws-meet ⭐
 
 **الوصف:** Create, manage, and query Google Meet conferences and meeting spaces via the Google Meet API.
 
@@ -16580,7 +16580,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-meet
 
 <a id="skill-587"></a>
 
-### 587. clerk-webhooks ⭐ 🆕
+### 587. clerk-webhooks ⭐
 
 **الوصف:** Output complete, working webhook handlers with verifyWebhook(req) verification in every handler.
 
@@ -16606,7 +16606,7 @@ npx skills add https://github.com/clerk/skills --skill clerk-webhooks
 
 <a id="skill-588"></a>
 
-### 588. herdr 🆕
+### 588. herdr
 
 **الوصف:** Herdr organizes terminals into workspaces, tabs, and panes, recognizes coding agents running inside panes, and exposes the current session through the herdr CLI.
 
@@ -16632,7 +16632,7 @@ npx skills add https://github.com/herdrdev/herdr --skill herdr
 
 <a id="skill-589"></a>
 
-### 589. golang-swagger 🆕
+### 589. golang-swagger
 
 **الوصف:** Persona: You are a Go API documentation engineer. You treat docs as a contract — accurate, complete annotations prevent integration bugs and make the Swagger UI the source of truth for API consumers.
 
@@ -16658,7 +16658,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-swagger
 
 <a id="skill-590"></a>
 
-### 590. golang-spf13-cobra 🆕
+### 590. golang-spf13-cobra
 
 **الوصف:** Persona: You are a Go CLI engineer building command trees that feel native to the Unix shell. You design the user-facing surface first, then wire behavior into the right hook.
 
@@ -16684,7 +16684,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-spf13-c
 
 <a id="skill-591"></a>
 
-### 591. golang-graphql 🆕
+### 591. golang-graphql
 
 **الوصف:** Persona: You are a Go GraphQL engineer. You design schemas deliberately, batch database access to prevent N+1, and treat query complexity limits as non-optional in production.
 
@@ -16710,7 +16710,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-graphql
 
 <a id="skill-592"></a>
 
-### 592. vite 🆕
+### 592. vite
 
 **الوصف:** Next-generation frontend build tool with native ESM dev server, HMR, and Rolldown-powered production builds.
 
@@ -16738,7 +16738,7 @@ npx skills add https://github.com/antfu/skills --skill vite
 
 <a id="skill-593"></a>
 
-### 593. golang-spf13-viper 🆕
+### 593. golang-spf13-viper
 
 **الوصف:** Persona: You are a Go engineer who treats configuration as a layered system. Flag beats env beats file beats default — and you bind every key so all four layers stay reachable through one API.
 
@@ -16764,7 +16764,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-spf13-v
 
 <a id="skill-594"></a>
 
-### 594. golang-google-wire 🆕
+### 594. golang-google-wire
 
 **الوصف:** Persona: You are a Go architect using wire for compile-time DI. You let the compiler catch missing dependencies, treat wire_gen.go as committed source, and re-run wire ./... after every graph change.
 
@@ -16790,7 +16790,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-google-
 
 <a id="skill-595"></a>
 
-### 595. developing-genkit-python ⭐ 🆕
+### 595. developing-genkit-python ⭐
 
 **الوصف:** Build AI applications in Python using Genkit with flows, tools, and multiple model providers.
 
@@ -16817,7 +16817,7 @@ npx skills add https://github.com/firebase/agent-skills --skill developing-genki
 
 <a id="skill-596"></a>
 
-### 596. golang-uber-fx 🆕
+### 596. golang-uber-fx
 
 **الوصف:** Persona: You are a Go architect building a long-running service with fx. You wire the graph at the composition root, push lifecycle into hooks instead of init(), and treat modules as the unit of reuse.
 
@@ -16843,7 +16843,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-uber-fx
 
 <a id="skill-597"></a>
 
-### 597. golang-uber-dig 🆕
+### 597. golang-uber-dig
 
 **الوصف:** Persona: You are a Go architect wiring an application graph with dig. You keep the container at the composition root, depend on interfaces not concrete types, and treat constructor errors as first-class failures.
 
@@ -16869,7 +16869,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-uber-di
 
 <a id="skill-598"></a>
 
-### 598. karpathy-guidelines 🆕
+### 598. karpathy-guidelines
 
 **الوصف:** Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
@@ -16895,7 +16895,7 @@ npx skills add https://github.com/multica-ai/andrej-karpathy-skills --skill karp
 
 <a id="skill-599"></a>
 
-### 599. vitest 🆕
+### 599. vitest
 
 **الوصف:** Vite-powered unit testing framework with Jest-compatible API and native ESM support.
 
@@ -16923,7 +16923,7 @@ npx skills add https://github.com/antfu/skills --skill vitest
 
 <a id="skill-600"></a>
 
-### 600. sandbox-sdk ⭐ 🆕
+### 600. sandbox-sdk ⭐
 
 **الوصف:** Build secure, isolated code execution environments on Cloudflare Workers.
 
@@ -16949,7 +16949,7 @@ npx skills add https://github.com/cloudflare/skills --skill sandbox-sdk
 
 <a id="skill-601"></a>
 
-### 601. firecrawl-deep-research ⭐ 🆕
+### 601. firecrawl-deep-research ⭐
 
 **الوصف:** Use this only for report-scale research: a rigorous, cited synthesis the user
 
@@ -16975,7 +16975,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-602"></a>
 
-### 602. self-improving-agent 🆕
+### 602. self-improving-agent
 
 **الوصف:** Turn evidence from completed work into a small, auditable behavior change. The
 
@@ -17001,7 +17001,7 @@ npx skills add https://github.com/zhaono1/agent-playbook --skill self-improving-
 
 <a id="skill-603"></a>
 
-### 603. baoyu-post-to-wechat 🆕
+### 603. baoyu-post-to-wechat
 
 **الوصف:** Publish articles and image-text posts to WeChat Official Accounts via API or browser automation.
 
@@ -17029,7 +17029,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-wech
 
 <a id="skill-604"></a>
 
-### 604. public-relations 🆕
+### 604. public-relations
 
 **الوصف:** Public Relations & Earned Media
 
@@ -17055,7 +17055,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill public-r
 
 <a id="skill-605"></a>
 
-### 605. ckm:design-system 🆕
+### 605. ckm:design-system
 
 **الوصف:** Token architecture, component specifications, systematic design, slide generation.
 
@@ -17079,7 +17079,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill c
 
 <a id="skill-606"></a>
 
-### 606. gws-gmail-watch ⭐ 🆕
+### 606. gws-gmail-watch ⭐
 
 **الوصف:** Stream new Gmail messages as NDJSON with Pub/Sub-backed polling and optional file output.
 
@@ -17106,7 +17106,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-watch
 
 <a id="skill-607"></a>
 
-### 607. golang-how-to 🆕
+### 607. golang-how-to
 
 **الوصف:** Persona: You are a Go skills orchestrator. For every Go task, identify all relevant skills and load them together — a task rarely belongs to a single skill.
 
@@ -17132,7 +17132,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-how-to
 
 <a id="skill-608"></a>
 
-### 608. ckm:design 🆕
+### 608. ckm:design
 
 **الوصف:** Unified design skill: brand, tokens, UI, logo, CIP, slides, banners, social photos, icons.
 
@@ -17156,7 +17156,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill c
 
 <a id="skill-609"></a>
 
-### 609. vue 🆕
+### 609. vue
 
 **الوصف:** Vue 3 Composition API with script setup, reactivity system, and built-in components for single-file components.
 
@@ -17183,7 +17183,7 @@ npx skills add https://github.com/antfu/skills --skill vue
 
 <a id="skill-610"></a>
 
-### 610. clerk-orgs ⭐ 🆕
+### 610. clerk-orgs ⭐
 
 **الوصف:** STOP — prerequisite. Organizations must be enabled before any org-related API, hook, or component works. Two paths: (1) Dashboard → Organizations settings, or (2) clerk enable orgs (see "Agent-first: Programmatic org management" below). Pick the Membership mode deliberately: Membership required (default since 2025-08-22) routes signed-in users through the choose-organization task and disables pers
 
@@ -17209,7 +17209,7 @@ npx skills add https://github.com/clerk/skills --skill clerk-orgs
 
 <a id="skill-611"></a>
 
-### 611. ckm:ui-styling 🆕
+### 611. ckm:ui-styling
 
 **الوصف:** Comprehensive skill for creating beautiful, accessible user interfaces combining shadcn/ui components, Tailwind CSS utility styling, and canvas-based visual design systems.
 
@@ -17232,7 +17232,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill c
 
 <a id="skill-612"></a>
 
-### 612. gws-keep ⭐ 🆕
+### 612. gws-keep ⭐
 
 **الوصف:** Create, retrieve, list, delete, and manage permissions for Google Keep notes via CLI.
 
@@ -17259,7 +17259,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-keep
 
 <a id="skill-613"></a>
 
-### 613. firecrawl-research-papers ⭐ 🆕
+### 613. firecrawl-research-papers ⭐
 
 **الوصف:** Use this to create a sourced literature review.
 
@@ -17285,7 +17285,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-614"></a>
 
-### 614. code-review-and-quality 🆕
+### 614. code-review-and-quality
 
 **الوصف:** Multi-dimensional code review with quality gates. Every change gets reviewed before merge — no exceptions. Review covers five axes: correctness, readability, architecture, security, and performance.
 
@@ -17311,7 +17311,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill code-review-an
 
 <a id="skill-615"></a>
 
-### 615. firecrawl-website-design-clone ⭐ 🆕
+### 615. firecrawl-website-design-clone ⭐
 
 **الوصف:** Firecrawl Website Design Clone
 
@@ -17337,7 +17337,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-616"></a>
 
-### 616. insforge-debug 🆕
+### 616. insforge-debug
 
 **الوصف:** Diagnose problems in InsForge projects by combining the backend's observability primitives — logs, metrics, db-health, advisor, policies, metadata, error objects, deploy state, and AI assist. This skill provides:
 
@@ -17363,7 +17363,7 @@ npx skills add https://github.com/insforge/insforge-skills --skill insforge-debu
 
 <a id="skill-617"></a>
 
-### 617. flutter-apply-architecture-best-practices ⭐ 🆕
+### 617. flutter-apply-architecture-best-practices ⭐
 
 **الوصف:** Architecting Flutter Applications
 
@@ -17389,7 +17389,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-apply-ar
 
 <a id="skill-618"></a>
 
-### 618. ckm:brand 🆕
+### 618. ckm:brand
 
 **الوصف:** Brand identity, voice, messaging, asset management, and consistency frameworks.
 
@@ -17413,7 +17413,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill c
 
 <a id="skill-619"></a>
 
-### 619. ckm:banner-design 🆕
+### 619. ckm:banner-design
 
 **الوصف:** Banner Design - Multi-Format Creative Banner System
 
@@ -17437,7 +17437,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill c
 
 <a id="skill-620"></a>
 
-### 620. ckm:slides 🆕
+### 620. ckm:slides
 
 **الوصف:** Strategic HTML presentation design with data visualization.
 
@@ -17461,7 +17461,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill c
 
 <a id="skill-621"></a>
 
-### 621. clerk-testing ⭐ 🆕
+### 621. clerk-testing ⭐
 
 **الوصف:** https://clerk.com/docs/guides/development/testing/overview
 
@@ -17487,7 +17487,7 @@ npx skills add https://github.com/clerk/skills --skill clerk-testing
 
 <a id="skill-622"></a>
 
-### 622. python-performance-optimization 🆕
+### 622. python-performance-optimization
 
 **الوصف:** Profile and optimize Python code using cProfile, memory profilers, and performance best practices.
 
@@ -17514,7 +17514,7 @@ npx skills add https://github.com/wshobson/agents --skill python-performance-opt
 
 <a id="skill-623"></a>
 
-### 623. baoyu-image-gen 🆕
+### 623. baoyu-image-gen
 
 **الوصف:** Multi-provider AI image generation with text-to-image, reference images, batch processing, and quality presets.
 
@@ -17542,7 +17542,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-image-gen
 
 <a id="skill-624"></a>
 
-### 624. offers 🆕
+### 624. offers
 
 **الوصف:** You are an expert in offer construction. Your goal is to help the user build offers that move — not by writing better copy on a worse offer, but by improving the offer itself.
 
@@ -17568,7 +17568,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill offers
 
 <a id="skill-625"></a>
 
-### 625. firecrawl-market-research ⭐ 🆕
+### 625. firecrawl-market-research ⭐
 
 **الوصف:** Use this for sourced market and financial research.
 
@@ -17594,7 +17594,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-626"></a>
 
-### 626. angular-developer 🆕
+### 626. angular-developer
 
 **الوصف:** Generate Angular code and provide architectural guidance across the full framework stack.
 
@@ -17621,7 +17621,7 @@ npx skills add https://github.com/angular/skills --skill angular-developer
 
 <a id="skill-627"></a>
 
-### 627. insforge-integrations 🆕
+### 627. insforge-integrations
 
 **الوصف:** This skill covers integrating third-party providers with InsForge. Currently two categories are supported: auth providers (RLS via JWT claims) and payment facilitators (x402 HTTP payment protocol). Each provider has its own guide under this directory.
 
@@ -17647,7 +17647,7 @@ npx skills add https://github.com/insforge/insforge-skills --skill insforge-inte
 
 <a id="skill-628"></a>
 
-### 628. performance 🆕
+### 628. performance
 
 **الوصف:** Lighthouse-based performance optimization with budgets, critical rendering path guidance, and Core Web Vitals alignment.
 
@@ -17675,7 +17675,7 @@ npx skills add https://github.com/addyosmani/web-quality-skills --skill performa
 
 <a id="skill-629"></a>
 
-### 629. browser-mcp-agent 🆕
+### 629. browser-mcp-agent
 
 **الوصف:** Run antibrow as an MCP server so an AI agent can launch and control a real, fingerprinted browser directly through tool calls - no Playwright code, no custom automation script. The agent navigates, clicks, fills forms, and reads pages itself.
 
@@ -17701,7 +17701,7 @@ npx skills add https://github.com/antibrow/anti-detect-browser-skills --skill br
 
 <a id="skill-630"></a>
 
-### 630. multi-account-isolation 🆕
+### 630. multi-account-isolation
 
 **الوصف:** Profile Isolation - verifying it, not assuming it
 
@@ -17727,7 +17727,7 @@ npx skills add https://github.com/antibrow/anti-detect-browser-skills --skill mu
 
 <a id="skill-631"></a>
 
-### 631. firecrawl-seo-audit ⭐ 🆕
+### 631. firecrawl-seo-audit ⭐
 
 **الوصف:** Use this to turn a website into a specific, prioritized SEO audit.
 
@@ -17753,7 +17753,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-632"></a>
 
-### 632. email-and-password-best-practices ⭐ 🆕
+### 632. email-and-password-best-practices ⭐
 
 **الوصف:** Email verification, password reset flows, and customizable password policies for Better Auth.
 
@@ -17780,7 +17780,7 @@ npx skills add https://github.com/better-auth/skills --skill email-and-password-
 
 <a id="skill-633"></a>
 
-### 633. momentic-mobile-test 🆕
+### 633. momentic-mobile-test
 
 **الوصف:** Momentic Mobile turns structured natural language into native and webview
 
@@ -17806,7 +17806,7 @@ npx skills add https://github.com/momentic-ai/skills --skill momentic-mobile-tes
 
 <a id="skill-634"></a>
 
-### 634. firecrawl-monitor ⭐ 🆕
+### 634. firecrawl-monitor ⭐
 
 **الوصف:** Detect when content on a website changes and get notified by webhook or email. Firecrawl handles fetching, diffing, judging, and notifying server-side. Each page in a check is labeled same, new, changed, removed, or error.
 
@@ -17832,7 +17832,7 @@ npx skills add https://github.com/firecrawl/cli --skill firecrawl-monitor
 
 <a id="skill-635"></a>
 
-### 635. firecrawl-knowledge-base ⭐ 🆕
+### 635. firecrawl-knowledge-base ⭐
 
 **الوصف:** Use this to turn URLs or topics into organized LLM-ready content.
 
@@ -17858,7 +17858,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-636"></a>
 
-### 636. firecrawl-workflows ⭐ 🆕
+### 636. firecrawl-workflows ⭐
 
 **الوصف:** Use this when the user wants a finished deliverable powered by Firecrawl, not only raw web extraction and not product-code integration.
 
@@ -17878,7 +17878,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-637"></a>
 
-### 637. flutter-build-responsive-layout ⭐ 🆕
+### 637. flutter-build-responsive-layout ⭐
 
 **الوصف:** Implementing Adaptive Layouts
 
@@ -17904,7 +17904,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-build-re
 
 <a id="skill-638"></a>
 
-### 638. firecrawl-dashboard-reporting ⭐ 🆕
+### 638. firecrawl-dashboard-reporting ⭐
 
 **الوصف:** Firecrawl Dashboard Reporting
 
@@ -17930,7 +17930,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-639"></a>
 
-### 639. firecrawl-lead-gen ⭐ 🆕
+### 639. firecrawl-lead-gen ⭐
 
 **الوصف:** Use this to extract legitimately accessible prospect lists.
 
@@ -17956,7 +17956,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-640"></a>
 
-### 640. python-testing-patterns 🆕
+### 640. python-testing-patterns
 
 **الوصف:** Comprehensive testing strategies for Python using pytest, fixtures, mocking, and test-driven development.
 
@@ -17983,7 +17983,7 @@ npx skills add https://github.com/wshobson/agents --skill python-testing-pattern
 
 <a id="skill-641"></a>
 
-### 641. baoyu-infographic 🆕
+### 641. baoyu-infographic
 
 **الوصف:** Professional infographics combining 21 layout types with 20 visual styles for publication-ready output.
 
@@ -18010,7 +18010,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-infographic
 
 <a id="skill-642"></a>
 
-### 642. firecrawl-lead-research ⭐ 🆕
+### 642. firecrawl-lead-research ⭐
 
 **الوصف:** Use this to create a concise, actionable pre-meeting brief.
 
@@ -18036,7 +18036,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-643"></a>
 
-### 643. firecrawl-shop ⭐ 🆕
+### 643. firecrawl-shop ⭐
 
 **الوصف:** Use this to research products and recommend a purchase option. Only add items to a cart when the user explicitly asks and has an authenticated browser profile available.
 
@@ -18062,7 +18062,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-644"></a>
 
-### 644. expo-module ⭐ 🆕
+### 644. expo-module ⭐
 
 **الوصف:** Complete reference for building native modules and views with the Expo Modules API across Swift, Kotlin, and TypeScript.
 
@@ -18089,7 +18089,7 @@ npx skills add https://github.com/expo/skills --skill expo-module
 
 <a id="skill-645"></a>
 
-### 645. firecrawl-competitive-intel ⭐ 🆕
+### 645. firecrawl-competitive-intel ⭐
 
 **الوصف:** Firecrawl Competitive Intel
 
@@ -18115,7 +18115,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-646"></a>
 
-### 646. firecrawl-qa ⭐ 🆕
+### 646. firecrawl-qa ⭐
 
 **الوصف:** Use this to test a live site and return a unified QA report.
 
@@ -18141,7 +18141,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-647"></a>
 
-### 647. use-dom ⭐ 🆕
+### 647. use-dom ⭐
 
 **الوصف:** Run web-only libraries in Expo apps by rendering them in webviews on native and as-is on web.
 
@@ -18169,7 +18169,7 @@ npx skills add https://github.com/expo/skills --skill use-dom
 
 <a id="skill-648"></a>
 
-### 648. firecrawl-knowledge-ingest ⭐ 🆕
+### 648. firecrawl-knowledge-ingest ⭐
 
 **الوصف:** Firecrawl Knowledge Ingest
 
@@ -18195,7 +18195,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-649"></a>
 
-### 649. firecrawl-company-directories ⭐ 🆕
+### 649. firecrawl-company-directories ⭐
 
 **الوصف:** Firecrawl Company Directories
 
@@ -18221,7 +18221,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-650"></a>
 
-### 650. firecrawl-demo-walkthrough ⭐ 🆕
+### 650. firecrawl-demo-walkthrough ⭐
 
 **الوصف:** Firecrawl Demo Walkthrough
 
@@ -18247,7 +18247,7 @@ npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecraw
 
 <a id="skill-651"></a>
 
-### 651. improve 🆕
+### 651. improve
 
 **الوصف:** You are a senior advisor, not an implementer. Your job is to deeply understand a codebase, find the highest-value improvement opportunities, and write implementation plans good enough that a different, less capable model with zero context from this session can execute, test, and maintain them.
 
@@ -18273,7 +18273,7 @@ npx skills add https://github.com/shadcn/improve --skill improve
 
 <a id="skill-652"></a>
 
-### 652. baoyu-markdown-to-html 🆕
+### 652. baoyu-markdown-to-html
 
 **الوصف:** Converts Markdown to styled HTML with WeChat-optimized themes, code highlighting, and optional bottom citations.
 
@@ -18301,7 +18301,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-markdown-to-
 
 <a id="skill-653"></a>
 
-### 653. shape 🆕
+### 653. shape
 
 **الوصف:** Structured UX and UI planning through discovery interview, producing a design brief before implementation.
 
@@ -18328,7 +18328,7 @@ npx skills add https://github.com/pbakaus/impeccable --skill shape
 
 <a id="skill-654"></a>
 
-### 654. gws-gmail-reply ⭐ 🆕
+### 654. gws-gmail-reply ⭐
 
 **الوصف:** Automatically reply to Gmail messages with full threading and recipient management.
 
@@ -18355,7 +18355,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-reply
 
 <a id="skill-655"></a>
 
-### 655. baoyu-cover-image 🆕
+### 655. baoyu-cover-image
 
 **الوصف:** Generate customizable article cover images across 5 independent dimensions and 3 aspect ratios.
 
@@ -18383,7 +18383,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-cover-image
 
 <a id="skill-656"></a>
 
-### 656. baoyu-article-illustrator 🆕
+### 656. baoyu-article-illustrator
 
 **الوصف:** Analyzes article structure and generates contextual illustrations using Type × Style two-dimension approach.
 
@@ -18411,7 +18411,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-article-illu
 
 <a id="skill-657"></a>
 
-### 657. tavily-search ⭐ 🆕
+### 657. tavily-search ⭐
 
 **الوصف:** Web search with LLM-optimized results, content snippets, and relevance scores.
 
@@ -18438,7 +18438,7 @@ npx skills add https://github.com/tavily-ai/skills --skill tavily-search
 
 <a id="skill-658"></a>
 
-### 658. swiftui-expert-skill 🆕
+### 658. swiftui-expert-skill
 
 **الوصف:** Expert SwiftUI code review, refactoring, and implementation guidance with iOS 26+ and macOS support.
 
@@ -18465,7 +18465,7 @@ npx skills add https://github.com/avdlee/swiftui-agent-skill --skill swiftui-exp
 
 <a id="skill-659"></a>
 
-### 659. baoyu-xhs-images 🆕
+### 659. baoyu-xhs-images
 
 **الوصف:** Generates cartoon-style infographic series for Xiaohongshu with 11 visual styles and 8 layout options.
 
@@ -18493,7 +18493,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-xhs-images
 
 <a id="skill-660"></a>
 
-### 660. create-auth-skill ⭐ 🆕
+### 660. create-auth-skill ⭐
 
 **الوصف:** Scaffold and implement authentication in TypeScript/JavaScript apps with Better Auth framework detection, database adapter setup, and OAuth integration.
 
@@ -18520,7 +18520,7 @@ npx skills add https://github.com/better-auth/skills --skill create-auth
 
 <a id="skill-661"></a>
 
-### 661. organization-best-practices ⭐ 🆕
+### 661. organization-best-practices ⭐
 
 **الوصف:** Multi-tenant organization setup with member management, role-based access control, and team support via Better Auth.
 
@@ -18548,7 +18548,7 @@ npx skills add https://github.com/better-auth/skills --skill organization-best-p
 
 <a id="skill-662"></a>
 
-### 662. flutter-fix-layout-issues ⭐ 🆕
+### 662. flutter-fix-layout-issues ⭐
 
 **الوصف:** Resolving Flutter Layout Errors
 
@@ -18574,7 +18574,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-fix-layo
 
 <a id="skill-663"></a>
 
-### 663. graphic-overlays 🆕
+### 663. graphic-overlays
 
 **الوصف:** Graphic Overlays takes a local video that plays in full and layers a sequence of
 
@@ -18600,7 +18600,7 @@ npx skills add https://github.com/heygen-com/hyperframes --skill graphic-overlay
 
 <a id="skill-664"></a>
 
-### 664. wind-find-finance-skill 🆕
+### 664. wind-find-finance-skill
 
 **الوصف:** 本 skill 是万得金融能力发现与安装路由器，不直接取数、不做业务分析、不需要 API Key。
 
@@ -18626,7 +18626,7 @@ npx skills add https://github.com/wind-information-co-ltd/wind-skills --skill wi
 
 <a id="skill-665"></a>
 
-### 665. baoyu-slide-deck 🆕
+### 665. baoyu-slide-deck
 
 **الوصف:** Transform content into professional slide deck images with customizable styles and audience targeting.
 
@@ -18653,7 +18653,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-slide-deck
 
 <a id="skill-666"></a>
 
-### 666. gws-gmail-forward ⭐ 🆕
+### 666. gws-gmail-forward ⭐
 
 **الوصف:** Forward Gmail messages to new recipients with optional notes and attachments.
 
@@ -18680,7 +18680,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-forward
 
 <a id="skill-667"></a>
 
-### 667. gws-workflow ⭐ 🆕
+### 667. gws-workflow ⭐
 
 **الوصف:** Cross-service productivity workflows connecting Google Workspace apps via CLI commands.
 
@@ -18707,7 +18707,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-workflow
 
 <a id="skill-668"></a>
 
-### 668. flutter-add-widget-test ⭐ 🆕
+### 668. flutter-add-widget-test ⭐
 
 **الوصف:** Writing Flutter Widget Tests
 
@@ -18733,7 +18733,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-widg
 
 <a id="skill-669"></a>
 
-### 669. baoyu-url-to-markdown 🆕
+### 669. baoyu-url-to-markdown
 
 **الوصف:** Fetch any URL and convert to clean markdown using Chrome CDP with intelligent fallback conversion.
 
@@ -18761,7 +18761,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-url-to-markd
 
 <a id="skill-670"></a>
 
-### 670. gws-chat ⭐ 🆕
+### 670. gws-chat ⭐
 
 **الوصف:** Manage Google Chat spaces, messages, custom emojis, and media through API commands.
 
@@ -18788,7 +18788,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-chat
 
 <a id="skill-671"></a>
 
-### 671. frontend-ui-engineering 🆕
+### 671. frontend-ui-engineering
 
 **الوصف:** Build production-quality user interfaces that are accessible, performant, and visually polished. The goal is UI that looks like it was built by a design-aware engineer at a top company — not like it was generated by an AI. This means real design system adherence, proper accessibility, thoughtful interaction patterns, and no generic "AI aesthetic."
 
@@ -18814,7 +18814,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill frontend-ui-en
 
 <a id="skill-672"></a>
 
-### 672. gws-people ⭐ 🆕
+### 672. gws-people ⭐
 
 **الوصف:** Google Contacts and profiles management via the People API.
 
@@ -18842,7 +18842,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-people
 
 <a id="skill-673"></a>
 
-### 673. gws-gmail-reply-all ⭐ 🆕
+### 673. gws-gmail-reply-all ⭐
 
 **الوصف:** Reply to all recipients of a Gmail message with automatic thread handling.
 
@@ -18869,7 +18869,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-reply-al
 
 <a id="skill-674"></a>
 
-### 674. mmx-cli 🆕
+### 674. mmx-cli
 
 **الوصف:** CLI for text, image, video, speech, and music generation via MiniMax AI platform.
 
@@ -18896,7 +18896,7 @@ npx skills add https://github.com/minimax-ai/cli --skill mmx-cli
 
 <a id="skill-675"></a>
 
-### 675. gws-workflow-email-to-task ⭐ 🆕
+### 675. gws-workflow-email-to-task ⭐
 
 **الوصف:** Convert Gmail messages into Google Tasks entries with subject-to-title mapping.
 
@@ -18923,7 +18923,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-email
 
 <a id="skill-676"></a>
 
-### 676. flutter-add-integration-test ⭐ 🆕
+### 676. flutter-add-integration-test ⭐
 
 **الوصف:** Implementing Flutter Integration Tests
 
@@ -18949,7 +18949,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-inte
 
 <a id="skill-677"></a>
 
-### 677. baoyu-comic 🆕
+### 677. baoyu-comic
 
 **الوصف:** Educational comics with flexible art styles, tones, and panel layouts for knowledge storytelling.
 
@@ -18977,7 +18977,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-comic
 
 <a id="skill-678"></a>
 
-### 678. recipe-create-presentation ⭐ 🆕
+### 678. recipe-create-presentation ⭐
 
 **الوصف:** Create a new Google Slides presentation with initial slides and sharing.
 
@@ -19003,7 +19003,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-pres
 
 <a id="skill-679"></a>
 
-### 679. planning-and-task-breakdown 🆕
+### 679. planning-and-task-breakdown
 
 **الوصف:** Planning and Task Breakdown
 
@@ -19029,7 +19029,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill planning-and-t
 
 <a id="skill-680"></a>
 
-### 680. flutter-setup-declarative-routing ⭐ 🆕
+### 680. flutter-setup-declarative-routing ⭐
 
 **الوصف:** Implementing Routing and Deep Linking
 
@@ -19055,7 +19055,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-setup-de
 
 <a id="skill-681"></a>
 
-### 681. security-and-hardening 🆕
+### 681. security-and-hardening
 
 **الوصف:** Security-first development practices for web applications. Treat every external input as hostile, every secret as sacred, and every authorization check as mandatory. Security isn't a phase — it's a constraint on every line of code that touches user data, authentication, or external systems.
 
@@ -19081,7 +19081,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill security-and-h
 
 <a id="skill-682"></a>
 
-### 682. excalidraw-diagram-generator ⭐ 🆕
+### 682. excalidraw-diagram-generator ⭐
 
 **الوصف:** Generate Excalidraw diagrams from natural language descriptions in multiple formats.
 
@@ -19109,7 +19109,7 @@ npx skills add https://github.com/github/awesome-copilot --skill excalidraw-diag
 
 <a id="skill-683"></a>
 
-### 683. landing-page-conversion-audit 🆕
+### 683. landing-page-conversion-audit
 
 **الوصف:** Landing Page Conversion Audit
 
@@ -19135,7 +19135,7 @@ npx skills add https://github.com/autonnel/autonnel-skills --skill landing-page-
 
 <a id="skill-684"></a>
 
-### 684. nextjs-app-router-patterns 🆕
+### 684. nextjs-app-router-patterns
 
 **الوصف:** Comprehensive patterns for Next.js 14+ App Router, Server Components, and modern full-stack React development.
 
@@ -19162,7 +19162,7 @@ npx skills add https://github.com/wshobson/agents --skill nextjs-app-router-patt
 
 <a id="skill-685"></a>
 
-### 685. spec-driven-development 🆕
+### 685. spec-driven-development
 
 **الوصف:** Write a structured specification before writing any code. The spec is the shared source of truth between you and the human engineer — it defines what we're building, why, and how we'll know it's done. Code without a spec is guessing.
 
@@ -19188,7 +19188,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill spec-driven-de
 
 <a id="skill-686"></a>
 
-### 686. higgsfield-youtube-thumbnail 🆕
+### 686. higgsfield-youtube-thumbnail
 
 **الوصف:** Higgsfield YouTube Thumbnail
 
@@ -19214,7 +19214,7 @@ npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-youtub
 
 <a id="skill-687"></a>
 
-### 687. higgsfield-brandkit 🆕
+### 687. higgsfield-brandkit
 
 **الوصف:** Build a coherent identity and its requested applications. Treat supplied brand facts and official assets as fixed constraints.
 
@@ -19240,7 +19240,7 @@ npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-brandk
 
 <a id="skill-688"></a>
 
-### 688. two-factor-authentication-best-practices ⭐ 🆕
+### 688. two-factor-authentication-best-practices ⭐
 
 **الوصف:** Multi-factor authentication with TOTP, OTP, backup codes, and trusted device management for Better Auth.
 
@@ -19267,7 +19267,7 @@ npx skills add https://github.com/better-auth/skills --skill two-factor-authenti
 
 <a id="skill-689"></a>
 
-### 689. azure-postgres ⭐ 🆕
+### 689. azure-postgres ⭐
 
 **الوصف:** No SKILL.md available for this skill.
 
@@ -19285,7 +19285,7 @@ npx skills add https://github.com/microsoft/azure-skills --skill azure-postgres
 
 <a id="skill-690"></a>
 
-### 690. gws-workflow-meeting-prep ⭐ 🆕
+### 690. gws-workflow-meeting-prep ⭐
 
 **الوصف:** Fetch your next meeting's agenda, attendees, and linked documents from Google Calendar.
 
@@ -19312,7 +19312,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-meeti
 
 <a id="skill-691"></a>
 
-### 691. sales-funnel-blueprint 🆕
+### 691. sales-funnel-blueprint
 
 **الوصف:** Produce a build-ready funnel spec: which pages exist, what each one must say, what it charges, and what number tells you it works. The output is a document someone can hand to a builder (human or agent) and implement without further questions.
 
@@ -19338,7 +19338,7 @@ npx skills add https://github.com/autonnel/autonnel-skills --skill sales-funnel-
 
 <a id="skill-692"></a>
 
-### 692. server-side-conversion-tracking 🆕
+### 692. server-side-conversion-tracking
 
 **الوصف:** Server-Side Conversion Tracking
 
@@ -19364,7 +19364,7 @@ npx skills add https://github.com/autonnel/autonnel-skills --skill server-side-c
 
 <a id="skill-693"></a>
 
-### 693. gws-chat-send ⭐ 🆕
+### 693. gws-chat-send ⭐
 
 **الوصف:** Send plain-text messages to Google Chat spaces.
 
@@ -19391,7 +19391,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-chat-send
 
 <a id="skill-694"></a>
 
-### 694. funnel-platform-picker 🆕
+### 694. funnel-platform-picker
 
 **الوصف:** Pick a platform from the case, not from a feature grid. Most of these tools can build the same funnel; they differ on cost curve, who owns the data, and what breaks when you stop paying. Get those three right and the feature comparison rarely matters.
 
@@ -19417,7 +19417,7 @@ npx skills add https://github.com/autonnel/autonnel-skills --skill funnel-platfo
 
 <a id="skill-695"></a>
 
-### 695. fingerprint-ci-gate 🆕
+### 695. fingerprint-ci-gate
 
 **الوصف:** Fail the build, not the ban rate
 
@@ -19443,7 +19443,7 @@ npx skills add https://github.com/liarjsdev/liarjs-skills --skill fingerprint-ci
 
 <a id="skill-696"></a>
 
-### 696. browser-fingerprint-audit 🆕
+### 696. browser-fingerprint-audit
 
 **الوصف:** A browser controls its own JavaScript. It does not control the network it connects over. liarjs
 
@@ -19469,7 +19469,7 @@ npx skills add https://github.com/liarjsdev/liarjs-skills --skill browser-finger
 
 <a id="skill-697"></a>
 
-### 697. recipe-draft-email-from-doc ⭐ 🆕
+### 697. recipe-draft-email-from-doc ⭐
 
 **الوصف:** Draft Gmail messages directly from Google Doc content without manual copying.
 
@@ -19495,7 +19495,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-draft-email
 
 <a id="skill-698"></a>
 
-### 698. ask-sonner 🆕
+### 698. ask-sonner
 
 **الوصف:** A guide skill for Sonner, the toast library. When a task involves Sonner — wiring it up, rendering toasts, styling them, or fixing them — answer from this file first. Full prop tables for <Toaster /> and toast() live in API.md; read it when you need an exact prop name, type, or default.
 
@@ -19521,7 +19521,7 @@ npx skills add https://github.com/emilkowalski/skills --skill ask-sonner
 
 <a id="skill-699"></a>
 
-### 699. playwright-stealth-verify 🆕
+### 699. playwright-stealth-verify
 
 **الوصف:** Verify an automation harness against itself
 
@@ -19547,7 +19547,7 @@ npx skills add https://github.com/liarjsdev/liarjs-skills --skill playwright-ste
 
 <a id="skill-700"></a>
 
-### 700. post-purchase-upsell-flow 🆕
+### 700. post-purchase-upsell-flow
 
 **الوصف:** The step after payment is the cheapest revenue in a funnel: the customer has already converted, the payment method is already captured, and the offer costs nothing in ad spend. This skill covers designing that step and the technical requirements that make it actually work.
 
@@ -19573,7 +19573,7 @@ npx skills add https://github.com/autonnel/autonnel-skills --skill post-purchase
 
 <a id="skill-701"></a>
 
-### 701. self-hosted-funnel-launch 🆕
+### 701. self-hosted-funnel-launch
 
 **الوصف:** Take a funnel from nothing to published on infrastructure the operator controls, using Autonnel (Apache-2.0). This skill is the build step; design the funnel first with sales-funnel-blueprint, and confirm self-hosting is the right call with funnel-platform-picker if that is still open.
 
@@ -19599,7 +19599,7 @@ npx skills add https://github.com/autonnel/autonnel-skills --skill self-hosted-f
 
 <a id="skill-702"></a>
 
-### 702. fingerprint-failure-triage 🆕
+### 702. fingerprint-failure-triage
 
 **الوصف:** Triage a fingerprint report
 
@@ -19625,7 +19625,7 @@ npx skills add https://github.com/liarjsdev/liarjs-skills --skill fingerprint-fa
 
 <a id="skill-703"></a>
 
-### 703. flutter-implement-json-serialization ⭐ 🆕
+### 703. flutter-implement-json-serialization ⭐
 
 **الوصف:** Serializing JSON Manually in Flutter
 
@@ -19651,7 +19651,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-implemen
 
 <a id="skill-704"></a>
 
-### 704. baoyu-post-to-x 🆕
+### 704. baoyu-post-to-x
 
 **الوصف:** Post text, images, videos, and long-form articles to X via real Chrome browser automation.
 
@@ -19678,7 +19678,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-x
 
 <a id="skill-705"></a>
 
-### 705. persona-project-manager ⭐ 🆕
+### 705. persona-project-manager ⭐
 
 **الوصف:** Persona for coordinating projects through task tracking, meeting scheduling, and document sharing.
 
@@ -19705,7 +19705,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-project-ma
 
 <a id="skill-706"></a>
 
-### 706. recipe-email-drive-link ⭐ 🆕
+### 706. recipe-email-drive-link ⭐
 
 **الوصف:** Share Google Drive files and email access links to recipients in a single workflow.
 
@@ -19731,7 +19731,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-email-drive
 
 <a id="skill-707"></a>
 
-### 707. gws-workflow-weekly-digest ⭐ 🆕
+### 707. gws-workflow-weekly-digest ⭐
 
 **الوصف:** Weekly summary combining this week's calendar meetings and unread email count.
 
@@ -19758,7 +19758,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-weekl
 
 <a id="skill-708"></a>
 
-### 708. gws-workflow-standup-report ⭐ 🆕
+### 708. gws-workflow-standup-report ⭐
 
 **الوصف:** Aggregates today's calendar meetings and open tasks into a single standup summary.
 
@@ -19785,7 +19785,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-stand
 
 <a id="skill-709"></a>
 
-### 709. flutter-setup-localization ⭐ 🆕
+### 709. flutter-setup-localization ⭐
 
 **الوصف:** Internationalizing Flutter Applications
 
@@ -19810,7 +19810,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-setup-lo
 
 <a id="skill-710"></a>
 
-### 710. gws-events ⭐ 🆕
+### 710. gws-events ⭐
 
 **الوصف:** Real-time event streaming and subscription management for Google Workspace.
 
@@ -19836,7 +19836,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-events
 
 <a id="skill-711"></a>
 
-### 711. flutter-add-widget-preview ⭐ 🆕
+### 711. flutter-add-widget-preview ⭐
 
 **الوصف:** Previewing Flutter Widgets
 
@@ -19862,7 +19862,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-widg
 
 <a id="skill-712"></a>
 
-### 712. recipe-create-gmail-filter ⭐ 🆕
+### 712. recipe-create-gmail-filter ⭐
 
 **الوصف:** Automated Gmail message routing through filters that label, star, or archive incoming mail.
 
@@ -19888,7 +19888,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-gmai
 
 <a id="skill-713"></a>
 
-### 713. code-review-excellence 🆕
+### 713. code-review-excellence
 
 **الوصف:** Systematic code review practices for constructive feedback, bug detection, and team knowledge sharing.
 
@@ -19915,7 +19915,7 @@ npx skills add https://github.com/wshobson/agents --skill code-review-excellence
 
 <a id="skill-714"></a>
 
-### 714. performance-optimization 🆕
+### 714. performance-optimization
 
 **الوصف:** Measure before optimizing. Performance work without measurement is guessing — and guessing leads to premature optimization that adds complexity without improving what matters. Profile first, identify the actual bottleneck, fix it, measure again. Optimize only what measurements prove matters.
 
@@ -19941,7 +19941,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill performance-op
 
 <a id="skill-715"></a>
 
-### 715. persona-researcher ⭐ 🆕
+### 715. persona-researcher ⭐
 
 **الوصف:** Research organization and collaboration through Google Workspace integration.
 
@@ -19968,7 +19968,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-researcher
 
 <a id="skill-716"></a>
 
-### 716. api-design-principles 🆕
+### 716. api-design-principles
 
 **الوصف:** REST and GraphQL API design principles for building scalable, developer-friendly APIs.
 
@@ -19996,7 +19996,7 @@ npx skills add https://github.com/wshobson/agents --skill api-design-principles
 
 <a id="skill-717"></a>
 
-### 717. recipe-save-email-attachments ⭐ 🆕
+### 717. recipe-save-email-attachments ⭐
 
 **الوصف:** Automated workflow to find Gmail attachments and save them to Google Drive folders.
 
@@ -20023,7 +20023,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-save-email-
 
 <a id="skill-718"></a>
 
-### 718. recipe-backup-sheet-as-csv ⭐ 🆕
+### 718. recipe-backup-sheet-as-csv ⭐
 
 **الوصف:** Export Google Sheets spreadsheets as CSV files for backup or local processing.
 
@@ -20049,7 +20049,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-backup-shee
 
 <a id="skill-719"></a>
 
-### 719. better-auth-security-best-practices ⭐ 🆕
+### 719. better-auth-security-best-practices ⭐
 
 **الوصف:** import { betterAuth } from "better-auth";
 
@@ -20075,7 +20075,7 @@ npx skills add https://github.com/better-auth/skills --skill better-auth-securit
 
 <a id="skill-720"></a>
 
-### 720. recipe-organize-drive-folder ⭐ 🆕
+### 720. recipe-organize-drive-folder ⭐
 
 **الوصف:** Automate Google Drive folder creation and file organization into structured hierarchies.
 
@@ -20101,7 +20101,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-organize-dr
 
 <a id="skill-721"></a>
 
-### 721. flutter-use-http-package ⭐ 🆕
+### 721. flutter-use-http-package ⭐
 
 **الوصف:** Implementing Flutter Networking
 
@@ -20127,7 +20127,7 @@ npx skills add https://github.com/flutter/agent-plugins --skill flutter-use-http
 
 <a id="skill-722"></a>
 
-### 722. persona-exec-assistant ⭐ 🆕
+### 722. persona-exec-assistant ⭐
 
 **الوصف:** Schedule, inbox, and communications management for executives via integrated Google Workspace automation.
 
@@ -20154,7 +20154,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-exec-assis
 
 <a id="skill-723"></a>
 
-### 723. recipe-find-free-time ⭐ 🆕
+### 723. recipe-find-free-time ⭐
 
 **الوصف:** Find overlapping free time slots across multiple Google Calendars for scheduling meetings.
 
@@ -20180,7 +20180,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-find-free-t
 
 <a id="skill-724"></a>
 
-### 724. layout 🆕
+### 724. layout
 
 **الوصف:** Assess and improve layout spacing, visual hierarchy, and composition to transform generic arrangements into intentional, rhythmic designs.
 
@@ -20207,7 +20207,7 @@ npx skills add https://github.com/pbakaus/impeccable --skill layout
 
 <a id="skill-725"></a>
 
-### 725. swiftui-pro 🆕
+### 725. swiftui-pro
 
 **الوصف:** Comprehensive SwiftUI code review against modern APIs, accessibility, and performance standards.
 
@@ -20235,7 +20235,7 @@ npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-
 
 <a id="skill-726"></a>
 
-### 726. documentation-and-adrs 🆕
+### 726. documentation-and-adrs
 
 **الوصف:** Document decisions, not just code. The most valuable documentation captures the why — the context, constraints, and trade-offs that led to a decision. Code shows what was built; documentation explains why it was built this way and what alternatives were considered. This context is essential for future humans and agents working in the codebase.
 
@@ -20261,7 +20261,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill documentation-
 
 <a id="skill-727"></a>
 
-### 727. recipe-compare-sheet-tabs ⭐ 🆕
+### 727. recipe-compare-sheet-tabs ⭐
 
 **الوصف:** Compare data across two Google Sheets tabs to identify differences.
 
@@ -20288,7 +20288,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-compare-she
 
 <a id="skill-728"></a>
 
-### 728. baoyu-compress-image 🆕
+### 728. baoyu-compress-image
 
 **الوصف:** Compresses images to WebP or PNG with automatic tool selection based on system availability.
 
@@ -20315,7 +20315,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-compress-ima
 
 <a id="skill-729"></a>
 
-### 729. gws-workflow-file-announce ⭐ 🆕
+### 729. gws-workflow-file-announce ⭐
 
 **الوصف:** Post a Google Drive file announcement to a Google Chat space.
 
@@ -20342,7 +20342,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-file-
 
 <a id="skill-730"></a>
 
-### 730. recipe-plan-weekly-schedule ⭐ 🆕
+### 730. recipe-plan-weekly-schedule ⭐
 
 **الوصف:** Review your Google Calendar week, identify gaps, and add events to fill them.
 
@@ -20368,7 +20368,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-plan-weekly
 
 <a id="skill-731"></a>
 
-### 731. recipe-create-doc-from-template ⭐ 🆕
+### 731. recipe-create-doc-from-template ⭐
 
 **الوصف:** Template-based Google Doc creation with automated content population and team sharing.
 
@@ -20394,7 +20394,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-doc-
 
 <a id="skill-732"></a>
 
-### 732. recipe-sync-contacts-to-sheet ⭐ 🆕
+### 732. recipe-sync-contacts-to-sheet ⭐
 
 **الوصف:** Export your Google Contacts directory to a Google Sheets spreadsheet in three steps.
 
@@ -20420,7 +20420,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-sync-contac
 
 <a id="skill-733"></a>
 
-### 733. gws-events-renew ⭐ 🆕
+### 733. gws-events-renew ⭐
 
 **الوصف:** Renew or reactivate Google Workspace Events subscriptions before expiration.
 
@@ -20447,7 +20447,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-events-renew
 
 <a id="skill-734"></a>
 
-### 734. recipe-bulk-download-folder ⭐ 🆕
+### 734. recipe-bulk-download-folder ⭐
 
 **الوصف:** Bulk download all files from a Google Drive folder with automatic format conversion.
 
@@ -20474,7 +20474,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-bulk-downlo
 
 <a id="skill-735"></a>
 
-### 735. gws-events-subscribe ⭐ 🆕
+### 735. gws-events-subscribe ⭐
 
 **الوصف:** Subscribe to Google Workspace events and stream them as NDJSON output.
 
@@ -20501,7 +20501,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-events-subscri
 
 <a id="skill-736"></a>
 
-### 736. baoyu-danger-x-to-markdown 🆕
+### 736. baoyu-danger-x-to-markdown
 
 **الوصف:** Convert X tweets and articles to markdown with YAML front matter using reverse-engineered API.
 
@@ -20528,7 +20528,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-danger-x-to-
 
 <a id="skill-737"></a>
 
-### 737. persona-content-creator ⭐ 🆕
+### 737. persona-content-creator ⭐
 
 **الوصف:** Unified content creation, organization, and distribution across Google Workspace.
 
@@ -20555,7 +20555,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-content-cr
 
 <a id="skill-738"></a>
 
-### 738. baoyu-format-markdown 🆕
+### 738. baoyu-format-markdown
 
 **الوصف:** Transforms plain text or markdown into well-structured, reader-friendly markdown with improved formatting.
 
@@ -20582,7 +20582,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-format-markd
 
 <a id="skill-739"></a>
 
-### 739. baoyu-danger-gemini-web 🆕
+### 739. baoyu-danger-gemini-web
 
 **الوصف:** Reverse-engineered Gemini Web API for text and image generation with multi-turn conversation support.
 
@@ -20609,7 +20609,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-danger-gemin
 
 <a id="skill-740"></a>
 
-### 740. gws-admin-reports ⭐ 🆕
+### 740. gws-admin-reports ⭐
 
 **الوصف:** Query Google Workspace audit logs, activity feeds, and usage reports across customers and users.
 
@@ -20636,7 +20636,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-admin-reports
 
 <a id="skill-741"></a>
 
-### 741. higgsfield-game-generation 🆕
+### 741. higgsfield-game-generation
 
 **الوصف:** Higgsfield Game Generation
 
@@ -20660,7 +20660,7 @@ npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-game-g
 
 <a id="skill-742"></a>
 
-### 742. code-simplification 🆕
+### 742. code-simplification
 
 **الوصف:** Inspired by the Claude Code Simplifier plugin. Adapted here as a model-agnostic, process-driven skill for any AI coding agent.
 
@@ -20686,7 +20686,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill code-simplific
 
 <a id="skill-743"></a>
 
-### 743. recipe-generate-report-from-sheet ⭐ 🆕
+### 743. recipe-generate-report-from-sheet ⭐
 
 **الوصف:** Extract Google Sheet data and generate a formatted Google Docs report with sharing.
 
@@ -20712,7 +20712,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-generate-re
 
 <a id="skill-744"></a>
 
-### 744. debugging-and-error-recovery 🆕
+### 744. debugging-and-error-recovery
 
 **الوصف:** Debugging and Error Recovery
 
@@ -20738,7 +20738,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill debugging-and-
 
 <a id="skill-745"></a>
 
-### 745. docker-expert 🆕
+### 745. docker-expert
 
 **الوصف:** You are an advanced Docker containerization expert with comprehensive, practical knowledge of container optimization, security hardening, multi-stage builds, orchestration patterns, and production deployment strategies based on current industry best practices.
 
@@ -20764,7 +20764,7 @@ npx skills add https://github.com/sickn33/agentic-awesome-skills --skill docker-
 
 <a id="skill-746"></a>
 
-### 746. incremental-implementation 🆕
+### 746. incremental-implementation
 
 **الوصف:** Incremental Implementation
 
@@ -20790,7 +20790,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill incremental-im
 
 <a id="skill-747"></a>
 
-### 747. recipe-reschedule-meeting ⭐ 🆕
+### 747. recipe-reschedule-meeting ⭐
 
 **الوصف:** Reschedule Google Calendar events and automatically notify all attendees of time changes.
 
@@ -20817,7 +20817,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-reschedule-
 
 <a id="skill-748"></a>
 
-### 748. recipe-label-and-archive-emails ⭐ 🆕
+### 748. recipe-label-and-archive-emails ⭐
 
 **الوصف:** Automatically label and archive Gmail messages matching custom search criteria.
 
@@ -20844,7 +20844,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-label-and-a
 
 <a id="skill-749"></a>
 
-### 749. golang-linter 🆕
+### 749. golang-linter
 
 **الوصف:** No SKILL.md available for this skill.
 
@@ -20862,7 +20862,7 @@ npx skills add https://github.com/samber/cc-skills-golang --skill golang-linter
 
 <a id="skill-750"></a>
 
-### 750. recipe-save-email-to-doc ⭐ 🆕
+### 750. recipe-save-email-to-doc ⭐
 
 **الوصف:** Save Gmail messages to Google Docs for archival and reference.
 
@@ -20888,7 +20888,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-save-email-
 
 <a id="skill-751"></a>
 
-### 751. recipe-watch-drive-changes ⭐ 🆕
+### 751. recipe-watch-drive-changes ⭐
 
 **الوصف:** Subscribe to Google Drive file and folder changes via Pub/Sub notifications.
 
@@ -20915,7 +20915,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-watch-drive
 
 <a id="skill-752"></a>
 
-### 752. recipe-block-focus-time ⭐ 🆕
+### 752. recipe-block-focus-time ⭐
 
 **الوصف:** Recurring focus time blocks on Google Calendar to protect deep work hours.
 
@@ -20941,7 +20941,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-block-focus
 
 <a id="skill-753"></a>
 
-### 753. persona-team-lead ⭐ 🆕
+### 753. persona-team-lead ⭐
 
 **الوصف:** Team leadership persona with standup coordination, meeting prep, task delegation, and team communication.
 
@@ -20968,7 +20968,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-team-lead
 
 <a id="skill-754"></a>
 
-### 754. recipe-create-shared-drive ⭐ 🆕
+### 754. recipe-create-shared-drive ⭐
 
 **الوصف:** Create a Google Shared Drive and manage member access with role-based permissions.
 
@@ -20994,7 +20994,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-shar
 
 <a id="skill-755"></a>
 
-### 755. recipe-share-doc-and-notify ⭐ 🆕
+### 755. recipe-share-doc-and-notify ⭐
 
 **الوصف:** Share a Google Doc with collaborators and send them notification emails.
 
@@ -21020,7 +21020,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-share-doc-a
 
 <a id="skill-756"></a>
 
-### 756. recipe-create-task-list ⭐ 🆕
+### 756. recipe-create-task-list ⭐
 
 **الوصف:** Initialize a Google Tasks list and populate it with multiple tasks via command sequence.
 
@@ -21046,7 +21046,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-task
 
 <a id="skill-757"></a>
 
-### 757. recipe-schedule-recurring-event ⭐ 🆕
+### 757. recipe-schedule-recurring-event ⭐
 
 **الوصف:** Schedule recurring Google Calendar events with attendees and recurrence rules.
 
@@ -21072,7 +21072,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-schedule-re
 
 <a id="skill-758"></a>
 
-### 758. recipe-find-large-files ⭐ 🆕
+### 758. recipe-find-large-files ⭐
 
 **الوصف:** Identify large Google Drive files consuming storage quota.
 
@@ -21098,7 +21098,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-find-large-
 
 <a id="skill-759"></a>
 
-### 759. recipe-copy-sheet-for-new-month ⭐ 🆕
+### 759. recipe-copy-sheet-for-new-month ⭐
 
 **الوصف:** Duplicate a Google Sheets template tab for a new month of tracking.
 
@@ -21124,7 +21124,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-copy-sheet-
 
 <a id="skill-760"></a>
 
-### 760. recipe-review-overdue-tasks ⭐ 🆕
+### 760. recipe-review-overdue-tasks ⭐
 
 **الوصف:** Identify and review overdue Google Tasks requiring immediate attention.
 
@@ -21150,7 +21150,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-review-over
 
 <a id="skill-761"></a>
 
-### 761. recipe-batch-invite-to-event ⭐ 🆕
+### 761. recipe-batch-invite-to-event ⭐
 
 **الوصف:** Batch-add attendees to Google Calendar events with automatic notifications.
 
@@ -21176,7 +21176,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-batch-invit
 
 <a id="skill-762"></a>
 
-### 762. recipe-collect-form-responses ⭐ 🆕
+### 762. recipe-collect-form-responses ⭐
 
 **الوصف:** Retrieve and review responses from a Google Form in three steps.
 
@@ -21202,7 +21202,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-collect-for
 
 <a id="skill-763"></a>
 
-### 763. recipe-create-events-from-sheet ⭐ 🆕
+### 763. recipe-create-events-from-sheet ⭐
 
 **الوصف:** Bulk-create Google Calendar events from spreadsheet rows using a two-step workflow.
 
@@ -21228,7 +21228,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-even
 
 <a id="skill-764"></a>
 
-### 764. mcp-apps-builder ⭐ 🆕
+### 764. mcp-apps-builder ⭐
 
 **الوصف:** Mandatory reference guide for building production MCP servers with tools, resources, prompts, and widgets.
 
@@ -21255,7 +21255,7 @@ npx skills add https://github.com/mcp-use/mcp-use --skill mcp-apps-builder
 
 <a id="skill-765"></a>
 
-### 765. persona-it-admin ⭐ 🆕
+### 765. persona-it-admin ⭐
 
 **الوصف:** Google Workspace IT administration with security monitoring and configuration capabilities.
 
@@ -21282,7 +21282,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-it-admin
 
 <a id="skill-766"></a>
 
-### 766. recipe-share-folder-with-team ⭐ 🆕
+### 766. recipe-share-folder-with-team ⭐
 
 **الوصف:** Batch-share Google Drive folders with multiple collaborators at specified permission levels.
 
@@ -21309,7 +21309,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-share-folde
 
 <a id="skill-767"></a>
 
-### 767. persona-event-coordinator ⭐ 🆕
+### 767. persona-event-coordinator ⭐
 
 **الوصف:** Event planning and coordination across calendar, email, invitations, and logistics tracking.
 
@@ -21336,7 +21336,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-event-coor
 
 <a id="skill-768"></a>
 
-### 768. recipe-forward-labeled-emails ⭐ 🆕
+### 768. recipe-forward-labeled-emails ⭐
 
 **الوصف:** Locate Gmail messages by label and automatically forward them to another recipient.
 
@@ -21363,7 +21363,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-forward-lab
 
 <a id="skill-769"></a>
 
-### 769. persona-customer-support ⭐ 🆕
+### 769. persona-customer-support ⭐
 
 **الوصف:** Customer support agent for ticket triage, response, and escalation via email, sheets, and chat.
 
@@ -21390,7 +21390,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-customer-s
 
 <a id="skill-770"></a>
 
-### 770. recipe-create-vacation-responder ⭐ 🆕
+### 770. recipe-create-vacation-responder ⭐
 
 **الوصف:** Set up Gmail out-of-office auto-replies with custom messages and date ranges.
 
@@ -21416,7 +21416,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-vaca
 
 <a id="skill-771"></a>
 
-### 771. persona-sales-ops ⭐ 🆕
+### 771. persona-sales-ops ⭐
 
 **الوصف:** Sales workflow management with deal tracking, call scheduling, and client communication integration.
 
@@ -21443,7 +21443,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-sales-ops
 
 <a id="skill-772"></a>
 
-### 772. backlink-analyzer 🆕
+### 772. backlink-analyzer
 
 **الوصف:** Comprehensive backlink profile analysis with toxic link detection, opportunity discovery, and competitor benchmarking.
 
@@ -21471,7 +21471,7 @@ npx skills add https://github.com/aaron-he-zhu/seo-geo-claude-skills --skill bac
 
 <a id="skill-773"></a>
 
-### 773. recipe-create-meet-space ⭐ 🆕
+### 773. recipe-create-meet-space ⭐
 
 **الوصف:** Create a Google Meet meeting space and email the join link to participants.
 
@@ -21497,7 +21497,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-meet
 
 <a id="skill-774"></a>
 
-### 774. recipe-create-expense-tracker ⭐ 🆕
+### 774. recipe-create-expense-tracker ⭐
 
 **الوصف:** Google Sheets spreadsheet template for expense tracking with automated setup and sharing.
 
@@ -21523,7 +21523,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-expe
 
 <a id="skill-775"></a>
 
-### 775. gws-modelarmor ⭐ 🆕
+### 775. gws-modelarmor ⭐
 
 **الوصف:** Google Model Armor: Filter user-generated content for safety.
 
@@ -21549,7 +21549,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-modelarmor
 
 <a id="skill-776"></a>
 
-### 776. recipe-create-feedback-form ⭐ 🆕
+### 776. recipe-create-feedback-form ⭐
 
 **الوصف:** Create a Google Form for feedback collection and distribute it via email.
 
@@ -21575,7 +21575,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-feed
 
 <a id="skill-777"></a>
 
-### 777. recipe-review-meet-participants ⭐ 🆕
+### 777. recipe-review-meet-participants ⭐
 
 **الوصف:** Review Google Meet attendance records and participant session durations.
 
@@ -21601,7 +21601,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-review-meet
 
 <a id="skill-778"></a>
 
-### 778. recipe-post-mortem-setup ⭐ 🆕
+### 778. recipe-post-mortem-setup ⭐
 
 **الوصف:** Orchestrate post-mortem workflows across Google Docs, Calendar, and Chat in one recipe.
 
@@ -21627,7 +21627,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-post-mortem
 
 <a id="skill-779"></a>
 
-### 779. nestjs-best-practices 🆕
+### 779. nestjs-best-practices
 
 **الوصف:** 40 NestJS best practices organized by priority across architecture, dependency injection, security, and performance.
 
@@ -21654,7 +21654,7 @@ npx skills add https://github.com/kadajett/agent-nestjs-skills --skill nestjs-be
 
 <a id="skill-780"></a>
 
-### 780. persona-hr-coordinator ⭐ 🆕
+### 780. persona-hr-coordinator ⭐
 
 **الوصف:** Automate HR onboarding, announcements, and employee communications across Google Workspace.
 
@@ -21681,7 +21681,7 @@ npx skills add https://github.com/googleworkspace/cli --skill persona-hr-coordin
 
 <a id="skill-781"></a>
 
-### 781. gws-modelarmor-create-template ⭐ 🆕
+### 781. gws-modelarmor-create-template ⭐
 
 **الوصف:** Create Google Model Armor templates to filter prompts and responses for safety.
 
@@ -21708,7 +21708,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-modelarmor-cre
 
 <a id="skill-782"></a>
 
-### 782. recipe-share-event-materials ⭐ 🆕
+### 782. recipe-share-event-materials ⭐
 
 **الوصف:** Automatically share Google Drive files with all attendees of a Calendar event.
 
@@ -21734,7 +21734,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-share-event
 
 <a id="skill-783"></a>
 
-### 783. recipe-send-team-announcement ⭐ 🆕
+### 783. recipe-send-team-announcement ⭐
 
 **الوصف:** Send team announcements simultaneously via Gmail and Google Chat.
 
@@ -21760,7 +21760,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-send-team-a
 
 <a id="skill-784"></a>
 
-### 784. context-engineering 🆕
+### 784. context-engineering
 
 **الوصف:** Feed agents the right information at the right time. Context is the single biggest lever for agent output quality — too little and the agent hallucinates, too much and it loses focus. Context engineering is the practice of deliberately curating what the agent sees, when it sees it, and how it's structured.
 
@@ -21786,7 +21786,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill context-engine
 
 <a id="skill-785"></a>
 
-### 785. gws-modelarmor-sanitize-prompt ⭐ 🆕
+### 785. gws-modelarmor-sanitize-prompt ⭐
 
 **الوصف:** Sanitize user prompts through Google Model Armor safety templates.
 
@@ -21812,7 +21812,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-modelarmor-san
 
 <a id="skill-786"></a>
 
-### 786. recipe-log-deal-update ⭐ 🆕
+### 786. recipe-log-deal-update ⭐
 
 **الوصف:** Append deal status updates to a Google Sheets sales tracking spreadsheet.
 
@@ -21838,7 +21838,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-log-deal-up
 
 <a id="skill-787"></a>
 
-### 787. gws-modelarmor-sanitize-response ⭐ 🆕
+### 787. gws-modelarmor-sanitize-response ⭐
 
 **الوصف:** Sanitize model responses through Google Model Armor templates for outbound safety.
 
@@ -21865,7 +21865,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-modelarmor-san
 
 <a id="skill-788"></a>
 
-### 788. gws-classroom ⭐ 🆕
+### 788. gws-classroom ⭐
 
 **الوصف:** Google Classroom API integration for managing courses, rosters, assignments, and notifications.
 
@@ -21892,7 +21892,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-classroom
 
 <a id="skill-789"></a>
 
-### 789. recipe-create-classroom-course ⭐ 🆕
+### 789. recipe-create-classroom-course ⭐
 
 **الوصف:** Automate Google Classroom course creation and student enrollment workflows.
 
@@ -21918,7 +21918,7 @@ npx skills add https://github.com/googleworkspace/cli --skill recipe-create-clas
 
 <a id="skill-790"></a>
 
-### 790. stitch-design ⭐ 🆕
+### 790. stitch-design ⭐
 
 **الوصف:** Unified design system entry point for creating and editing high-fidelity UI screens with Stitch MCP.
 
@@ -21945,7 +21945,7 @@ npx skills add https://github.com/google-labs-code/stitch-skills --skill stitch-
 
 <a id="skill-791"></a>
 
-### 791. api-and-interface-design 🆕
+### 791. api-and-interface-design
 
 **الوصف:** Design stable, well-documented interfaces that are hard to misuse. Good interfaces make the right thing easy and the wrong thing hard. This applies to REST APIs, GraphQL schemas, module boundaries, component props, and any surface where one piece of code talks to another.
 
@@ -21971,7 +21971,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill api-and-interf
 
 <a id="skill-792"></a>
 
-### 792. documentation-writer ⭐ 🆕
+### 792. documentation-writer ⭐
 
 **الوصف:** Expert technical writer for Diátaxis-framework documentation creation across tutorials, how-to guides, reference, and explanation formats.
 
@@ -21998,7 +21998,7 @@ npx skills add https://github.com/github/awesome-copilot --skill documentation-w
 
 <a id="skill-793"></a>
 
-### 793. huashu-nuwa 🆕
+### 793. huashu-nuwa
 
 **الوصف:** Automatically distill thinking frameworks from names, topics, or vague needs into executable AI agent skills.
 
@@ -22025,7 +22025,7 @@ npx skills add https://github.com/alchaincyf/nuwa-skill --skill huashu-nuwa
 
 <a id="skill-794"></a>
 
-### 794. remotion-studio ⭐ 🆕
+### 794. remotion-studio ⭐
 
 **الوصف:** Execute the following command:
 
@@ -22051,7 +22051,7 @@ npx skills add https://github.com/remotion-dev/skills --skill remotion-studio
 
 <a id="skill-795"></a>
 
-### 795. eas-update-insights ⭐ 🆕
+### 795. eas-update-insights ⭐
 
 **الوصف:** EAS service - costs apply. Insights cover updates published through EAS Update, a paid Expo Application Services product with free-tier limits. Update delivery and the data behind these commands count against your plan's EAS Update usage. Review https://expo.dev/pricing.
 
@@ -22077,7 +22077,7 @@ npx skills add https://github.com/expo/skills --skill eas-update-insights
 
 <a id="skill-796"></a>
 
-### 796. implement-spec 🆕
+### 796. implement-spec
 
 **الوصف:** You have been provided a spec. This spec should have tickets associated with it, describing how to implement the spec.
 
@@ -22103,7 +22103,7 @@ npx skills add https://github.com/mattpocock/skills --skill implement-spec
 
 <a id="skill-797"></a>
 
-### 797. idea-refine 🆕
+### 797. idea-refine
 
 **الوصف:** Refines raw ideas into sharp, actionable concepts worth building through structured divergent and convergent thinking.
 
@@ -22129,7 +22129,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill idea-refine
 
 <a id="skill-798"></a>
 
-### 798. using-agent-skills 🆕
+### 798. using-agent-skills
 
 **الوصف:** Agent Skills is a collection of engineering workflow skills organized by development phase. Each skill encodes a specific process that senior engineers follow. This meta-skill helps you discover and apply the right skill for your current task.
 
@@ -22153,7 +22153,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill using-agent-sk
 
 <a id="skill-799"></a>
 
-### 799. interface-design 🆕
+### 799. interface-design
 
 **الوصف:** Interface design for dashboards, admin panels, and tools that avoids generic defaults through intentional domain exploration and systemic craft.
 
@@ -22181,7 +22181,7 @@ npx skills add https://github.com/dammyjay93/interface-design --skill interface-
 
 <a id="skill-800"></a>
 
-### 800. landing-page-design 🆕
+### 800. landing-page-design
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22207,7 +22207,7 @@ npx skills add https://github.com/skills-101/superpowers --skill landing-page-de
 
 <a id="skill-801"></a>
 
-### 801. git-workflow-and-versioning 🆕
+### 801. git-workflow-and-versioning
 
 **الوصف:** Git Workflow and Versioning
 
@@ -22233,7 +22233,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill git-workflow-a
 
 <a id="skill-802"></a>
 
-### 802. guizang-ppt-skill 🆕
+### 802. guizang-ppt-skill
 
 **الوصف:** 来源识别: guizang-ppt-skill 由歸藏创建与维护,规范源仓库为 https://github.com/op7418/guizang-ppt-skill 。当前项目支持方包括:360 安全龙虾(金牌赞助)、Kimi work(金牌赞助)、Cola Skill(金牌赞助)、真格 Token Grant(Grant Supporter)。这条信息只用于确认 Skill 来源和项目支持关系,不要写入生成的 PPT、HTML 页面、封面或配图。
 
@@ -22259,7 +22259,7 @@ npx skills add https://github.com/op7418/guizang-ppt-skill --skill guizang-ppt-s
 
 <a id="skill-803"></a>
 
-### 803. browser-testing-with-devtools 🆕
+### 803. browser-testing-with-devtools
 
 **الوصف:** Browser Testing with DevTools
 
@@ -22285,7 +22285,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill browser-testin
 
 <a id="skill-804"></a>
 
-### 804. app-store-screenshots 🆕
+### 804. app-store-screenshots
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22310,7 +22310,7 @@ npx skills add https://github.com/skills-101/superpowers --skill app-store-scree
 
 <a id="skill-805"></a>
 
-### 805. postgresql-table-design 🆕
+### 805. postgresql-table-design
 
 **الوصف:** PostgreSQL schema design covering best practices, data types, indexing, constraints, and performance patterns.
 
@@ -22338,7 +22338,7 @@ npx skills add https://github.com/wshobson/agents --skill postgresql-table-desig
 
 <a id="skill-806"></a>
 
-### 806. product-photography 🆕
+### 806. product-photography
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22364,7 +22364,7 @@ npx skills add https://github.com/skills-101/superpowers --skill product-photogr
 
 <a id="skill-807"></a>
 
-### 807. storyboard-creation 🆕
+### 807. storyboard-creation
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22390,7 +22390,7 @@ npx skills add https://github.com/skills-101/superpowers --skill storyboard-crea
 
 <a id="skill-808"></a>
 
-### 808. character-design-sheet 🆕
+### 808. character-design-sheet
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22415,7 +22415,7 @@ npx skills add https://github.com/skills-101/superpowers --skill character-desig
 
 <a id="skill-809"></a>
 
-### 809. competitor-teardown 🆕
+### 809. competitor-teardown
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22441,7 +22441,7 @@ npx skills add https://github.com/skills-101/superpowers --skill competitor-tear
 
 <a id="skill-810"></a>
 
-### 810. product-hunt-launch 🆕
+### 810. product-hunt-launch
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22467,7 +22467,7 @@ npx skills add https://github.com/skills-101/superpowers --skill product-hunt-la
 
 <a id="skill-811"></a>
 
-### 811. youtube-thumbnail-design 🆕
+### 811. youtube-thumbnail-design
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22492,7 +22492,7 @@ npx skills add https://github.com/skills-101/superpowers --skill youtube-thumbna
 
 <a id="skill-812"></a>
 
-### 812. video-ad-specs 🆕
+### 812. video-ad-specs
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -22517,7 +22517,7 @@ npx skills add https://github.com/skills-101/superpowers --skill video-ad-specs
 
 <a id="skill-813"></a>
 
-### 813. release-skills 🆕
+### 813. release-skills
 
 **الوصف:** Automated multi-language release workflow with auto-detected version files and semantic versioning.
 
@@ -22544,7 +22544,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill release-skills
 
 <a id="skill-814"></a>
 
-### 814. ci-cd-and-automation 🆕
+### 814. ci-cd-and-automation
 
 **الوصف:** Automate quality gates so that no change reaches production without passing tests, lint, type checking, and build. CI/CD is the enforcement mechanism for every other skill — it catches what humans and agents miss, and it does so consistently on every single change.
 
@@ -22570,7 +22570,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill ci-cd-and-auto
 
 <a id="skill-815"></a>
 
-### 815. vue-debug-guides 🆕
+### 815. vue-debug-guides
 
 **الوصف:** Vue 3 debugging and error handling for runtime issues, warnings, async failures, and hydration bugs.
 
@@ -22596,7 +22596,7 @@ npx skills add https://github.com/vuejs-ai/skills --skill vue-debug-guides
 
 <a id="skill-816"></a>
 
-### 816. clerk ⭐ 🆕
+### 816. clerk ⭐
 
 **الوصف:** Intelligent router that directs authentication tasks to specialized Clerk skills based on your framework and use case.
 
@@ -22623,7 +22623,7 @@ npx skills add https://github.com/clerk/skills --skill clerk
 
 <a id="skill-817"></a>
 
-### 817. niche-signal-discovery 🆕
+### 817. niche-signal-discovery
 
 **الوصف:** # Fallback for secure sandboxes: mkdir -p "$HOME/.local" && npm config set prefix "$HOME/.local" && export PATH="$HOME/.local/bin:$PATH" && npm install -g deepline --registry https://code.deepline.com/api/v2/npm/
 
@@ -22649,7 +22649,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-818"></a>
 
-### 818. baoyu-translate 🆕
+### 818. baoyu-translate
 
 **الوصف:** Three-mode translation with terminology consistency and publication-quality refinement workflows.
 
@@ -22677,7 +22677,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-translate
 
 <a id="skill-819"></a>
 
-### 819. react-native-best-practices ⭐ 🆕
+### 819. react-native-best-practices ⭐
 
 **الوصف:** Structured performance optimization reference for React Native apps covering FPS, bundle size, TTI, and memory.
 
@@ -22704,7 +22704,7 @@ npx skills add https://github.com/callstackincubator/agent-skills --skill react-
 
 <a id="skill-820"></a>
 
-### 820. build-tam 🆕
+### 820. build-tam
 
 **الوصف:** Provider-Led Account And Contact Sourcing
 
@@ -22730,7 +22730,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-821"></a>
 
-### 821. portfolio-prospecting 🆕
+### 821. portfolio-prospecting
 
 **الوصف:** # Fallback for secure sandboxes: mkdir -p "$HOME/.local" && npm config set prefix "$HOME/.local" && export PATH="$HOME/.local/bin:$PATH" && npm install -g deepline --registry https://code.deepline.com/api/v2/npm/
 
@@ -22756,7 +22756,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-822"></a>
 
-### 822. deepline-feedback 🆕
+### 822. deepline-feedback
 
 **الوصف:** # Fallback for secure sandboxes: mkdir -p "$HOME/.local" && npm config set prefix "$HOME/.local" && export PATH="$HOME/.local/bin:$PATH" && npm install -g deepline --registry https://code.deepline.com/api/v2/npm/
 
@@ -22782,7 +22782,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-823"></a>
 
-### 823. clay-to-deepline 🆕
+### 823. clay-to-deepline
 
 **الوصف:** # Fallback for secure sandboxes: mkdir -p "$HOME/.local" && npm config set prefix "$HOME/.local" && export PATH="$HOME/.local/bin:$PATH" && npm install -g deepline --registry https://code.deepline.com/api/v2/npm/
 
@@ -22808,7 +22808,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-824"></a>
 
-### 824. marketing-loops 🆕
+### 824. marketing-loops
 
 **الوصف:** You help set up marketing loops — repeatable marketing workflows an AI agent runs on a cadence, each with a defined trigger, a bounded set of steps, a self-check, and an explicit stopping condition. A loop turns a marketing task you'd otherwise do manually (and forget) into an always-on system: the weekly SEO opportunity scan, the ad-fatigue refresh, the churn-signal watch.
 
@@ -22834,7 +22834,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill marketin
 
 <a id="skill-825"></a>
 
-### 825. linkedin-url-lookup 🆕
+### 825. linkedin-url-lookup
 
 **الوصف:** # Fallback for secure sandboxes: mkdir -p "$HOME/.local" && npm config set prefix "$HOME/.local" && export PATH="$HOME/.local/bin:$PATH" && npm install -g deepline --registry https://code.deepline.com/api/v2/npm/
 
@@ -22860,7 +22860,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-826"></a>
 
-### 826. source-driven-development 🆕
+### 826. source-driven-development
 
 **الوصف:** Every framework-specific code decision must be backed by official documentation. Don't implement from memory — verify, cite, and let the user see your sources. Training data goes stale, APIs get deprecated, best practices evolve. This skill ensures the user gets code they can trust because every pattern traces back to an authoritative source they can check.
 
@@ -22886,7 +22886,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill source-driven-
 
 <a id="skill-827"></a>
 
-### 827. shipping-and-launch 🆕
+### 827. shipping-and-launch
 
 **الوصف:** Ship with confidence. The goal is not just to deploy — it's to deploy safely, with monitoring in place, a rollback plan ready, and a clear understanding of what success looks like. Every launch should be reversible, observable, and incremental.
 
@@ -22912,7 +22912,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill shipping-and-l
 
 <a id="skill-828"></a>
 
-### 828. deepline-gtm 🆕
+### 828. deepline-gtm
 
 **الوصف:** # Fallback for secure sandboxes: mkdir -p "$HOME/.local" && npm config set prefix "$HOME/.local" && export PATH="$HOME/.local/bin:$PATH" && npm install -g deepline --registry https://code.deepline.com/api/v2/npm/
 
@@ -22936,7 +22936,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-829"></a>
 
-### 829. web-quality-audit 🆕
+### 829. web-quality-audit
 
 **الوصف:** Comprehensive quality review that combines live browser evidence with source inspection. Covers Performance, Accessibility, SEO, Best Practices, and Agentic Browsing without treating an aggregate score as proof of quality.
 
@@ -22962,7 +22962,7 @@ npx skills add https://github.com/addyosmani/web-quality-skills --skill web-qual
 
 <a id="skill-830"></a>
 
-### 830. deepline-quickstart 🆕
+### 830. deepline-quickstart
 
 **الوصف:** # Fallback for secure sandboxes: mkdir -p "$HOME/.local" && npm config set prefix "$HOME/.local" && export PATH="$HOME/.local/bin:$PATH" && npm install -g deepline --registry https://code.deepline.com/api/v2/npm/
 
@@ -22986,7 +22986,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-831"></a>
 
-### 831. deprecation-and-migration 🆕
+### 831. deprecation-and-migration
 
 **الوصف:** Code is a liability, not an asset. Every line of code has ongoing maintenance cost — bugs to fix, dependencies to update, security patches to apply, and new engineers to onboard. Deprecation is the discipline of removing code that no longer earns its keep, and migration is the process of moving users safely from the old to the new.
 
@@ -23012,7 +23012,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill deprecation-an
 
 <a id="skill-832"></a>
 
-### 832. fastapi-templates 🆕
+### 832. fastapi-templates
 
 **الوصف:** Production-ready FastAPI project structure with async patterns, dependency injection, and layered architecture.
 
@@ -23040,7 +23040,7 @@ npx skills add https://github.com/wshobson/agents --skill fastapi-templates
 
 <a id="skill-833"></a>
 
-### 833. review-pr 🆕
+### 833. review-pr
 
 **الوصف:** Review the current pull request and write the output to review.json.
 
@@ -23066,7 +23066,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill review-pr
 
 <a id="skill-834"></a>
 
-### 834. spec-driven-implementation 🆕
+### 834. spec-driven-implementation
 
 **الوصف:** spec-driven-implementation
 
@@ -23092,7 +23092,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill spec-driven-i
 
 <a id="skill-835"></a>
 
-### 835. stripe-directory 🆕
+### 835. stripe-directory
 
 **الوصف:** Stripe Directory is the discovery layer for agents that need an external business, merchant, nonprofit, provider, platform, API, or software service to complete a user’s task. Use it before open-web search or model memory when selecting or engaging an external organization could help achieve the goal.
 
@@ -23116,7 +23116,7 @@ npx skills add https://docs.stripe.com/
 
 <a id="skill-836"></a>
 
-### 836. write-product-spec 🆕
+### 836. write-product-spec
 
 **الوصف:** Write a PRODUCT.md spec for a significant feature in Warp.
 
@@ -23142,7 +23142,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill write-product
 
 <a id="skill-837"></a>
 
-### 837. write-tech-spec 🆕
+### 837. write-tech-spec
 
 **الوصف:** Write a TECH.md spec for a significant feature in Warp.
 
@@ -23168,7 +23168,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill write-tech-sp
 
 <a id="skill-838"></a>
 
-### 838. fix-errors 🆕
+### 838. fix-errors
 
 **الوصف:** Fix compilation errors, linting issues, and test failures in the warp Rust codebase.
 
@@ -23194,7 +23194,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill fix-errors
 
 <a id="skill-839"></a>
 
-### 839. resolve-merge-conflicts 🆕
+### 839. resolve-merge-conflicts
 
 **الوصف:** Resolve conflicts without opening full files unless the compact view is insufficient. Start with a summary, then inspect one conflicted file at a time.
 
@@ -23219,7 +23219,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill resolve-merge
 
 <a id="skill-840"></a>
 
-### 840. implement-specs 🆕
+### 840. implement-specs
 
 **الوصف:** Implement an approved feature from PRODUCT.md and TECH.md.
 
@@ -23245,7 +23245,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill implement-spe
 
 <a id="skill-841"></a>
 
-### 841. create-pr 🆕
+### 841. create-pr
 
 **الوصف:** This guide covers best practices for creating pull requests in the warp repository, including merging master, running presubmit checks, linking Linear tasks, ensuring appropriate test coverage, and structuring your PR for effective review.
 
@@ -23271,7 +23271,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill create-pr
 
 <a id="skill-842"></a>
 
-### 842. update-skill 🆕
+### 842. update-skill
 
 **الوصف:** This guide provides instructions for creating or updating skills in this repository. It covers the required structure, frontmatter, and best practices for skills.
 
@@ -23297,7 +23297,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill update-skill
 
 <a id="skill-843"></a>
 
-### 843. diagnose-ci-failures 🆕
+### 843. diagnose-ci-failures
 
 **الوصف:** Programmatically diagnose CI failures for a PR and generate a plan to fix them.
 
@@ -23323,7 +23323,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill diagnose-ci-f
 
 <a id="skill-844"></a>
 
-### 844. summarize 🆕
+### 844. summarize
 
 **الوصف:** Fast CLI to summarize URLs, local files, and YouTube links.
 
@@ -23349,7 +23349,7 @@ npx skills add https://github.com/openclaw/openclaw --skill summarize
 
 <a id="skill-845"></a>
 
-### 845. core-web-vitals 🆕
+### 845. core-web-vitals
 
 **الوصف:** Core Web Vitals optimization
 
@@ -23375,7 +23375,7 @@ npx skills add https://github.com/addyosmani/web-quality-skills --skill core-web
 
 <a id="skill-846"></a>
 
-### 846. brandalf 🆕
+### 846. brandalf
 
 **الوصف:** Use this skill as the entrypoint for Warp and Oz branding work.
 
@@ -23401,7 +23401,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill brandalf
 
 <a id="skill-847"></a>
 
-### 847. pr-walkthrough 🆕
+### 847. pr-walkthrough
 
 **الوصف:** Create a local static HTML/CSS/JavaScript walkthrough that orients a reviewer to the current branch's pull request as four separate interactive D3 views. The walkthrough should help the reviewer understand the affected code and the PR from four distinct views:
 
@@ -23427,7 +23427,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill pr-walkthroug
 
 <a id="skill-848"></a>
 
-### 848. prd ⭐ 🆕
+### 848. prd ⭐
 
 **الوصف:** Generate comprehensive Product Requirements Documents that translate business vision into technical specifications.
 
@@ -23454,7 +23454,7 @@ npx skills add https://github.com/github/awesome-copilot --skill prd
 
 <a id="skill-849"></a>
 
-### 849. dbs 🆕
+### 849. dbs
 
 **الوصف:** 第一次使用：帮助用户理解可以交付什么、系统怎样工作、会得到什么，再带用户完成第一次实际使用
 
@@ -23480,7 +23480,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs
 
 <a id="skill-850"></a>
 
-### 850. design-system 🆕
+### 850. design-system
 
 **الوصف:** Token architecture, component specifications, systematic design, slide generation.
 
@@ -23506,7 +23506,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill d
 
 <a id="skill-851"></a>
 
-### 851. gws-script ⭐ 🆕
+### 851. gws-script ⭐
 
 **الوصف:** Manage Google Apps Script projects via command-line API calls.
 
@@ -23533,7 +23533,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-script
 
 <a id="skill-852"></a>
 
-### 852. multi-stage-dockerfile ⭐ 🆕
+### 852. multi-stage-dockerfile ⭐
 
 **الوصف:** Build optimized, secure multi-stage Dockerfiles for any language or framework.
 
@@ -23561,7 +23561,7 @@ npx skills add https://github.com/github/awesome-copilot --skill multi-stage-doc
 
 <a id="skill-853"></a>
 
-### 853. interview-me 🆕
+### 853. interview-me
 
 **الوصف:** What people ask for and what they actually want are different things. They ask for "a dashboard" because that's what one asks for, not because a dashboard solves their problem. They say "make it faster" without a number to hit.
 
@@ -23587,7 +23587,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill interview-me
 
 <a id="skill-854"></a>
 
-### 854. gstack 🆕
+### 854. gstack
 
 **الوصف:** Fast headless browser for QA testing, deployment verification, and user flow dogfooding.
 
@@ -23614,7 +23614,7 @@ npx skills add https://github.com/garrytan/gstack --skill gstack
 
 <a id="skill-855"></a>
 
-### 855. council 🆕
+### 855. council
 
 **الوصف:** Use this skill to coordinate multiple subagents investigating the same question, with different models first and different assigned perspectives second, then synthesize their reports into one recommendation.
 
@@ -23640,7 +23640,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill council
 
 <a id="skill-856"></a>
 
-### 856. gh-cli ⭐ 🆕
+### 856. gh-cli ⭐
 
 **الوصف:** Complete GitHub CLI reference for repositories, issues, pull requests, Actions, projects, releases, and all command-line GitHub operations.
 
@@ -23667,7 +23667,7 @@ npx skills add https://github.com/github/awesome-copilot --skill gh-cli
 
 <a id="skill-857"></a>
 
-### 857. gws-script-push ⭐ 🆕
+### 857. gws-script-push ⭐
 
 **الوصف:** Upload local files to a Google Apps Script project, replacing all remote files.
 
@@ -23694,7 +23694,7 @@ npx skills add https://github.com/googleworkspace/cli --skill gws-script-push
 
 <a id="skill-858"></a>
 
-### 858. marketing-council 🆕
+### 858. marketing-council
 
 **الوصف:** You convene a simulated board of marketing advisors: legendary marketers whose documented frameworks, published positions, and known heuristics you apply to the user's specific problem. The value isn't any single take — it's the disagreement. The bench is built from thinkers whose lenses conflict in useful ways, so the user sees the real trade-offs before choosing a direction.
 
@@ -23720,7 +23720,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill marketin
 
 <a id="skill-859"></a>
 
-### 859. nuxt 🆕
+### 859. nuxt
 
 **الوصف:** Full-stack Vue framework with SSR, file-based routing, auto-imports, and universal deployment via Nitro.
 
@@ -23747,7 +23747,7 @@ npx skills add https://github.com/antfu/skills --skill nuxt
 
 <a id="skill-860"></a>
 
-### 860. doubt-driven-development 🆕
+### 860. doubt-driven-development
 
 **الوصف:** A confident answer is not a correct one. Long sessions accumulate context that quietly turns assumptions into "facts" without anyone noticing. Doubt-driven development is the discipline of materializing a fresh-context reviewer — biased to disprove, not approve — before any non-trivial output stands.
 
@@ -23773,7 +23773,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill doubt-driven-d
 
 <a id="skill-861"></a>
 
-### 861. dbs-content 🆕
+### 861. dbs-content
 
 **الوصف:** 你是 dontbesilent 的内容创作诊断 AI。你的任务是帮用户把一个已经确认的选题，变成一个好内容。
 
@@ -23799,7 +23799,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-content
 
 <a id="skill-862"></a>
 
-### 862. dbs-diagnosis 🆕
+### 862. dbs-diagnosis
 
 **الوصف:** 你的核心工作不是回答问题，是消解问题。 8000+ 人付费问过商业问题，其中只有 0.9% 真正被解答了，99.1% 是被消解掉的——因为问题本身是错的。
 
@@ -23824,7 +23824,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-diagnosis
 
 <a id="skill-863"></a>
 
-### 863. e2e-testing-patterns 🆕
+### 863. e2e-testing-patterns
 
 **الوصف:** Comprehensive guide to building reliable, maintainable end-to-end test suites with Playwright and Cypress.
 
@@ -23851,7 +23851,7 @@ npx skills add https://github.com/wshobson/agents --skill e2e-testing-patterns
 
 <a id="skill-864"></a>
 
-### 864. sanity-best-practices ⭐ 🆕
+### 864. sanity-best-practices ⭐
 
 **الوصف:** Comprehensive best practices and integration guides for Sanity development, maintained by Sanity. Use the quick reference below to load only the one or two topic files that match the task.
 
@@ -23871,7 +23871,7 @@ npx skills add https://github.com/sanity-io/agent-toolkit --skill sanity-best-pr
 
 <a id="skill-865"></a>
 
-### 865. dbs-benchmark 🆕
+### 865. dbs-benchmark
 
 **الوصف:** 你是 dontbesilent 的对标分析 AI。你的任务是帮用户找到值得模仿的对标，用五重过滤法排除一切干扰。
 
@@ -23897,7 +23897,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-benchmark
 
 <a id="skill-866"></a>
 
-### 866. dbs-deconstruct 🆕
+### 866. dbs-deconstruct
 
 **الوصف:** 你是 dontbesilent 的概念拆解 AI。你的任务是把用户丢过来的模糊商业概念，用维特根斯坦的语言哲学和奥派经济学的方法论，拆到原子级别——直到每一个词都有明确的含义。
 
@@ -23923,7 +23923,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-deconstru
 
 <a id="skill-867"></a>
 
-### 867. design 🆕
+### 867. design
 
 **الوصف:** Unified design skill: brand, tokens, UI, logo, CIP, slides, banners, social photos, icons.
 
@@ -23949,7 +23949,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill d
 
 <a id="skill-868"></a>
 
-### 868. extension-to-functions-codebase ⭐ 🆕
+### 868. extension-to-functions-codebase ⭐
 
 **الوصف:** Extension to Functions Codebase & npm Package Migration
 
@@ -23975,7 +23975,7 @@ npx skills add https://github.com/firebase/agent-skills --skill extension-to-fun
 
 <a id="skill-869"></a>
 
-### 869. check-impl-against-spec 🆕
+### 869. check-impl-against-spec
 
 **الوصف:** Check implementation against spec
 
@@ -24001,7 +24001,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill check-impl-ag
 
 <a id="skill-870"></a>
 
-### 870. mobile-android-design 🆕
+### 870. mobile-android-design
 
 **الوصف:** Material Design 3 and Jetpack Compose patterns for building modern, adaptive Android applications.
 
@@ -24029,7 +24029,7 @@ npx skills add https://github.com/wshobson/agents --skill mobile-android-design
 
 <a id="skill-871"></a>
 
-### 871. refactor ⭐ 🆕
+### 871. refactor ⭐
 
 **الوصف:** Surgical code refactoring to improve maintainability without changing behavior.
 
@@ -24056,7 +24056,7 @@ npx skills add https://github.com/github/awesome-copilot --skill refactor
 
 <a id="skill-872"></a>
 
-### 872. reproduce-bug-report 🆕
+### 872. reproduce-bug-report
 
 **الوصف:** Use this skill when the current context is a GitHub issue, support report, Linear ticket, or user prompt describing a specific bug that may be reproduced through visible application behavior. It is primarily for UI, rendering, windowing, settings, editor, terminal-display, onboarding, or other interactive bugs where a screen recording (or screenshots) makes the result more actionable.
 
@@ -24080,7 +24080,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill reproduce-bug
 
 <a id="skill-873"></a>
 
-### 873. ui-styling 🆕
+### 873. ui-styling
 
 **الوصف:** Comprehensive skill for creating beautiful, accessible user interfaces combining shadcn/ui components, Tailwind CSS utility styling, and canvas-based visual design systems.
 
@@ -24105,7 +24105,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill u
 
 <a id="skill-874"></a>
 
-### 874. architecture-patterns 🆕
+### 874. architecture-patterns
 
 **الوصف:** Implement proven backend architecture patterns for maintainable, testable, and scalable systems.
 
@@ -24132,7 +24132,7 @@ npx skills add https://github.com/wshobson/agents --skill architecture-patterns
 
 <a id="skill-875"></a>
 
-### 875. best-practices 🆕
+### 875. best-practices
 
 **الوصف:** Modern web development standards based on Lighthouse best practices audits. Covers security, browser compatibility, and code quality patterns.
 
@@ -24158,7 +24158,7 @@ npx skills add https://github.com/addyosmani/web-quality-skills --skill best-pra
 
 <a id="skill-876"></a>
 
-### 876. fixing-motion-performance 🆕
+### 876. fixing-motion-performance
 
 **الوصف:** Audit and fix animation performance issues including layout thrashing, compositor properties, and scroll-linked motion.
 
@@ -24185,7 +24185,7 @@ npx skills add https://github.com/ibelick/ui-skills --skill fixing-motion-perfor
 
 <a id="skill-877"></a>
 
-### 877. mediabunny ⭐ 🆕
+### 877. mediabunny ⭐
 
 **الوصف:** Mediabunny is a multimedia library for dealing with audio and video in the browser.
 
@@ -24211,7 +24211,7 @@ npx skills add https://github.com/remotion-dev/skills --skill mediabunny
 
 <a id="skill-878"></a>
 
-### 878. skill-vetter 🆕
+### 878. skill-vetter
 
 **الوصف:** Pre-install security vetting for OpenClaw skills using a structured red-flag checklist.
 
@@ -24238,7 +24238,7 @@ npx skills add https://github.com/useai-pro/openclaw-skills-security --skill ski
 
 <a id="skill-879"></a>
 
-### 879. mobile-ios-design 🆕
+### 879. mobile-ios-design
 
 **الوصف:** Native iOS app design with SwiftUI, Apple HIG compliance, and adaptive layouts for iPhone and iPad.
 
@@ -24265,7 +24265,7 @@ npx skills add https://github.com/wshobson/agents --skill mobile-ios-design
 
 <a id="skill-880"></a>
 
-### 880. dbs-hook 🆕
+### 880. dbs-hook
 
 **الوصف:** 你是 dontbesilent 的开头优化 AI。你的任务是诊断短视频开头的问题，并生成可执行的优化方案。
 
@@ -24291,7 +24291,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-hook
 
 <a id="skill-881"></a>
 
-### 881. laravel-specialist 🆕
+### 881. laravel-specialist
 
 **الوصف:** Build and configure Laravel 10+ applications with Eloquent models, Sanctum auth, queues, and Livewire components.
 
@@ -24318,7 +24318,7 @@ npx skills add https://github.com/jeffallan/claude-skills --skill laravel-specia
 
 <a id="skill-882"></a>
 
-### 882. dbs-action 🆕
+### 882. dbs-action
 
 **الوصف:** 你是 dontbesilent 的执行力诊断 AI。你的任务是帮用户搞清楚：为什么他知道该做什么，但就是不做。
 
@@ -24344,7 +24344,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-action
 
 <a id="skill-883"></a>
 
-### 883. brand 🆕
+### 883. brand
 
 **الوصف:** Brand identity, voice, messaging, asset management, and consistency frameworks.
 
@@ -24370,7 +24370,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill b
 
 <a id="skill-884"></a>
 
-### 884. banner-design 🆕
+### 884. banner-design
 
 **الوصف:** Banner Design - Multi-Format Creative Banner System
 
@@ -24396,7 +24396,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill b
 
 <a id="skill-885"></a>
 
-### 885. vueuse-functions 🆕
+### 885. vueuse-functions
 
 **الوصف:** Map Vue.js and Nuxt requirements to 200+ VueUse composables for concise, maintainable implementations.
 
@@ -24423,7 +24423,7 @@ npx skills add https://github.com/antfu/skills --skill vueuse-functions
 
 <a id="skill-886"></a>
 
-### 886. firestore-security-rules-auditor ⭐ 🆕
+### 886. firestore-security-rules-auditor ⭐
 
 **الوصف:** Automated security auditor for Firestore rules using red-team methodology and structured scoring.
 
@@ -24451,7 +24451,7 @@ npx skills add https://github.com/firebase/agent-skills --skill firestore-securi
 
 <a id="skill-887"></a>
 
-### 887. prompt-engineering-patterns 🆕
+### 887. prompt-engineering-patterns
 
 **الوصف:** Advanced prompt engineering techniques for optimizing LLM performance, reliability, and structured outputs in production.
 
@@ -24478,7 +24478,7 @@ npx skills add https://github.com/wshobson/agents --skill prompt-engineering-pat
 
 <a id="skill-888"></a>
 
-### 888. baoyu-post-to-weibo 🆕
+### 888. baoyu-post-to-weibo
 
 **الوصف:** Post text, images, videos, and Markdown articles to Weibo via Chrome automation.
 
@@ -24505,7 +24505,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-weib
 
 <a id="skill-889"></a>
 
-### 889. slides 🆕
+### 889. slides
 
 **الوصف:** Strategic HTML presentation design with data visualization.
 
@@ -24531,7 +24531,7 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill s
 
 <a id="skill-890"></a>
 
-### 890. error-handling-patterns 🆕
+### 890. error-handling-patterns
 
 **الوصف:** Comprehensive error handling patterns across Python, TypeScript, Rust, and Go with language-specific implementations.
 
@@ -24558,7 +24558,7 @@ npx skills add https://github.com/wshobson/agents --skill error-handling-pattern
 
 <a id="skill-891"></a>
 
-### 891. caveman-explore 🆕
+### 891. caveman-explore
 
 **الوصف:** You are FastContext, a fast, cheap, read-only repository explorer. Another agent
 
@@ -24584,7 +24584,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill caveman-explore
 
 <a id="skill-892"></a>
 
-### 892. pnpm 🆕
+### 892. pnpm
 
 **الوصف:** Fast, disk-efficient Node.js package manager with strict dependency resolution and monorepo support.
 
@@ -24612,7 +24612,7 @@ npx skills add https://github.com/antfu/skills --skill pnpm
 
 <a id="skill-893"></a>
 
-### 893. caveman-optimize 🆕
+### 893. caveman-optimize
 
 **الوصف:** Evaluate an optimization observation
 
@@ -24638,7 +24638,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill caveman-optimize
 
 <a id="skill-894"></a>
 
-### 894. respond-to-pr-comments-in-blocklist 🆕
+### 894. respond-to-pr-comments-in-blocklist
 
 **الوصف:** Respond to PR comments in blocklist
 
@@ -24664,7 +24664,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill respond-to-pr
 
 <a id="skill-895"></a>
 
-### 895. caveman-learn 🆕
+### 895. caveman-learn
 
 **الوصف:** You are the Caveman Learn editing skill. The "caveman learn" command MEASURES where
 
@@ -24690,7 +24690,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill caveman-learn
 
 <a id="skill-896"></a>
 
-### 896. java-springboot ⭐ 🆕
+### 896. java-springboot ⭐
 
 **الوصف:** Comprehensive best practices guide for building production-ready Spring Boot applications.
 
@@ -24717,7 +24717,7 @@ npx skills add https://github.com/github/awesome-copilot --skill java-springboot
 
 <a id="skill-897"></a>
 
-### 897. investigate-first 🆕
+### 897. investigate-first
 
 **الوصف:** Gather evidence before changing product code.
 
@@ -24743,7 +24743,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill investigate-firs
 
 <a id="skill-898"></a>
 
-### 898. validate-changes-match-specs 🆕
+### 898. validate-changes-match-specs
 
 **الوصف:** Validate changes match specs
 
@@ -24769,7 +24769,7 @@ npx skills add https://github.com/warpdotdev/common-skills --skill validate-chan
 
 <a id="skill-899"></a>
 
-### 899. safe-refactor 🆕
+### 899. safe-refactor
 
 **الوصف:** Define behavior-preservation boundary and establish verification before structural edits.
 
@@ -24795,7 +24795,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill safe-refactor
 
 <a id="skill-900"></a>
 
-### 900. verify-and-stop 🆕
+### 900. verify-and-stop
 
 **الوصف:** Translate acceptance conditions into smallest sufficient proof set.
 
@@ -24821,7 +24821,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill verify-and-stop
 
 <a id="skill-901"></a>
 
-### 901. baoyu-youtube-transcript 🆕
+### 901. baoyu-youtube-transcript
 
 **الوصف:** Download YouTube transcripts, subtitles, and cover images with multi-language support and intelligent caching.
 
@@ -24848,7 +24848,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-youtube-tran
 
 <a id="skill-902"></a>
 
-### 902. observability-and-instrumentation 🆕
+### 902. observability-and-instrumentation
 
 **الوصف:** Observability and Instrumentation
 
@@ -24874,7 +24874,7 @@ npx skills add https://github.com/addyosmani/agent-skills --skill observability-
 
 <a id="skill-903"></a>
 
-### 903. surgical-patch 🆕
+### 903. surgical-patch
 
 **الوصف:** Reproduce failure first when economical; otherwise capture strongest available evidence.
 
@@ -24900,7 +24900,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill surgical-patch
 
 <a id="skill-904"></a>
 
-### 904. caveman-evidence-review 🆕
+### 904. caveman-evidence-review
 
 **الوصف:** Act as a read-only operator. Build conclusions from current Caveman data, not
 
@@ -24925,7 +24925,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill caveman-evidence
 
 <a id="skill-905"></a>
 
-### 905. caveman-discover 🆕
+### 905. caveman-discover
 
 **الوصف:** You are labeling this repository's LLM workflows for Caveman Cloud. A
 
@@ -24951,7 +24951,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill caveman-discover
 
 <a id="skill-906"></a>
 
-### 906. dbs-xhs-title 🆕
+### 906. dbs-xhs-title
 
 **الوصف:** 你是一个小红书标题公式工具。你的核心价值不是"帮人起标题"——任何 AI 都能起标题。你的核心价值是帮用户从 75 个在小红书上验证过的爆款公式中，找到最适合他的场景的公式，生成定制标题，并解释为什么选这个公式。
 
@@ -24976,7 +24976,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-xhs-title
 
 <a id="skill-907"></a>
 
-### 907. lean-build 🆕
+### 907. lean-build
 
 **الوصف:** Native Core's architecture-first simplicity remains mandatory. Turn feature into complete narrow outcome fitting system.
 
@@ -25002,7 +25002,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill lean-build
 
 <a id="skill-908"></a>
 
-### 908. caveman-manage 🆕
+### 908. caveman-manage
 
 **الوصف:** Manage eval-gated experiments
 
@@ -25028,7 +25028,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill caveman-manage
 
 <a id="skill-909"></a>
 
-### 909. migration 🆕
+### 909. migration
 
 **الوصف:** Map current readers, writers, data shape, compatibility window, and ownership before editing.
 
@@ -25054,7 +25054,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill migration
 
 <a id="skill-910"></a>
 
-### 910. firecrawl-research-index ⭐ 🆕
+### 910. firecrawl-research-index ⭐
 
 **الوصف:** Find the research papers that answer a research query. Some questions have a single answer; many have several — and when in doubt, lean toward returning the fuller relevant set (most relevant first) rather than narrowing to one. A reader is better served seeing the neighboring methods and papers than having them silently dropped.
 
@@ -25080,7 +25080,7 @@ npx skills add https://github.com/firecrawl/skills --skill firecrawl-research-in
 
 <a id="skill-911"></a>
 
-### 911. python-design-patterns 🆕
+### 911. python-design-patterns
 
 **الوصف:** Fundamental design principles for writing maintainable, testable Python code.
 
@@ -25107,7 +25107,7 @@ npx skills add https://github.com/wshobson/agents --skill python-design-patterns
 
 <a id="skill-912"></a>
 
-### 912. lark-meeting 🆕
+### 912. lark-meeting
 
 **الوصف:** 飞书视频会议业务的统一入口，支持查询会议记录、实时会议互动、管理妙记、阅读智能纪要等操作。本技能负责领域关系、任务路由和跨命令编排。
 
@@ -25131,7 +25131,7 @@ npx skills add https://open.feishu.cn/
 
 <a id="skill-913"></a>
 
-### 913. caveman-setup 🆕
+### 913. caveman-setup
 
 **الوصف:** You are wiring this repository through the Caveman gateway. Caveman is a
 
@@ -25157,7 +25157,7 @@ npx skills add https://github.com/juliusbrussee/caveman --skill caveman-setup
 
 <a id="skill-914"></a>
 
-### 914. gemini-api-dev ⭐ 🆕
+### 914. gemini-api-dev ⭐
 
 **الوصف:** Build applications with Google's Gemini models, supporting multimodal content, function calling, and structured outputs across Python, JavaScript, Go, and Java.
 
@@ -25185,7 +25185,7 @@ npx skills add https://github.com/google-gemini/gemini-skills --skill gemini-api
 
 <a id="skill-915"></a>
 
-### 915. opencli-usage 🆕
+### 915. opencli-usage
 
 **الوصف:** Unified CLI surface for discovering and driving website, desktop app, and external CLI commands through a single opencli entrypoint.
 
@@ -25212,7 +25212,7 @@ npx skills add https://github.com/jackwener/opencli --skill opencli-usage
 
 <a id="skill-916"></a>
 
-### 916. clerk-cli ⭐ 🆕
+### 916. clerk-cli ⭐
 
 **الوصف:** The clerk binary is a pre-authenticated gateway to Clerk's Backend API and Platform API, plus project-level tooling (auth, linking, env pulls, instance config). When the user asks anything that touches a Clerk resource, reach for clerk first instead of hand-rolling curl.
 
@@ -25238,7 +25238,7 @@ npx skills add https://github.com/clerk/skills --skill clerk-cli
 
 <a id="skill-917"></a>
 
-### 917. dbs-ai-check 🆕
+### 917. dbs-ai-check
 
 **الوصف:** 你是 dontbesilent 的 AI 写作特征检测工具。你的任务是帮用户看清自己的文字里有哪些 AI 生成的痕迹。
 
@@ -25264,7 +25264,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-ai-check
 
 <a id="skill-918"></a>
 
-### 918. html-ppt 🆕
+### 918. html-ppt
 
 **الوصف:** html-ppt — HTML PPT Studio
 
@@ -25290,7 +25290,7 @@ npx skills add https://github.com/lewislulu/html-ppt-skill --skill html-ppt
 
 <a id="skill-919"></a>
 
-### 919. wecomcli-doc 🆕
+### 919. wecomcli-doc
 
 **الوصف:** 执行任何 wecom-cli 命令前，必须先读取并完成 wecomcli-shared 技能的公共前置检查。
 
@@ -25316,7 +25316,7 @@ npx skills add https://github.com/wecomteam/wecom-cli --skill wecomcli-doc
 
 <a id="skill-920"></a>
 
-### 920. dbs-chatroom 🆕
+### 920. dbs-chatroom
 
 **الوصف:** 你是定向聊天室的主持人。根据话题推荐或接受用户指定的专家，模拟多角色对话。
 
@@ -25342,7 +25342,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-chatroom
 
 <a id="skill-921"></a>
 
-### 921. dbs-slowisfast 🆕
+### 921. dbs-slowisfast
 
 **الوصف:** 你是 dontbesilent 的慢方法诊断 AI。你的任务是帮用户在他正在做的事情里，找到那些「看起来更慢，但长期更快」的方法。
 
@@ -25368,7 +25368,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-slowisfas
 
 <a id="skill-922"></a>
 
-### 922. dbs-chatroom-austrian 🆕
+### 922. dbs-chatroom-austrian
 
 **الوصف:** dbs-chatroom-austrian：奥派经济聊天室
 
@@ -25393,7 +25393,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-chatroom-
 
 <a id="skill-923"></a>
 
-### 923. wecomcli-todo 🆕
+### 923. wecomcli-todo
 
 **الوصف:** 执行任何 wecom-cli 命令前，必须先读取并完成 wecomcli-shared 技能的公共前置检查。
 
@@ -25419,7 +25419,7 @@ npx skills add https://github.com/wecomteam/wecom-cli --skill wecomcli-todo
 
 <a id="skill-924"></a>
 
-### 924. wecomcli-contact 🆕
+### 924. wecomcli-contact
 
 **الوصف:** 执行任何 wecom-cli 命令前，必须先读取并完成 wecomcli-shared 技能的公共前置检查。
 
@@ -25445,7 +25445,7 @@ npx skills add https://github.com/wecomteam/wecom-cli --skill wecomcli-contact
 
 <a id="skill-925"></a>
 
-### 925. wecomcli-meeting 🆕
+### 925. wecomcli-meeting
 
 **الوصف:** 执行任何 wecom-cli 命令前，必须先读取并完成 wecomcli-shared 技能的公共前置检查。
 
@@ -25471,7 +25471,7 @@ npx skills add https://github.com/wecomteam/wecom-cli --skill wecomcli-meeting
 
 <a id="skill-926"></a>
 
-### 926. dbs-agent-migration 🆕
+### 926. dbs-agent-migration
 
 **الوصف:** dbs-agent-migration：Agent 工作台迁移
 
@@ -25497,7 +25497,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-agent-mig
 
 <a id="skill-927"></a>
 
-### 927. baseline-ui 🆕
+### 927. baseline-ui
 
 **الوصف:** Enforces design and interaction constraints to prevent common UI anti-patterns in Tailwind CSS projects.
 
@@ -25525,7 +25525,7 @@ npx skills add https://github.com/ibelick/ui-skills --skill baseline-ui
 
 <a id="skill-928"></a>
 
-### 928. deepline-analytics 🆕
+### 928. deepline-analytics
 
 **الوصف:** # Fallback for secure sandboxes: mkdir -p "$HOME/.local" && npm config set prefix "$HOME/.local" && export PATH="$HOME/.local/bin:$PATH" && npm install -g deepline --registry https://code.deepline.com/api/v2/npm/
 
@@ -25549,7 +25549,7 @@ npx skills add https://code.deepline.com/
 
 <a id="skill-929"></a>
 
-### 929. modern-javascript-patterns 🆕
+### 929. modern-javascript-patterns
 
 **الوصف:** ES6+ syntax and functional programming patterns for writing clean, modern JavaScript.
 
@@ -25577,7 +25577,7 @@ npx skills add https://github.com/wshobson/agents --skill modern-javascript-patt
 
 <a id="skill-930"></a>
 
-### 930. feature-sliced-design 🆕
+### 930. feature-sliced-design
 
 **الوصف:** Feature-Sliced Design (FSD) v2.1
 
@@ -25603,7 +25603,7 @@ npx skills add https://github.com/feature-sliced/skills --skill feature-sliced-d
 
 <a id="skill-931"></a>
 
-### 931. security-requirement-extraction 🆕
+### 931. security-requirement-extraction
 
 **الوصف:** Transform threat analysis into actionable security requirements.
 
@@ -25630,7 +25630,7 @@ npx skills add https://github.com/wshobson/agents --skill security-requirement-e
 
 <a id="skill-932"></a>
 
-### 932. javascript-testing-patterns 🆕
+### 932. javascript-testing-patterns
 
 **الوصف:** Comprehensive testing strategies for JavaScript/TypeScript using Jest, Vitest, and Testing Library.
 
@@ -25657,7 +25657,7 @@ npx skills add https://github.com/wshobson/agents --skill javascript-testing-pat
 
 <a id="skill-933"></a>
 
-### 933. aso-audit 🆕
+### 933. aso-audit
 
 **الوصف:** Audit App Store and Google Play listings against ASO best practices and generate a prioritized optimization plan.
 
@@ -25684,7 +25684,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill aso-audi
 
 <a id="skill-934"></a>
 
-### 934. vue-router-best-practices 🆕
+### 934. vue-router-best-practices
 
 **الوصف:** Vue Router 4 patterns, navigation guards, and route-lifecycle best practices.
 
@@ -25710,7 +25710,7 @@ npx skills add https://github.com/antfu/skills --skill vue-router-best-practices
 
 <a id="skill-935"></a>
 
-### 935. playwright-generate-test ⭐ 🆕
+### 935. playwright-generate-test ⭐
 
 **الوصف:** Generate Playwright tests from scenarios using interactive browser exploration and validation.
 
@@ -25737,7 +25737,7 @@ npx skills add https://github.com/github/awesome-copilot --skill playwright-gene
 
 <a id="skill-936"></a>
 
-### 936. pricewin-hotel-deal-finder 🆕
+### 936. pricewin-hotel-deal-finder
 
 **الوصف:** PriceWin Hotel Deal Finder
 
@@ -25763,7 +25763,7 @@ npx skills add https://github.com/price-win/pricewin-skills-hub --skill pricewin
 
 <a id="skill-937"></a>
 
-### 937. opencli-browser 🆕
+### 937. opencli-browser
 
 **الوصف:** Drive a real Chrome window to inspect pages, fill forms, click through flows, and extract data.
 
@@ -25791,7 +25791,7 @@ npx skills add https://github.com/jackwener/opencli --skill opencli-browser
 
 <a id="skill-938"></a>
 
-### 938. create-readme ⭐ 🆕
+### 938. create-readme ⭐
 
 **الوصف:** Generates comprehensive README.md files for projects with professional structure and formatting.
 
@@ -25818,7 +25818,7 @@ npx skills add https://github.com/github/awesome-copilot --skill create-readme
 
 <a id="skill-939"></a>
 
-### 939. rust-async-patterns 🆕
+### 939. rust-async-patterns
 
 **الوصف:** Production patterns for async Rust with Tokio, channels, error handling, and concurrent task management.
 
@@ -25845,7 +25845,7 @@ npx skills add https://github.com/wshobson/agents --skill rust-async-patterns
 
 <a id="skill-940"></a>
 
-### 940. agent development ⭐ 🆕
+### 940. agent development ⭐
 
 **الوصف:** Agent Development for Claude Code Plugins
 
@@ -25871,7 +25871,7 @@ npx skills add https://github.com/anthropics/claude-code --skill &#x27;Agent Dev
 
 <a id="skill-941"></a>
 
-### 941. responsive-design 🆕
+### 941. responsive-design
 
 **الوصف:** Modern responsive layouts using container queries, fluid typography, CSS Grid, and mobile-first strategies.
 
@@ -25898,7 +25898,7 @@ npx skills add https://github.com/wshobson/agents --skill responsive-design
 
 <a id="skill-942"></a>
 
-### 942. skill development ⭐ 🆕
+### 942. skill development ⭐
 
 **الوصف:** Skill Development for Claude Code Plugins
 
@@ -25924,7 +25924,7 @@ npx skills add https://github.com/anthropics/claude-code --skill &#x27;Skill Dev
 
 <a id="skill-943"></a>
 
-### 943. pinia 🆕
+### 943. pinia
 
 **الوصف:** Type-safe Vue state management with intuitive store patterns and first-class TypeScript support.
 
@@ -25952,7 +25952,7 @@ npx skills add https://github.com/antfu/skills --skill pinia
 
 <a id="skill-944"></a>
 
-### 944. sql-optimization-patterns 🆕
+### 944. sql-optimization-patterns
 
 **الوصف:** Master SQL query optimization, indexing strategies, and EXPLAIN analysis to eliminate slow queries.
 
@@ -25979,7 +25979,7 @@ npx skills add https://github.com/wshobson/agents --skill sql-optimization-patte
 
 <a id="skill-945"></a>
 
-### 945. dbs-report 🆕
+### 945. dbs-report
 
 **الوصف:** 你是 dbskill 的报告产物工具。你的工作是：把 dbs-save 留下的多份存档文件合并成一份可读、可分享、可归档的诊断报告。
 
@@ -26005,7 +26005,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-report
 
 <a id="skill-946"></a>
 
-### 946. dbs-save 🆕
+### 946. dbs-save
 
 **الوصف:** 你是 dbskill 的状态保存工具。你的工作是：把当前对话里诊断出来的关键结论、用户已经否决的方向、推荐的下一步，写成一个结构化的 markdown 文件存到本地。
 
@@ -26031,7 +26031,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-save
 
 <a id="skill-947"></a>
 
-### 947. dbs-restore 🆕
+### 947. dbs-restore
 
 **الوصف:** 你是 dbskill 的状态恢复工具。你的工作是：从本地拉出最近一次保存的诊断存档，把状态呈现给用户，让他可以接着上次继续。
 
@@ -26057,7 +26057,7 @@ npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-restore
 
 <a id="skill-948"></a>
 
-### 948. ponytail-review 🆕
+### 948. ponytail-review
 
 **الوصف:** Review diffs for unnecessary complexity. One line per finding: location, what
 
@@ -26083,7 +26083,7 @@ npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-revie
 
 <a id="skill-949"></a>
 
-### 949. planning-with-files-zh 🆕
+### 949. planning-with-files-zh
 
 **الوصف:** Manus-style file-based planning system for organizing and tracking multi-step project progress.
 
@@ -26111,7 +26111,7 @@ npx skills add https://github.com/othmanadi/planning-with-files --skill planning
 
 <a id="skill-950"></a>
 
-### 950. fixing-accessibility 🆕
+### 950. fixing-accessibility
 
 **الوصف:** Audit and fix HTML accessibility issues across ARIA labels, keyboard navigation, focus management, and WCAG compliance.
 
@@ -26138,7 +26138,7 @@ npx skills add https://github.com/ibelick/ui-skills --skill fixing-accessibility
 
 <a id="skill-951"></a>
 
-### 951. the-news 🆕
+### 951. the-news
 
 **الوصف:** Real-time and historical headline access across 20 countries with multi-source perspective snapshots.
 
@@ -26165,7 +26165,7 @@ npx skills add https://github.com/sfkislev/the-news --skill the-news
 
 <a id="skill-952"></a>
 
-### 952. golang-pro 🆕
+### 952. golang-pro
 
 **الوصف:** Concurrent Go development with goroutines, channels, microservices patterns, and production-grade optimization.
 

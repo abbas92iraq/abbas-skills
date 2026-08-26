@@ -26,21 +26,6 @@
 | إجمالي المهارات على skills.sh | **9,684** |
 | آخر تحديث | **2026-08-26** |
 
-## 🆕 أحدث الإضافات
-
-- **signup** — `coreyhaines31/marketingskills` (48,913 تثبيت)
-- **free-tools** — `coreyhaines31/marketingskills` (48,904 تثبيت)
-- **aso** — `coreyhaines31/marketingskills` (48,895 تثبيت)
-- **referrals** — `coreyhaines31/marketingskills` (48,849 تثبيت)
-- **web-search** — `skills-101/superpowers` (48,529 تثبيت)
-- **popups** — `coreyhaines31/marketingskills` (48,459 تثبيت)
-- **paywalls** — `coreyhaines31/marketingskills` (48,399 تثبيت)
-- **agent-tools** — `skills-101/superpowers` (48,366 تثبيت)
-- **infsh-cli** — `skills-101/superpowers` (48,352 تثبيت)
-- **python-executor** — `skills-101/superpowers` (48,316 تثبيت)
-
-السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
-
 ## 🤖 استخدامه كمساعد افتراضي
 
 **الطريقة الأولى — تثبيته كمهارة** (يجعل الوكيل يستشير الأرشيف تلقائيًا):
