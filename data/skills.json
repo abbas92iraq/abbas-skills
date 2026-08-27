@@ -70,7 +70,7 @@
     "Designed for design reviews, architecture validation, and pre-implementation planning where thorough vetting prevents downstream issues"
    ],
    "meta": "A relentless interview to sharpen a plan or design.",
-   "installs_display": "983.3K",
+   "installs_display": "984.3K",
    "stars": "237.9K",
    "first_seen": "Mar 13, 2026",
    "audits": [
@@ -231,7 +231,7 @@
     "Provides refactoring guidelines covering duplication extraction, module deepening, and SOLID principles, applied only after all tests pass"
    ],
    "meta": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests.",
-   "installs_display": "779.3K",
+   "installs_display": "780.1K",
    "stars": "237.9K",
    "first_seen": "Feb 10, 2026",
    "audits": [
@@ -272,7 +272,7 @@
     "Built-in Python integration for setting variables, accessing the browser object, and running scripts within the automation context"
    ],
    "meta": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking…",
-   "installs_display": "739.0K",
+   "installs_display": "739.5K",
    "stars": "41.4K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -393,7 +393,7 @@
     "Respects prior triage context, codebase ADRs, and out-of-scope knowledge bases to avoid re-asking resolved questions and surfacing prior rejections"
    ],
    "meta": "Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs.",
-   "installs_display": "676.3K",
+   "installs_display": "677.0K",
    "stars": "237.9K",
    "first_seen": "Apr 28, 2026",
    "audits": [
@@ -689,7 +689,7 @@
     "Thread: A reply thread under a message, identified by thread_id (om_xxx or omt_xxx)."
    ],
    "meta": "Install the lark-im skill for your AI agent. Published on open.feishu.cn.",
-   "installs_display": "624.1K",
+   "installs_display": "624.6K",
    "stars": "",
    "first_seen": "Apr 14, 2026",
    "audits": [],
@@ -794,7 +794,7 @@
     "飞书表格编辑准则（动手前必守，所有编辑类任务一律生效）"
    ],
    "meta": "Install the lark-sheets skill for your AI agent. Published on open.feishu.cn.",
-   "installs_display": "623.8K",
+   "installs_display": "624.2K",
    "stars": "",
    "first_seen": "Apr 14, 2026",
    "audits": [],
@@ -802,6 +802,39 @@
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
    "is_new": false
+  },
+  {
+   "source": "open.feishu.cn",
+   "skillId": "lark-minutes",
+   "name": "lark-minutes",
+   "installs": 623958,
+   "weeklyInstalls": [
+    46467,
+    39796,
+    43714,
+    42216,
+    37154,
+    33708,
+    31100,
+    27483
+   ],
+   "id": "open.feishu.cn/lark-minutes",
+   "page_url": "https://www.skills.sh/site/open.feishu.cn/lark-minutes",
+   "install": "npx skills add https://open.feishu.cn/",
+   "repo": "open.feishu.cn",
+   "headline": "MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。",
+   "bullets": [
+    "<div class=\"text-sm font-mono uppercase text-white mb-2\""
+   ],
+   "meta": "Install the lark-minutes skill for your AI agent. Published on open.feishu.cn.",
+   "installs_display": "623.7K",
+   "stars": "",
+   "first_seen": "Apr 14, 2026",
+   "audits": [],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
   },
   {
    "source": "open.feishu.cn",
@@ -864,7 +897,7 @@
     "lark-cli event schema <EventKey> [--json]"
    ],
    "meta": "Install the lark-event skill for your AI agent. Published on open.feishu.cn.",
-   "installs_display": "623.5K",
+   "installs_display": "624.0K",
    "stars": "",
    "first_seen": "Apr 14, 2026",
    "audits": [],
@@ -969,7 +1002,7 @@
     "没有精确匹配、或无法确认当前版本是否支持时，先运行 lark-cli task --help，以当前 CLI 输出的命令列表为准。"
    ],
    "meta": "Install the lark-task skill for your AI agent. Published on open.feishu.cn.",
-   "installs_display": "623.2K",
+   "installs_display": "623.7K",
    "stars": "",
    "first_seen": "Apr 14, 2026",
    "audits": [],
@@ -1015,6 +1048,40 @@
   },
   {
    "source": "open.feishu.cn",
+   "skillId": "lark-slides",
+   "name": "lark-slides",
+   "installs": 623573,
+   "weeklyInstalls": [
+    46439,
+    39774,
+    43688,
+    42218,
+    37157,
+    33681,
+    31074,
+    27421
+   ],
+   "id": "open.feishu.cn/lark-slides",
+   "page_url": "https://www.skills.sh/site/open.feishu.cn/lark-slides",
+   "install": "npx skills add https://open.feishu.cn/",
+   "repo": "open.feishu.cn",
+   "headline": "本技能文档较长，务必使用 Read 工具阅读两次，必须阅读完整全文。",
+   "bullets": [
+    "权威经验是全局硬约束和高频易错点，必须牢记并严格遵守。",
+    "<div class=\"text-sm font-mono uppercase text-white mb-2\""
+   ],
+   "meta": "Install the lark-slides skill for your AI agent. Published on open.feishu.cn.",
+   "installs_display": "623.6K",
+   "stars": "",
+   "first_seen": "Apr 14, 2026",
+   "audits": [],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
+  },
+  {
+   "source": "open.feishu.cn",
    "skillId": "lark-mail",
    "name": "lark-mail",
    "installs": 623567,
@@ -1047,6 +1114,39 @@
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
    "is_new": false
+  },
+  {
+   "source": "open.feishu.cn",
+   "skillId": "lark-vc",
+   "name": "lark-vc",
+   "installs": 623398,
+   "weeklyInstalls": [
+    46440,
+    39764,
+    43673,
+    42196,
+    37145,
+    33664,
+    31060,
+    27396
+   ],
+   "id": "open.feishu.cn/lark-vc",
+   "page_url": "https://www.skills.sh/site/open.feishu.cn/lark-vc",
+   "install": "npx skills add https://open.feishu.cn/lark-cli/skills/regular",
+   "repo": "open.feishu.cn",
+   "headline": "MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。",
+   "bullets": [
+    "<div class=\"text-sm font-mono uppercase text-white mb-2\""
+   ],
+   "meta": "Install the lark-vc skill for your AI agent. Published on open.feishu.cn.",
+   "installs_display": "623.6K",
+   "stars": "",
+   "first_seen": "Apr 14, 2026",
+   "audits": [],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
   },
   {
    "source": "open.feishu.cn",
@@ -1109,7 +1209,7 @@
     "lark-cli auth login --domain vc # 基础（查询+纪要）"
    ],
    "meta": "Install the lark-workflow-meeting-summary skill for your AI agent. Published on open.feishu.cn.",
-   "installs_display": "622.9K",
+   "installs_display": "623.4K",
    "stars": "",
    "first_seen": "Apr 14, 2026",
    "audits": [],
@@ -1263,6 +1363,39 @@
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
    "is_new": false
+  },
+  {
+   "source": "open.feishu.cn",
+   "skillId": "lark-vc-agent",
+   "name": "lark-vc-agent",
+   "installs": 568008,
+   "weeklyInstalls": [
+    46393,
+    39749,
+    43660,
+    42186,
+    37116,
+    33626,
+    31027,
+    27320
+   ],
+   "id": "open.feishu.cn/lark-vc-agent",
+   "page_url": "https://www.skills.sh/site/open.feishu.cn/lark-vc-agent",
+   "install": "npx skills add https://open.feishu.cn/",
+   "repo": "open.feishu.cn",
+   "headline": "MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。",
+   "bullets": [
+    "<div class=\"text-sm font-mono uppercase text-white mb-2\""
+   ],
+   "meta": "Install the lark-vc-agent skill for your AI agent. Published on open.feishu.cn.",
+   "installs_display": "567.8K",
+   "stars": "",
+   "first_seen": "May 12, 2026",
+   "audits": [],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
   },
   {
    "source": "mattpocock/skills",
@@ -1659,7 +1792,7 @@
     "Includes language-specific code modification guides for ASP.NET Core, Node.js, and Python, plus quick references for OpenTelemetry SDKs and exporters"
    ],
    "meta": "Guidance for instrumenting webapps with Azure Application Insights. Provides telemetry patterns, SDK setup, and configuration references. WHEN: how to…",
-   "installs_display": "547.1K",
+   "installs_display": "547.4K",
    "stars": "1.4K",
    "first_seen": "Feb 4, 2026",
    "audits": [
@@ -1823,7 +1956,7 @@
     "Requires Azure CLI for configuration and testing; integrates with managed identity for secure backend access"
    ],
    "meta": "Configure Azure API Management as an AI Gateway for AI models, MCP tools, and agents. WHEN: semantic caching, token limit, content safety, load balancing, AI…",
-   "installs_display": "546.7K",
+   "installs_display": "547.0K",
    "stars": "1.4K",
    "first_seen": "Feb 4, 2026",
    "audits": [
@@ -1944,7 +2077,7 @@
     "Structured diagnosis workflow: identify SDK version, check resource health, match error messages, look up docs, verify configuration, and apply fixes"
    ],
    "meta": "Troubleshoot and resolve issues with Azure Messaging SDKs for Event Hubs and Service Bus. Covers connection failures, authentication errors, message processing…",
-   "installs_display": "536.4K",
+   "installs_display": "536.6K",
    "stars": "1.4K",
    "first_seen": "Feb 20, 2026",
    "audits": [
@@ -2415,7 +2548,7 @@
     "When the main skill needs a fast map of repo structure and documented commands."
    ],
    "meta": "Rigor Intake helper for README-first deep learning repo reproduction. Use when the task is specifically to scan a repository, read the README and common…",
-   "installs_display": "450.0K",
+   "installs_display": "450.1K",
    "stars": "476",
    "first_seen": "Mar 30, 2026",
    "audits": [
@@ -2746,88 +2879,6 @@
    "is_new": false
   },
   {
-   "source": "larksuite/cli",
-   "skillId": "lark-minutes",
-   "name": "lark-minutes",
-   "installs": 419640,
-   "weeklyInstalls": [
-    28871,
-    30514,
-    30277,
-    12468,
-    9271,
-    8027,
-    7348,
-    6841
-   ],
-   "id": "larksuite/cli/lark-minutes",
-   "page_url": "https://www.skills.sh/larksuite/cli/lark-minutes",
-   "install": "npx skills add https://github.com/larksuite/cli --skill lark-minutes",
-   "repo": "larksuite/cli",
-   "headline": "Search, download, and manage Lark Minutes recordings with transcript and metadata extraction.",
-   "bullets": [
-    "Search minutes by keyword, owner, participants, or time range; retrieve basic metadata including title, cover, duration, and owner information",
-    "Download audio/video media files or generate shareable download links valid for one day",
-    "Upload local audio/video files to generate new minutes, with optional conversion to transcripts, summaries, action items, or chapters via the vc +notes command",
-    "Rename minutes titles and replace speaker attributions in transcripts by rebinding statements from one user to another",
-    "Requires lark-cli binary and proper authentication; refer to shared Lark skill documentation for permission handling and domain boundaries"
-   ],
-   "meta": "仅当用户或上游配置显式指定 lark-minutes 时使用，相关请求统一交由 lark-meeting 技能处理。",
-   "installs_display": "419.6K",
-   "stars": "16.8K",
-   "first_seen": "Mar 28, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Pass",
-    "Snyk: Pass"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
-   "is_new": false
-  },
-  {
-   "source": "larksuite/cli",
-   "skillId": "lark-vc",
-   "name": "lark-vc",
-   "installs": 419533,
-   "weeklyInstalls": [
-    28836,
-    30482,
-    30217,
-    12509,
-    9279,
-    7976,
-    7367,
-    6823
-   ],
-   "id": "larksuite/cli/lark-vc",
-   "page_url": "https://www.skills.sh/larksuite/cli/lark-vc",
-   "install": "npx skills add https://github.com/larksuite/cli --skill lark-vc",
-   "repo": "larksuite/cli",
-   "headline": "Search, retrieve, and analyze Feishu video meeting records, notes, and participant snapshots.",
-   "bullets": [
-    "Search ended meetings by keyword, time range, organizer, participant, or room; query future schedules using lark-calendar instead",
-    "Retrieve meeting notes (AI summaries, action items, chapters) and verbatim transcripts; choose products based on user intent (AI summary vs. original transcript for re-analysis)",
-    "Download meeting artifacts including transcripts, minutes, and cover images organized by minute_token directory",
-    "Query participant snapshots for any meeting using vc meeting get --with-participants, including who attended and entry/exit times",
-    "Use three primary shortcuts (+search, +notes, +recording) for common operations; agent join/leave and real-time meeting events require lark-vc-agent skill"
-   ],
-   "meta": "仅当用户或上游配置显式指定 lark-vc 时使用，相关请求统一交由 lark-meeting 技能处理。",
-   "installs_display": "419.5K",
-   "stars": "16.8K",
-   "first_seen": "Mar 28, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Pass",
-    "Snyk: Pass"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
-   "is_new": false
-  },
-  {
    "source": "microsoft/azure-skills",
    "skillId": "azure-quotas",
    "name": "azure-quotas",
@@ -2935,7 +2986,7 @@
     "npx skills add agentspace-so/runcomfy-skills --skill video-edit -g"
    ],
    "meta": "Edit existing video on RunComfy — this skill is a smart router that matches the user's intent to the right edit model in the RunComfy catalog. Picks Wan 2.7…",
-   "installs_display": "409.8K",
+   "installs_display": "409.9K",
    "stars": "38",
    "first_seen": "Apr 30, 2026",
    "audits": [
@@ -3126,7 +3177,7 @@
     "npx skills add agentspace-so/runcomfy-skills --skill nano-banana-edit -g"
    ],
    "meta": "Edit images with Google Nano Banana 2 (image-to-image edit endpoint) on RunComfy. Documents Nano Banana Edit's strengths (preserve subject identity, swap…",
-   "installs_display": "407.6K",
+   "installs_display": "407.7K",
    "stars": "38",
    "first_seen": "Apr 30, 2026",
    "audits": [
@@ -3438,7 +3489,7 @@
     "Every map and ticket is an issue, so it has a name: its title. In everything the human reads (narration, the map's Decisions-so-far), refer to it by that name, never by a bare id, number, or slug. A wall of #42, #43, #44 is illegible; names read at a glance. The id and URL don't vanish; a name wraps"
    ],
    "meta": "Plan a huge chunk of work (more than one agent session can hold) as a shared map of decision tickets on your issue tracker, and resolve them one at a time…",
-   "installs_display": "396.7K",
+   "installs_display": "397.5K",
    "stars": "237.9K",
    "first_seen": "Jul 1, 2026",
    "audits": [
@@ -3450,6 +3501,123 @@
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
    "is_new": false
+  },
+  {
+   "source": "skills-101/superpowers",
+   "skillId": "ai-video-generation",
+   "name": "ai-video-generation",
+   "installs": 394928,
+   "weeklyInstalls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    14114,
+    158346,
+    150008
+   ],
+   "id": "skills-101/superpowers/ai-video-generation",
+   "page_url": "https://www.skills.sh/skills-101/superpowers/ai-video-generation",
+   "install": "npx skills add https://github.com/skills-101/superpowers --skill ai-video-generation",
+   "repo": "skills-101/superpowers",
+   "headline": "Install the belt CLI skill: npx skills add belt-sh/cli",
+   "bullets": [
+    "Generate videos with 40+ AI models via inference.sh CLI.",
+    "Requires inference.sh CLI (belt). Install instructions",
+    "# Generate a video with Veo"
+   ],
+   "meta": "Generate AI videos with Google Veo, Seedance 2.0, HappyHorse, Wan, Grok and 40+ models via inference.sh CLI. Models: Veo 3.1, Veo 3, Seedance 2.0, HappyHorse…",
+   "installs_display": "395.0K",
+   "stars": "9",
+   "first_seen": "Aug 8, 2026",
+   "audits": [
+    "Gen Agent Trust Hub: Pass",
+    "Socket: Warn",
+    "Snyk: Warn"
+   ],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
+  },
+  {
+   "source": "skills-101/superpowers",
+   "skillId": "ai-image-generation",
+   "name": "ai-image-generation",
+   "installs": 394581,
+   "weeklyInstalls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    14124,
+    158213,
+    149875
+   ],
+   "id": "skills-101/superpowers/ai-image-generation",
+   "page_url": "https://www.skills.sh/skills-101/superpowers/ai-image-generation",
+   "install": "npx skills add https://github.com/skills-101/superpowers --skill ai-image-generation",
+   "repo": "skills-101/superpowers",
+   "headline": "Install the belt CLI skill: npx skills add belt-sh/cli",
+   "bullets": [
+    "Generate images with 50+ AI models via inference.sh CLI.",
+    "Requires inference.sh CLI (belt). Install instructions",
+    "# Generate an image with FLUX"
+   ],
+   "meta": "Generate AI images with GPT-Image-2, FLUX, Gemini, Grok, Seedream, Reve and 50+ models via inference.sh CLI. Models: GPT-Image-2, FLUX Dev LoRA, FLUX.2 Klein…",
+   "installs_display": "396.5K",
+   "stars": "9",
+   "first_seen": "Aug 8, 2026",
+   "audits": [
+    "Gen Agent Trust Hub: Pass",
+    "Socket: Warn",
+    "Snyk: Pass"
+   ],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
+  },
+  {
+   "source": "skills-101/superpowers",
+   "skillId": "ai-avatar-video",
+   "name": "ai-avatar-video",
+   "installs": 394493,
+   "weeklyInstalls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    14114,
+    158150,
+    149871
+   ],
+   "id": "skills-101/superpowers/ai-avatar-video",
+   "page_url": "https://www.skills.sh/skills-101/superpowers/ai-avatar-video",
+   "install": "npx skills add https://github.com/skills-101/superpowers --skill ai-avatar-video",
+   "repo": "skills-101/superpowers",
+   "headline": "Install the belt CLI skill: npx skills add belt-sh/cli",
+   "bullets": [
+    "AI Avatar & Talking Head Videos",
+    "Create AI avatars and talking head videos via inference.sh CLI.",
+    "Requires inference.sh CLI (belt). Install instructions"
+   ],
+   "meta": "Create AI avatar and talking head videos via inference.sh CLI. Recommended: P-Video-Avatar (fastest, cheapest, built-in TTS). Also: OmniHuman, Fabric,…",
+   "installs_display": "394.6K",
+   "stars": "9",
+   "first_seen": "Aug 8, 2026",
+   "audits": [
+    "Gen Agent Trust Hub: Pass",
+    "Socket: Warn",
+    "Snyk: Warn"
+   ],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
   },
   {
    "source": "skills-101/superpowers",
@@ -3756,7 +3924,7 @@
     "Includes deep-dive references for pod rightsizing, Vertical Pod Autoscaler, cluster autoscaler configuration, and Spot node pool setup"
    ],
    "meta": "Plan, create, and configure production-ready Azure Kubernetes Service (AKS) clusters. Covers Day-0 checklist, SKU selection (Automatic vs Standard), networking…",
-   "installs_display": "376.1K",
+   "installs_display": "376.5K",
    "stars": "1.4K",
    "first_seen": "Mar 25, 2026",
    "audits": [
@@ -3806,47 +3974,6 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
-   "is_new": false
-  },
-  {
-   "source": "larksuite/cli",
-   "skillId": "lark-slides",
-   "name": "lark-slides",
-   "installs": 373021,
-   "weeklyInstalls": [
-    28854,
-    30475,
-    30269,
-    12543,
-    9387,
-    8067,
-    7365,
-    6804
-   ],
-   "id": "larksuite/cli/lark-slides",
-   "page_url": "https://www.skills.sh/larksuite/cli/lark-slides",
-   "install": "npx skills add https://github.com/larksuite/cli --skill lark-slides",
-   "repo": "larksuite/cli",
-   "headline": "Create and edit Lark Office slides with XML protocol, supporting presentation creation, page management, and content modification.",
-   "bullets": [
-    "Supports three creation workflows: one-step creation for simple slides, two-step creation (empty presentation + page-by-page addition) for complex content, and block-level editing of existing pages without reordering",
-    "Handles slide operations including create, read, delete, and replace at both presentation and individual page levels; automatically parses /slides/ and /wiki/ URLs to extract presentation tokens",
-    "Requires planning layer (slide_plan.json) before XML generation for new presentations or major rewrites; includes visual planning (layout_type, visual_focus, text_density) and asset planning with fallback strategies",
-    "Enforces strict XML validation: text must use <content><p>...</p></content>, images require uploaded file_tokens (no external URLs), and all complex content undergoes post-creation verification against validation checklist",
-    "Provides template search, summarization, and extraction via template_tool.py to avoid boilerplate; prioritizes user identity (--as user) for personal content operations"
-   ],
-   "meta": "飞书幻灯片：创建和编辑幻灯片。创建演示文稿、读取幻灯片内容、管理幻灯片页面（创建、删除、读取、局部替换）。当用户需要创建或编辑幻灯片、读取或修改单个页面时使用。当用户给出 doubao.com 的 /slides/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到…",
-   "installs_display": "373.0K",
-   "stars": "16.8K",
-   "first_seen": "Apr 10, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Pass",
-    "Snyk: Pass"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
    "is_new": false
   },
   {
@@ -4011,45 +4138,6 @@
    "is_new": false
   },
   {
-   "source": "prime-skills/runcomfy-agent-skills",
-   "skillId": "ai-video-generation",
-   "name": "ai-video-generation",
-   "installs": 353257,
-   "weeklyInstalls": [
-    40878,
-    32908,
-    3208,
-    3008,
-    3040,
-    2951,
-    3866,
-    3873
-   ],
-   "id": "prime-skills/runcomfy-agent-skills/ai-video-generation",
-   "page_url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/ai-video-generation",
-   "install": "npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill ai-video-generation",
-   "repo": "prime-skills/ru…t-skills",
-   "headline": "Generate videos with the full RunComfy video-model catalog through one CLI — text-to-video, image-to-video, and Veo's video-extend. This skill picks the right model for the user's intent and ships the documented prompt patterns + the exact runcomfy run invoke for each.",
-   "bullets": [
-    "runcomfy.com · Video models · CLI docs",
-    "Powered by the RunComfy CLI",
-    "# 1. Install (see runcomfy-cli skill for details)"
-   ],
-   "meta": "Generate AI videos on RunComfy via the `runcomfy` CLI — a smart router across the full video-model catalog: HappyHorse 1.0 (Arena #1, native in-pass audio),…",
-   "installs_display": "353.2K",
-   "stars": "38",
-   "first_seen": "May 13, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Pass",
-    "Snyk: Fail"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
-   "is_new": false
-  },
-  {
    "source": "mattpocock/skills",
    "skillId": "to-issues",
    "name": "to-issues",
@@ -4087,45 +4175,6 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
-   "is_new": false
-  },
-  {
-   "source": "prime-skills/runcomfy-agent-skills",
-   "skillId": "ai-image-generation",
-   "name": "ai-image-generation",
-   "installs": 352903,
-   "weeklyInstalls": [
-    40923,
-    32776,
-    3367,
-    3010,
-    3038,
-    2949,
-    3935,
-    3926
-   ],
-   "id": "prime-skills/runcomfy-agent-skills/ai-image-generation",
-   "page_url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/ai-image-generation",
-   "install": "npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill ai-image-generation",
-   "repo": "prime-skills/ru…t-skills",
-   "headline": "Generate and edit images with 11+ AI models via the RunComfy CLI — text-to-image and image-to-image, one auth, one command. This skill picks the right model for the user's intent and ships the documented prompt patterns + the exact runcomfy run invoke for each.",
-   "bullets": [
-    "runcomfy.com · Browse all models · CLI docs",
-    "Powered by the RunComfy CLI",
-    "# 1. Install (one of — see runcomfy-cli skill for details)"
-   ],
-   "meta": "Generate and edit images on RunComfy via the `runcomfy` CLI — a smart router across the full image-model catalog: FLUX 2 (Klein 9B/4B, Pro, Dev, Flash, Turbo,…",
-   "installs_display": "352.9K",
-   "stars": "38",
-   "first_seen": "May 13, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Pass",
-    "Snyk: Pass"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
    "is_new": false
   },
   {
@@ -4210,45 +4259,6 @@
   },
   {
    "source": "prime-skills/runcomfy-agent-skills",
-   "skillId": "ai-avatar-video",
-   "name": "ai-avatar-video",
-   "installs": 350375,
-   "weeklyInstalls": [
-    40768,
-    32723,
-    3379,
-    3002,
-    3028,
-    2943,
-    3747,
-    3751
-   ],
-   "id": "prime-skills/runcomfy-agent-skills/ai-avatar-video",
-   "page_url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/ai-avatar-video",
-   "install": "npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill ai-avatar-video",
-   "repo": "prime-skills/ru…t-skills",
-   "headline": "AI Avatar & Talking Head Video",
-   "bullets": [
-    "Put words in a face. This skill routes across RunComfy's audio-driven avatar models — OmniHuman, Wan 2-7 with audio_url, HappyHorse, Seedance v2 — picking the right path for the user's intent and shipping the documented prompts + the exact runcomfy run invoke for each.",
-    "runcomfy.com · Lip-sync feature · CLI docs",
-    "Powered by the RunComfy CLI"
-   ],
-   "meta": "Create AI avatar, talking-head, and lip-sync videos on RunComfy via the `runcomfy` CLI. Routes across ByteDance OmniHuman (audio-driven full-body avatar),…",
-   "installs_display": "350.4K",
-   "stars": "38",
-   "first_seen": "May 13, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Pass",
-    "Snyk: Pass"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
-   "is_new": false
-  },
-  {
-   "source": "prime-skills/runcomfy-agent-skills",
    "skillId": "face-swap",
    "name": "face-swap",
    "installs": 350312,
@@ -4312,7 +4322,7 @@
     "# 1. Install (see runcomfy-cli skill for details)"
    ],
    "meta": "Region edits across video frames on RunComfy via the `runcomfy` CLI — remove an object that appears across many frames, clean up wires or watermarks, replace a…",
-   "installs_display": "348.6K",
+   "installs_display": "348.7K",
    "stars": "38",
    "first_seen": "May 13, 2026",
    "audits": [
@@ -4665,7 +4675,7 @@
     "Terminates by invoking the writing-plans skill to create implementation roadmaps"
    ],
    "meta": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent,…",
-   "installs_display": "341.2K",
+   "installs_display": "341.4K",
    "stars": "278.0K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -4743,7 +4753,7 @@
     "npx skills add agentspace-so/runcomfy-agent-skills --skill ace-step -g"
    ],
    "meta": "Generate, inpaint, and outpaint music with ACE Step on RunComfy via the `runcomfy` CLI. ACE Step is StepFun-AI's open-weights music foundation model —…",
-   "installs_display": "338.9K",
+   "installs_display": "339.0K",
    "stars": "38",
    "first_seen": "May 15, 2026",
    "audits": [
@@ -4979,7 +4989,7 @@
     "Reverts to verbose style on request; escalates security findings, architectural disagreements, and onboarding contexts to full explanations"
    ],
    "meta": "Ultra-compressed code review comments. Cuts noise from PR feedback while preserving the actionable signal. Each comment is one line: location, problem, fix.…",
-   "installs_display": "320.5K",
+   "installs_display": "320.7K",
    "stars": "101.2K",
    "first_seen": "Apr 8, 2026",
    "audits": [
@@ -5426,47 +5436,6 @@
    "is_new": false
   },
   {
-   "source": "larksuite/cli",
-   "skillId": "lark-vc-agent",
-   "name": "lark-vc-agent",
-   "installs": 307507,
-   "weeklyInstalls": [
-    28803,
-    30396,
-    30194,
-    12416,
-    9241,
-    7900,
-    7254,
-    6731
-   ],
-   "id": "larksuite/cli/lark-vc-agent",
-   "page_url": "https://www.skills.sh/larksuite/cli/lark-vc-agent",
-   "install": "npx skills add https://github.com/larksuite/cli --skill lark-vc-agent",
-   "repo": "larksuite/cli",
-   "headline": "Robot meeting participation: join/leave active meetings by 9-digit number and stream real-time events.",
-   "bullets": [
-    "Three core commands: +meeting-join to join a meeting (creates real attendance record), +meeting-events to read live participant/chat/screen-share events, and +meeting-leave to exit",
-    "Bot must actually join a meeting before reading its event stream; event visibility is limited to in-progress meetings where the bot is an active participant",
-    "Requires meeting.id (long numeric ID returned by join) for event queries and leaving, not the 9-digit meeting number",
-    "Default to --page-all for event queries and always check for pagination signals (has_more=true, page_token) to avoid incomplete results",
-    "Complements lark-vc skill (post-meeting queries like notes/transcripts/participant snapshots) and integrates with lark-im for downstream message distribution"
-   ],
-   "meta": "仅当用户或上游配置显式指定 lark-vc-agent 时使用，相关请求统一交由 lark-meeting 技能处理。",
-   "installs_display": "307.5K",
-   "stars": "16.8K",
-   "first_seen": "May 11, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Pass",
-    "Snyk: Warn"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
-   "is_new": false
-  },
-  {
    "source": "heygen-com/hyperframes",
    "skillId": "hyperframes-creative",
    "name": "hyperframes-creative",
@@ -5724,7 +5693,7 @@
    "id": "shadcn/ui/shadcn",
    "page_url": "https://www.skills.sh/shadcn/ui/shadcn",
    "install": "npx skills add https://github.com/shadcn-ui/ui --skill shadcn",
-   "repo": "shadcn-ui/ui",
+   "repo": "shadcn/ui",
    "headline": "This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing.",
    "bullets": [
     "A framework for building ui, components and design systems. Components are added as source code to the user's project via the CLI.",
@@ -5732,7 +5701,7 @@
     "!`npx shadcn@latest info --json`"
    ],
    "meta": "Manages shadcn components and projects — adding, searching, fixing, debugging, styling, and composing UI, including chat interfaces. Provides project context,…",
-   "installs_display": "33.2K",
+   "installs_display": "",
    "stars": "122.2K",
    "first_seen": "Mar 6, 2026",
    "audits": [
@@ -5743,7 +5712,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "mattpocock/skills",
@@ -5852,7 +5821,7 @@
     "Grants application and delegated permissions scoped per Agent Identity via appRoleAssignments and oauth2PermissionGrants; credentials live on the Blueprint, not on individual Agent Identities"
    ],
    "meta": "Provision Microsoft Entra Agent Identity Blueprints, BlueprintPrincipals, and per-instance Agent Identities via Microsoft Graph, and configure OAuth 2.0 token…",
-   "installs_display": "269.5K",
+   "installs_display": "269.8K",
    "stars": "1.4K",
    "first_seen": "Apr 29, 2026",
    "audits": [
@@ -5930,7 +5899,7 @@
     "Section number = XX, exercise number = XX.YY"
    ],
    "meta": "Create exercise directory structures with sections, problems, solutions, and explainers that pass linting. Use when user wants to scaffold exercises, create…",
-   "installs_display": "266.1K",
+   "installs_display": "266.7K",
    "stars": "237.9K",
    "first_seen": "Mar 13, 2026",
    "audits": [
@@ -5970,7 +5939,7 @@
     "Includes a pre-output verification checklist to confirm no banned patterns remain, all requested deliverables are present, and code is runnable rather than descriptive"
    ],
    "meta": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any…",
-   "installs_display": "266.0K",
+   "installs_display": "266.4K",
    "stars": "81.0K",
    "first_seen": "Mar 1, 2026",
    "audits": [
@@ -6165,7 +6134,7 @@
     "Includes analog degradation effects: halftone dithering, CRT scanlines, mechanical noise overlays, and ASCII framing devices to simulate declassified blueprints"
    ],
    "meta": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type scale contrast, utilitarian color, analog…",
-   "installs_display": "260.1K",
+   "installs_display": "260.3K",
    "stars": "81.0K",
    "first_seen": "Mar 19, 2026",
    "audits": [
@@ -6244,7 +6213,7 @@
     "DO NOT USE EMOJIS IN YOUR CODE, COMMENTS, OR OUTPUT. Maintain strictly professional formatting."
    ],
    "meta": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial…",
-   "installs_display": "257.9K",
+   "installs_display": "258.3K",
    "stars": "81.0K",
    "first_seen": "Apr 16, 2026",
    "audits": [
@@ -6364,7 +6333,7 @@
     "Enforces premium discipline: no generic startup aesthetics, no copied marks, no cluttered layouts; every board answers why the brand exists and how its visual system scales across touchpoints"
    ],
    "meta": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained…",
-   "installs_display": "247.9K",
+   "installs_display": "248.3K",
    "stars": "81.0K",
    "first_seen": "Apr 26, 2026",
    "audits": [
@@ -6691,7 +6660,7 @@
     "Provides Bun runtime support with --bun flag and utility commands for schema validation, formatting, and Prisma Studio access"
    ],
    "meta": "Prisma ORM CLI commands reference covering init, generate, migrate, db, dev, complete, studio, validate, format, debug, and mcp. Use for ORM/database CLI…",
-   "installs_display": "238.6K",
+   "installs_display": "238.8K",
    "stars": "53",
    "first_seen": "Feb 4, 2026",
    "audits": [
@@ -6970,7 +6939,7 @@
     "Requires plan review via subagent before execution; supports two execution modes (subagent-driven per task or inline batch execution)"
    ],
    "meta": "Use when you have a spec or requirements for a multi-step task, before touching code",
-   "installs_display": "231.2K",
+   "installs_display": "231.3K",
    "stars": "278.0K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -7291,7 +7260,7 @@
     "bunx @prisma/cli@latest app deploy --help"
    ],
    "meta": "Prisma Compute deployment and hosting guide. Use whenever the user mentions Prisma Compute, `prisma.compute.ts`, `defineComputeConfig`, deploying or hosting a…",
-   "installs_display": "225.6K",
+   "installs_display": "225.9K",
    "stars": "53",
    "first_seen": "Jun 9, 2026",
    "audits": [
@@ -7370,7 +7339,7 @@
     "A shared language, reached for only when a workflow calls for it: never a checklist. Mandate nothing structural: a workflow needs no AI, no checkpoint, and no schedule unless the grilling shows it does."
    ],
    "meta": "Grill me about specs for the workflows I want to build, within this workspace.",
-   "installs_display": "217.1K",
+   "installs_display": "217.9K",
    "stars": "237.9K",
    "first_seen": "Jun 24, 2026",
    "audits": [
@@ -8686,7 +8655,7 @@
     "Integrates with subagent-driven-development and executing-plans skills to finalize completed work"
    ],
    "meta": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
-   "installs_display": "171.4K",
+   "installs_display": "171.6K",
    "stars": "278.0K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -9119,7 +9088,7 @@
     "All commands block until completion with --wait; no polling required"
    ],
    "meta": "",
-   "installs_display": "141.9K",
+   "installs_display": "142.0K",
    "stars": "773",
    "first_seen": "May 4, 2026",
    "audits": [
@@ -9559,7 +9528,7 @@
     "Engage Orca orchestration whenever you need structured multi-agent coordination: threaded"
    ],
    "meta": "Use Orca orchestration for structured multi-agent coordination: threaded messages, blocking ask/reply flows, task dispatch, worker_done/escalation waits, task…",
-   "installs_display": "131.8K",
+   "installs_display": "132.1K",
    "stars": "54.2K",
    "first_seen": "Apr 28, 2026",
    "audits": [
@@ -9836,7 +9805,7 @@
     "先按标的类型选 server_type，只读该行的一份契约；参数一律以这份契约为准，不读其它领域的契约，不凭记忆填参数名或字段值。"
    ],
    "meta": "用户需要查询、筛选、获取、比较或验证金融市场数据时，优先调用本 Skill 获取可靠、可验证数据，而非仅依赖模型记忆或通用信息来源。依托万得权威、全面、结构化的全球金融市场数据，覆盖A股、港股、美股的选股、行情、财务、估值、股东与事件，以及基金、ETF、指数、板块、债券、公告、财经新闻、宏观经济、汇率、行业、企业、风控…",
-   "installs_display": "121.0K",
+   "installs_display": "121.1K",
    "stars": "88",
    "first_seen": "Apr 29, 2026",
    "audits": [
@@ -9997,7 +9966,7 @@
     "Preserves the author's core message and voice while enhancing impact through targeted, reason-driven edits"
    ],
    "meta": "When the user wants to edit, review, or improve existing marketing copy, or refresh outdated content. Also use when the user mentions 'edit this copy,' 'review…",
-   "installs_display": "116.0K",
+   "installs_display": "116.1K",
    "stars": "45.8K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -10119,7 +10088,7 @@
     "If several terms could fit, list the best match first, then 1–2 alternates with a one-line note on how they differ."
    ],
    "meta": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a popover opens\" → Pop…",
-   "installs_display": "110.9K",
+   "installs_display": "111.1K",
    "stars": "32.8K",
    "first_seen": "Jun 29, 2026",
    "audits": [
@@ -10322,7 +10291,7 @@
     "Includes step-by-step implementation workflow, CSS animation recipes, and patterns for shared elements, list reorder, Suspense reveals, and directional navigation"
    ],
    "meta": "Guide for implementing smooth, native-feeling animations using React's View Transition API (`<ViewTransition>` component, `addTransitionType`, and CSS view…",
-   "installs_display": "106.6K",
+   "installs_display": "106.7K",
    "stars": "30.5K",
    "first_seen": "Mar 31, 2026",
    "audits": [
@@ -11008,7 +10977,7 @@
     "Works with Firebase CLI but does not require it as a prerequisite"
    ],
    "meta": "Sets up, manages, queries, and configures Cloud Firestore databases (Standard/Enterprise edition), including data modeling, security rules, indexes, and SDK…",
-   "installs_display": "99.0K",
+   "installs_display": "99.1K",
    "stars": "423",
    "first_seen": "Apr 30, 2026",
    "audits": [
@@ -11450,7 +11419,7 @@
     "Integrates with Stripe, Chargebee, Paddle, and retention platforms like Churnkey and ProsperStack for end-to-end churn prevention"
    ],
    "meta": "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies. Also use when…",
-   "installs_display": "94.5K",
+   "installs_display": "94.6K",
    "stars": "45.8K",
    "first_seen": "Feb 19, 2026",
    "audits": [
@@ -12574,7 +12543,7 @@
     "Part of a workflow escalation pattern: search first to discover URLs, then use dedicated scrape/map/crawl skills for deeper extraction"
    ],
    "meta": "Web search with full page content. Use when no URL is known: finding sources, articles, or news. For papers use firecrawl-research-index; for library, API,…",
-   "installs_display": "80.7K",
+   "installs_display": "80.8K",
    "stars": "605",
    "first_seen": "Mar 10, 2026",
    "audits": [
@@ -13704,7 +13673,7 @@
     "Falls back to general communication guidelines for formats not explicitly covered by specialized templates"
    ],
    "meta": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever…",
-   "installs_display": "68.5K",
+   "installs_display": "68.6K",
    "stars": "171.8K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -13865,7 +13834,7 @@
     "Provides deployment workflows including dry-run validation, versioning, rollback, and secret management; tail command for live log streaming"
    ],
    "meta": "Cloudflare Workers CLI for deploying, developing, and managing Workers, KV, R2, D1, Vectorize, Hyperdrive, Workers AI, Containers, Queues, Workflows,…",
-   "installs_display": "67.4K",
+   "installs_display": "67.5K",
    "stars": "2.7K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -14991,7 +14960,7 @@
     "Product Hunt is the anchor event: launch at 12:01 AM PT on Tuesday–Thursday, hit 50+ supporters in the first 2 hours, reply to every comment in under 30 minutes, ask for feedback not upvotes. The 2026 algorithm weights comment quality over upvote count."
    ],
    "meta": "When the user wants to submit their product to startup, SaaS, AI, agent, MCP, no-code, or review directories for backlinks, domain rating, and discovery. Also…",
-   "installs_display": "60.9K",
+   "installs_display": "61.0K",
    "stars": "45.8K",
    "first_seen": "Apr 21, 2026",
    "audits": [
@@ -16432,7 +16401,7 @@
     "Prioritizes findings by estimated impact and skips non-issues; biases toward live documentation over pre-trained thresholds"
    ],
    "meta": "Analyzes web performance using Chrome DevTools MCP. Measures Core Web Vitals (LCP, INP, CLS) and supplementary metrics (FCP, TBT, Speed Index), identifies…",
-   "installs_display": "54.8K",
+   "installs_display": "55.0K",
    "stars": "2.7K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -16565,6 +16534,45 @@
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
    "is_new": false
+  },
+  {
+   "source": "prime-skills/runcomfy-agent-skills",
+   "skillId": "gpt-image-2",
+   "name": "gpt-image-2",
+   "installs": 54628,
+   "weeklyInstalls": [
+    3143,
+    3266,
+    2745,
+    2999,
+    3026,
+    2932,
+    3773,
+    3772
+   ],
+   "id": "prime-skills/runcomfy-agent-skills/gpt-image-2",
+   "page_url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/gpt-image-2",
+   "install": "npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill gpt-image-2",
+   "repo": "prime-skills/ru…t-skills",
+   "headline": "GPT Image 2 — Pro Pack on RunComfy",
+   "bullets": [
+    "runcomfy.com · Text-to-image · Edit · GitHub",
+    "OpenAI GPT Image 2 (ChatGPT Images 2.0) hosted on the RunComfy Model API — no OpenAI key, async REST.",
+    "npx skills add agentspace-so/runcomfy-skills --skill gpt-image-2 -g"
+   ],
+   "meta": "Generate and edit images with OpenAI GPT Image 2 (ChatGPT Images 2.0) on RunComfy. Documents GPT Image 2's strengths (embedded text, logos, multilingual…",
+   "installs_display": "54.6K",
+   "stars": "38",
+   "first_seen": "Apr 30, 2026",
+   "audits": [
+    "Gen Agent Trust Hub: Pass",
+    "Socket: Pass",
+    "Snyk: Pass"
+   ],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
   },
   {
    "source": "coreyhaines31/marketingskills",
@@ -16875,7 +16883,7 @@
     "We have several templates for SaaS which can be cloned or used as a reference."
    ],
    "meta": "Build an app with Remotion",
-   "installs_display": "53.7K",
+   "installs_display": "53.9K",
    "stars": "4.4K",
    "first_seen": "Jul 11, 2026",
    "audits": [
@@ -18272,7 +18280,7 @@
     "curl -fsSL https://cli.inference.sh | sh"
    ],
    "meta": "Run AI apps via inference.sh CLI - image generation, video creation, LLMs, search, 3D, Twitter automation. Models: FLUX, Veo, Gemini, Grok, Claude, Seedance,…",
-   "installs_display": "49.3K",
+   "installs_display": "49.7K",
    "stars": "9",
    "first_seen": "Aug 8, 2026",
    "audits": [
@@ -19062,7 +19070,7 @@
     "Load first, non-negotiable: motion-doctrine (+ cut-the-curve,"
    ],
    "meta": "Turn a weekly changelog .md into a finished branded changelog video (square 1080, ~45-60s, Annie VO, animated brand background, mock-UI visualizations, lowkey…",
-   "installs_display": "46.6K",
+   "installs_display": "46.7K",
    "stars": "42.7K",
    "first_seen": "Jul 16, 2026",
    "audits": [
@@ -19182,7 +19190,7 @@
     "Playback control includes play, pause, reverse, restart, seek by time or progress, and kill with optional child cleanup"
    ],
    "meta": "Official GSAP skill for timelines — gsap.timeline(), position parameter, nesting, playback. Use when sequencing animations, choreographing keyframes, or when…",
-   "installs_display": "46.3K",
+   "installs_display": "46.4K",
    "stars": "14.4K",
    "first_seen": "Mar 20, 2026",
    "audits": [
@@ -19703,7 +19711,7 @@
     "Emphasizes answer-first formatting, statistics integration, authoritative citations, and JSON-LD schema as key ranking factors across platforms"
    ],
    "meta": "SEO & GEO (Generative Engine Optimization) for websites. Analyze keywords, generate schema markup, optimize for AI search engines (ChatGPT, Perplexity, Gemini,…",
-   "installs_display": "43.6K",
+   "installs_display": "43.7K",
    "stars": "1.7K",
    "first_seen": "Jan 21, 2026",
    "audits": [
@@ -19867,7 +19875,7 @@
     "Requires gws binary and Google Calendar authentication via shared gws-shared skill"
    ],
    "meta": "Google Calendar: Show upcoming events across all calendars.",
-   "installs_display": "42.9K",
+   "installs_display": "43.0K",
    "stars": "30.6K",
    "first_seen": "Mar 4, 2026",
    "audits": [
@@ -20663,7 +20671,7 @@
     "Mermaid diagram and documentation system with specialized guides and code-to-diagram capabilities."
    ],
    "meta": "Create Mermaid diagrams (flowchart, sequence, class, ER, state, C4, architecture) from text or source code. Default for GitHub wiki. Use when asked to create a…",
-   "installs_display": "39.1K",
+   "installs_display": "39.2K",
    "stars": "155",
    "first_seen": "Feb 6, 2026",
    "audits": [
@@ -21696,7 +21704,7 @@
     "Prefer generics over any when the type set is known — compiler catches mismatches instead of runtime panics"
    ],
    "meta": "Defensive Golang coding to prevent panics, silent data corruption, and subtle runtime bugs. Use when encountering nil panics, append aliasing, map concurrent…",
-   "installs_display": "36.5K",
+   "installs_display": "36.6K",
    "stars": "3.1K",
    "first_seen": "Mar 22, 2026",
    "audits": [
@@ -21974,7 +21982,7 @@
     "Custom authentication flows — build your own sign-in/sign-up UI with hooks"
    ],
    "meta": "Custom authentication flows and component appearance - hooks (useSignIn, useSignUp), themes, colors, fonts, CSS. Use for custom sign-in/sign-up flows,…",
-   "installs_display": "36.3K",
+   "installs_display": "36.4K",
    "stars": "69",
    "first_seen": "Jan 30, 2026",
    "audits": [
@@ -22171,7 +22179,7 @@
     "Before running go get to add any new dependency, AI agents MUST ask the user for confirmation. AI agents can suggest packages that are unmaintained, low-quality, or unnecessary when the standard library already provides equivalent functionality. Using go get -u to upgrade an existing dependency is s"
    ],
    "meta": "Dependency management strategies for Golang projects — go.mod management, installing/upgrading packages, Minimal Version Selection, vulnerability scanning,…",
-   "installs_display": "36.1K",
+   "installs_display": "36.2K",
    "stars": "3.1K",
    "first_seen": "Mar 22, 2026",
    "audits": [
@@ -22446,7 +22454,7 @@
     "Review — auditing an existing CLI for correctness: check the Common Mistakes table, verify SilenceUsage/SilenceErrors, flag-to-Viper binding, exit codes, and stdout/stderr discipline."
    ],
    "meta": "Golang CLI application development. Use when building, modifying, or reviewing a Go CLI tool — especially for command structure, flag handling, configuration…",
-   "installs_display": "35.9K",
+   "installs_display": "36.0K",
    "stars": "3.1K",
    "first_seen": "Mar 22, 2026",
    "audits": [
@@ -24524,7 +24532,7 @@
     "What this does not claim. Passing every check below means the browser layer is internally consistent. It does not mean a given site will treat two profiles as unrelated: things entirely outside the browser - a shared payment instrument, a shared contact detail, identical activity patterns - are not "
    ],
    "meta": "Verify that browser profiles are actually isolated from one another instead of assuming it - confirm each profile's timezone agrees with its own exit IP, that…",
-   "installs_display": "32.0K",
+   "installs_display": "32.1K",
    "stars": "10",
    "first_seen": "Aug 1, 2026",
    "audits": [
@@ -25109,7 +25117,7 @@
     "every page a crawl discovers, for changes"
    ],
    "meta": "Alert by webhook/email on web changes — use for \"monitor/watch/track/alert me when\": recurring checks on known URLs (prefer over repeated one-off scrapes) or…",
-   "installs_display": "31.2K",
+   "installs_display": "31.3K",
    "stars": "605",
    "first_seen": "May 28, 2026",
    "audits": [
@@ -26554,7 +26562,7 @@
     "Paid traffic is running and CPA is above target"
    ],
    "meta": "Audit a landing page, sales page or checkout page for conversion leaks and return a fix list ordered by expected revenue impact. Use when asked to review,…",
-   "installs_display": "28.9K",
+   "installs_display": "29.0K",
    "stars": "",
    "first_seen": "Aug 5, 2026",
    "audits": [
@@ -26756,7 +26764,7 @@
     "BRANDKIT_STATE=\"${BRANDKIT_WORKDIR}/state.json\""
    ],
    "meta": "Create and extend complete visual brand systems through the Higgsfield CLI and bundled deterministic local tooling: palettes, SVG logo marks, typography,…",
-   "installs_display": "28.6K",
+   "installs_display": "28.8K",
    "stars": "773",
    "first_seen": "Aug 3, 2026",
    "audits": [
@@ -27348,7 +27356,7 @@
     "The thank-you page currently says only \"thanks for your order\""
    ],
    "meta": "Design and implement one-click post-purchase upsells and downsells that raise average order value without hurting the main conversion rate. Use when asked to…",
-   "installs_display": "28.4K",
+   "installs_display": "28.5K",
    "stars": "",
    "first_seen": "Aug 5, 2026",
    "audits": [
@@ -28665,7 +28673,7 @@
     "Adding or changing a public API"
    ],
    "meta": "Records decisions and documentation. Use when making architectural decisions, changing public APIs, shipping features, or when you need to record context that…",
-   "installs_display": "27.1K",
+   "installs_display": "27.2K",
    "stars": "90.0K",
    "first_seen": "Feb 16, 2026",
    "audits": [
@@ -28868,7 +28876,7 @@
     "Supports flexible range selection (e.g., January!A1:D, February!A1:D) for targeted data extraction"
    ],
    "meta": "Read data from two tabs in a Google Sheet to compare and identify differences.",
-   "installs_display": "26.9K",
+   "installs_display": "27.0K",
    "stars": "30.6K",
    "first_seen": "Mar 4, 2026",
    "audits": [
@@ -29309,7 +29317,7 @@
     "Building a new feature from a task breakdown"
    ],
    "meta": "Delivers changes incrementally. Use when implementing any feature or change that touches more than one file. Use when you're about to write a large amount of…",
-   "installs_display": "26.8K",
+   "installs_display": "26.9K",
    "stars": "90.0K",
    "first_seen": "Feb 16, 2026",
    "audits": [
@@ -31825,7 +31833,7 @@
     "# Generate a storyboard panel"
    ],
    "meta": "Film and video storyboarding with shot vocabulary, continuity rules, and panel layout. Covers shot types, camera angles, movement, 180-degree rule, and…",
-   "installs_display": "24.7K",
+   "installs_display": "25.0K",
    "stars": "9",
    "first_seen": "Aug 8, 2026",
    "audits": [
@@ -31863,7 +31871,7 @@
     "Requires inference.sh CLI (belt). Install instructions"
    ],
    "meta": "Character consistency across AI-generated images with reference sheets and LoRA techniques. Covers turnaround views, expression sheets, color palettes, and…",
-   "installs_display": "24.7K",
+   "installs_display": "25.0K",
    "stars": "9",
    "first_seen": "Aug 8, 2026",
    "audits": [
@@ -31902,7 +31910,7 @@
     "# Research competitor landscape"
    ],
    "meta": "Structured competitive analysis with feature matrices, SWOT, positioning maps, and UX review. Covers research frameworks, pricing comparison, review mining,…",
-   "installs_display": "24.7K",
+   "installs_display": "25.0K",
    "stars": "9",
    "first_seen": "Aug 8, 2026",
    "audits": [
@@ -31941,7 +31949,7 @@
     "# Generate gallery hero image"
    ],
    "meta": "Product Hunt launch optimization with specific specs, timing, and gallery strategy. Covers taglines, gallery images, maker comments, and launch day tactics.…",
-   "installs_display": "24.7K",
+   "installs_display": "25.0K",
    "stars": "9",
    "first_seen": "Aug 8, 2026",
    "audits": [
@@ -31979,7 +31987,7 @@
     "Requires inference.sh CLI (belt). Install instructions"
    ],
    "meta": "YouTube thumbnail design with specific dimensions, contrast rules, and mobile preview optimization. Covers safe zones, text placement, face expression…",
-   "installs_display": "24.6K",
+   "installs_display": "24.9K",
    "stars": "9",
    "first_seen": "Aug 8, 2026",
    "audits": [
@@ -32017,7 +32025,7 @@
     "Requires inference.sh CLI (belt). Install instructions"
    ],
    "meta": "Video ad creation with exact platform-specific specs for TikTok, Instagram, YouTube, Facebook, LinkedIn. Covers dimensions, duration limits, AIDA framework,…",
-   "installs_display": "24.6K",
+   "installs_display": "24.9K",
    "stars": "9",
    "first_seen": "Aug 8, 2026",
    "audits": [
@@ -32058,7 +32066,7 @@
     "Establish systemic intent where every decision (color, spacing, depth, typography) reinforces the stated feel across all components, not just surface-level styling"
    ],
    "meta": "Craft-first interface design for dashboards, admin panels, SaaS apps, tools, settings pages, data interfaces, and interactive products. Use when designing,…",
-   "installs_display": "24.7K",
+   "installs_display": "24.8K",
    "stars": "5.6K",
    "first_seen": "Jan 20, 2026",
    "audits": [
@@ -32611,7 +32619,7 @@
     "Measurement-first workflow: baseline metrics before optimization, re-measure after applying fixes, validate improvement (e.g., FPS 45→60, TTI 3.2s→1.8s, bundle 2.1MB→1.6MB)"
    ],
    "meta": "Provides React Native performance optimization guidelines for FPS, TTI, bundle size, memory leaks, re-renders, and animations. Applies to tasks involving…",
-   "installs_display": "23.8K",
+   "installs_display": "23.9K",
    "stars": "1.6K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -32835,7 +32843,7 @@
     "Sunsetting a feature that's no longer needed"
    ],
    "meta": "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when…",
-   "installs_display": "23.5K",
+   "installs_display": "23.6K",
    "stars": "90.0K",
    "first_seen": "Mar 30, 2026",
    "audits": [
@@ -33600,7 +33608,7 @@
     "Code dependency graph: which changed components depend on each other, where the major seams are, and which files are entry points versus leaf dependencies."
    ],
    "meta": "Generate a static interactive D3 walkthrough of a pull request. Use when the user wants a zoomable PR map, graph/canvas PR orientation, or alternate…",
-   "installs_display": "22.5K",
+   "installs_display": "22.6K",
    "stars": "220",
    "first_seen": "May 14, 2026",
    "audits": [
@@ -34120,7 +34128,7 @@
     "A publishable npm package (reusable open-source package exporting V2"
    ],
    "meta": "Skill for converting an installed Firebase Extension (or extension source) into a standalone Cloud Functions for Firebase codebase or publishable npm package,…",
-   "installs_display": "21.7K",
+   "installs_display": "21.8K",
    "stars": "423",
    "first_seen": "Jul 27, 2026",
    "audits": [
@@ -35218,7 +35226,7 @@
     "Strategic slide design with layout patterns"
    ],
    "meta": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.",
-   "installs_display": "20.4K",
+   "installs_display": "20.5K",
    "stars": "121.3K",
    "first_seen": "Jun 25, 2026",
    "audits": [
@@ -35258,7 +35266,7 @@
     "Emphasizes testing on diverse inputs, versioning prompts as code, and avoiding common pitfalls like over-engineering, context overflow, and ambiguous instructions"
    ],
    "meta": "This skill should be used when the user asks to \"optimize a prompt\", \"improve prompt performance\", \"design a prompt template\", \"write better prompts\", \"debug…",
-   "installs_display": "20.4K",
+   "installs_display": "20.5K",
    "stars": "39.2K",
    "first_seen": "Jan 20, 2026",
    "audits": [
@@ -35457,7 +35465,7 @@
     "Preserve public interfaces, failure behavior, ordering, and compatibility unless explicitly scoped."
    ],
    "meta": "Restructure code while preserving behavior. Use for extraction, consolidation, ownership moves, or cleanup where verification must bracket structural edits.",
-   "installs_display": "20.3K",
+   "installs_display": "20.4K",
    "stars": "101.2K",
    "first_seen": "Aug 11, 2026",
    "audits": [
@@ -35507,46 +35515,6 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
-   "is_new": false
-  },
-  {
-   "source": "pilioai/skills",
-   "skillId": "gpt-image-2",
-   "name": "gpt-image-2",
-   "installs": 20295,
-   "weeklyInstalls": [
-    3,
-    72,
-    83,
-    238,
-    159,
-    104,
-    27,
-    12
-   ],
-   "id": "pilioai/skills/gpt-image-2",
-   "page_url": "https://www.skills.sh/pilioai/skills/gpt-image-2",
-   "install": "npx skills add https://github.com/pilioai/skills --skill gpt-image-2",
-   "repo": "pilioai/skills",
-   "headline": "Text-to-image generation and prompt-based image editing via the Pilio GPT Image 2 API.",
-   "bullets": [
-    "Generate images from text prompts or edit and compose from one or more local reference images",
-    "Supports multiple aspect ratios (1:1, 3:2, 16:9, 21:9, and more) and quality/resolution tiers (low/medium/high, 0.5K to 4K)",
-    "Requires PILIO_API_KEY environment variable; use the Pilio CLI for consistent polling, credit tracking, and error handling",
-    "Returns async task payloads with built-in task wait command for monitoring generation status"
-   ],
-   "meta": "Create or edit images with Pilio GPT Image 2 through the unified Pilio developer API. Use when the user wants text-to-image generation, prompt-based image…",
-   "installs_display": "20.3K",
-   "stars": "42",
-   "first_seen": "May 3, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Warn",
-    "Snyk: Warn"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
    "is_new": false
   },
   {
@@ -35731,7 +35699,7 @@
     "Deliver coherent end-to-end path across responsible layers; never force work into one file, direct expression, or local patch."
    ],
    "meta": "Build feature work with high overbuilding risk. Use for new behavior, product slices, or integrations where repository reuse, strict scope, and an explicit…",
-   "installs_display": "20.0K",
+   "installs_display": "20.2K",
    "stars": "101.2K",
    "first_seen": "Aug 11, 2026",
    "audits": [
@@ -37232,7 +37200,7 @@
     "Read one matching schema in schemas/, schemas/common.schema.json, and one matching JSON example in examples/. Read only those files. Fresh authorship means new stable IDs, domain wording, and layout; use the example for field shape, not facts. When real product identity matters, query node bin/archi"
    ],
    "meta": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light…",
-   "installs_display": "17.5K",
+   "installs_display": "17.7K",
    "stars": "17.9K",
    "first_seen": "May 11, 2026",
    "audits": [
@@ -37963,15 +37931,15 @@
    "kept_installs": 623992,
    "headline": "Create, manage, and manipulate Lark spreadsheets with full cell and sheet control."
   },
-  "open.feishu.cn/lark-minutes": {
-   "id": "open.feishu.cn/lark-minutes",
+  "larksuite/cli/lark-minutes": {
+   "id": "larksuite/cli/lark-minutes",
    "name": "lark-minutes",
-   "source": "open.feishu.cn",
-   "installs": 623958,
+   "source": "larksuite/cli",
+   "installs": 419640,
    "reason": "اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة",
-   "kept": "larksuite/cli/lark-minutes",
-   "kept_installs": 419640,
-   "headline": "MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。"
+   "kept": "open.feishu.cn/lark-minutes",
+   "kept_installs": 623958,
+   "headline": "Search, download, and manage Lark Minutes recordings with transcript and metadata extraction."
   },
   "larksuite/cli/lark-wiki": {
    "id": "larksuite/cli/lark-wiki",
@@ -38033,15 +38001,15 @@
    "kept_installs": 623596,
    "headline": "Discover and call native Lark OpenAPI endpoints from official documentation when existing skills fall short."
   },
-  "open.feishu.cn/lark-slides": {
-   "id": "open.feishu.cn/lark-slides",
+  "larksuite/cli/lark-slides": {
+   "id": "larksuite/cli/lark-slides",
    "name": "lark-slides",
-   "source": "open.feishu.cn",
-   "installs": 623573,
+   "source": "larksuite/cli",
+   "installs": 373021,
    "reason": "اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة",
-   "kept": "larksuite/cli/lark-slides",
-   "kept_installs": 373021,
-   "headline": "本技能文档较长，务必使用 Read 工具阅读两次，必须阅读完整全文。"
+   "kept": "open.feishu.cn/lark-slides",
+   "kept_installs": 623573,
+   "headline": "Create and edit Lark Office slides with XML protocol, supporting presentation creation, page management, and content modification."
   },
   "larksuite/cli/lark-mail": {
    "id": "larksuite/cli/lark-mail",
@@ -38053,15 +38021,15 @@
    "kept_installs": 623567,
    "headline": "Compose, send, reply to, forward, and manage Lark emails with drafts, folders, labels, and rules."
   },
-  "open.feishu.cn/lark-vc": {
-   "id": "open.feishu.cn/lark-vc",
+  "larksuite/cli/lark-vc": {
+   "id": "larksuite/cli/lark-vc",
    "name": "lark-vc",
-   "source": "open.feishu.cn",
-   "installs": 623398,
+   "source": "larksuite/cli",
+   "installs": 419533,
    "reason": "اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة",
-   "kept": "larksuite/cli/lark-vc",
-   "kept_installs": 419533,
-   "headline": "MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。"
+   "kept": "open.feishu.cn/lark-vc",
+   "kept_installs": 623398,
+   "headline": "Search, retrieve, and analyze Feishu video meeting records, notes, and participant snapshots."
   },
   "larksuite/cli/lark-skill-maker": {
    "id": "larksuite/cli/lark-skill-maker",
@@ -38123,15 +38091,15 @@
    "kept_installs": 582578,
    "headline": "Audit UI code against Web Interface Guidelines with live rule fetching."
   },
-  "open.feishu.cn/lark-vc-agent": {
-   "id": "open.feishu.cn/lark-vc-agent",
+  "larksuite/cli/lark-vc-agent": {
+   "id": "larksuite/cli/lark-vc-agent",
    "name": "lark-vc-agent",
-   "source": "open.feishu.cn",
-   "installs": 568008,
+   "source": "larksuite/cli",
+   "installs": 307507,
    "reason": "اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة",
-   "kept": "larksuite/cli/lark-vc-agent",
-   "kept_installs": 307507,
-   "headline": "MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。"
+   "kept": "open.feishu.cn/lark-vc-agent",
+   "kept_installs": 568008,
+   "headline": "Robot meeting participation: join/leave active meetings by 9-digit number and stream real-time events."
   },
   "larksuite/cli/lark-apps": {
    "id": "larksuite/cli/lark-apps",
@@ -38193,15 +38161,15 @@
    "kept_installs": 407843,
    "headline": "MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。"
   },
-  "skills-101/superpowers/ai-video-generation": {
-   "id": "skills-101/superpowers/ai-video-generation",
+  "prime-skills/runcomfy-agent-skills/ai-video-generation": {
+   "id": "prime-skills/runcomfy-agent-skills/ai-video-generation",
    "name": "ai-video-generation",
-   "source": "skills-101/superpowers",
-   "installs": 394928,
+   "source": "prime-skills/runcomfy-agent-skills",
+   "installs": 353257,
    "reason": "اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة",
-   "kept": "prime-skills/runcomfy-agent-skills/ai-video-generation",
-   "kept_installs": 353257,
-   "headline": "Install the belt CLI skill: npx skills add belt-sh/cli"
+   "kept": "skills-101/superpowers/ai-video-generation",
+   "kept_installs": 394928,
+   "headline": "Generate videos with the full RunComfy video-model catalog through one CLI — text-to-video, image-to-video, and Veo's video-extend. This skill picks the right model for the user's intent and ships the"
   },
   "genmedia-labs/skills/ai-video-generation": {
    "id": "genmedia-labs/skills/ai-video-generation",
@@ -38209,19 +38177,19 @@
    "source": "genmedia-labs/skills",
    "installs": 194459,
    "reason": "اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة",
-   "kept": "prime-skills/runcomfy-agent-skills/ai-video-generation",
-   "kept_installs": 353257,
+   "kept": "skills-101/superpowers/ai-video-generation",
+   "kept_installs": 394928,
    "headline": "Generate videos with the full RunComfy video-model catalog through one CLI — text-to-video, image-to-video, and Veo's video-extend. This skill picks the right model for the user's intent and ships the"
   },
-  "skills-101/superpowers/ai-image-generation": {
-   "id": "skills-101/superpowers/ai-image-generation",
+  "prime-skills/runcomfy-agent-skills/ai-image-generation": {
+   "id": "prime-skills/runcomfy-agent-skills/ai-image-generation",
    "name": "ai-image-generation",
-   "source": "skills-101/superpowers",
-   "installs": 394581,
+   "source": "prime-skills/runcomfy-agent-skills",
+   "installs": 352903,
    "reason": "اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة",
-   "kept": "prime-skills/runcomfy-agent-skills/ai-image-generation",
-   "kept_installs": 352903,
-   "headline": "Install the belt CLI skill: npx skills add belt-sh/cli"
+   "kept": "skills-101/superpowers/ai-image-generation",
+   "kept_installs": 394581,
+   "headline": "Generate and edit images with 11+ AI models via the RunComfy CLI — text-to-image and image-to-image, one auth, one command. This skill picks the right model for the user's intent and ships the documen"
   },
   "genmedia-labs/skills/ai-image-generation": {
    "id": "genmedia-labs/skills/ai-image-generation",
@@ -38229,19 +38197,19 @@
    "source": "genmedia-labs/skills",
    "installs": 194157,
    "reason": "اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة",
-   "kept": "prime-skills/runcomfy-agent-skills/ai-image-generation",
-   "kept_installs": 352903,
+   "kept": "skills-101/superpowers/ai-image-generation",
+   "kept_installs": 394581,
    "headline": "Generate and edit images with 11+ AI models via the RunComfy CLI — text-to-image and image-to-image, one auth, one command. This skill picks the right model for the user's intent and ships the documen"
   },
-  "skills-101/superpowers/ai-avatar-video": {
-   "id": "skills-101/superpowers/ai-avatar-video",
+  "prime-skills/runcomfy-agent-skills/ai-avatar-video": {
+   "id": "prime-skills/runcomfy-agent-skills/ai-avatar-video",
    "name": "ai-avatar-video",
-   "source": "skills-101/superpowers",
-   "installs": 394493,
+   "source": "prime-skills/runcomfy-agent-skills",
+   "installs": 350375,
    "reason": "اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة",
-   "kept": "prime-skills/runcomfy-agent-skills/ai-avatar-video",
-   "kept_installs": 350375,
-   "headline": "Install the belt CLI skill: npx skills add belt-sh/cli"
+   "kept": "skills-101/superpowers/ai-avatar-video",
+   "kept_installs": 394493,
+   "headline": "AI Avatar & Talking Head Video"
   },
   "genmedia-labs/skills/ai-music": {
    "id": "genmedia-labs/skills/ai-music",
@@ -38293,15 +38261,15 @@
    "kept_installs": 60001,
    "headline": "Install the belt CLI skill: npx skills add belt-sh/cli"
   },
-  "prime-skills/runcomfy-agent-skills/gpt-image-2": {
-   "id": "prime-skills/runcomfy-agent-skills/gpt-image-2",
+  "pilioai/skills/gpt-image-2": {
+   "id": "pilioai/skills/gpt-image-2",
    "name": "gpt-image-2",
-   "source": "prime-skills/runcomfy-agent-skills",
-   "installs": 54628,
+   "source": "pilioai/skills",
+   "installs": 20295,
    "reason": "اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة",
-   "kept": "pilioai/skills/gpt-image-2",
-   "kept_installs": 20295,
-   "headline": "GPT Image 2 — Pro Pack on RunComfy"
+   "kept": "prime-skills/runcomfy-agent-skills/gpt-image-2",
+   "kept_installs": 54628,
+   "headline": "Text-to-image generation and prompt-based image editing via the Pilio GPT Image 2 API."
   },
   "giuseppe-trisciuoglio/developer-kit/shadcn-ui": {
    "id": "giuseppe-trisciuoglio/developer-kit/shadcn-ui",

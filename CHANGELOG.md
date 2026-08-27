@@ -52,6 +52,32 @@
 
 - `shadcn-ui/ui/shadcn` ← أُبقيت `shadcn/ui/shadcn` (وصف متطابق بنسبة 100%)
 
+#### 🔁 تحديث إضافي (13:30 UTC)
+
+### 🆕 مهارات جديدة في الأرشيف (8)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **lark-minutes** | `open.feishu.cn` | 623,958 | MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。 |
+| **lark-slides** | `open.feishu.cn` | 623,573 | 本技能文档较长，务必使用 Read 工具阅读两次，必须阅读完整全文。 |
+| **lark-vc** | `open.feishu.cn` | 623,398 | MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。 |
+| **lark-vc-agent** | `open.feishu.cn` | 568,008 | MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。 |
+| **ai-video-generation** | `skills-101/superpowers` | 394,928 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **ai-image-generation** | `skills-101/superpowers` | 394,581 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **ai-avatar-video** | `skills-101/superpowers` | 394,493 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **gpt-image-2** | `prime-skills/runcomfy-agent-skills` | 54,628 | GPT Image 2 — Pro Pack on RunComfy |
+
+### 🧹 مكرّرات حُذفت (8)
+
+- `larksuite/cli/lark-minutes` ← أُبقيت `open.feishu.cn/lark-minutes` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `larksuite/cli/lark-slides` ← أُبقيت `open.feishu.cn/lark-slides` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `larksuite/cli/lark-vc` ← أُبقيت `open.feishu.cn/lark-vc` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `larksuite/cli/lark-vc-agent` ← أُبقيت `open.feishu.cn/lark-vc-agent` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `prime-skills/runcomfy-agent-skills/ai-video-generation` ← أُبقيت `skills-101/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `prime-skills/runcomfy-agent-skills/ai-image-generation` ← أُبقيت `skills-101/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `prime-skills/runcomfy-agent-skills/ai-avatar-video` ← أُبقيت `skills-101/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `pilioai/skills/gpt-image-2` ← أُبقيت `prime-skills/runcomfy-agent-skills/gpt-image-2` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-08-26
 
 ### 🆕 مهارات جديدة في الأرشيف (492)

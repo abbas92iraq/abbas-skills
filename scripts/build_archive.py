@@ -235,8 +235,42 @@ def headline_ratio(a, b):
 
 
 def is_stub(r):
-    d = (r.get('headline') or '') + ' '.join(r.get('bullets') or [])
-    return len(d.strip()) < 120 or 'npx skills add' in d
+    """نسخة اختصارية حقيقية: إحالة فارغة صرفة (بلا أي نقاط تفصيلية)، أو محتوى
+    ضئيل جدًا حتى بعد استبعاد سطر تمهيدي شائع مثل 'ثبّت الأداة الفلانية أولًا'
+    من الحساب — كثير من المهارات الحقيقية تذكر هذا كخطوة أولى ضمن شرح فعلي،
+    فلا يصح إسقاطها لمجرد ورود عبارة 'npx skills add' في عنوانها."""
+    bullets = r.get('bullets') or []
+    if not bullets:
+        return redirect_target(r) is not None or len((r.get('headline') or '').strip()) < 120
+    headline = r.get('headline') or ''
+    core = '' if REDIRECT_RE.match(headline.strip()) else headline
+    return len((core + ' '.join(bullets)).strip()) < 50
+
+
+REDIRECT_RE = re.compile(
+    r'^install\s+(the\s+)?\S+.*?\bnpx skills add\s+([\w.\-]+/[\w.\-]+)\b', re.IGNORECASE)
+
+
+def redirect_target(r):
+    """
+    يكتشف مهارات 'الإحالة الفارغة': كامل محتواها (بلا أي تفصيل إضافي) هو مجرد
+    توجيه لتثبيت مستودع آخر مختلف تمامًا — مثل نمط رأيناه فعليًا على skills.sh:
+    مصدر واحد ينشر عشرات المهارات بأسماء جذابة (ai-video-generation، إلخ)
+    محتواها الكامل حرفيًا 'Install the belt CLI skill: npx skills add belt-sh/cli'،
+    فتتراكم لها تثبيتات ضخمة رغم خلوّها من أي شرح حقيقي.
+    يُعيد اسم المستودع الهدف إن كانت إحالة فارغة فعلًا، وإلا None.
+    """
+    if r.get('bullets'):
+        return None
+    h = (r.get('headline') or '').strip()
+    m = REDIRECT_RE.match(h)
+    if not m:
+        return None
+    target = m.group(2).strip('.').lower()
+    own = (r.get('source') or '').lower()
+    if target == own or target in own or own in target:
+        return None  # يصف تثبيت نفسه — محتوى حقيقي ولو مقتضب، لا إحالة لجهة أخرى
+    return target
 
 
 def stars_num(r):
@@ -521,7 +555,8 @@ def build_archive_md(rows, total_site, date, removed, flagged, top_n):
     w('- الأرقام لقطة بتاريخ **%s** وتتغيّر باستمرار.' % date)
     w('- الترتيب حسب إجمالي التثبيتات (all-time).')
     w('- الأرشيف **تراكمي**: المهارة التي دخلت لا تخرج بسبب تراجع ترتيبها، بل تُوسم بـ 📌.')
-    w('- المهارات المكرّرة (نفس العمل من مصادر مختلفة) تُحذف ويبقى الأقوى — التفاصيل في '
+    w('- المهارات المكرّرة (نفس العمل من مصادر مختلفة) تُحذف ويبقى الأقوى، وكذلك مهارات '
+      '\'الإحالة الفارغة\' (كامل محتواها توجيه لتثبيت مستودع آخر بلا شرح حقيقي) — التفاصيل في '
       '[`DUPLICATES.md`](./DUPLICATES.md)%s.' %
       ('، مع %d حالة معلّقة للمراجعة اليدوية' % len(flagged) if flagged else ''))
     w('- نتائج الفحص الأمني منقولة كما هي، ولا تُغني عن مراجعة المهارة قبل تثبيتها.')
@@ -545,17 +580,26 @@ def build_index_md(rows, date):
 
 
 def build_duplicates_md(removed, flagged, date):
-    L = ['# تقرير المهارات المكرّرة', '',
-         'يُعاد حسابه في كل تحديث. المهارات التي تؤدي **العمل نفسه** من مصادر مختلفة تُدمج، ويبقى الأقوى.', '',
+    L = ['# تقرير المهارات المكرّرة والإحالات الفارغة', '',
+         'يُعاد حسابه في كل تحديث. نوعان من الحذف التلقائي:', '',
+         '1. **مكرّرات** — مهارات تؤدي **العمل نفسه** من مصادر مختلفة؛ يُدمج ويبقى الأقوى.', '',
+         '2. **إحالات فارغة** — مهارات كامل محتواها توجيه لتثبيت مستودع آخر مختلف تمامًا بلا أي شرح '
+         'حقيقي (مثال حقيقي وُجد فعليًا: مصدر واحد نشر عشرات المدخلات بأسماء جذابة، كل محتواها '
+         'حرفيًا "ثبّت الأداة الفلانية" — بتثبيتات مضخّمة رغم خلوّها من محتوى). تُحذف دائمًا، '
+         'بصرف النظر عن وجود منافس بالاسم من عدمه.', '',
          '**آخر تحديث:** %s' % date, '', '## 📐 قاعدة الترجيح', '',
-         'يبقى الأعلى في: **التثبيتات** ← ثم **نتائج الفحص الأمني** ← ثم **نجوم GitHub** ← ثم **الأقدمية**.', '',
+         'يبقى الأعلى في: **التثبيتات** ← ثم **نتائج الفحص الأمني** ← ثم **نجوم GitHub** ← ثم **الأقدمية**، '
+         'باستثناء أن النسخة الاختصارية/الوكيلة (بلا شرح حقيقي) تُستبعد من السباق دائمًا ما دامت '
+         'نسخة حقيقية موجودة — بصرف النظر عن عدد تثبيتاتها.', '',
          'لا يُقارَن أبدًا بين مهارتين من المستودع نفسه (المطوّر يشحنهما عمدًا كمهارتين مختلفتين).', '',
          '---', '', '## 🧹 محذوفة تلقائيًا (%d)' % len(removed), '']
     if removed:
         L += ['| المحذوفة | التثبيتات | أُبقيت بدلًا منها | تثبيتاتها | السبب |', '|---|---:|---|---:|---|']
-        for r in sorted(removed.values(), key=lambda x: -x['kept_installs']):
-            L.append('| `%s` | %s | `%s` | %s | %s |' %
-                     (r['id'], num(r['installs']), r['kept'], num(r['kept_installs']), r['reason']))
+        for r in sorted(removed.values(), key=lambda x: -x['installs']):
+            kept = ('`%s`' % r['kept']) if r['kept'] else '—'
+            kept_i = num(r['kept_installs']) if r['kept'] else '—'
+            L.append('| `%s` | %s | %s | %s | %s |' %
+                     (r['id'], num(r['installs']), kept, kept_i, r['reason']))
     else:
         L.append('_لا توجد._')
     L += ['', '---', '', '## ⚠️ معلّقة للمراجعة اليدوية (%d)' % len(flagged), '',
@@ -772,9 +816,26 @@ def main():
 
     rows = sorted(merged.values(), key=lambda r: -r.get('installs', 0))
 
+    # ---- استبعاد مهارات 'الإحالة الفارغة' — قبل كشف التكرار وبصرف النظر عن وجود منافس بالاسم ----
+    redirect_removed = {}
+    kept_rows = []
+    for r in rows:
+        target = redirect_target(r)
+        if target:
+            redirect_removed[r['id']] = {
+                'id': r['id'], 'name': r['name'], 'source': r['source'], 'installs': r['installs'],
+                'reason': 'إحالة فارغة بلا شرح حقيقي — كامل محتواها توجيه لتثبيت `%s`' % target,
+                'kept': '', 'kept_installs': 0, 'headline': (r.get('headline') or '')[:200]}
+        else:
+            kept_rows.append(r)
+    rows = kept_rows
+    if redirect_removed:
+        print('redirect-stubs excluded: %d' % len(redirect_removed), flush=True)
+
     # ---- كشف التكرار ----
     removed, flagged = find_duplicates(rows)
     rows = [r for r in rows if r['id'] not in removed]
+    removed.update(redirect_removed)
     removed_today = [v for k, v in removed.items() if k not in prev_removed]
     print('duplicates: %d removed (%d new today) | %d flagged for review'
           % (len(removed), len(removed_today), len(flagged)), flush=True)
