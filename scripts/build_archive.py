@@ -673,11 +673,21 @@ def build_changelog(date, new_rows, removed_today, first_run, total, old_path, t
         old = open(old_path, encoding='utf-8').read()
         old = re.sub(r'^# سجل التغييرات\n+', '', old)
         old = re.sub(r'^سجل .*?\n+', '', old, flags=re.M)
-        old = re.sub(r'^## %s\n.*?(?=^## |\Z)' % re.escape(date), '', old, flags=re.S | re.M)
+        old = re.sub(r'^الأرشيف تراكمي.*?\n+', '', old, flags=re.M)
+
+    # إعادة التشغيل في اليوم نفسه يجب ألّا تمحو سجل اليوم:
+    # لا يُستبدل قسم اليوم إلا إذا كان الجديد يحمل محتوى فعليًا.
+    same_day = re.search(r'^## %s\n(.*?)(?=^## |\Z)' % re.escape(date), old, flags=re.S | re.M)
+    if same_day and not (new_rows or removed_today or first_run):
+        entry = '## %s\n%s' % (date, same_day.group(1).rstrip())
+    else:
+        entry = '\n'.join(e).rstrip()
+    old = re.sub(r'^## %s\n.*?(?=^## |\Z)' % re.escape(date), '', old, flags=re.S | re.M)
+
     head = ('# سجل التغييرات\n\n'
             'سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.\n'
             'الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.\n\n')
-    return head + '\n'.join(e).rstrip() + '\n\n' + old.strip() + ('\n' if old.strip() else '')
+    return head + entry + '\n\n' + old.strip() + ('\n' if old.strip() else '')
 
 
 # ------------------------------------------------------------------ main

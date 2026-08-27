@@ -2,7 +2,7 @@
 
 يُعاد حسابه في كل تحديث. المهارات التي تؤدي **العمل نفسه** من مصادر مختلفة تُدمج، ويبقى الأقوى.
 
-**آخر تحديث:** 2026-08-26
+**آخر تحديث:** 2026-08-27
 
 ## 📐 قاعدة الترجيح
 
@@ -16,54 +16,54 @@
 
 | المحذوفة | التثبيتات | أُبقيت بدلًا منها | تثبيتاتها | السبب |
 |---|---:|---|---:|---|
-| `anthropics/claude-code/frontend-design` | 56,373 | `anthropics/skills/frontend-design` | 822,844 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `pbakaus/impeccable/frontend-design` | 54,397 | `anthropics/skills/frontend-design` | 822,844 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-101/superpowers/agent-browser` | 72,678 | `vercel-labs/agent-browser/agent-browser` | 735,984 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-doc` | 426,741 | `open.feishu.cn/lark-doc` | 621,366 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-base` | 424,898 | `open.feishu.cn/lark-base` | 621,221 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-drive` | 422,981 | `open.feishu.cn/lark-drive` | 621,031 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-approval` | 391,494 | `open.feishu.cn/lark-approval` | 620,992 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-shared` | 423,701 | `open.feishu.cn/lark-shared` | 620,823 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-im` | 422,869 | `open.feishu.cn/lark-im` | 620,664 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-calendar` | 419,879 | `open.feishu.cn/lark-calendar` | 620,642 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-contact` | 417,873 | `open.feishu.cn/lark-contact` | 620,379 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-sheets` | 421,658 | `open.feishu.cn/lark-sheets` | 620,302 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-minutes` | 418,522 | `open.feishu.cn/lark-minutes` | 620,268 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-wiki` | 421,875 | `open.feishu.cn/lark-wiki` | 620,258 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-event` | 418,188 | `open.feishu.cn/lark-event` | 620,087 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-attendance` | 369,432 | `open.feishu.cn/lark-attendance` | 620,028 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-whiteboard` | 420,979 | `open.feishu.cn/lark-whiteboard` | 619,979 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-task` | 420,651 | `open.feishu.cn/lark-task` | 619,955 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-openapi-explorer` | 416,549 | `open.feishu.cn/lark-openapi-explorer` | 619,932 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-slides` | 371,901 | `open.feishu.cn/lark-slides` | 619,889 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-mail` | 418,622 | `open.feishu.cn/lark-mail` | 619,881 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-vc` | 418,415 | `open.feishu.cn/lark-vc` | 619,726 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-skill-maker` | 416,319 | `open.feishu.cn/lark-skill-maker` | 619,673 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-workflow-meeting-summary` | 417,430 | `open.feishu.cn/lark-workflow-meeting-summary` | 619,481 | اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-workflow-standup-report` | 416,769 | `open.feishu.cn/lark-workflow-standup-report` | 619,429 | اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-okr` | 355,365 | `open.feishu.cn/lark-okr` | 600,551 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-markdown` | 335,886 | `open.feishu.cn/lark-markdown` | 585,789 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `antfu/skills/web-design-guidelines` | 18,308 | `vercel-labs/agent-skills/web-design-guidelines` | 580,268 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-vc-agent` | 306,394 | `open.feishu.cn/lark-vc-agent` | 564,341 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-apps` | 266,387 | `open.feishu.cn/lark-apps` | 529,933 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `mattpocock/skills/caveman` | 223,257 | `juliusbrussee/caveman/caveman` | 460,502 | نص الوصف شبه حرفي (88%) |
-| `genmedia-labs/skills/video-edit` | 184,057 | `prime-skills/runcomfy-agent-skills/video-edit` | 409,622 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `genmedia-labs/skills/image-to-video` | 183,886 | `prime-skills/runcomfy-agent-skills/image-to-video` | 408,099 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-101/superpowers/image-to-video` | 24,172 | `prime-skills/runcomfy-agent-skills/image-to-video` | 408,099 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-note` | 193,191 | `open.feishu.cn/lark-note` | 404,174 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/ai-video-generation` | 353,017 | `skills-101/superpowers/ai-video-generation` | 384,480 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `genmedia-labs/skills/ai-video-generation` | 184,405 | `skills-101/superpowers/ai-video-generation` | 384,480 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/ai-image-generation` | 352,647 | `skills-101/superpowers/ai-image-generation` | 384,152 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `genmedia-labs/skills/ai-image-generation` | 184,000 | `skills-101/superpowers/ai-image-generation` | 384,152 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/ai-avatar-video` | 350,143 | `skills-101/superpowers/ai-avatar-video` | 384,066 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `genmedia-labs/skills/ai-music` | 183,631 | `prime-skills/runcomfy-agent-skills/ai-music` | 339,189 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `shadcn-ui/ui/shadcn` | 32,393 | `shadcn/ui/shadcn` | 271,675 | إحدى النسخ مجرّد اختصار يشير إلى الأخرى |
-| `addyosmani/agent-skills/test-driven-development` | 26,278 | `obra/superpowers/test-driven-development` | 208,701 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `genkit-ai/skills/developing-genkit-js` | 56,078 | `firebase/agent-skills/developing-genkit-js` | 62,575 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-101/superpowers/remotion-render` | 48,319 | `remotion-dev/skills/remotion-render` | 59,339 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `pilioai/skills/gpt-image-2` | 20,295 | `prime-skills/runcomfy-agent-skills/gpt-image-2` | 54,391 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `giuseppe-trisciuoglio/developer-kit/shadcn-ui` | 20,487 | `google-labs-code/stitch-skills/shadcn-ui` | 49,785 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `antfu/skills/vue-best-practices` | 22,290 | `vuejs-ai/skills/vue-best-practices` | 37,426 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `anthropics/claude-code/frontend-design` | 56,462 | `anthropics/skills/frontend-design` | 825,124 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `pbakaus/impeccable/frontend-design` | 54,402 | `anthropics/skills/frontend-design` | 825,124 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-101/superpowers/agent-browser` | 74,641 | `vercel-labs/agent-browser/agent-browser` | 739,348 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-doc` | 427,934 | `open.feishu.cn/lark-doc` | 625,059 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-base` | 426,079 | `open.feishu.cn/lark-base` | 624,917 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-drive` | 424,134 | `open.feishu.cn/lark-drive` | 624,744 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-approval` | 392,610 | `open.feishu.cn/lark-approval` | 624,660 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-shared` | 424,881 | `open.feishu.cn/lark-shared` | 624,516 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-im` | 424,025 | `open.feishu.cn/lark-im` | 624,357 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-calendar` | 421,003 | `open.feishu.cn/lark-calendar` | 624,329 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-contact` | 418,990 | `open.feishu.cn/lark-contact` | 624,048 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-sheets` | 422,822 | `open.feishu.cn/lark-sheets` | 623,992 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-minutes` | 419,640 | `open.feishu.cn/lark-minutes` | 623,958 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-wiki` | 423,038 | `open.feishu.cn/lark-wiki` | 623,926 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-event` | 419,304 | `open.feishu.cn/lark-event` | 623,752 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-attendance` | 370,543 | `open.feishu.cn/lark-attendance` | 623,689 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-whiteboard` | 422,127 | `open.feishu.cn/lark-whiteboard` | 623,650 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-task` | 421,798 | `open.feishu.cn/lark-task` | 623,632 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-openapi-explorer` | 417,662 | `open.feishu.cn/lark-openapi-explorer` | 623,596 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-slides` | 373,021 | `open.feishu.cn/lark-slides` | 623,573 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-mail` | 419,744 | `open.feishu.cn/lark-mail` | 623,567 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-vc` | 419,533 | `open.feishu.cn/lark-vc` | 623,398 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-skill-maker` | 417,432 | `open.feishu.cn/lark-skill-maker` | 623,332 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-workflow-meeting-summary` | 418,548 | `open.feishu.cn/lark-workflow-meeting-summary` | 623,154 | اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-workflow-standup-report` | 417,881 | `open.feishu.cn/lark-workflow-standup-report` | 623,091 | اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-okr` | 356,477 | `open.feishu.cn/lark-okr` | 604,214 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-markdown` | 337,029 | `open.feishu.cn/lark-markdown` | 589,486 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `antfu/skills/web-design-guidelines` | 18,334 | `vercel-labs/agent-skills/web-design-guidelines` | 582,578 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-vc-agent` | 307,507 | `open.feishu.cn/lark-vc-agent` | 568,008 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-apps` | 267,501 | `open.feishu.cn/lark-apps` | 533,628 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `mattpocock/skills/caveman` | 223,291 | `juliusbrussee/caveman/caveman` | 461,812 | نص الوصف شبه حرفي (88%) |
+| `genmedia-labs/skills/video-edit` | 194,209 | `prime-skills/runcomfy-agent-skills/video-edit` | 409,863 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `genmedia-labs/skills/image-to-video` | 193,899 | `prime-skills/runcomfy-agent-skills/image-to-video` | 408,336 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-101/superpowers/image-to-video` | 24,830 | `prime-skills/runcomfy-agent-skills/image-to-video` | 408,336 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-note` | 194,302 | `open.feishu.cn/lark-note` | 407,843 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/ai-video-generation` | 353,257 | `skills-101/superpowers/ai-video-generation` | 394,928 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `genmedia-labs/skills/ai-video-generation` | 194,459 | `skills-101/superpowers/ai-video-generation` | 394,928 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/ai-image-generation` | 352,903 | `skills-101/superpowers/ai-image-generation` | 394,581 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `genmedia-labs/skills/ai-image-generation` | 194,157 | `skills-101/superpowers/ai-image-generation` | 394,581 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/ai-avatar-video` | 350,375 | `skills-101/superpowers/ai-avatar-video` | 394,493 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `genmedia-labs/skills/ai-music` | 193,757 | `prime-skills/runcomfy-agent-skills/ai-music` | 339,422 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `shadcn-ui/ui/shadcn` | 33,261 | `shadcn/ui/shadcn` | 271,675 | إحدى النسخ مجرّد اختصار يشير إلى الأخرى |
+| `addyosmani/agent-skills/test-driven-development` | 26,524 | `obra/superpowers/test-driven-development` | 209,304 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `genkit-ai/skills/developing-genkit-js` | 56,106 | `firebase/agent-skills/developing-genkit-js` | 62,575 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-101/superpowers/remotion-render` | 49,661 | `remotion-dev/skills/remotion-render` | 60,001 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `pilioai/skills/gpt-image-2` | 20,295 | `prime-skills/runcomfy-agent-skills/gpt-image-2` | 54,628 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `giuseppe-trisciuoglio/developer-kit/shadcn-ui` | 20,512 | `google-labs-code/stitch-skills/shadcn-ui` | 49,828 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `antfu/skills/vue-best-practices` | 22,325 | `vuejs-ai/skills/vue-best-practices` | 37,477 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
 
 ---
 
@@ -73,11 +73,11 @@
 
 ### `prototype` — تشابه الوصف 9%
 
-- `mattpocock/skills/prototype` (662,293 تثبيت) — Throwaway code that answers a single design or logic question through an interactive prototype.
-- `emilkowalski/skills/prototype` (56,537 تثبيت) — A divergence skill. It does ONE thing: take a described piece of UI ("a toast", "the pricing card", "a hold-to-delete button"), build several genuinely differen
+- `mattpocock/skills/prototype` (666,776 تثبيت) — Throwaway code that answers a single design or logic question through an interactive prototype.
+- `emilkowalski/skills/prototype` (57,477 تثبيت) — A divergence skill. It does ONE thing: take a described piece of UI ("a toast", "the pricing card", "a hold-to-delete button"), build several genuinely differen
 
 ### `animate` — تشابه الوصف 4%
 
-- `pbakaus/impeccable/animate` (83,581 تثبيت) — Strategic animation and micro-interaction enhancement for improved usability and delight.
-- `emilkowalski/skills/animate` (41,124 تثبيت) — A construction skill. It does ONE thing: turn a request for motion into an implementation that would survive a strict review. It does not audit a codebase (that
+- `pbakaus/impeccable/animate` (83,589 تثبيت) — Strategic animation and micro-interaction enhancement for improved usability and delight.
+- `emilkowalski/skills/animate` (42,151 تثبيت) — A construction skill. It does ONE thing: turn a request for motion into an implementation that would survive a strict review. It does not audit a codebase (that
 
