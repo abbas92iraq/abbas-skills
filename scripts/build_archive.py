@@ -246,6 +246,15 @@ def stars_num(r):
     return float(m.group(1)) * {'K': 1e3, 'M': 1e6, 'B': 1e9}.get(m.group(2) or '', 1)
 
 
+def pick_winner(members):
+    """يستبعد النسخ الاختصارية/الوكيلة (مثل: 'Install the belt CLI skill: ...')
+    من السباق ما دام هناك نسخة تحمل محتوى حقيقيًا، بصرف النظر عن عدد تثبيتاتها —
+    قد تتضخم تثبيتات الوكيل الاختصاري لأسباب لا علاقة لها بجودة الشرح الفعلي."""
+    real = [m for m in members if not is_stub(m)]
+    pool = real if real else members
+    return max(pool, key=quality)
+
+
 def quality(r):
     """كلما زاد، كانت المهارة أجدر بالبقاء: التثبيتات ثم الفحص الأمني ثم النجوم ثم الأقدمية."""
     passes = sum(1 for a in r.get('audits') or [] if a.endswith('Pass'))
@@ -296,9 +305,10 @@ def find_duplicates(rows):
                                          'headline': x.get('headline', '')[:160]} for x in
                                         sorted(g, key=quality, reverse=True)]})
             continue
-        ranked = sorted(g, key=quality, reverse=True)
-        winner = ranked[0]
-        for loser in ranked[1:]:
+        winner = pick_winner(g)
+        for loser in g:
+            if loser is winner:
+                continue
             removed[loser['id']] = {'id': loser['id'], 'name': loser['name'], 'source': loser['source'],
                                     'installs': loser['installs'], 'reason': reason,
                                     'kept': winner['id'], 'kept_installs': winner['installs'],
@@ -314,7 +324,8 @@ def find_duplicates(rows):
                 continue
             if jaccard(a['_tk'], b['_tk']) >= 0.75 and \
                difflib.SequenceMatcher(None, a['_nn'], b['_nn']).ratio() >= 0.55:
-                w, l = sorted([a, b], key=quality, reverse=True)
+                w = pick_winner([a, b])
+                l = b if w is a else a
                 removed[l['id']] = {'id': l['id'], 'name': l['name'], 'source': l['source'],
                                     'installs': l['installs'],
                                     'reason': 'وصف شبه مطابق (%.0f%%) لمهارة أقوى' % (jaccard(a['_tk'], b['_tk']) * 100),
@@ -675,13 +686,20 @@ def build_changelog(date, new_rows, removed_today, first_run, total, old_path, t
         old = re.sub(r'^سجل .*?\n+', '', old, flags=re.M)
         old = re.sub(r'^الأرشيف تراكمي.*?\n+', '', old, flags=re.M)
 
-    # إعادة التشغيل في اليوم نفسه يجب ألّا تمحو سجل اليوم:
-    # لا يُستبدل قسم اليوم إلا إذا كان الجديد يحمل محتوى فعليًا.
+    # إعادة التشغيل في اليوم نفسه يجب ألّا تمحو سجل اليوم ولا تستبدله:
+    #   • بلا محتوى جديد  → يبقى سجل اليوم كما هو (لا نستبدله بسطر "لا جديد").
+    #   • بمحتوى جديد     → يُضاف كقسم إضافي تحت نفس اليوم، لا يُستبدَل به سجل التشغيل الأول.
     same_day = re.search(r'^## %s\n(.*?)(?=^## |\Z)' % re.escape(date), old, flags=re.S | re.M)
-    if same_day and not (new_rows or removed_today or first_run):
-        entry = '## %s\n%s' % (date, same_day.group(1).rstrip())
+    new_content = '\n'.join(e[2:]).rstrip()  # بدون سطر العنوان '## date' المكرّر
+    if same_day:
+        prev_body = same_day.group(1).rstrip()
+        if not (new_rows or removed_today or first_run):
+            entry = '## %s\n%s' % (date, prev_body)
+        else:
+            now = datetime.datetime.now(datetime.timezone.utc).strftime('%H:%M UTC')
+            entry = '## %s\n%s\n\n#### 🔁 تحديث إضافي (%s)\n\n%s' % (date, prev_body, now, new_content)
     else:
-        entry = '\n'.join(e).rstrip()
+        entry = '## %s\n%s' % (date, new_content)
     old = re.sub(r'^## %s\n.*?(?=^## |\Z)' % re.escape(date), '', old, flags=re.S | re.M)
 
     head = ('# سجل التغييرات\n\n'

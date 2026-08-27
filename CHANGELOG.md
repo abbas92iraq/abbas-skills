@@ -12,6 +12,34 @@
 | **archify** | `tt-a1i/archify` | 17,694 | Create a self-contained, interactive HTML diagram from a small typed JSON specification. Static output is the default; enable motion only wh |
 | **dbs-goal** | `dontbesilent2025/dbskill` | 17,205 | 你是 dontbesilent 的目标审计 AI。你的任务是判断一段话能否指导行动、能否识别完成，并补齐会影响执行或验收的关键信息。 |
 
+#### 🔁 تحديث إضافي (13:02 UTC)
+
+### 🆕 مهارات جديدة في الأرشيف (9)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **lark-minutes** | `larksuite/cli` | 419,640 | Search, download, and manage Lark Minutes recordings with transcript and metadata extraction. |
+| **lark-vc** | `larksuite/cli` | 419,533 | Search, retrieve, and analyze Feishu video meeting records, notes, and participant snapshots. |
+| **lark-slides** | `larksuite/cli` | 373,021 | Create and edit Lark Office slides with XML protocol, supporting presentation creation, page management, and content modification. |
+| **ai-video-generation** | `prime-skills/runcomfy-agent-skills` | 353,257 | Generate videos with the full RunComfy video-model catalog through one CLI — text-to-video, image-to-video, and Veo's video-extend. This ski |
+| **ai-image-generation** | `prime-skills/runcomfy-agent-skills` | 352,903 | Generate and edit images with 11+ AI models via the RunComfy CLI — text-to-image and image-to-image, one auth, one command. This skill picks |
+| **ai-avatar-video** | `prime-skills/runcomfy-agent-skills` | 350,375 | AI Avatar & Talking Head Video |
+| **lark-vc-agent** | `larksuite/cli` | 307,507 | Robot meeting participation: join/leave active meetings by 9-digit number and stream real-time events. |
+| **shadcn** | `shadcn-ui/ui` | 33,261 | This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing. |
+| **gpt-image-2** | `pilioai/skills` | 20,295 | Text-to-image generation and prompt-based image editing via the Pilio GPT Image 2 API. |
+
+### 🧹 مكرّرات حُذفت (9)
+
+- `open.feishu.cn/lark-minutes` ← أُبقيت `larksuite/cli/lark-minutes` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `open.feishu.cn/lark-slides` ← أُبقيت `larksuite/cli/lark-slides` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `open.feishu.cn/lark-vc` ← أُبقيت `larksuite/cli/lark-vc` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `open.feishu.cn/lark-vc-agent` ← أُبقيت `larksuite/cli/lark-vc-agent` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/ai-video-generation` ← أُبقيت `prime-skills/runcomfy-agent-skills/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/ai-image-generation` ← أُبقيت `prime-skills/runcomfy-agent-skills/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/ai-avatar-video` ← أُبقيت `prime-skills/runcomfy-agent-skills/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `shadcn/ui/shadcn` ← أُبقيت `shadcn-ui/ui/shadcn` (إحدى النسخ مجرّد اختصار يشير إلى الأخرى)
+- `prime-skills/runcomfy-agent-skills/gpt-image-2` ← أُبقيت `pilioai/skills/gpt-image-2` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-08-26
 
 ### 🆕 مهارات جديدة في الأرشيف (492)

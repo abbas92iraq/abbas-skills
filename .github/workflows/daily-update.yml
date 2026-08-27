@@ -2,8 +2,8 @@ name: Daily skills archive update
 
 on:
   schedule:
-    # 03:00 UTC = 06:00 بتوقيت بغداد
-    - cron: '0 3 * * *'
+    # 03:17 UTC = 06:17 بتوقيت بغداد (بعيدًا عن رأس الساعة لتقليل احتمال التأخير)
+    - cron: '17 3 * * *'
   workflow_dispatch:
 
 permissions:
