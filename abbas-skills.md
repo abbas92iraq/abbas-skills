@@ -132,23 +132,23 @@ npx skills add vercel-labs/skills
 | 19 | **lark-calendar** | `open.feishu.cn` | 624,329 | [↓](#skill-19) |
 | 20 | **lark-contact** | `open.feishu.cn` | 624,048 | [↓](#skill-20) |
 | 21 | **lark-sheets** | `open.feishu.cn` | 623,992 | [↓](#skill-21) |
-| 22 | **lark-minutes** 🆕 | `open.feishu.cn` | 623,958 | [↓](#skill-22) |
+| 22 | **lark-minutes** | `open.feishu.cn` | 623,958 | [↓](#skill-22) |
 | 23 | **lark-wiki** | `open.feishu.cn` | 623,926 | [↓](#skill-23) |
 | 24 | **lark-event** | `open.feishu.cn` | 623,752 | [↓](#skill-24) |
 | 25 | **lark-attendance** | `open.feishu.cn` | 623,689 | [↓](#skill-25) |
 | 26 | **lark-whiteboard** | `open.feishu.cn` | 623,650 | [↓](#skill-26) |
 | 27 | **lark-task** | `open.feishu.cn` | 623,632 | [↓](#skill-27) |
 | 28 | **lark-openapi-explorer** | `open.feishu.cn` | 623,596 | [↓](#skill-28) |
-| 29 | **lark-slides** 🆕 | `open.feishu.cn` | 623,573 | [↓](#skill-29) |
+| 29 | **lark-slides** | `open.feishu.cn` | 623,573 | [↓](#skill-29) |
 | 30 | **lark-mail** | `open.feishu.cn` | 623,567 | [↓](#skill-30) |
-| 31 | **lark-vc** 🆕 | `open.feishu.cn` | 623,398 | [↓](#skill-31) |
+| 31 | **lark-vc** | `open.feishu.cn` | 623,398 | [↓](#skill-31) |
 | 32 | **lark-skill-maker** | `open.feishu.cn` | 623,332 | [↓](#skill-32) |
 | 33 | **lark-workflow-meeting-summary** | `open.feishu.cn` | 623,154 | [↓](#skill-33) |
 | 34 | **lark-workflow-standup-report** | `open.feishu.cn` | 623,091 | [↓](#skill-34) |
 | 35 | **lark-okr** | `open.feishu.cn` | 604,214 | [↓](#skill-35) |
 | 36 | **lark-markdown** | `open.feishu.cn` | 589,486 | [↓](#skill-36) |
 | 37 | **web-design-guidelines** ⭐ | `vercel-labs/agent-skills` | 582,578 | [↓](#skill-37) |
-| 38 | **lark-vc-agent** 🆕 | `open.feishu.cn` | 568,008 | [↓](#skill-38) |
+| 38 | **lark-vc-agent** | `open.feishu.cn` | 568,008 | [↓](#skill-38) |
 | 39 | **grilling** | `mattpocock/skills` | 556,007 | [↓](#skill-39) |
 | 40 | **microsoft-foundry** ⭐ | `microsoft/azure-skills` | 555,965 | [↓](#skill-40) |
 | 41 | **azure-diagnostics** ⭐ | `microsoft/azure-skills` | 549,497 | [↓](#skill-41) |
@@ -202,9 +202,9 @@ npx skills add vercel-labs/skills
 | 89 | **happyhorse-1-0** | `prime-skills/runcomfy-agent-skills` | 406,714 | [↓](#skill-89) |
 | 90 | **flux-2-klein** | `prime-skills/runcomfy-agent-skills` | 406,543 | [↓](#skill-90) |
 | 91 | **wayfinder** | `mattpocock/skills` | 397,087 | [↓](#skill-91) |
-| 92 | **ai-video-generation** 🆕 | `skills-101/superpowers` | 394,928 | [↓](#skill-92) |
-| 93 | **ai-image-generation** 🆕 | `skills-101/superpowers` | 394,581 | [↓](#skill-93) |
-| 94 | **ai-avatar-video** 🆕 | `skills-101/superpowers` | 394,493 | [↓](#skill-94) |
+| 92 | **ai-video-generation** | `skills-101/superpowers` | 394,928 | [↓](#skill-92) |
+| 93 | **ai-image-generation** | `skills-101/superpowers` | 394,581 | [↓](#skill-93) |
+| 94 | **ai-avatar-video** | `skills-101/superpowers` | 394,493 | [↓](#skill-94) |
 | 95 | **twitter-automation** | `skills-101/superpowers` | 394,379 | [↓](#skill-95) |
 | 96 | **hyperframes-registry** | `heygen-com/hyperframes` | 390,631 | [↓](#skill-96) |
 | 97 | **research** | `mattpocock/skills` | 389,146 | [↓](#skill-97) |
@@ -528,7 +528,7 @@ npx skills add vercel-labs/skills
 | 415 | **agentix-ceo** | `agentix-cloud/skills` | 54,882 | [↓](#skill-415) |
 | 416 | **competitor-alternatives** | `coreyhaines31/marketingskills` | 54,771 | [↓](#skill-416) |
 | 417 | **extract** | `pbakaus/impeccable` | 54,638 | [↓](#skill-417) |
-| 418 | **gpt-image-2** 🆕 | `prime-skills/runcomfy-agent-skills` | 54,628 | [↓](#skill-418) |
+| 418 | **gpt-image-2** | `prime-skills/runcomfy-agent-skills` | 54,628 | [↓](#skill-418) |
 | 419 | **analytics** | `coreyhaines31/marketingskills` | 54,563 | [↓](#skill-419) |
 | 420 | **enhance-prompt** ⭐ | `google-labs-code/stitch-skills` | 54,507 | [↓](#skill-420) |
 | 421 | **onboard** | `pbakaus/impeccable` | 54,476 | [↓](#skill-421) |
@@ -1615,7 +1615,7 @@ npx skills add https://open.feishu.cn/
 
 <a id="skill-22"></a>
 
-### 22. lark-minutes 🆕
+### 22. lark-minutes
 
 **الوصف:** MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。
 
@@ -1781,7 +1781,7 @@ npx skills add https://open.feishu.cn/
 
 <a id="skill-29"></a>
 
-### 29. lark-slides 🆕
+### 29. lark-slides
 
 **الوصف:** 本技能文档较长，务必使用 Read 工具阅读两次，必须阅读完整全文。
 
@@ -1828,7 +1828,7 @@ npx skills add https://open.feishu.cn/
 
 <a id="skill-31"></a>
 
-### 31. lark-vc 🆕
+### 31. lark-vc
 
 **الوصف:** MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。
 
@@ -1997,7 +1997,7 @@ npx skills add https://github.com/vercel-labs/agent-skills --skill web-design-gu
 
 <a id="skill-38"></a>
 
-### 38. lark-vc-agent 🆕
+### 38. lark-vc-agent
 
 **الوصف:** MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。
 
@@ -3419,7 +3419,7 @@ npx skills add https://github.com/mattpocock/skills --skill wayfinder
 
 <a id="skill-92"></a>
 
-### 92. ai-video-generation 🆕
+### 92. ai-video-generation
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -3445,7 +3445,7 @@ npx skills add https://github.com/skills-101/superpowers --skill ai-video-genera
 
 <a id="skill-93"></a>
 
-### 93. ai-image-generation 🆕
+### 93. ai-image-generation
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -3471,7 +3471,7 @@ npx skills add https://github.com/skills-101/superpowers --skill ai-image-genera
 
 <a id="skill-94"></a>
 
-### 94. ai-avatar-video 🆕
+### 94. ai-avatar-video
 
 **الوصف:** Install the belt CLI skill: npx skills add belt-sh/cli
 
@@ -12120,7 +12120,7 @@ npx skills add https://github.com/pbakaus/impeccable --skill extract
 
 <a id="skill-418"></a>
 
-### 418. gpt-image-2 🆕
+### 418. gpt-image-2
 
 **الوصف:** GPT Image 2 — Pro Pack on RunComfy
 

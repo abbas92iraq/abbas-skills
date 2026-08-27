@@ -26,19 +26,6 @@
 | إجمالي المهارات على skills.sh | **9,687** |
 | آخر تحديث | **2026-08-27** |
 
-## 🆕 أحدث الإضافات
-
-- **lark-minutes** — `open.feishu.cn` (623,958 تثبيت)
-- **lark-slides** — `open.feishu.cn` (623,573 تثبيت)
-- **lark-vc** — `open.feishu.cn` (623,398 تثبيت)
-- **lark-vc-agent** — `open.feishu.cn` (568,008 تثبيت)
-- **ai-video-generation** — `skills-101/superpowers` (394,928 تثبيت)
-- **ai-image-generation** — `skills-101/superpowers` (394,581 تثبيت)
-- **ai-avatar-video** — `skills-101/superpowers` (394,493 تثبيت)
-- **gpt-image-2** — `prime-skills/runcomfy-agent-skills` (54,628 تثبيت)
-
-السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
-
 ## 🤖 استخدامه كمساعد افتراضي
 
 **الطريقة الأولى — تثبيته كمهارة** (يجعل الوكيل يستشير الأرشيف تلقائيًا):
