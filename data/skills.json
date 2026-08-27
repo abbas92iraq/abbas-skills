@@ -1454,7 +1454,7 @@
     "Includes OpenAI model access, DALL-E image generation, embeddings, and Document Intelligence for form extraction and OCR"
    ],
    "meta": "Use for Azure AI: Search, Speech, OpenAI, Document Intelligence. Helps with search, vector/hybrid search, speech-to-text, text-to-speech, transcription, OCR.…",
-   "installs_display": "548.6K",
+   "installs_display": "548.9K",
    "stars": "1.4K",
    "first_seen": "Feb 4, 2026",
    "audits": [
@@ -2784,7 +2784,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "larksuite/cli",
@@ -2825,7 +2825,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "microsoft/azure-skills",
@@ -3847,7 +3847,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "supabase/agent-skills",
@@ -4047,7 +4047,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "mattpocock/skills",
@@ -4126,7 +4126,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "microsoft/azure-skills",
@@ -4245,7 +4245,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "prime-skills/runcomfy-agent-skills",
@@ -4900,7 +4900,7 @@
     "Generates message only; does not execute git commands or stage files"
    ],
    "meta": "Ultra-compressed commit message generator. Cuts noise from commit messages while preserving intent and reasoning. Conventional Commits format. Subject ≤50…",
-   "installs_display": "323.3K",
+   "installs_display": "323.5K",
    "stars": "101.2K",
    "first_seen": "Apr 8, 2026",
    "audits": [
@@ -5464,7 +5464,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "heygen-com/hyperframes",
@@ -5705,6 +5705,45 @@
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
    "is_new": false
+  },
+  {
+   "source": "shadcn/ui",
+   "skillId": "shadcn",
+   "name": "shadcn",
+   "installs": 271675,
+   "weeklyInstalls": [
+    11201,
+    11103,
+    10204,
+    9815,
+    11347,
+    7947,
+    0,
+    1
+   ],
+   "id": "shadcn/ui/shadcn",
+   "page_url": "https://www.skills.sh/shadcn/ui/shadcn",
+   "install": "npx skills add https://github.com/shadcn-ui/ui --skill shadcn",
+   "repo": "shadcn-ui/ui",
+   "headline": "This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing.",
+   "bullets": [
+    "A framework for building ui, components and design systems. Components are added as source code to the user's project via the CLI.",
+    "IMPORTANT: Run all CLI commands using the project's package runner: npx shadcn@latest, pnpm dlx shadcn@latest, or bunx --bun shadcn@latest — based on the project's packageManager. Examples below use npx shadcn@latest but substitute the correct runner for the project.",
+    "!`npx shadcn@latest info --json`"
+   ],
+   "meta": "Manages shadcn components and projects — adding, searching, fixing, debugging, styling, and composing UI, including chat interfaces. Provides project context,…",
+   "installs_display": "33.2K",
+   "stars": "122.2K",
+   "first_seen": "Mar 6, 2026",
+   "audits": [
+    "Gen Agent Trust Hub: Pass",
+    "Socket: Pass",
+    "Snyk: Warn"
+   ],
+   "in_top": true,
+   "last_updated": "2026-08-27",
+   "first_archived": "2026-08-27",
+   "is_new": true
   },
   {
    "source": "mattpocock/skills",
@@ -6812,7 +6851,7 @@
     "splice, and reorder belong to /hyperframes-core: author one media element per"
    ],
    "meta": "Use when a HyperFrames composition needs a punch-in, punch-out, zoom, reframe, Ken Burns treatment, camera move, visual match/whip handoff, or other seek-safe…",
-   "installs_display": "236.5K",
+   "installs_display": "236.8K",
    "stars": "42.7K",
    "first_seen": "Jul 2, 2026",
    "audits": [
@@ -6852,7 +6891,7 @@
     "Provisioning instant temporary databases with create-db"
    ],
    "meta": "Prisma Postgres setup and operations guidance across Console, create-db CLI, Management API, and Management API SDK. Use when creating Prisma Postgres…",
-   "installs_display": "234.7K",
+   "installs_display": "235.0K",
    "stars": "53",
    "first_seen": "Feb 6, 2026",
    "audits": [
@@ -9364,7 +9403,7 @@
     "Generate type-safe SDKs for TypeScript, Kotlin, Swift, and Dart with nested data access and local emulator support for development"
    ],
    "meta": "Builds and deploys Firebase SQL Connect (aka Firebase Data Connect) backends with PostgreSQL securely. Use when designing schemas with tables and relations,…",
-   "installs_display": "133.8K",
+   "installs_display": "133.9K",
    "stars": "423",
    "first_seen": "Feb 17, 2026",
    "audits": [
@@ -10041,7 +10080,7 @@
     "Tracks citation performance via monitoring tools (Otterly, Peec, ZipTie) or DIY monthly audits; identifies common mistakes like keyword stuffing, gating content, and blocking AI bots"
    ],
    "meta": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. Also use when the user mentions 'AI SEO,'…",
-   "installs_display": "114.5K",
+   "installs_display": "114.6K",
    "stars": "45.8K",
    "first_seen": "Feb 19, 2026",
    "audits": [
@@ -12657,7 +12696,7 @@
     "Workflow: display theme showcase, get user selection, apply chosen theme's colors and fonts throughout the artifact"
    ],
    "meta": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with…",
-   "installs_display": "79.9K",
+   "installs_display": "80.0K",
    "stars": "171.8K",
    "first_seen": "Jan 19, 2026",
    "audits": [
@@ -13543,7 +13582,7 @@
     "Provides reference pointers to detailed product docs, type definitions, and configuration schemas for each service"
    ],
    "meta": "Comprehensive Cloudflare platform skill covering Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), feature flags (Flagship),…",
-   "installs_display": "69.6K",
+   "installs_display": "69.7K",
    "stars": "2.7K",
    "first_seen": "Jan 28, 2026",
    "audits": [
@@ -15520,7 +15559,7 @@
     "confidence: number | null;"
    ],
    "meta": "Transcribing, displaying and animating captions",
-   "installs_display": "58.1K",
+   "installs_display": "58.3K",
    "stars": "4.4K",
    "first_seen": "Jul 11, 2026",
    "audits": [
@@ -23797,45 +23836,6 @@
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-26",
    "is_new": false
-  },
-  {
-   "source": "shadcn-ui/ui",
-   "skillId": "shadcn",
-   "name": "shadcn",
-   "installs": 33261,
-   "weeklyInstalls": [
-    323,
-    391,
-    569,
-    423,
-    460,
-    2479,
-    9386,
-    9590
-   ],
-   "id": "shadcn-ui/ui/shadcn",
-   "page_url": "https://www.skills.sh/shadcn-ui/ui/shadcn",
-   "install": "npx skills add https://github.com/shadcn-ui/ui --skill shadcn",
-   "repo": "shadcn-ui/ui",
-   "headline": "This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing.",
-   "bullets": [
-    "A framework for building ui, components and design systems. Components are added as source code to the user's project via the CLI.",
-    "IMPORTANT: Run all CLI commands using the project's package runner: npx shadcn@latest, pnpm dlx shadcn@latest, or bunx --bun shadcn@latest — based on the project's packageManager. Examples below use npx shadcn@latest but substitute the correct runner for the project.",
-    "!`npx shadcn@latest info --json`"
-   ],
-   "meta": "Manages shadcn components and projects — adding, searching, fixing, debugging, styling, and composing UI, including chat interfaces. Provides project context,…",
-   "installs_display": "33.2K",
-   "stars": "122.2K",
-   "first_seen": "Mar 6, 2026",
-   "audits": [
-    "Gen Agent Trust Hub: Pass",
-    "Socket: Pass",
-    "Snyk: Warn"
-   ],
-   "in_top": true,
-   "last_updated": "2026-08-27",
-   "first_archived": "2026-08-27",
-   "is_new": true
   },
   {
    "source": "zhaono1/agent-playbook",
@@ -35547,7 +35547,7 @@
    "in_top": true,
    "last_updated": "2026-08-27",
    "first_archived": "2026-08-27",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "wshobson/agents",
@@ -38253,15 +38253,15 @@
    "kept_installs": 339422,
    "headline": "Generate AI music on RunComfy through one CLI — vocal songs, instrumentals, jingles, game loops, multilingual covers. This skill picks the right model from the RunComfy catalog based on the user's act"
   },
-  "shadcn/ui/shadcn": {
-   "id": "shadcn/ui/shadcn",
+  "shadcn-ui/ui/shadcn": {
+   "id": "shadcn-ui/ui/shadcn",
    "name": "shadcn",
-   "source": "shadcn/ui",
-   "installs": 271675,
-   "reason": "إحدى النسخ مجرّد اختصار يشير إلى الأخرى",
-   "kept": "shadcn-ui/ui/shadcn",
-   "kept_installs": 33261,
-   "headline": ""
+   "source": "shadcn-ui/ui",
+   "installs": 33261,
+   "reason": "وصف متطابق بنسبة 100%",
+   "kept": "shadcn/ui/shadcn",
+   "kept_installs": 271675,
+   "headline": "This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing."
   },
   "addyosmani/agent-skills/test-driven-development": {
    "id": "addyosmani/agent-skills/test-driven-development",

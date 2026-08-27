@@ -40,6 +40,18 @@
 - `shadcn/ui/shadcn` ← أُبقيت `shadcn-ui/ui/shadcn` (إحدى النسخ مجرّد اختصار يشير إلى الأخرى)
 - `prime-skills/runcomfy-agent-skills/gpt-image-2` ← أُبقيت `pilioai/skills/gpt-image-2` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
 
+#### 🔁 تحديث إضافي (13:05 UTC)
+
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **shadcn** | `shadcn/ui` | 271,675 | This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing. |
+
+### 🧹 مكرّرات حُذفت (1)
+
+- `shadcn-ui/ui/shadcn` ← أُبقيت `shadcn/ui/shadcn` (وصف متطابق بنسبة 100%)
+
 ## 2026-08-26
 
 ### 🆕 مهارات جديدة في الأرشيف (492)

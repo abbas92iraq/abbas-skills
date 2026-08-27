@@ -28,15 +28,7 @@
 
 ## 🆕 أحدث الإضافات
 
-- **lark-minutes** — `larksuite/cli` (419,640 تثبيت)
-- **lark-vc** — `larksuite/cli` (419,533 تثبيت)
-- **lark-slides** — `larksuite/cli` (373,021 تثبيت)
-- **ai-video-generation** — `prime-skills/runcomfy-agent-skills` (353,257 تثبيت)
-- **ai-image-generation** — `prime-skills/runcomfy-agent-skills` (352,903 تثبيت)
-- **ai-avatar-video** — `prime-skills/runcomfy-agent-skills` (350,375 تثبيت)
-- **lark-vc-agent** — `larksuite/cli` (307,507 تثبيت)
-- **shadcn** — `shadcn-ui/ui` (33,261 تثبيت)
-- **gpt-image-2** — `pilioai/skills` (20,295 تثبيت)
+- **shadcn** — `shadcn/ui` (271,675 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 

@@ -57,12 +57,12 @@
 | `skills-101/superpowers/ai-avatar-video` | 394,493 | `prime-skills/runcomfy-agent-skills/ai-avatar-video` | 350,375 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
 | `genmedia-labs/skills/ai-music` | 193,757 | `prime-skills/runcomfy-agent-skills/ai-music` | 339,422 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
 | `open.feishu.cn/lark-vc-agent` | 568,008 | `larksuite/cli/lark-vc-agent` | 307,507 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `shadcn-ui/ui/shadcn` | 33,261 | `shadcn/ui/shadcn` | 271,675 | وصف متطابق بنسبة 100% |
 | `addyosmani/agent-skills/test-driven-development` | 26,524 | `obra/superpowers/test-driven-development` | 209,304 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
 | `genkit-ai/skills/developing-genkit-js` | 56,106 | `firebase/agent-skills/developing-genkit-js` | 62,575 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
 | `skills-101/superpowers/remotion-render` | 49,661 | `remotion-dev/skills/remotion-render` | 60,001 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
 | `giuseppe-trisciuoglio/developer-kit/shadcn-ui` | 20,512 | `google-labs-code/stitch-skills/shadcn-ui` | 49,828 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
 | `antfu/skills/vue-best-practices` | 22,325 | `vuejs-ai/skills/vue-best-practices` | 37,477 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `shadcn/ui/shadcn` | 271,675 | `shadcn-ui/ui/shadcn` | 33,261 | إحدى النسخ مجرّد اختصار يشير إلى الأخرى |
 | `prime-skills/runcomfy-agent-skills/gpt-image-2` | 54,628 | `pilioai/skills/gpt-image-2` | 20,295 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
 
 ---
