@@ -3,6 +3,17 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-08-28
+### 🆕 مهارات جديدة في الأرشيف (5)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **retro** | `mattpocock/skills` | 20,916 | The user has asked for a retrospective. You are suggesting improvements to the coding agent's environment to improve future runs. |
+| **animate-expo** | `emilkowalski/skills` | 18,529 | Building Animations in Expo |
+| **sandbox-stable** | `cloudflare/skills` | 17,836 | Sandbox SDK — stable package |
+| **sandbox-next** | `cloudflare/skills` | 17,693 | Sandbox SDK — @next (1.0 preview) |
+| **sandbox-migrate-to-next** | `cloudflare/skills` | 17,663 | Migrate stable → Sandbox SDK 1.0 preview (@next) |
+
 ## 2026-08-27
 
 ### 🆕 مهارات جديدة في الأرشيف (2)
