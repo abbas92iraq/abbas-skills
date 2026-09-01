@@ -3,6 +3,13 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-01
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **modern-web-guidance** | `googlechrome/modern-web-guidance` | 17,799 | A skill to search for specific web development use cases and retrieve their corresponding best practice guides. |
+
 ## 2026-08-31
 - ➖ لا مهارات جديدة ضمن أعلى 1,000؛ حُدِّثت الأرقام فقط.
 
