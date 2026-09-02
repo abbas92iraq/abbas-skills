@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-02
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **write-swift** | `emilkowalski/skills` | 19,236 | This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing. |
+| **find-qualified-titles** | `code.deepline.com` | 17,914 | Find Qualified Titles (company_titles -> ICP filter -> contacts) |
+
 ## 2026-09-01
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
