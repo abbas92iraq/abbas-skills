@@ -3,6 +3,18 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-04
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **remotion-render** | `skills-101/superpowers` | 70,326 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **expo-ui** | `expo/skills` | 18,174 | @expo/ui renders real native UI from React: SwiftUI on iOS, Jetpack Compose on Android. It also ships drop-in replacements for migrating off |
+
+### 🧹 مكرّرات حُذفت (1)
+
+- `remotion-dev/skills/remotion-render` ← أُبقيت `skills-101/superpowers/remotion-render` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-03
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
