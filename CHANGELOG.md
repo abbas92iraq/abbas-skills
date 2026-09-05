@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-05
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **marketing-mindset** | `axelfreeman/marketing-mindset` | 20,000 | A high-level operating system for marketing and client acquisition, distilled from 15 years of hands-on B2B internet marketing. This is not  |
+| **design-mobile-apps** | `designed-by-ai/skills` | 18,822 | sleek.design is an AI-powered mobile app design tool. You interact with it via a REST API at /api/v1/* to create projects, describe what you |
+
 ## 2026-09-04
 ### 🆕 مهارات جديدة في الأرشيف (2)
 
