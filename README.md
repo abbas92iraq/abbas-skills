@@ -23,13 +23,12 @@
 | مهارات محفوظة خارج النطاق 📌 | **14** |
 | مهارات رسمية ⭐ | **316** |
 | مكرّرات محذوفة 🧹 | **48** |
-| إجمالي المهارات على skills.sh | **9,712** |
-| آخر تحديث | **2026-09-05** |
+| إجمالي المهارات على skills.sh | **9,716** |
+| آخر تحديث | **2026-09-06** |
 
 ## 🆕 أحدث الإضافات
 
-- **marketing-mindset** — `axelfreeman/marketing-mindset` (20,000 تثبيت)
-- **design-mobile-apps** — `designed-by-ai/skills` (18,822 تثبيت)
+- **ai-music** — `genmedia-labs/skills` (350,205 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 

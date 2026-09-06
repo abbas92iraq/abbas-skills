@@ -3,6 +3,17 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-06
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **ai-music** | `genmedia-labs/skills` | 350,205 | Generate AI music on RunComfy through one CLI — vocal songs, instrumentals, jingles, game loops, multilingual covers. This skill picks the r |
+
+### 🧹 مكرّرات حُذفت (1)
+
+- `prime-skills/runcomfy-agent-skills/ai-music` ← أُبقيت `genmedia-labs/skills/ai-music` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-05
 ### 🆕 مهارات جديدة في الأرشيف (2)
 
