@@ -3,6 +3,32 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-07
+### 🆕 مهارات جديدة في الأرشيف (20)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **wan-3-0-prime-reference-to-video** | `genmedia-labs/skills` | 33,013 | Wan 3.0 Prime Reference to Video |
+| **seedance-2-5-image-to-video** | `genmedia-labs/skills` | 33,005 | Seedance 2.5 Image to Video |
+| **seedance-2-5-reference-to-video** | `genmedia-labs/skills` | 32,935 | Seedance 2.5 Reference to Video |
+| **extension-email-calendar-events** | `caffeinelabs/skills` | 18,510 | Calendar events email extension for Caffeine AI. |
+| **expo-brownfield** | `expo/skills` | 18,311 | A brownfield app is an existing native iOS or Android app that adopts React Native incrementally, as opposed to a greenfield app that is Rea |
+| **extension-stripe** | `caffeinelabs/skills` | 18,261 | Stripe Payment Integration |
+| **extension-qr-code** | `caffeinelabs/skills` | 18,219 | QR code scanner extension for Caffeine AI. |
+| **extension-camera** | `caffeinelabs/skills` | 18,213 | Camera extension for Caffeine AI. |
+| **extension-email-marketing** | `caffeinelabs/skills` | 18,212 | Marketing email extension for Caffeine AI. |
+| **extension-email-verification** | `caffeinelabs/skills` | 18,189 | Email verification extension for Caffeine AI. |
+| **extension-object-storage** | `caffeinelabs/skills` | 18,188 | Object storage extension for Caffeine AI. |
+| **extension-email** | `caffeinelabs/skills` | 18,188 | Email — Service/Transactional |
+| **extension-authorization** | `caffeinelabs/skills` | 18,184 | Authorization extendsion for Caffeine AI. |
+| **extension-http-outcalls** | `caffeinelabs/skills` | 18,184 | HTTP outcalls extension for Caffeine AI. |
+| **extension-invite-links** | `caffeinelabs/skills` | 18,181 | Invite links & RSVP extension for Caffeine AI. |
+| **extension-core-infrastructure** | `caffeinelabs/skills` | 18,179 | Core infrastructure extension for Caffeine AI. |
+| **extension-user-approval** | `caffeinelabs/skills` | 18,177 | User approval extension for Caffeine AI. |
+| **extension-email-raw** | `caffeinelabs/skills` | 18,174 | Email — Raw Multi-Recipient |
+| **extension-openai** | `caffeinelabs/skills` | 18,163 | OpenAI / LLM extension for Caffeine AI. |
+| **extension-posting-to-x** | `caffeinelabs/skills` | 18,153 | X / Twitter posting extension for Caffeine AI. |
+
 ## 2026-09-06
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
