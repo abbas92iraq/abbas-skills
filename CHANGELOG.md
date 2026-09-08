@@ -3,6 +3,21 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-08
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **ponytail-help** | `dietrichgebert/ponytail` | 18,523 | Display this reference card when invoked. One-shot, do NOT change mode, |
+| **ponytail-debt** | `dietrichgebert/ponytail` | 18,476 | Every deliberate ponytail shortcut is marked with a ponytail: comment naming |
+
+### 🧹 مكرّرات حُذفت (4)
+
+- `101-skills/superpowers/ai-video-generation` ← أُبقيت `skills-101/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/ai-image-generation` ← أُبقيت `skills-101/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/ai-avatar-video` ← أُبقيت `skills-101/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/twitter-automation` ← أُبقيت `skills-101/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-07
 ### 🆕 مهارات جديدة في الأرشيف (20)
 

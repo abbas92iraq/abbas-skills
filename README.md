@@ -18,26 +18,18 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **986** |
+| المهارات في الأرشيف | **988** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **32** |
+| مهارات محفوظة خارج النطاق 📌 | **38** |
 | مهارات رسمية ⭐ | **317** |
-| مكرّرات محذوفة 🧹 | **46** |
-| إجمالي المهارات على skills.sh | **9,719** |
-| آخر تحديث | **2026-09-07** |
+| مكرّرات محذوفة 🧹 | **50** |
+| إجمالي المهارات على skills.sh | **9,726** |
+| آخر تحديث | **2026-09-08** |
 
 ## 🆕 أحدث الإضافات
 
-- **wan-3-0-prime-reference-to-video** — `genmedia-labs/skills` (33,013 تثبيت)
-- **seedance-2-5-image-to-video** — `genmedia-labs/skills` (33,005 تثبيت)
-- **seedance-2-5-reference-to-video** — `genmedia-labs/skills` (32,935 تثبيت)
-- **extension-email-calendar-events** — `caffeinelabs/skills` (18,510 تثبيت)
-- **expo-brownfield** — `expo/skills` (18,311 تثبيت)
-- **extension-stripe** — `caffeinelabs/skills` (18,261 تثبيت)
-- **extension-qr-code** — `caffeinelabs/skills` (18,219 تثبيت)
-- **extension-camera** — `caffeinelabs/skills` (18,213 تثبيت)
-- **extension-email-marketing** — `caffeinelabs/skills` (18,212 تثبيت)
-- **extension-email-verification** — `caffeinelabs/skills` (18,189 تثبيت)
+- **ponytail-help** — `dietrichgebert/ponytail` (18,523 تثبيت)
+- **ponytail-debt** — `dietrichgebert/ponytail` (18,476 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 
