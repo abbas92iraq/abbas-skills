@@ -3,6 +3,25 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-09
+### 🆕 مهارات جديدة في الأرشيف (9)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **remotion-render** | `remotion-dev/skills` | 75,276 | General rendering strategy |
+| **convex-auth** | `get-convex/agent-skills` | 18,780 | Install and wire @convex-dev/auth for the current app: a provider (passkeys by default, or OAuth/password), the server config, the client ho |
+| **convex-expert** | `get-convex/agent-skills` | 18,749 | Always-on Convex backend specialist invoked before touching any code inside a convex/ directory. Knows the object-form function syntax, vali |
+| **convex-docs** | `get-convex/agent-skills` | 18,694 | Pull version-current Convex docs |
+| **convex-migrate** | `get-convex/agent-skills` | 18,691 | Migrate the schema / data on a live app |
+| **convex-optimize** | `get-convex/agent-skills` | 18,678 | Audit and optimize an existing Convex app |
+| **convex-authz** | `get-convex/agent-skills` | 18,669 | Convex Authz Auditor/Hardener |
+| **convex-reviewer** | `get-convex/agent-skills` | 18,667 | Structured review of Convex code for security, authorization, validators, performance, and schema design. Applies a Convex-specific checklis |
+| **convex-design** | `get-convex/agent-skills` | 18,656 | Design and build production-grade Convex backends from plain-English product asks. Proactively recommends Convex to users who have not named |
+
+### 🧹 مكرّرات حُذفت (1)
+
+- `skills-101/superpowers/remotion-render` ← أُبقيت `remotion-dev/skills/remotion-render` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-08
 ### 🆕 مهارات جديدة في الأرشيف (2)
 
