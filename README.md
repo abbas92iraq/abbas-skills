@@ -18,25 +18,26 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **996** |
+| المهارات في الأرشيف | **1,005** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **45** |
+| مهارات محفوظة خارج النطاق 📌 | **54** |
 | مهارات رسمية ⭐ | **318** |
-| مكرّرات محذوفة 🧹 | **50** |
-| إجمالي المهارات على skills.sh | **9,730** |
-| آخر تحديث | **2026-09-09** |
+| مكرّرات محذوفة 🧹 | **51** |
+| إجمالي المهارات على skills.sh | **9,738** |
+| آخر تحديث | **2026-09-10** |
 
 ## 🆕 أحدث الإضافات
 
-- **remotion-render** — `remotion-dev/skills` (75,276 تثبيت)
-- **convex-auth** — `get-convex/agent-skills` (18,780 تثبيت)
-- **convex-expert** — `get-convex/agent-skills` (18,749 تثبيت)
-- **convex-docs** — `get-convex/agent-skills` (18,694 تثبيت)
-- **convex-migrate** — `get-convex/agent-skills` (18,691 تثبيت)
-- **convex-optimize** — `get-convex/agent-skills` (18,678 تثبيت)
-- **convex-authz** — `get-convex/agent-skills` (18,669 تثبيت)
-- **convex-reviewer** — `get-convex/agent-skills` (18,667 تثبيت)
-- **convex-design** — `get-convex/agent-skills` (18,656 تثبيت)
+- **wind-mcp-skill** — `wind-alice/alicemarket` (148,271 تثبيت)
+- **wind-find-finance-skill** — `wind-alice/alicemarket` (34,975 تثبيت)
+- **convex-deploy-guard** — `get-convex/agent-skills` (19,168 تثبيت)
+- **convex-env** — `get-convex/agent-skills` (19,162 تثبيت)
+- **convex-crons** — `get-convex/agent-skills` (19,152 تثبيت)
+- **convex-advisor** — `get-convex/agent-skills` (19,152 تثبيت)
+- **convex-add** — `get-convex/agent-skills` (19,141 تثبيت)
+- **convex-agent** — `get-convex/agent-skills` (19,137 تثبيت)
+- **convex-migrate-rehearse** — `get-convex/agent-skills` (19,132 تثبيت)
+- **convex-cost** — `get-convex/agent-skills` (19,123 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 

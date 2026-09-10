@@ -3,6 +3,29 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-10
+### 🆕 مهارات جديدة في الأرشيف (11)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **wind-mcp-skill** | `wind-alice/alicemarket` | 148,271 | 通过本 Skill 自带 CLI 调用 Wind MCP。金融事实以工具返回的数据与来源材料为依据；区分原始数据、来源观点和基于数据的推导，不把模型记忆、Web Search 或常识补全伪装成已核验数据。 |
+| **wind-find-finance-skill** | `wind-alice/alicemarket` | 34,975 | 本 skill 是万得金融能力发现与安装路由器，不直接取数、不做业务分析、不需要 API Key。 |
+| **convex-deploy-guard** | `get-convex/agent-skills` | 19,168 | Deployments are not interchangeable, and most incidents start with a command aimed at the wrong one. Every Convex project has several (perso |
+| **convex-env** | `get-convex/agent-skills` | 19,162 | Store secrets as Convex deployment env vars (npx convex env set), read them with process.env in actions, never commit them. |
+| **convex-crons** | `get-convex/agent-skills` | 19,152 | Add scheduled jobs (crons) |
+| **convex-advisor** | `get-convex/agent-skills` | 19,152 | Static review guesses; the deployment KNOWS. The official Convex MCP ships an insights tool with typed 72h health events per function — docu |
+| **convex-add** | `get-convex/agent-skills` | 19,141 | Add a named capability to an existing Convex app. Step 1: fetch the served capability catalog — if a capability matches the user's request,  |
+| **convex-agent** | `get-convex/agent-skills` | 19,137 | Add an AI agent / RAG backend |
+| **convex-migrate-rehearse** | `get-convex/agent-skills` | 19,132 | Rehearse a schema change on a preview before prod |
+| **convex-cost** | `get-convex/agent-skills` | 19,123 | Preview what this app will cost |
+| **convex-insights** | `get-convex/agent-skills` | 19,122 | Query logs + health in natural language |
+
+### 🧹 مكرّرات حُذفت (3)
+
+- `wind-information-co-ltd/wind-skills/wind-mcp-skill` ← أُبقيت `wind-alice/alicemarket/wind-mcp-skill` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `larksuite/cli/lark-meeting` ← أُبقيت `open.feishu.cn/lark-meeting` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `wind-information-co-ltd/wind-skills/wind-find-finance-skill` ← أُبقيت `wind-alice/alicemarket/wind-find-finance-skill` (اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-09
 ### 🆕 مهارات جديدة في الأرشيف (9)
 
