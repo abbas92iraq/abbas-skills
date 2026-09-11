@@ -3,6 +3,28 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-11
+### 🆕 مهارات جديدة في الأرشيف (3)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **video-edit** | `genmedia-labs/skills` | 427,241 | Video Edit — Pro Pack on RunComfy |
+| **image-to-video** | `genmedia-labs/skills` | 426,449 | Image-to-Video — Pro Pack on RunComfy |
+| **convex-explain-app** | `get-convex/agent-skills` | 19,742 | Before you can safely change an app you have to know what it is — and reading 15 function files top-to-bottom is slow and error-prone. This  |
+
+### 🧹 مكرّرات حُذفت (10)
+
+- `qu-skills/superpowers/ai-video-generation` ← أُبقيت `skills-101/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/ai-video-generation` ← أُبقيت `skills-101/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/ai-image-generation` ← أُبقيت `skills-101/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/ai-image-generation` ← أُبقيت `skills-101/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/ai-avatar-video` ← أُبقيت `skills-101/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/ai-avatar-video` ← أُبقيت `skills-101/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/twitter-automation` ← أُبقيت `skills-101/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/twitter-automation` ← أُبقيت `skills-101/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `prime-skills/runcomfy-agent-skills/video-edit` ← أُبقيت `genmedia-labs/skills/video-edit` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `prime-skills/runcomfy-agent-skills/image-to-video` ← أُبقيت `genmedia-labs/skills/image-to-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-10
 ### 🆕 مهارات جديدة في الأرشيف (11)
 

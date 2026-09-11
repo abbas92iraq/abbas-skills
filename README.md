@@ -18,26 +18,19 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,005** |
+| المهارات في الأرشيف | **1,006** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **54** |
+| مهارات محفوظة خارج النطاق 📌 | **63** |
 | مهارات رسمية ⭐ | **318** |
-| مكرّرات محذوفة 🧹 | **51** |
-| إجمالي المهارات على skills.sh | **9,738** |
-| آخر تحديث | **2026-09-10** |
+| مكرّرات محذوفة 🧹 | **57** |
+| إجمالي المهارات على skills.sh | **9,742** |
+| آخر تحديث | **2026-09-11** |
 
 ## 🆕 أحدث الإضافات
 
-- **wind-mcp-skill** — `wind-alice/alicemarket` (148,271 تثبيت)
-- **wind-find-finance-skill** — `wind-alice/alicemarket` (34,975 تثبيت)
-- **convex-deploy-guard** — `get-convex/agent-skills` (19,168 تثبيت)
-- **convex-env** — `get-convex/agent-skills` (19,162 تثبيت)
-- **convex-crons** — `get-convex/agent-skills` (19,152 تثبيت)
-- **convex-advisor** — `get-convex/agent-skills` (19,152 تثبيت)
-- **convex-add** — `get-convex/agent-skills` (19,141 تثبيت)
-- **convex-agent** — `get-convex/agent-skills` (19,137 تثبيت)
-- **convex-migrate-rehearse** — `get-convex/agent-skills` (19,132 تثبيت)
-- **convex-cost** — `get-convex/agent-skills` (19,123 تثبيت)
+- **video-edit** — `genmedia-labs/skills` (427,241 تثبيت)
+- **image-to-video** — `genmedia-labs/skills` (426,449 تثبيت)
+- **convex-explain-app** — `get-convex/agent-skills` (19,742 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 
