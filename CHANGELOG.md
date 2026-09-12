@@ -3,6 +3,18 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-12
+### 🆕 مهارات جديدة في الأرشيف (6)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **convex-backup** | `get-convex/agent-skills` | 20,210 | Back up — and prove the restore works |
+| **convex-launch-readiness** | `get-convex/agent-skills` | 20,209 | Readiness is not one check — it's the union of the checks, deduped, ranked, and scored. This capability is pure composition over the finding |
+| **convex-monitor** | `get-convex/agent-skills` | 20,201 | Watch for the next thing to react to |
+| **convex-domains** | `get-convex/agent-skills` | 20,201 | Set up a custom domain with your own provider |
+| **convex-test** | `get-convex/agent-skills` | 20,198 | Use convex-test + vitest to test functions against an in-memory backend: args/returns, auth paths, indexes, and scheduled functions. |
+| **convex-billing** | `get-convex/agent-skills` | 20,196 | Wire Stripe to Convex using @convex-dev/stripe: a checkout action, an httpAction webhook registered by the component (signature-verified aut |
+
 ## 2026-09-11
 ### 🆕 مهارات جديدة في الأرشيف (3)
 
