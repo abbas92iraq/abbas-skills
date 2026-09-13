@@ -3,6 +3,16 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-13
+### 🆕 مهارات جديدة في الأرشيف (4)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **convex-seed** | `get-convex/agent-skills` | 20,529 | Populate tables via an internalMutation seed function (re-runnable) or npx convex import, matching the schema. |
+| **convex-verify** | `get-convex/agent-skills` | 20,529 | Prove a feature works — seed, drive, assert |
+| **convex-improve-convex-plugin** | `get-convex/agent-skills` | 20,527 | Sends the current coding session transcript to the anteater POST /review endpoint for an AI post-mortem. The review returns structured findi |
+| **convex-self-heal** | `get-convex/agent-skills` | 20,512 | Gated production self-healing loop |
+
 ## 2026-09-12
 ### 🆕 مهارات جديدة في الأرشيف (6)
 

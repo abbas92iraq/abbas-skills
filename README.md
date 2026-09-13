@@ -18,22 +18,20 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,012** |
+| المهارات في الأرشيف | **1,016** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **69** |
+| مهارات محفوظة خارج النطاق 📌 | **72** |
 | مهارات رسمية ⭐ | **318** |
-| مكرّرات محذوفة 🧹 | **57** |
-| إجمالي المهارات على skills.sh | **9,745** |
-| آخر تحديث | **2026-09-12** |
+| مكرّرات محذوفة 🧹 | **56** |
+| إجمالي المهارات على skills.sh | **9,817** |
+| آخر تحديث | **2026-09-13** |
 
 ## 🆕 أحدث الإضافات
 
-- **convex-backup** — `get-convex/agent-skills` (20,210 تثبيت)
-- **convex-launch-readiness** — `get-convex/agent-skills` (20,209 تثبيت)
-- **convex-monitor** — `get-convex/agent-skills` (20,201 تثبيت)
-- **convex-domains** — `get-convex/agent-skills` (20,201 تثبيت)
-- **convex-test** — `get-convex/agent-skills` (20,198 تثبيت)
-- **convex-billing** — `get-convex/agent-skills` (20,196 تثبيت)
+- **convex-seed** — `get-convex/agent-skills` (20,529 تثبيت)
+- **convex-verify** — `get-convex/agent-skills` (20,529 تثبيت)
+- **convex-improve-convex-plugin** — `get-convex/agent-skills` (20,527 تثبيت)
+- **convex-self-heal** — `get-convex/agent-skills` (20,512 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 
