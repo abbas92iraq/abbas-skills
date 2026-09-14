@@ -3,6 +3,20 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-14
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **convex-suggest** | `get-convex/agent-skills` | 20,820 | Proactively suggest the right Convex component |
+
+### 🧹 مكرّرات حُذفت (4)
+
+- `skills-shell/superpowers/ai-video-generation` ← أُبقيت `skills-101/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/ai-image-generation` ← أُبقيت `skills-101/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/ai-avatar-video` ← أُبقيت `skills-101/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/twitter-automation` ← أُبقيت `skills-101/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-13
 ### 🆕 مهارات جديدة في الأرشيف (4)
 
