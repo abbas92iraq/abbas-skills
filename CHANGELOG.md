@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-16
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **better-ui** | `jakubkrehel/skills` | 22,206 | Polish comes from a pile of small details that compound. This skill is the reference for which are worth having and what values they take. |
+| **influencer-marketing** | `coreyhaines31/marketingskills` | 21,303 | Influencer & Creator Marketing |
+
 ## 2026-09-15
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
