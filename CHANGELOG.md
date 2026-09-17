@@ -3,6 +3,15 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-17
+### 🧹 مكرّرات حُذفت (5)
+
+- `101-skills/superpowers/agent-browser` ← أُبقيت `vercel-labs/agent-browser/agent-browser` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `its-a-skill-issue/superpowers/ai-video-generation` ← أُبقيت `skills-101/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `its-a-skill-issue/superpowers/ai-image-generation` ← أُبقيت `skills-101/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `its-a-skill-issue/superpowers/ai-avatar-video` ← أُبقيت `skills-101/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `its-a-skill-issue/superpowers/twitter-automation` ← أُبقيت `skills-101/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-16
 ### 🆕 مهارات جديدة في الأرشيف (2)
 
