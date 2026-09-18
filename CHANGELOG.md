@@ -3,6 +3,19 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-18
+### 🧹 مكرّرات حُذفت (9)
+
+- `bankai-skills/superpowers/ai-video-generation` ← أُبقيت `skills-101/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/ai-image-generation` ← أُبقيت `skills-101/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/ai-avatar-video` ← أُبقيت `skills-101/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/twitter-automation` ← أُبقيت `skills-101/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/remotion-render` ← أُبقيت `remotion-dev/skills/remotion-render` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/web-search` ← أُبقيت `skills-101/superpowers/web-search` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/agent-tools` ← أُبقيت `skills-101/superpowers/agent-tools` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/infsh-cli` ← أُبقيت `skills-101/superpowers/infsh-cli` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/python-executor` ← أُبقيت `skills-101/superpowers/python-executor` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-17
 ### 🧹 مكرّرات حُذفت (5)
 
