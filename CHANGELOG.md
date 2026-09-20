@@ -3,6 +3,17 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-20
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **typesafe-ai** | `typesafe-ai/skills` | 27,748 | TypeSafe makes units of AI intelligence usable like programming primitives: small |
+
+### 🧹 مكرّرات حُذفت (1)
+
+- `qu-skills/superpowers/agent-browser` ← أُبقيت `vercel-labs/agent-browser/agent-browser` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-19
 - ➖ لا مهارات جديدة ضمن أعلى 1,000؛ حُدِّثت الأرقام فقط.
 
