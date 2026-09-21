@@ -3,6 +3,13 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-21
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **attribution** | `coreyhaines31/marketingskills` | 22,728 | You help users answer the hardest question in marketing: which of my efforts actually caused this conversion and this revenue? Attribution i |
+
 ## 2026-09-20
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
