@@ -3,6 +3,20 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-22
+### 🆕 مهارات جديدة في الأرشيف (3)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **ai-video-generation** | `genmedia-labs/skills` | 603,635 | Generate videos with the full RunComfy video-model catalog through one CLI — text-to-video, image-to-video, and Veo's video-extend. This ski |
+| **ai-image-generation** | `genmedia-labs/skills` | 602,818 | Generate and edit images with 11+ AI models via the RunComfy CLI — text-to-image and image-to-image, one auth, one command. This skill picks |
+| **hyperframes-studio** | `heygen-com/hyperframes` | 29,430 | HyperFrames Studio conventions |
+
+### 🧹 مكرّرات حُذفت (2)
+
+- `skills-101/superpowers/ai-video-generation` ← أُبقيت `genmedia-labs/skills/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/ai-image-generation` ← أُبقيت `genmedia-labs/skills/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-21
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
