@@ -3,6 +3,20 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-23
+### 🧹 مكرّرات حُذفت (10)
+
+- `101-skills/superpowers/image-to-video` ← أُبقيت `genmedia-labs/skills/image-to-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/landing-page-design` ← أُبقيت `skills-101/superpowers/landing-page-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/app-store-screenshots` ← أُبقيت `skills-101/superpowers/app-store-screenshots` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/product-photography` ← أُبقيت `skills-101/superpowers/product-photography` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/storyboard-creation` ← أُبقيت `skills-101/superpowers/storyboard-creation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/character-design-sheet` ← أُبقيت `skills-101/superpowers/character-design-sheet` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/competitor-teardown` ← أُبقيت `skills-101/superpowers/competitor-teardown` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/product-hunt-launch` ← أُبقيت `skills-101/superpowers/product-hunt-launch` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/youtube-thumbnail-design` ← أُبقيت `skills-101/superpowers/youtube-thumbnail-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `101-skills/superpowers/video-ad-specs` ← أُبقيت `skills-101/superpowers/video-ad-specs` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-22
 ### 🆕 مهارات جديدة في الأرشيف (3)
 
