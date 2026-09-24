@@ -3,6 +3,21 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-24
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **ui-taste** | `uizze.sh` | 52,559 | Stop shipping the same AI slop. |
+
+### 🧹 مكرّرات حُذفت (5)
+
+- `qu-skills/superpowers/remotion-render` ← أُبقيت `remotion-dev/skills/remotion-render` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/web-search` ← أُبقيت `skills-101/superpowers/web-search` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/agent-tools` ← أُبقيت `skills-101/superpowers/agent-tools` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/infsh-cli` ← أُبقيت `skills-101/superpowers/infsh-cli` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/python-executor` ← أُبقيت `skills-101/superpowers/python-executor` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-23
 ### 🧹 مكرّرات حُذفت (10)
 
