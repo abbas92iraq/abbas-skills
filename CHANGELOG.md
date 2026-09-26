@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-09-26
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **ios-design** | `uizze.sh` | 54,672 | Design and evaluate iPhone interfaces using native interaction patterns and real product references. |
+| **anti-prose-slop** | `proseify.xyz` | 25,040 | Stop AI writing agents from shipping generic prose. |
+
 ## 2026-09-25
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
