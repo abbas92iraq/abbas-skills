@@ -18,17 +18,26 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,028** |
+| المهارات في الأرشيف | **1,029** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **117** |
+| مهارات محفوظة خارج النطاق 📌 | **104** |
 | مهارات رسمية ⭐ | **318** |
-| مكرّرات محذوفة 🧹 | **89** |
+| مكرّرات محذوفة 🧹 | **90** |
 | إجمالي المهارات على skills.sh | **9,835** |
-| آخر تحديث | **2026-09-30** |
+| آخر تحديث | **2026-10-01** |
 
 ## 🆕 أحدث الإضافات
 
-- **mobile-native** — `emilkowalski/skills` (26,496 تثبيت)
+- **twitter-automation** — `101-skills/superpowers` (598,000 تثبيت)
+- **ai-avatar-video** — `101-skills/superpowers` (597,706 تثبيت)
+- **web-search** — `101-skills/superpowers` (75,331 تثبيت)
+- **infsh-cli** — `101-skills/superpowers` (75,256 تثبيت)
+- **agent-tools** — `101-skills/superpowers` (75,213 تثبيت)
+- **python-executor** — `101-skills/superpowers` (75,209 تثبيت)
+- **landing-page-design** — `101-skills/superpowers` (38,569 تثبيت)
+- **product-photography** — `101-skills/superpowers` (38,376 تثبيت)
+- **character-design-sheet** — `101-skills/superpowers` (38,316 تثبيت)
+- **app-store-screenshots** — `101-skills/superpowers` (38,283 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 

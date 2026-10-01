@@ -3,6 +3,47 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-01
+### 🆕 مهارات جديدة في الأرشيف (16)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **twitter-automation** | `101-skills/superpowers` | 598,000 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **ai-avatar-video** | `101-skills/superpowers` | 597,706 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **web-search** | `101-skills/superpowers` | 75,331 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **infsh-cli** | `101-skills/superpowers` | 75,256 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **agent-tools** | `101-skills/superpowers` | 75,213 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **python-executor** | `101-skills/superpowers` | 75,209 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **landing-page-design** | `101-skills/superpowers` | 38,569 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **product-photography** | `101-skills/superpowers` | 38,376 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **character-design-sheet** | `101-skills/superpowers` | 38,316 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **app-store-screenshots** | `101-skills/superpowers` | 38,283 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **video-ad-specs** | `101-skills/superpowers` | 38,280 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **storyboard-creation** | `101-skills/superpowers` | 38,269 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **competitor-teardown** | `101-skills/superpowers` | 38,243 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **product-hunt-launch** | `101-skills/superpowers` | 38,210 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **youtube-thumbnail-design** | `101-skills/superpowers` | 38,134 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **better-typography** | `jakubkrehel/skills` | 26,385 | Typography is mostly restraint: a sensible scale, comfortable spacing, enough contrast. A label, a table cell, a marketing headline and an a |
+
+### 🧹 مكرّرات حُذفت (16)
+
+- `bankai-skills/superpowers/agent-browser` ← أُبقيت `vercel-labs/agent-browser/agent-browser` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/twitter-automation` ← أُبقيت `101-skills/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/ai-avatar-video` ← أُبقيت `101-skills/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/web-search` ← أُبقيت `101-skills/superpowers/web-search` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/infsh-cli` ← أُبقيت `101-skills/superpowers/infsh-cli` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/agent-tools` ← أُبقيت `101-skills/superpowers/agent-tools` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/python-executor` ← أُبقيت `101-skills/superpowers/python-executor` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/landing-page-design` ← أُبقيت `101-skills/superpowers/landing-page-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/product-photography` ← أُبقيت `101-skills/superpowers/product-photography` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/character-design-sheet` ← أُبقيت `101-skills/superpowers/character-design-sheet` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/app-store-screenshots` ← أُبقيت `101-skills/superpowers/app-store-screenshots` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/video-ad-specs` ← أُبقيت `101-skills/superpowers/video-ad-specs` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/storyboard-creation` ← أُبقيت `101-skills/superpowers/storyboard-creation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/competitor-teardown` ← أُبقيت `101-skills/superpowers/competitor-teardown` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/product-hunt-launch` ← أُبقيت `101-skills/superpowers/product-hunt-launch` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-101/superpowers/youtube-thumbnail-design` ← أُبقيت `101-skills/superpowers/youtube-thumbnail-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-09-30
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
