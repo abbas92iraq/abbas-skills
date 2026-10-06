@@ -3,6 +3,25 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-06
+### 🆕 مهارات جديدة في الأرشيف (6)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **add-analytics-instrumentation** | `amplitude/mcp-marketplace` | 27,113 | add-analytics-instrumentation |
+| **diff-intake** | `amplitude/mcp-marketplace` | 27,098 | Follow this skill step by step. |
+| **discover-analytics-patterns** | `amplitude/mcp-marketplace` | 27,097 | discover-analytics-patterns |
+| **discover-event-surfaces** | `amplitude/mcp-marketplace` | 27,091 | You are step 2 of the analytics instrumentation workflow. Read a change_brief |
+| **instrument-events** | `amplitude/mcp-marketplace` | 27,076 | You are step 3 of the analytics instrumentation workflow. You receive |
+| **taxonomy** | `amplitude/mcp-marketplace` | 27,062 | Taxonomy Generation & Data Auditing |
+
+### 🧹 مكرّرات حُذفت (4)
+
+- `skills-shell/superpowers/remotion-render` ← أُبقيت `remotion-dev/skills/remotion-render` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/web-search` ← أُبقيت `101-skills/superpowers/web-search` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/infsh-cli` ← أُبقيت `101-skills/superpowers/infsh-cli` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/agent-tools` ← أُبقيت `101-skills/superpowers/agent-tools` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-05
 ### 🧹 مكرّرات حُذفت (1)
 
