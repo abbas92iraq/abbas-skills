@@ -20,22 +20,11 @@
 |---|---:|
 | المهارات في الأرشيف | **1,035** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **120** |
+| مهارات محفوظة خارج النطاق 📌 | **125** |
 | مهارات رسمية ⭐ | **318** |
-| مكرّرات محذوفة 🧹 | **85** |
-| إجمالي المهارات على skills.sh | **9,891** |
-| آخر تحديث | **2026-10-06** |
-
-## 🆕 أحدث الإضافات
-
-- **add-analytics-instrumentation** — `amplitude/mcp-marketplace` (27,113 تثبيت)
-- **diff-intake** — `amplitude/mcp-marketplace` (27,098 تثبيت)
-- **discover-analytics-patterns** — `amplitude/mcp-marketplace` (27,097 تثبيت)
-- **discover-event-surfaces** — `amplitude/mcp-marketplace` (27,091 تثبيت)
-- **instrument-events** — `amplitude/mcp-marketplace` (27,076 تثبيت)
-- **taxonomy** — `amplitude/mcp-marketplace` (27,062 تثبيت)
-
-السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
+| مكرّرات محذوفة 🧹 | **90** |
+| إجمالي المهارات على skills.sh | **9,892** |
+| آخر تحديث | **2026-10-07** |
 
 ## 🤖 استخدامه كمساعد افتراضي
 

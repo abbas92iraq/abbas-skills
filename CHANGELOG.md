@@ -3,6 +3,15 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-07
+### 🧹 مكرّرات حُذفت (5)
+
+- `its-a-skill-issue/superpowers/remotion-render` ← أُبقيت `remotion-dev/skills/remotion-render` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `its-a-skill-issue/superpowers/web-search` ← أُبقيت `101-skills/superpowers/web-search` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `its-a-skill-issue/superpowers/infsh-cli` ← أُبقيت `101-skills/superpowers/infsh-cli` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `its-a-skill-issue/superpowers/agent-tools` ← أُبقيت `101-skills/superpowers/agent-tools` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `its-a-skill-issue/superpowers/python-executor` ← أُبقيت `101-skills/superpowers/python-executor` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-06
 ### 🆕 مهارات جديدة في الأرشيف (6)
 
