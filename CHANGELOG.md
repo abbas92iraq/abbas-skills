@@ -3,6 +3,26 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-09
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **nextjs-on-cloudflare** | `cloudflare/skills` | 28,430 | Use vinext rather than OpenNext for new Next.js projects on Cloudflare Workers. This is the default in the Cloudflare Next.js guide. Preserv |
+
+### 🧹 مكرّرات حُذفت (10)
+
+- `gencraft-labs/skills/video-edit` ← أُبقيت `genmedia-labs/skills/video-edit` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `gencraft-labs/skills/ai-video-generation` ← أُبقيت `genmedia-labs/skills/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `gencraft-labs/skills/ai-music` ← أُبقيت `genmedia-labs/skills/ai-music` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `gencraft-labs/skills/image-to-video` ← أُبقيت `genmedia-labs/skills/image-to-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `gencraft-labs/skills/ai-image-generation` ← أُبقيت `genmedia-labs/skills/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/remotion-render` ← أُبقيت `remotion-dev/skills/remotion-render` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/web-search` ← أُبقيت `101-skills/superpowers/web-search` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/infsh-cli` ← أُبقيت `101-skills/superpowers/infsh-cli` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/agent-tools` ← أُبقيت `101-skills/superpowers/agent-tools` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/python-executor` ← أُبقيت `101-skills/superpowers/python-executor` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-08
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
