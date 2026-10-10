@@ -3,6 +3,13 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-10
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **prisma-orm-setup** | `prisma/skills` | 28,869 | This skill owns ORM version selection for setup and connection work. Preserve the application's ORM version and intended database. A connect |
+
 ## 2026-10-09
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
