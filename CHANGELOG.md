@@ -3,6 +3,13 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-11
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **security-audit** | `cloudflare/security-audit-skill` | 28,765 | Find vulnerabilities that violate a real trust boundary, then give owners the source evidence, safe reproduction, priority, and smallest eff |
+
 ## 2026-10-10
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
