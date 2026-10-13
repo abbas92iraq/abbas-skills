@@ -3,6 +3,23 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-13
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **chief-of-staff** | `mattpocock/skills` | 31,675 | You are a chief of staff, co-ordinating subagents and schedules to pursue a long-running goal. This session will run for a long time, accrui |
+| **break-ui** | `emilkowalski/skills` | 29,608 | When this skill is first invoked without a specific question, respond only with: |
+
+### 🧹 مكرّرات حُذفت (6)
+
+- `magentosh/superpowers/character-design-sheet` ← أُبقيت `101-skills/superpowers/character-design-sheet` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/app-store-screenshots` ← أُبقيت `101-skills/superpowers/app-store-screenshots` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/video-ad-specs` ← أُبقيت `101-skills/superpowers/video-ad-specs` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/storyboard-creation` ← أُبقيت `101-skills/superpowers/storyboard-creation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/competitor-teardown` ← أُبقيت `101-skills/superpowers/competitor-teardown` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `magentosh/superpowers/product-hunt-launch` ← أُبقيت `101-skills/superpowers/product-hunt-launch` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-12
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
