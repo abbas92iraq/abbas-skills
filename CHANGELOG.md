@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-14
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **uizze-ui** | `uizze/uizze` | 37,256 | Uizze's full AI design pack for agents. |
+| **better-colors** | `jakubkrehel/skills` | 29,377 | This skill builds and audits color systems. It generates ramps, maps their steps to roles and token names, converts notation and measures re |
+
 ## 2026-10-13
 ### 🆕 مهارات جديدة في الأرشيف (2)
 
