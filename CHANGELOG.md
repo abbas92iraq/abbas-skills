@@ -3,6 +3,20 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-16
+### 🆕 مهارات جديدة في الأرشيف (3)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **ai-video-generation** | `101-skills/superpowers` | 775,095 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **ai-image-generation** | `101-skills/superpowers` | 774,248 | Install the belt CLI skill: npx skills add belt-sh/cli |
+| **show-me** | `humanlayer/skills` | 29,623 | Help the user understand the current topic of conversation visually. Skip the preamble and keep prose brief. Pick the smallest view that mak |
+
+### 🧹 مكرّرات حُذفت (2)
+
+- `genmedia-labs/skills/ai-video-generation` ← أُبقيت `101-skills/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `genmedia-labs/skills/ai-image-generation` ← أُبقيت `101-skills/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-15
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
