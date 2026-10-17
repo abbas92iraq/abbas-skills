@@ -3,6 +3,87 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-17
+### 🆕 مهارات جديدة في الأرشيف (37)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **convex-quickstart** | `convex/agent-skills` | 128,172 | Quickstart: a barebones Convex template, running |
+| **convex-create-component** | `convex/agent-skills` | 127,976 | Create reusable Convex components with clear boundaries and a small app-facing |
+| **convex** | `convex/agent-skills` | 105,033 | The main entry point for building on Convex. This skill set ships one skill per capability (all named convex-*); this skill routes to the ri |
+| **convex-performance-audit** | `convex/agent-skills` | 94,263 | Diagnose and fix performance problems in Convex applications, one problem class |
+| **convex-setup-auth** | `convex/agent-skills` | 93,853 | Convex Authentication Setup |
+| **convex-migration-helper** | `convex/agent-skills` | 93,834 | Safely migrate Convex schemas and data when making breaking changes. |
+| **convex-expert** | `convex/agent-skills` | 33,328 | Always-on Convex backend specialist invoked before touching any code inside a convex/ directory. Knows the object-form function syntax, vali |
+| **convex-auth** | `convex/agent-skills` | 33,310 | Install and wire @convex-dev/auth for the current app: a provider (passkeys by default, or OAuth/password), the server config, the client ho |
+| **convex-authz** | `convex/agent-skills` | 33,232 | Convex Authz Auditor/Hardener |
+| **convex-migrate** | `convex/agent-skills` | 33,222 | Migrate the schema / data on a live app |
+| **convex-docs** | `convex/agent-skills` | 33,204 | Pull version-current Convex docs |
+| **convex-reviewer** | `convex/agent-skills` | 33,178 | Structured review of Convex code for security, authorization, validators, performance, and schema design. Applies a Convex-specific checklis |
+| **convex-design** | `convex/agent-skills` | 33,161 | Design and build production-grade Convex backends from plain-English product asks. Proactively recommends Convex to users who have not named |
+| **convex-optimize** | `convex/agent-skills` | 33,140 | Audit and optimize an existing Convex app |
+| **convex-deploy-guard** | `convex/agent-skills` | 33,133 | Deployments are not interchangeable, and most incidents start with a command aimed at the wrong one. Every Convex project has several (perso |
+| **convex-env** | `convex/agent-skills` | 33,116 | Store secrets as Convex deployment env vars (npx convex env set), read them with process.env in actions, never commit them. |
+| **convex-crons** | `convex/agent-skills` | 33,092 | Add scheduled jobs (crons) |
+| **convex-advisor** | `convex/agent-skills` | 33,070 | Static review guesses; the deployment KNOWS. The official Convex MCP ships an insights tool with typed 72h health events per function — docu |
+| **convex-add** | `convex/agent-skills` | 33,043 | Add a named capability to an existing Convex app. Step 1: fetch the served capability catalog — if a capability matches the user's request,  |
+| **convex-agent** | `convex/agent-skills` | 33,038 | Add an AI agent / RAG backend |
+| **convex-test** | `convex/agent-skills` | 33,036 | Use convex-test + vitest to test functions against an in-memory backend: args/returns, auth paths, indexes, and scheduled functions. |
+| **convex-insights** | `convex/agent-skills` | 33,024 | Query logs + health in natural language |
+| **convex-cost** | `convex/agent-skills` | 33,019 | Preview what this app will cost |
+| **convex-migrate-rehearse** | `convex/agent-skills` | 33,017 | Rehearse a schema change on a preview before prod |
+| **convex-backup** | `convex/agent-skills` | 33,014 | Back up — and prove the restore works |
+| **convex-explain-app** | `convex/agent-skills` | 33,008 | Before you can safely change an app you have to know what it is — and reading 15 function files top-to-bottom is slow and error-prone. This  |
+| **convex-launch-readiness** | `convex/agent-skills` | 33,003 | Readiness is not one check — it's the union of the checks, deduped, ranked, and scored. This capability is pure composition over the finding |
+| **convex-domains** | `convex/agent-skills` | 32,986 | Set up a custom domain with your own provider |
+| **convex-billing** | `convex/agent-skills` | 32,982 | Wire Stripe to Convex using @convex-dev/stripe: a checkout action, an httpAction webhook registered by the component (signature-verified aut |
+| **convex-monitor** | `convex/agent-skills` | 32,976 | Watch for the next thing to react to |
+| **convex-verify** | `convex/agent-skills` | 32,972 | Prove a feature works — seed, drive, assert |
+| **convex-seed** | `convex/agent-skills` | 32,961 | Populate tables via an internalMutation seed function (re-runnable) or npx convex import, matching the schema. |
+| **convex-improve-convex-plugin** | `convex/agent-skills` | 32,956 | Sends the current coding session transcript to the anteater POST /review endpoint for an AI post-mortem. The review returns structured findi |
+| **convex-suggest** | `convex/agent-skills` | 32,938 | Proactively suggest the right Convex component |
+| **convex-self-heal** | `convex/agent-skills` | 32,927 | Gated production self-healing loop |
+| **convex-sentinel** | `convex/agent-skills` | 32,878 | Capture production errors in your own deployment |
+| **limrun-ios-simulator** | `limrun-inc/skills` | 29,581 | Interact with an app running on a Limrun cloud iOS simulator, from any |
+
+### 🧹 مكرّرات حُذفت (35)
+
+- `get-convex/agent-skills/convex-quickstart` ← أُبقيت `convex/agent-skills/convex-quickstart` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-create-component` ← أُبقيت `convex/agent-skills/convex-create-component` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-performance-audit` ← أُبقيت `convex/agent-skills/convex-performance-audit` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-setup-auth` ← أُبقيت `convex/agent-skills/convex-setup-auth` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-migration-helper` ← أُبقيت `convex/agent-skills/convex-migration-helper` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-expert` ← أُبقيت `convex/agent-skills/convex-expert` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-auth` ← أُبقيت `convex/agent-skills/convex-auth` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-authz` ← أُبقيت `convex/agent-skills/convex-authz` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-migrate` ← أُبقيت `convex/agent-skills/convex-migrate` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-docs` ← أُبقيت `convex/agent-skills/convex-docs` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-reviewer` ← أُبقيت `convex/agent-skills/convex-reviewer` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-design` ← أُبقيت `convex/agent-skills/convex-design` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-optimize` ← أُبقيت `convex/agent-skills/convex-optimize` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-deploy-guard` ← أُبقيت `convex/agent-skills/convex-deploy-guard` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-env` ← أُبقيت `convex/agent-skills/convex-env` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-crons` ← أُبقيت `convex/agent-skills/convex-crons` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-advisor` ← أُبقيت `convex/agent-skills/convex-advisor` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-add` ← أُبقيت `convex/agent-skills/convex-add` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-agent` ← أُبقيت `convex/agent-skills/convex-agent` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-test` ← أُبقيت `convex/agent-skills/convex-test` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-insights` ← أُبقيت `convex/agent-skills/convex-insights` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-cost` ← أُبقيت `convex/agent-skills/convex-cost` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-migrate-rehearse` ← أُبقيت `convex/agent-skills/convex-migrate-rehearse` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-backup` ← أُبقيت `convex/agent-skills/convex-backup` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-explain-app` ← أُبقيت `convex/agent-skills/convex-explain-app` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-launch-readiness` ← أُبقيت `convex/agent-skills/convex-launch-readiness` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-domains` ← أُبقيت `convex/agent-skills/convex-domains` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-billing` ← أُبقيت `convex/agent-skills/convex-billing` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-monitor` ← أُبقيت `convex/agent-skills/convex-monitor` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-verify` ← أُبقيت `convex/agent-skills/convex-verify` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-seed` ← أُبقيت `convex/agent-skills/convex-seed` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-improve-convex-plugin` ← أُبقيت `convex/agent-skills/convex-improve-convex-plugin` (اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-suggest` ← أُبقيت `convex/agent-skills/convex-suggest` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-self-heal` ← أُبقيت `convex/agent-skills/convex-self-heal` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `get-convex/agent-skills/convex-sentinel` ← أُبقيت `convex/agent-skills/convex-sentinel` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-16
 ### 🆕 مهارات جديدة في الأرشيف (3)
 

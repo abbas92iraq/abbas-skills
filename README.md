@@ -18,19 +18,26 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,046** |
+| المهارات في الأرشيف | **1,048** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **154** |
+| مهارات محفوظة خارج النطاق 📌 | **156** |
 | مهارات رسمية ⭐ | **322** |
-| مكرّرات محذوفة 🧹 | **110** |
+| مكرّرات محذوفة 🧹 | **143** |
 | إجمالي المهارات على skills.sh | **9,908** |
-| آخر تحديث | **2026-10-16** |
+| آخر تحديث | **2026-10-17** |
 
 ## 🆕 أحدث الإضافات
 
-- **ai-video-generation** — `101-skills/superpowers` (775,095 تثبيت)
-- **ai-image-generation** — `101-skills/superpowers` (774,248 تثبيت)
-- **show-me** — `humanlayer/skills` (29,623 تثبيت)
+- **convex-quickstart** — `convex/agent-skills` (128,172 تثبيت)
+- **convex-create-component** — `convex/agent-skills` (127,976 تثبيت)
+- **convex** — `convex/agent-skills` (105,033 تثبيت)
+- **convex-performance-audit** — `convex/agent-skills` (94,263 تثبيت)
+- **convex-setup-auth** — `convex/agent-skills` (93,853 تثبيت)
+- **convex-migration-helper** — `convex/agent-skills` (93,834 تثبيت)
+- **convex-expert** — `convex/agent-skills` (33,328 تثبيت)
+- **convex-auth** — `convex/agent-skills` (33,310 تثبيت)
+- **convex-authz** — `convex/agent-skills` (33,232 تثبيت)
+- **convex-migrate** — `convex/agent-skills` (33,222 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 
