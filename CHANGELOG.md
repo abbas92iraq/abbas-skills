@@ -3,6 +3,28 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-18
+### 🆕 مهارات جديدة في الأرشيف (4)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **limrun-xcode** | `limrun-inc/skills` | 31,197 | Build Apple projects on Limrun's remote Xcode, from any environment (Linux, |
+| **limrun-detox-testing** | `limrun-inc/skills` | 31,197 | Use this for Detox runtime work on Limrun iOS. Keep build concerns separate |
+| **limrun-expo-development** | `limrun-inc/skills` | 31,195 | Developing Expo Apps on Limrun |
+| **limrun-xcode-bazel** | `limrun-inc/skills` | 31,182 | Bazel iOS builds on Limrun RBE (legacy) |
+
+### 🧹 مكرّرات حُذفت (9)
+
+- `qu-skills/superpowers/image-to-video` ← أُبقيت `genmedia-labs/skills/image-to-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/landing-page-design` ← أُبقيت `101-skills/superpowers/landing-page-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/product-photography` ← أُبقيت `101-skills/superpowers/product-photography` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/app-store-screenshots` ← أُبقيت `101-skills/superpowers/app-store-screenshots` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/character-design-sheet` ← أُبقيت `101-skills/superpowers/character-design-sheet` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/storyboard-creation` ← أُبقيت `101-skills/superpowers/storyboard-creation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/competitor-teardown` ← أُبقيت `101-skills/superpowers/competitor-teardown` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/product-hunt-launch` ← أُبقيت `101-skills/superpowers/product-hunt-launch` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `qu-skills/superpowers/youtube-thumbnail-design` ← أُبقيت `101-skills/superpowers/youtube-thumbnail-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-17
 ### 🆕 مهارات جديدة في الأرشيف (37)
 

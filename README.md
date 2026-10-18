@@ -18,26 +18,20 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,048** |
+| المهارات في الأرشيف | **1,052** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **156** |
+| مهارات محفوظة خارج النطاق 📌 | **169** |
 | مهارات رسمية ⭐ | **322** |
-| مكرّرات محذوفة 🧹 | **143** |
-| إجمالي المهارات على skills.sh | **9,908** |
-| آخر تحديث | **2026-10-17** |
+| مكرّرات محذوفة 🧹 | **117** |
+| إجمالي المهارات على skills.sh | **9,909** |
+| آخر تحديث | **2026-10-18** |
 
 ## 🆕 أحدث الإضافات
 
-- **convex-quickstart** — `convex/agent-skills` (128,172 تثبيت)
-- **convex-create-component** — `convex/agent-skills` (127,976 تثبيت)
-- **convex** — `convex/agent-skills` (105,033 تثبيت)
-- **convex-performance-audit** — `convex/agent-skills` (94,263 تثبيت)
-- **convex-setup-auth** — `convex/agent-skills` (93,853 تثبيت)
-- **convex-migration-helper** — `convex/agent-skills` (93,834 تثبيت)
-- **convex-expert** — `convex/agent-skills` (33,328 تثبيت)
-- **convex-auth** — `convex/agent-skills` (33,310 تثبيت)
-- **convex-authz** — `convex/agent-skills` (33,232 تثبيت)
-- **convex-migrate** — `convex/agent-skills` (33,222 تثبيت)
+- **limrun-xcode** — `limrun-inc/skills` (31,197 تثبيت)
+- **limrun-detox-testing** — `limrun-inc/skills` (31,197 تثبيت)
+- **limrun-expo-development** — `limrun-inc/skills` (31,195 تثبيت)
+- **limrun-xcode-bazel** — `limrun-inc/skills` (31,182 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 
