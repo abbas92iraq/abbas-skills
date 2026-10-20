@@ -3,6 +3,15 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-20
+### 🆕 مهارات جديدة في الأرشيف (3)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **limrun-maestro-testing** | `limrun-inc/skills` | 35,386 | Run the stock upstream Maestro CLI against a remote Limrun iOS simulator. |
+| **limrun-gradle** | `limrun-inc/skills` | 34,249 | Build Android projects on Limrun's remote Gradle sandboxes, from any |
+| **limrun-android-emulator** | `limrun-inc/skills` | 32,952 | Interact with an app running on a Limrun cloud Android emulator, from any |
+
 ## 2026-10-19
 ### 🧹 مكرّرات حُذفت (1)
 
