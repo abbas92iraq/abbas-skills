@@ -3,6 +3,13 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-21
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **expo-native-ui** | `expo/skills` | 30,098 | For routes, links, stacks, tabs, modals, sheets, and headers, use the expo-router skill. For any motion — entering/exiting, gestures, spring |
+
 ## 2026-10-20
 ### 🆕 مهارات جديدة في الأرشيف (3)
 
