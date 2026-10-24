@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-24
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **animation-performance** | `emilkowalski/skills` | 32,467 | When this skill is first invoked without a specific question, respond only with: |
+| **square-post** | `binance/binance-skills-hub` | 30,656 | Publish new content to Binance Square by running the local scripts in scripts/. |
+
 ## 2026-10-23
 - ➖ لا مهارات جديدة ضمن أعلى 1,000؛ حُدِّثت الأرقام فقط.
 
