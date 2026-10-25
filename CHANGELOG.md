@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-25
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **neon-postgres-branches** | `neondatabase/agent-skills` | 30,686 | FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more. |
+| **better-layout** | `jakubkrehel/skills` | 30,392 | This skill sets grouping, alignment, spacing and responsive structure. It then stress-tests that structure by resizing it, translating it an |
+
 ## 2026-10-24
 ### 🆕 مهارات جديدة في الأرشيف (2)
 
