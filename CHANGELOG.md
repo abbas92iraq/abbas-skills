@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-27
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **migrate-radix-to-base** | `shadcn-ui/ui` | 30,726 | Radix UI -> Base UI migration |
+| **better-interface** | `jakubkrehel/skills` | 30,572 | This skill runs a cross-discipline review. It routes the interface to each better-* skill, collects their evidence and consolidates one rank |
+
 ## 2026-10-26
 - ➖ لا مهارات جديدة ضمن أعلى 1,000؛ حُدِّثت الأرقام فقط.
 
