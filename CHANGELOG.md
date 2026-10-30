@@ -3,6 +3,25 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-30
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **binance-agentic-wallet** | `binance/binance-skills-hub` | 34,329 | Binance Agentic Wallet Skill |
+
+### 🧹 مكرّرات حُذفت (9)
+
+- `skills-shell/superpowers/image-to-video` ← أُبقيت `genmedia-labs/skills/image-to-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/landing-page-design` ← أُبقيت `101-skills/superpowers/landing-page-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/product-photography` ← أُبقيت `101-skills/superpowers/product-photography` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/character-design-sheet` ← أُبقيت `101-skills/superpowers/character-design-sheet` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/storyboard-creation` ← أُبقيت `101-skills/superpowers/storyboard-creation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/video-ad-specs` ← أُبقيت `101-skills/superpowers/video-ad-specs` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/competitor-teardown` ← أُبقيت `101-skills/superpowers/competitor-teardown` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/youtube-thumbnail-design` ← أُبقيت `101-skills/superpowers/youtube-thumbnail-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `skills-shell/superpowers/product-hunt-launch` ← أُبقيت `101-skills/superpowers/product-hunt-launch` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-29
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
