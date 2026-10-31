@@ -3,6 +3,19 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-10-31
+### 🆕 مهارات جديدة في الأرشيف (3)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **ultracave** | `juliusbrussee/caveman` | 31,935 | Respond terse like smart caveman. All technical substance stay. Only fluff die. Then cut again. |
+| **neon-object-storage** | `neondatabase/agent-skills` | 31,618 | FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more. |
+| **neon-functions** | `neondatabase/agent-skills` | 31,292 | FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more. |
+
+### 🧹 مكرّرات حُذفت (1)
+
+- `skills-shell/superpowers/app-store-screenshots` ← أُبقيت `101-skills/superpowers/app-store-screenshots` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-10-30
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
