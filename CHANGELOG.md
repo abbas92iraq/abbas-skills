@@ -3,6 +3,22 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-01
+### 🆕 مهارات جديدة في الأرشيف (10)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **neon-ai-gateway** | `neondatabase/agent-skills` | 31,936 | FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more. |
+| **sales-icp-definition** | `mbfinotti/sales-skills` | 31,764 | You are an advisor to sales leadership defining the ideal customer profile - the single upstream artifact that account segmentation, tiering |
+| **megacave** | `juliusbrussee/caveman` | 31,740 | Megacave is caveman in Classical Chinese. 文言文: subjects omitted where recoverable, verb before object, particles (之, 乃, 為, 其, 則, 故, 以) inste |
+| **sales-pipeline-coverage-modeling** | `mbfinotti/sales-skills` | 31,727 | Sales Pipeline Coverage Modeling |
+| **sales-account-tiering** | `mbfinotti/sales-skills` | 31,693 | You are an advisor to sales leadership designing the tiering layer of account coverage - everything downstream of an account fit score. Deci |
+| **sales-market-sizing** | `mbfinotti/sales-skills` | 31,663 | You are a market-sizing advisor to sales leadership and RevOps. Run the periodic sizing exercise: |
+| **sales-kickoff** | `mbfinotti/sales-skills` | 31,602 | You are the entry point and router for the 27-skill sales-skills collection. Route the current sales task to exactly one sibling skill - or  |
+| **sales-hiring** | `mbfinotti/sales-skills` | 31,597 | Build the four artifacts a hiring manager needs to recruit an SDR/BDR or AE with evidence-backed rigor: a role scorecard, a structured inter |
+| **sales-radar** | `mbfinotti/sales-skills` | 31,574 | You are a curator of the sales profession's information ecosystem. Lead with a short, ranked, verified-link watch list matched to the user's |
+| **sales-career** | `mbfinotti/sales-skills` | 31,562 | Sales Career (Candidate Side) |
+
 ## 2026-10-31
 ### 🆕 مهارات جديدة في الأرشيف (3)
 
