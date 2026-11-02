@@ -3,6 +3,17 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-02
+### 🆕 مهارات جديدة في الأرشيف (5)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **better-writing** | `jakubkrehel/skills` | 31,774 | This skill writes and reviews interface copy such as labels, errors, empty states and confirmations, along with the terms that run through t |
+| **sales-objection-handling** | `mbfinotti/sales-skills` | 31,710 | Diagnose what a sales objection really means, then produce spoken-language response scripts - or say plainly that the deal should be disqual |
+| **sales-discovery-questions** | `mbfinotti/sales-skills` | 31,704 | Build the sequenced question set a rep carries into a sales discovery conversation, plus the follow-up ladders and branch logic to adapt it  |
+| **sales-outbound-sequence** | `mbfinotti/sales-skills` | 31,661 | Design the skeleton of an outbound cadence - the touch-by-touch plan of channels, days, spacing, exits, and recycling - sized to the user's  |
+| **sales-outreach-personalization** | `mbfinotti/sales-skills` | 31,613 | Turn the signals a user supplies (or can verify) about a prospect into 2-3 concrete personalization angles. An angle is a reason to reach ou |
+
 ## 2026-11-01
 ### 🆕 مهارات جديدة في الأرشيف (10)
 

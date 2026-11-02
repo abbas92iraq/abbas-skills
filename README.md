@@ -18,26 +18,21 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,079** |
+| المهارات في الأرشيف | **1,084** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **207** |
+| مهارات محفوظة خارج النطاق 📌 | **212** |
 | مهارات رسمية ⭐ | **328** |
 | مكرّرات محذوفة 🧹 | **128** |
 | إجمالي المهارات على skills.sh | **9,911** |
-| آخر تحديث | **2026-11-01** |
+| آخر تحديث | **2026-11-02** |
 
 ## 🆕 أحدث الإضافات
 
-- **neon-ai-gateway** — `neondatabase/agent-skills` (31,936 تثبيت)
-- **sales-icp-definition** — `mbfinotti/sales-skills` (31,764 تثبيت)
-- **megacave** — `juliusbrussee/caveman` (31,740 تثبيت)
-- **sales-pipeline-coverage-modeling** — `mbfinotti/sales-skills` (31,727 تثبيت)
-- **sales-account-tiering** — `mbfinotti/sales-skills` (31,693 تثبيت)
-- **sales-market-sizing** — `mbfinotti/sales-skills` (31,663 تثبيت)
-- **sales-kickoff** — `mbfinotti/sales-skills` (31,602 تثبيت)
-- **sales-hiring** — `mbfinotti/sales-skills` (31,597 تثبيت)
-- **sales-radar** — `mbfinotti/sales-skills` (31,574 تثبيت)
-- **sales-career** — `mbfinotti/sales-skills` (31,562 تثبيت)
+- **better-writing** — `jakubkrehel/skills` (31,774 تثبيت)
+- **sales-objection-handling** — `mbfinotti/sales-skills` (31,710 تثبيت)
+- **sales-discovery-questions** — `mbfinotti/sales-skills` (31,704 تثبيت)
+- **sales-outbound-sequence** — `mbfinotti/sales-skills` (31,661 تثبيت)
+- **sales-outreach-personalization** — `mbfinotti/sales-skills` (31,613 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 

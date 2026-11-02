@@ -6,7 +6,7 @@
 
 2. **إحالات فارغة** — مهارات كامل محتواها توجيه لتثبيت مستودع آخر مختلف تمامًا بلا أي شرح حقيقي (مثال حقيقي وُجد فعليًا: مصدر واحد نشر عشرات المدخلات بأسماء جذابة، كل محتواها حرفيًا "ثبّت الأداة الفلانية" — بتثبيتات مضخّمة رغم خلوّها من محتوى). تُحذف دائمًا، بصرف النظر عن وجود منافس بالاسم من عدمه.
 
-**آخر تحديث:** 2026-11-01
+**آخر تحديث:** 2026-11-02
 
 ## 📐 قاعدة الترجيح
 
@@ -20,134 +20,134 @@
 
 | المحذوفة | التثبيتات | أُبقيت بدلًا منها | تثبيتاتها | السبب |
 |---|---:|---|---:|---|
-| `magentosh/superpowers/ai-image-generation` | 811,962 | `101-skills/superpowers/ai-image-generation` | 920,676 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/ai-video-generation` | 811,529 | `101-skills/superpowers/ai-video-generation` | 922,044 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/ai-avatar-video` | 811,429 | `101-skills/superpowers/ai-avatar-video` | 920,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/twitter-automation` | 811,309 | `101-skills/superpowers/twitter-automation` | 920,286 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/ai-avatar-video` | 604,517 | `101-skills/superpowers/ai-avatar-video` | 920,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/twitter-automation` | 604,105 | `101-skills/superpowers/twitter-automation` | 920,286 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/ai-video-generation` | 603,979 | `101-skills/superpowers/ai-video-generation` | 922,044 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/ai-image-generation` | 603,946 | `101-skills/superpowers/ai-image-generation` | 920,676 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/ai-video-generation` | 553,205 | `101-skills/superpowers/ai-video-generation` | 922,044 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/ai-image-generation` | 553,187 | `101-skills/superpowers/ai-image-generation` | 920,676 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/twitter-automation` | 553,152 | `101-skills/superpowers/twitter-automation` | 920,286 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/ai-avatar-video` | 552,866 | `101-skills/superpowers/ai-avatar-video` | 920,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-doc` | 483,682 | `open.feishu.cn/lark-doc` | 839,583 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-base` | 481,102 | `open.feishu.cn/lark-base` | 838,906 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-shared` | 480,054 | `open.feishu.cn/lark-shared` | 838,678 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-im` | 477,894 | `open.feishu.cn/lark-im` | 837,931 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-drive` | 477,868 | `open.feishu.cn/lark-drive` | 838,895 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-sheets` | 477,159 | `open.feishu.cn/lark-sheets` | 837,442 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-wiki` | 476,587 | `open.feishu.cn/lark-wiki` | 837,336 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-whiteboard` | 474,966 | `open.feishu.cn/lark-whiteboard` | 836,119 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-task` | 474,878 | `open.feishu.cn/lark-task` | 836,458 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-calendar` | 473,951 | `open.feishu.cn/lark-calendar` | 837,535 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-mail` | 472,347 | `open.feishu.cn/lark-mail` | 836,277 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-minutes` | 471,876 | `open.feishu.cn/lark-minutes` | 834,941 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-event` | 471,664 | `open.feishu.cn/lark-event` | 836,029 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-vc` | 471,653 | `open.feishu.cn/lark-vc` | 834,205 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-contact` | 471,412 | `open.feishu.cn/lark-contact` | 836,563 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-workflow-meeting-summary` | 470,603 | `open.feishu.cn/lark-workflow-meeting-summary` | 835,177 | اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-workflow-standup-report` | 469,761 | `open.feishu.cn/lark-workflow-standup-report` | 834,891 | اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-openapi-explorer` | 469,605 | `open.feishu.cn/lark-openapi-explorer` | 835,790 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-skill-maker` | 469,260 | `open.feishu.cn/lark-skill-maker` | 835,317 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/ai-image-generation` | 452,828 | `101-skills/superpowers/ai-image-generation` | 920,676 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/twitter-automation` | 452,730 | `101-skills/superpowers/twitter-automation` | 920,286 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/ai-avatar-video` | 452,690 | `101-skills/superpowers/ai-avatar-video` | 920,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/ai-video-generation` | 452,482 | `101-skills/superpowers/ai-video-generation` | 922,044 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-approval` | 445,215 | `open.feishu.cn/lark-approval` | 837,408 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/video-edit` | 442,458 | `genmedia-labs/skills/video-edit` | 772,642 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/image-to-video` | 440,674 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/ai-image-generation` | 437,616 | `101-skills/superpowers/ai-image-generation` | 920,676 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/ai-avatar-video` | 437,564 | `101-skills/superpowers/ai-avatar-video` | 920,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/ai-video-generation` | 437,505 | `101-skills/superpowers/ai-video-generation` | 922,044 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/twitter-automation` | 437,495 | `101-skills/superpowers/twitter-automation` | 920,286 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-slides` | 425,760 | `open.feishu.cn/lark-slides` | 836,319 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-attendance` | 422,765 | `open.feishu.cn/lark-attendance` | 835,688 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-okr` | 408,927 | `open.feishu.cn/lark-okr` | 816,650 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-markdown` | 390,435 | `open.feishu.cn/lark-markdown` | 802,523 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/ai-image-generation` | 385,702 | `101-skills/superpowers/ai-image-generation` | 920,676 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/ai-video-generation` | 385,592 | `101-skills/superpowers/ai-video-generation` | 922,044 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/ai-avatar-video` | 382,534 | `101-skills/superpowers/ai-avatar-video` | 920,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `gencraft-labs/skills/ai-music` | 371,820 | `genmedia-labs/skills/ai-music` | 771,285 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `prime-skills/runcomfy-agent-skills/ai-music` | 371,621 | `genmedia-labs/skills/ai-music` | 771,285 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `gencraft-labs/skills/video-edit` | 371,318 | `genmedia-labs/skills/video-edit` | 772,642 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `gencraft-labs/skills/ai-video-generation` | 371,209 | `101-skills/superpowers/ai-video-generation` | 922,044 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `gencraft-labs/skills/ai-image-generation` | 370,844 | `101-skills/superpowers/ai-image-generation` | 920,676 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `gencraft-labs/skills/image-to-video` | 370,318 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-vc-agent` | 359,968 | `open.feishu.cn/lark-vc-agent` | 778,824 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-apps` | 320,782 | `open.feishu.cn/lark-apps` | 747,742 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-note` | 247,015 | `open.feishu.cn/lark-note` | 619,079 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `mattpocock/skills/caveman` | 214,564 | `juliusbrussee/caveman/caveman` | 603,663 | نص الوصف شبه حرفي (88%) |
-| `101-skills/superpowers/agent-browser` | 174,010 | `vercel-labs/agent-browser/agent-browser` | 1,327,079 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/agent-browser` | 152,342 | `vercel-labs/agent-browser/agent-browser` | 1,327,079 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `shadcn-ui/ui/shadcn` | 131,596 | `shadcn/ui/shadcn` | 271,099 | وصف متطابق بنسبة 100% |
-| `101-skills/superpowers/remotion-render` | 116,067 | `remotion-dev/skills/remotion-render` | 251,105 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/agent-browser` | 114,118 | `vercel-labs/agent-browser/agent-browser` | 1,327,079 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/agent-browser` | 104,073 | `vercel-labs/agent-browser/agent-browser` | 1,327,079 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/web-search` | 101,458 | `101-skills/superpowers/web-search` | 116,411 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/agent-tools` | 101,423 | `101-skills/superpowers/agent-tools` | 116,019 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/remotion-render` | 101,416 | `remotion-dev/skills/remotion-render` | 251,105 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/python-executor` | 101,405 | `101-skills/superpowers/python-executor` | 116,017 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/infsh-cli` | 101,253 | `101-skills/superpowers/infsh-cli` | 116,047 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/agent-browser` | 84,995 | `vercel-labs/agent-browser/agent-browser` | 1,327,079 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/agent-browser` | 82,083 | `vercel-labs/agent-browser/agent-browser` | 1,327,079 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/infsh-cli` | 76,227 | `101-skills/superpowers/infsh-cli` | 116,047 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/agent-tools` | 76,224 | `101-skills/superpowers/agent-tools` | 116,019 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/remotion-render` | 76,148 | `remotion-dev/skills/remotion-render` | 251,105 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/web-search` | 76,135 | `101-skills/superpowers/web-search` | 116,411 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/python-executor` | 76,106 | `101-skills/superpowers/python-executor` | 116,017 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/python-executor` | 69,732 | `101-skills/superpowers/python-executor` | 116,017 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/remotion-render` | 69,651 | `remotion-dev/skills/remotion-render` | 251,105 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/infsh-cli` | 69,647 | `101-skills/superpowers/infsh-cli` | 116,047 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/agent-tools` | 69,599 | `101-skills/superpowers/agent-tools` | 116,019 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/web-search` | 69,535 | `101-skills/superpowers/web-search` | 116,411 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `addyosmani/agent-skills/test-driven-development` | 66,126 | `obra/superpowers/test-driven-development` | 266,496 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `anthropics/claude-code/frontend-design` | 63,896 | `anthropics/skills/frontend-design` | 1,060,210 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `genkit-ai/skills/developing-genkit-js` | 60,063 | `firebase/agent-skills/developing-genkit-js` | 62,497 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `larksuite/cli/lark-meeting` | 58,670 | `open.feishu.cn/lark-meeting` | 236,480 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `101-skills/superpowers/image-to-video` | 58,590 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/remotion-render` | 56,852 | `remotion-dev/skills/remotion-render` | 251,105 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/web-search` | 56,831 | `101-skills/superpowers/web-search` | 116,411 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/agent-tools` | 56,782 | `101-skills/superpowers/agent-tools` | 116,019 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/python-executor` | 56,781 | `101-skills/superpowers/python-executor` | 116,017 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `its-a-skill-issue/superpowers/infsh-cli` | 56,676 | `101-skills/superpowers/infsh-cli` | 116,047 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/python-executor` | 55,355 | `101-skills/superpowers/python-executor` | 116,017 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/web-search` | 54,899 | `101-skills/superpowers/web-search` | 116,411 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/infsh-cli` | 54,884 | `101-skills/superpowers/infsh-cli` | 116,047 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/agent-tools` | 54,882 | `101-skills/superpowers/agent-tools` | 116,019 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `bankai-skills/superpowers/remotion-render` | 54,802 | `remotion-dev/skills/remotion-render` | 251,105 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `pbakaus/impeccable/frontend-design` | 53,177 | `anthropics/skills/frontend-design` | 1,060,210 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/youtube-thumbnail-design` | 51,400 | `101-skills/superpowers/youtube-thumbnail-design` | 58,633 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/landing-page-design` | 51,381 | `101-skills/superpowers/landing-page-design` | 59,372 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/image-to-video` | 51,366 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/product-photography` | 51,364 | `101-skills/superpowers/product-photography` | 58,869 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/app-store-screenshots` | 51,346 | `101-skills/superpowers/app-store-screenshots` | 58,780 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/competitor-teardown` | 51,335 | `101-skills/superpowers/competitor-teardown` | 58,637 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/product-hunt-launch` | 51,323 | `101-skills/superpowers/product-hunt-launch` | 58,598 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/video-ad-specs` | 51,317 | `101-skills/superpowers/video-ad-specs` | 58,701 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/character-design-sheet` | 51,312 | `101-skills/superpowers/character-design-sheet` | 58,743 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `magentosh/superpowers/storyboard-creation` | 51,295 | `101-skills/superpowers/storyboard-creation` | 58,733 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/product-photography` | 37,780 | `101-skills/superpowers/product-photography` | 58,869 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/character-design-sheet` | 37,762 | `101-skills/superpowers/character-design-sheet` | 58,743 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/storyboard-creation` | 37,750 | `101-skills/superpowers/storyboard-creation` | 58,733 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/competitor-teardown` | 37,719 | `101-skills/superpowers/competitor-teardown` | 58,637 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/youtube-thumbnail-design` | 37,693 | `101-skills/superpowers/youtube-thumbnail-design` | 58,633 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/product-hunt-launch` | 37,677 | `101-skills/superpowers/product-hunt-launch` | 58,598 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/app-store-screenshots` | 37,671 | `101-skills/superpowers/app-store-screenshots` | 58,780 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/image-to-video` | 37,632 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/landing-page-design` | 37,632 | `101-skills/superpowers/landing-page-design` | 59,372 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `qu-skills/superpowers/video-ad-specs` | 37,540 | `101-skills/superpowers/video-ad-specs` | 58,701 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/storyboard-creation` | 34,736 | `101-skills/superpowers/storyboard-creation` | 58,733 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/video-ad-specs` | 34,692 | `101-skills/superpowers/video-ad-specs` | 58,701 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/landing-page-design` | 34,691 | `101-skills/superpowers/landing-page-design` | 59,372 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/youtube-thumbnail-design` | 34,645 | `101-skills/superpowers/youtube-thumbnail-design` | 58,633 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/image-to-video` | 34,638 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/competitor-teardown` | 34,635 | `101-skills/superpowers/competitor-teardown` | 58,637 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/product-photography` | 34,616 | `101-skills/superpowers/product-photography` | 58,869 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/product-hunt-launch` | 34,602 | `101-skills/superpowers/product-hunt-launch` | 58,598 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/character-design-sheet` | 34,572 | `101-skills/superpowers/character-design-sheet` | 58,743 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
-| `skills-shell/superpowers/app-store-screenshots` | 34,537 | `101-skills/superpowers/app-store-screenshots` | 58,780 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/ai-image-generation` | 821,609 | `101-skills/superpowers/ai-image-generation` | 930,324 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/ai-video-generation` | 821,174 | `101-skills/superpowers/ai-video-generation` | 931,728 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/ai-avatar-video` | 821,070 | `101-skills/superpowers/ai-avatar-video` | 929,661 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/twitter-automation` | 820,950 | `101-skills/superpowers/twitter-automation` | 929,922 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/ai-avatar-video` | 614,252 | `101-skills/superpowers/ai-avatar-video` | 929,661 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/twitter-automation` | 613,840 | `101-skills/superpowers/twitter-automation` | 929,922 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/ai-video-generation` | 613,715 | `101-skills/superpowers/ai-video-generation` | 931,728 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/ai-image-generation` | 613,681 | `101-skills/superpowers/ai-image-generation` | 930,324 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/ai-video-generation` | 582,187 | `101-skills/superpowers/ai-video-generation` | 931,728 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/ai-image-generation` | 582,180 | `101-skills/superpowers/ai-image-generation` | 930,324 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/twitter-automation` | 582,131 | `101-skills/superpowers/twitter-automation` | 929,922 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/ai-avatar-video` | 581,845 | `101-skills/superpowers/ai-avatar-video` | 929,661 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-doc` | 484,940 | `open.feishu.cn/lark-doc` | 843,505 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-base` | 482,341 | `open.feishu.cn/lark-base` | 842,810 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-shared` | 481,309 | `open.feishu.cn/lark-shared` | 842,596 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-im` | 479,134 | `open.feishu.cn/lark-im` | 841,830 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-drive` | 479,103 | `open.feishu.cn/lark-drive` | 842,803 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-sheets` | 478,390 | `open.feishu.cn/lark-sheets` | 841,338 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-wiki` | 477,820 | `open.feishu.cn/lark-wiki` | 841,236 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-whiteboard` | 476,190 | `open.feishu.cn/lark-whiteboard` | 840,002 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-task` | 476,116 | `open.feishu.cn/lark-task` | 840,350 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-calendar` | 475,177 | `open.feishu.cn/lark-calendar` | 841,432 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-mail` | 473,568 | `open.feishu.cn/lark-mail` | 840,166 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-minutes` | 473,097 | `open.feishu.cn/lark-minutes` | 838,798 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-event` | 472,883 | `open.feishu.cn/lark-event` | 839,916 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-vc` | 472,872 | `open.feishu.cn/lark-vc` | 838,062 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-contact` | 472,634 | `open.feishu.cn/lark-contact` | 840,452 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-workflow-meeting-summary` | 471,821 | `open.feishu.cn/lark-workflow-meeting-summary` | 839,061 | اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-workflow-standup-report` | 470,976 | `open.feishu.cn/lark-workflow-standup-report` | 838,773 | اسم مركّب متطابق (4 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-openapi-explorer` | 470,822 | `open.feishu.cn/lark-openapi-explorer` | 839,676 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-skill-maker` | 470,478 | `open.feishu.cn/lark-skill-maker` | 839,201 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/ai-image-generation` | 462,397 | `101-skills/superpowers/ai-image-generation` | 930,324 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/twitter-automation` | 462,299 | `101-skills/superpowers/twitter-automation` | 929,922 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/ai-avatar-video` | 462,259 | `101-skills/superpowers/ai-avatar-video` | 929,661 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/ai-video-generation` | 462,051 | `101-skills/superpowers/ai-video-generation` | 931,728 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/ai-image-generation` | 447,283 | `101-skills/superpowers/ai-image-generation` | 930,324 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/ai-avatar-video` | 447,230 | `101-skills/superpowers/ai-avatar-video` | 929,661 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/ai-video-generation` | 447,171 | `101-skills/superpowers/ai-video-generation` | 931,728 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/twitter-automation` | 447,161 | `101-skills/superpowers/twitter-automation` | 929,922 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-approval` | 446,436 | `open.feishu.cn/lark-approval` | 841,296 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/video-edit` | 442,923 | `genmedia-labs/skills/video-edit` | 772,642 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/image-to-video` | 441,140 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-slides` | 426,982 | `open.feishu.cn/lark-slides` | 840,209 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-attendance` | 423,990 | `open.feishu.cn/lark-attendance` | 839,573 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-okr` | 410,145 | `open.feishu.cn/lark-okr` | 820,537 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-markdown` | 391,664 | `open.feishu.cn/lark-markdown` | 806,416 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `gencraft-labs/skills/ai-music` | 387,184 | `genmedia-labs/skills/ai-music` | 771,285 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `gencraft-labs/skills/video-edit` | 386,711 | `genmedia-labs/skills/video-edit` | 772,642 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `gencraft-labs/skills/ai-video-generation` | 386,585 | `101-skills/superpowers/ai-video-generation` | 931,728 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/ai-image-generation` | 386,171 | `101-skills/superpowers/ai-image-generation` | 930,324 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `gencraft-labs/skills/ai-image-generation` | 386,103 | `101-skills/superpowers/ai-image-generation` | 930,324 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/ai-video-generation` | 386,054 | `101-skills/superpowers/ai-video-generation` | 931,728 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `gencraft-labs/skills/image-to-video` | 385,681 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/ai-avatar-video` | 382,997 | `101-skills/superpowers/ai-avatar-video` | 929,661 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `prime-skills/runcomfy-agent-skills/ai-music` | 372,082 | `genmedia-labs/skills/ai-music` | 771,285 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-vc-agent` | 361,186 | `open.feishu.cn/lark-vc-agent` | 782,679 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-apps` | 322,023 | `open.feishu.cn/lark-apps` | 751,654 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-note` | 248,231 | `open.feishu.cn/lark-note` | 622,938 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `mattpocock/skills/caveman` | 214,564 | `juliusbrussee/caveman/caveman` | 605,139 | نص الوصف شبه حرفي (88%) |
+| `101-skills/superpowers/agent-browser` | 175,803 | `vercel-labs/agent-browser/agent-browser` | 1,337,389 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/agent-browser` | 154,109 | `vercel-labs/agent-browser/agent-browser` | 1,337,389 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `shadcn-ui/ui/shadcn` | 133,225 | `shadcn/ui/shadcn` | 271,099 | وصف متطابق بنسبة 100% |
+| `101-skills/superpowers/remotion-render` | 117,286 | `remotion-dev/skills/remotion-render` | 257,042 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/agent-browser` | 115,892 | `vercel-labs/agent-browser/agent-browser` | 1,337,389 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/agent-browser` | 109,444 | `vercel-labs/agent-browser/agent-browser` | 1,337,389 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/web-search` | 102,640 | `101-skills/superpowers/web-search` | 117,643 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/agent-tools` | 102,604 | `101-skills/superpowers/agent-tools` | 117,238 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/remotion-render` | 102,597 | `remotion-dev/skills/remotion-render` | 257,042 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/python-executor` | 102,586 | `101-skills/superpowers/python-executor` | 117,236 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/infsh-cli` | 102,434 | `101-skills/superpowers/infsh-cli` | 117,265 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/agent-browser` | 86,812 | `vercel-labs/agent-browser/agent-browser` | 1,337,389 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/agent-browser` | 83,842 | `vercel-labs/agent-browser/agent-browser` | 1,337,389 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/infsh-cli` | 77,423 | `101-skills/superpowers/infsh-cli` | 117,265 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/agent-tools` | 77,420 | `101-skills/superpowers/agent-tools` | 117,238 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/remotion-render` | 77,344 | `remotion-dev/skills/remotion-render` | 257,042 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/web-search` | 77,331 | `101-skills/superpowers/web-search` | 117,643 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/python-executor` | 77,302 | `101-skills/superpowers/python-executor` | 117,236 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/python-executor` | 73,383 | `101-skills/superpowers/python-executor` | 117,236 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/remotion-render` | 73,302 | `remotion-dev/skills/remotion-render` | 257,042 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/infsh-cli` | 73,298 | `101-skills/superpowers/infsh-cli` | 117,265 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/agent-tools` | 73,250 | `101-skills/superpowers/agent-tools` | 117,238 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/web-search` | 73,190 | `101-skills/superpowers/web-search` | 117,643 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `addyosmani/agent-skills/test-driven-development` | 66,781 | `obra/superpowers/test-driven-development` | 267,310 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `anthropics/claude-code/frontend-design` | 63,897 | `anthropics/skills/frontend-design` | 1,064,047 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `genkit-ai/skills/developing-genkit-js` | 60,111 | `firebase/agent-skills/developing-genkit-js` | 62,497 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `larksuite/cli/lark-meeting` | 59,888 | `open.feishu.cn/lark-meeting` | 240,369 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `101-skills/superpowers/image-to-video` | 59,225 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/remotion-render` | 58,069 | `remotion-dev/skills/remotion-render` | 257,042 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/web-search` | 58,048 | `101-skills/superpowers/web-search` | 117,643 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/agent-tools` | 57,999 | `101-skills/superpowers/agent-tools` | 117,238 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/python-executor` | 57,998 | `101-skills/superpowers/python-executor` | 117,236 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `its-a-skill-issue/superpowers/infsh-cli` | 57,893 | `101-skills/superpowers/infsh-cli` | 117,265 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/python-executor` | 56,561 | `101-skills/superpowers/python-executor` | 117,236 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/web-search` | 56,105 | `101-skills/superpowers/web-search` | 117,643 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/infsh-cli` | 56,090 | `101-skills/superpowers/infsh-cli` | 117,265 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/agent-tools` | 56,088 | `101-skills/superpowers/agent-tools` | 117,238 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `bankai-skills/superpowers/remotion-render` | 56,008 | `remotion-dev/skills/remotion-render` | 257,042 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `pbakaus/impeccable/frontend-design` | 53,177 | `anthropics/skills/frontend-design` | 1,064,047 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/youtube-thumbnail-design` | 52,006 | `101-skills/superpowers/youtube-thumbnail-design` | 59,274 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/landing-page-design` | 51,989 | `101-skills/superpowers/landing-page-design` | 60,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/image-to-video` | 51,972 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/product-photography` | 51,970 | `101-skills/superpowers/product-photography` | 59,505 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/app-store-screenshots` | 51,952 | `101-skills/superpowers/app-store-screenshots` | 59,417 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/competitor-teardown` | 51,941 | `101-skills/superpowers/competitor-teardown` | 59,273 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/product-hunt-launch` | 51,929 | `101-skills/superpowers/product-hunt-launch` | 59,233 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/video-ad-specs` | 51,923 | `101-skills/superpowers/video-ad-specs` | 59,338 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/character-design-sheet` | 51,918 | `101-skills/superpowers/character-design-sheet` | 59,380 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `magentosh/superpowers/storyboard-creation` | 51,901 | `101-skills/superpowers/storyboard-creation` | 59,372 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/product-photography` | 38,378 | `101-skills/superpowers/product-photography` | 59,505 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/character-design-sheet` | 38,359 | `101-skills/superpowers/character-design-sheet` | 59,380 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/storyboard-creation` | 38,347 | `101-skills/superpowers/storyboard-creation` | 59,372 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/competitor-teardown` | 38,316 | `101-skills/superpowers/competitor-teardown` | 59,273 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/youtube-thumbnail-design` | 38,290 | `101-skills/superpowers/youtube-thumbnail-design` | 59,274 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/product-hunt-launch` | 38,274 | `101-skills/superpowers/product-hunt-launch` | 59,233 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/app-store-screenshots` | 38,269 | `101-skills/superpowers/app-store-screenshots` | 59,417 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/landing-page-design` | 38,230 | `101-skills/superpowers/landing-page-design` | 60,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/image-to-video` | 38,229 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `qu-skills/superpowers/video-ad-specs` | 38,137 | `101-skills/superpowers/video-ad-specs` | 59,338 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/storyboard-creation` | 36,589 | `101-skills/superpowers/storyboard-creation` | 59,372 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/landing-page-design` | 36,545 | `101-skills/superpowers/landing-page-design` | 60,023 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/video-ad-specs` | 36,545 | `101-skills/superpowers/video-ad-specs` | 59,338 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/youtube-thumbnail-design` | 36,498 | `101-skills/superpowers/youtube-thumbnail-design` | 59,274 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/image-to-video` | 36,491 | `genmedia-labs/skills/image-to-video` | 770,732 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/competitor-teardown` | 36,488 | `101-skills/superpowers/competitor-teardown` | 59,273 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/product-photography` | 36,469 | `101-skills/superpowers/product-photography` | 59,505 | اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/product-hunt-launch` | 36,455 | `101-skills/superpowers/product-hunt-launch` | 59,233 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/character-design-sheet` | 36,425 | `101-skills/superpowers/character-design-sheet` | 59,380 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
+| `skills-shell/superpowers/app-store-screenshots` | 36,391 | `101-skills/superpowers/app-store-screenshots` | 59,417 | اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة |
 
 ---
 
@@ -157,16 +157,16 @@
 
 ### `prototype` — تشابه الوصف 32%
 
-- `mattpocock/skills/prototype` (1,022,784 تثبيت) — Throwaway code that answers a single design or logic question through an interactive prototype.
-- `emilkowalski/skills/prototype` (188,183 تثبيت) — When this skill is first invoked without a specific question, respond only with:
+- `mattpocock/skills/prototype` (1,027,188 تثبيت) — Throwaway code that answers a single design or logic question through an interactive prototype.
+- `emilkowalski/skills/prototype` (190,319 تثبيت) — When this skill is first invoked without a specific question, respond only with:
 
 ### `animate` — تشابه الوصف 25%
 
-- `emilkowalski/skills/animate` (188,326 تثبيت) — When this skill is first invoked without a specific question, respond only with:
+- `emilkowalski/skills/animate` (190,810 تثبيت) — When this skill is first invoked without a specific question, respond only with:
 - `pbakaus/impeccable/animate` (81,731 تثبيت) — Strategic animation and micro-interaction enhancement for improved usability and delight.
 
 ### `convex` — تشابه الوصف 28%
 
-- `convex/agent-skills/convex` (110,421 تثبيت) — The main entry point for building on Convex. This skill set ships one skill per capability (all named convex-*); this skill routes to the right one and to the s
+- `convex/agent-skills/convex` (110,760 تثبيت) — The main entry point for building on Convex. This skill set ships one skill per capability (all named convex-*); this skill routes to the right one and to the s
 - `get-convex/agent-skills/convex` (104,705 تثبيت) — Routing skill for general Convex requests to the appropriate specialized skill.
 
