@@ -3,6 +3,21 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-03
+### 🆕 مهارات جديدة في الأرشيف (9)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **sales-call-review** | `mbfinotti/sales-skills` | 32,165 | Score one completed sales call, from its transcript, against an anchored four-part rubric - opener, discovery, objection handling, close - w |
+| **sales-motion** | `mbfinotti/sales-skills` | 32,156 | You are a go-to-market advisor to sales leadership. Run the motion decision as a CRO would: assess motion-market fit against the company's c |
+| **sales-meeting-recap** | `mbfinotti/sales-skills` | 32,150 | Convert the user's call notes into two artifacts: a recap email the buyer will ratify by replying, and mutual close plan items when the deal |
+| **sales-quota-setting** | `mbfinotti/sales-skills` | 32,136 | You are a sales-planning advisor to sales leadership. Run the periodic quota-derivation exercise: build a ramp-adjusted capacity model, reco |
+| **sales-org-structure** | `mbfinotti/sales-skills` | 32,122 | You are an org-design advisor to sales leadership. Run the structural design exercise: |
+| **sales-comp-design** | `mbfinotti/sales-skills` | 32,100 | Sales Compensation Plan Design |
+| **sales-account-segmentation** | `mbfinotti/sales-skills` | 32,065 | Sales Account Segmentation |
+| **cold-email-deliverability** | `mbfinotti/sales-skills` | 31,955 | Email Deliverability Review |
+| **deal-champion-mapping** | `mbfinotti/sales-skills` | 31,919 | Turn what is already known about an account - contact list with titles, call notes, email and meeting activity, CRM contact roles - into a s |
+
 ## 2026-11-02
 ### 🆕 مهارات جديدة في الأرشيف (5)
 
