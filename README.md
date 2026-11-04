@@ -18,25 +18,22 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,093** |
+| المهارات في الأرشيف | **1,099** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **221** |
+| مهارات محفوظة خارج النطاق 📌 | **227** |
 | مهارات رسمية ⭐ | **328** |
 | مكرّرات محذوفة 🧹 | **128** |
-| إجمالي المهارات على skills.sh | **9,911** |
-| آخر تحديث | **2026-11-03** |
+| إجمالي المهارات على skills.sh | **9,902** |
+| آخر تحديث | **2026-11-04** |
 
 ## 🆕 أحدث الإضافات
 
-- **sales-call-review** — `mbfinotti/sales-skills` (32,165 تثبيت)
-- **sales-motion** — `mbfinotti/sales-skills` (32,156 تثبيت)
-- **sales-meeting-recap** — `mbfinotti/sales-skills` (32,150 تثبيت)
-- **sales-quota-setting** — `mbfinotti/sales-skills` (32,136 تثبيت)
-- **sales-org-structure** — `mbfinotti/sales-skills` (32,122 تثبيت)
-- **sales-comp-design** — `mbfinotti/sales-skills` (32,100 تثبيت)
-- **sales-account-segmentation** — `mbfinotti/sales-skills` (32,065 تثبيت)
-- **cold-email-deliverability** — `mbfinotti/sales-skills` (31,955 تثبيت)
-- **deal-champion-mapping** — `mbfinotti/sales-skills` (31,919 تثبيت)
+- **cold-call-opener** — `mbfinotti/sales-skills` (32,381 تثبيت)
+- **meddpicc-scorecard** — `mbfinotti/sales-skills` (32,364 تثبيت)
+- **deal-red-flags** — `mbfinotti/sales-skills` (32,357 تثبيت)
+- **negotiation-concession-planner** — `mbfinotti/sales-skills` (32,346 تثبيت)
+- **deal-value-calc** — `mbfinotti/sales-skills` (32,333 تثبيت)
+- **cold-email-subject-line-tester** — `mbfinotti/sales-skills` (32,327 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 

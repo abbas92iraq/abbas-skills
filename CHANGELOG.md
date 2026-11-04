@@ -3,6 +3,18 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-04
+### 🆕 مهارات جديدة في الأرشيف (6)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **cold-call-opener** | `mbfinotti/sales-skills` | 32,381 | Draft what a rep says between "hello" and the prospect's first real response. The opener ends the moment the prospect engages or brushes off |
+| **meddpicc-scorecard** | `mbfinotti/sales-skills` | 32,364 | Score one described deal against the eight MEDDPICC elements and say plainly what is missing, what is assumed rather than validated, and wha |
+| **deal-red-flags** | `mbfinotti/sales-skills` | 32,357 | Review the written record of a single deal - call notes, opportunity-record text fields, CRM activity log entries, email threads - and surfa |
+| **negotiation-concession-planner** | `mbfinotti/sales-skills` | 32,346 | Produce a pre-call concession plan: a tiered ledger of what the seller can trade, priced by cost-to-us vs value-to-them, every give paired w |
+| **deal-value-calc** | `mbfinotti/sales-skills` | 32,333 | Build a quantified business case for one deal - the arithmetic and the narrative together. The organising rule: "It's your job to build the  |
+| **cold-email-subject-line-tester** | `mbfinotti/sales-skills` | 32,327 | Generate subject line variants from an already-chosen personalization angle, score them against a numeric rubric, and design a statistically |
+
 ## 2026-11-03
 ### 🆕 مهارات جديدة في الأرشيف (9)
 
