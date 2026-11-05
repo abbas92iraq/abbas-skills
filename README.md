@@ -24,18 +24,7 @@
 | مهارات رسمية ⭐ | **328** |
 | مكرّرات محذوفة 🧹 | **128** |
 | إجمالي المهارات على skills.sh | **9,902** |
-| آخر تحديث | **2026-11-04** |
-
-## 🆕 أحدث الإضافات
-
-- **cold-call-opener** — `mbfinotti/sales-skills` (32,381 تثبيت)
-- **meddpicc-scorecard** — `mbfinotti/sales-skills` (32,364 تثبيت)
-- **deal-red-flags** — `mbfinotti/sales-skills` (32,357 تثبيت)
-- **negotiation-concession-planner** — `mbfinotti/sales-skills` (32,346 تثبيت)
-- **deal-value-calc** — `mbfinotti/sales-skills` (32,333 تثبيت)
-- **cold-email-subject-line-tester** — `mbfinotti/sales-skills` (32,327 تثبيت)
-
-السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
+| آخر تحديث | **2026-11-05** |
 
 ## 🤖 استخدامه كمساعد افتراضي
 
