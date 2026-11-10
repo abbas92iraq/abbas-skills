@@ -3,6 +3,26 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-10
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **reverse-any-video** | `heygen-com/hyperframes` | 34,763 | Plugin installs: Inside a HyperFrames plugin, follow plugin execution rules. |
+
+### 🧹 مكرّرات حُذفت (10)
+
+- `bankai-skills/superpowers/image-to-video` ← أُبقيت `genmedia-labs/skills/image-to-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/landing-page-design` ← أُبقيت `101-skills/superpowers/landing-page-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/product-photography` ← أُبقيت `101-skills/superpowers/product-photography` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/app-store-screenshots` ← أُبقيت `101-skills/superpowers/app-store-screenshots` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/character-design-sheet` ← أُبقيت `101-skills/superpowers/character-design-sheet` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/storyboard-creation` ← أُبقيت `101-skills/superpowers/storyboard-creation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/video-ad-specs` ← أُبقيت `101-skills/superpowers/video-ad-specs` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/youtube-thumbnail-design` ← أُبقيت `101-skills/superpowers/youtube-thumbnail-design` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/competitor-teardown` ← أُبقيت `101-skills/superpowers/competitor-teardown` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `bankai-skills/superpowers/product-hunt-launch` ← أُبقيت `101-skills/superpowers/product-hunt-launch` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-11-09
 - ➖ لا مهارات جديدة ضمن أعلى 1,000؛ حُدِّثت الأرقام فقط.
 
