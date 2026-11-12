@@ -2,273 +2,273 @@
 
 سطر واحد لكل مهارة — للبحث السريع. التفاصيل الكاملة في [`abbas-skills.md`](./abbas-skills.md).
 
-**آخر تحديث:** 2026-11-11 · **العدد:** 1,103 مهارة
+**آخر تحديث:** 2026-11-12 · **العدد:** 1,108 مهارة
 
 > للوكلاء: ابحث هنا أولًا بكلمة مفتاحية، ثم اقرأ البطاقة الكاملة من `abbas-skills.md`.
 
 ---
 
-1. **find-skills** — `vercel-labs/skills/find-skills` · 4,306,277 تثبيت ⭐
+1. **find-skills** — `vercel-labs/skills/find-skills` · 4,323,561 تثبيت ⭐
    Discover and install specialized agent skills from the open ecosystem when users need extended capabilities.
    `npx skills add https://github.com/vercel-labs/skills --skill find-skills`
 
-2. **grill-me** — `mattpocock/skills/grill-me` · 1,532,996 تثبيت
+2. **grill-me** — `mattpocock/skills/grill-me` · 1,539,182 تثبيت
    Relentless interviewing skill that stress-tests plans and designs through systematic questioning.
    `npx skills add https://github.com/mattpocock/skills --skill grill-me`
 
-3. **hyperframes-cli** — `heygen-com/hyperframes/hyperframes-cli` · 1,509,921 تثبيت
+3. **hyperframes-cli** — `heygen-com/hyperframes/hyperframes-cli` · 1,527,002 تثبيت
    CLI toolkit for scaffolding, validating, previewing, and rendering HyperFrames video compositions.
    `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-cli`
 
-4. **agent-browser** — `vercel-labs/agent-browser/agent-browser` · 1,473,999 تثبيت ⭐
+4. **agent-browser** — `vercel-labs/agent-browser/agent-browser` · 1,492,666 تثبيت ⭐
    Fast, persistent browser automation with session continuity across sequential agent commands.
    `npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browser`
 
-5. **hyperframes** — `heygen-com/hyperframes/hyperframes` · 1,472,111 تثبيت
+5. **hyperframes** — `heygen-com/hyperframes/hyperframes` · 1,489,399 تثبيت
    HTML-based video composition with animations, captions, audio-reactive visuals, and scene transitions.
    `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes`
 
-6. **media-use** — `heygen-com/hyperframes/media-use` · 1,382,050 تثبيت
+6. **media-use** — `heygen-com/hyperframes/media-use` · 1,399,225 تثبيت
    Plugin installs: Inside a HyperFrames plugin, follow plugin execution rules.
    `npx skills add https://github.com/heygen-com/hyperframes --skill media-use`
 
-7. **design-mobile-apps** — `designed-by-ai/skills/design-mobile-apps` · 1,352,095 تثبيت
+7. **design-mobile-apps** — `designed-by-ai/skills/design-mobile-apps` · 1,373,161 تثبيت
    sleek.design provides a REST API at /api/v1/* to create projects, design screens from a brief, and fetch their HTML and renders.
    `npx skills add https://github.com/designed-by-ai/skills --skill design-mobile-apps`
 
-8. **reddit-automation** — `flowkit-labs/skills/reddit-automation` · 1,330,842 تثبيت
+8. **reddit-automation** — `flowkit-labs/skills/reddit-automation` · 1,345,308 تثبيت
    Built by the team at doany.ai.
    `npx skills add https://github.com/flowkit-labs/skills --skill reddit-automation`
 
-9. **grill-with-docs** — `mattpocock/skills/grill-with-docs` · 1,312,892 تثبيت
+9. **grill-with-docs** — `mattpocock/skills/grill-with-docs` · 1,317,613 تثبيت
    Relentless design interrogation that stress-tests plans against your domain model and sharpens terminology inline.
    `npx skills add https://github.com/mattpocock/skills --skill grill-with-docs`
 
-10. **hyperframes-registry** — `heygen-com/hyperframes/hyperframes-registry` · 1,261,150 تثبيت
+10. **hyperframes-registry** — `heygen-com/hyperframes/hyperframes-registry` · 1,276,944 تثبيت
    Install and wire reusable blocks and components into HyperFrames compositions via the registry.
    `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-registry`
 
-11. **improve-codebase-architecture** — `mattpocock/skills/improve-codebase-architecture` · 1,254,209 تثبيت
+11. **improve-codebase-architecture** — `mattpocock/skills/improve-codebase-architecture` · 1,258,449 تثبيت
    Analyze codebases for architectural friction and propose module-deepening refactors as testability improvements.
    `npx skills add https://github.com/mattpocock/skills --skill improve-codebase-architecture`
 
-12. **tdd** — `mattpocock/skills/tdd` · 1,227,254 تثبيت
+12. **tdd** — `mattpocock/skills/tdd` · 1,231,521 تثبيت
    Test-driven development with vertical slices, behavior-focused tests, and incremental red-green-refactor cycles.
    `npx skills add https://github.com/mattpocock/skills --skill tdd`
 
-13. **setup-matt-pocock-skills** — `mattpocock/skills/setup-matt-pocock-skills` · 1,135,421 تثبيت
+13. **setup-matt-pocock-skills** — `mattpocock/skills/setup-matt-pocock-skills` · 1,139,551 تثبيت
    Configuration scaffold for engineering skills to locate issue tracker, triage labels, and domain documentation.
    `npx skills add https://github.com/mattpocock/skills --skill setup-matt-pocock-skills`
 
-14. **handoff** — `mattpocock/skills/handoff` · 1,124,513 تثبيت
+14. **handoff** — `mattpocock/skills/handoff` · 1,128,640 تثبيت
    Summarize conversations into handoff documents for seamless agent-to-agent transitions.
    `npx skills add https://github.com/mattpocock/skills --skill handoff`
 
-15. **frontend-design** — `anthropics/skills/frontend-design` · 1,103,795 تثبيت ⭐
+15. **frontend-design** — `anthropics/skills/frontend-design` · 1,108,436 تثبيت ⭐
    Distinctive, production-grade frontend interfaces that reject generic AI aesthetics through intentional design choices.
    `npx skills add https://github.com/anthropics/skills --skill frontend-design`
 
-16. **ui-taste** — `uizze.sh/ui-taste` · 1,095,226 تثبيت
+16. **ui-taste** — `uizze.sh/ui-taste` · 1,095,515 تثبيت
    Stop shipping the same AI slop.
    `npx skills add https://uizze.sh/`
 
-17. **grilling** — `mattpocock/skills/grilling` · 1,088,975 تثبيت
+17. **grilling** — `mattpocock/skills/grilling` · 1,094,630 تثبيت
    Interview the user relentlessly until you reach a shared understanding. Map this as a design tree: every decision branches into the decisions that han
    `npx skills add https://github.com/mattpocock/skills --skill grilling`
 
-18. **prototype** — `mattpocock/skills/prototype` · 1,066,885 تثبيت
+18. **prototype** — `mattpocock/skills/prototype` · 1,070,907 تثبيت
    Throwaway code that answers a single design or logic question through an interactive prototype.
    `npx skills add https://github.com/mattpocock/skills --skill prototype`
 
-19. **triage** — `mattpocock/skills/triage` · 1,064,246 تثبيت
+19. **triage** — `mattpocock/skills/triage` · 1,067,985 تثبيت
    State machine-driven issue triage with role-based workflow management and agent brief generation.
    `npx skills add https://github.com/mattpocock/skills --skill triage`
 
-20. **ai-video-generation** — `101-skills/superpowers/ai-video-generation` · 1,011,417 تثبيت
+20. **ai-video-generation** — `101-skills/superpowers/ai-video-generation` · 1,016,052 تثبيت
    Install the belt CLI skill: npx skills add belt-sh/cli
    `npx skills add https://github.com/101-skills/superpowers --skill ai-video-generation`
 
-21. **ai-image-generation** — `101-skills/superpowers/ai-image-generation` · 1,009,638 تثبيت
+21. **ai-image-generation** — `101-skills/superpowers/ai-image-generation` · 1,014,207 تثبيت
    Install the belt CLI skill: npx skills add belt-sh/cli
    `npx skills add https://github.com/101-skills/superpowers --skill ai-image-generation`
 
-22. **twitter-automation** — `101-skills/superpowers/twitter-automation` · 1,009,171 تثبيت
+22. **twitter-automation** — `101-skills/superpowers/twitter-automation` · 1,013,737 تثبيت
    Install the belt CLI skill: npx skills add belt-sh/cli
    `npx skills add https://github.com/101-skills/superpowers --skill twitter-automation`
 
-23. **ai-avatar-video** — `101-skills/superpowers/ai-avatar-video` · 1,008,924 تثبيت
+23. **ai-avatar-video** — `101-skills/superpowers/ai-avatar-video` · 1,013,494 تثبيت
    Install the belt CLI skill: npx skills add belt-sh/cli
    `npx skills add https://github.com/101-skills/superpowers --skill ai-avatar-video`
 
-24. **hyperframes-animation** — `heygen-com/hyperframes/hyperframes-animation` · 1,005,423 تثبيت
+24. **hyperframes-animation** — `heygen-com/hyperframes/hyperframes-animation` · 1,005,460 تثبيت
    Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
    `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-animation`
 
-25. **domain-modeling** — `mattpocock/skills/domain-modeling` · 965,652 تثبيت
+25. **domain-modeling** — `mattpocock/skills/domain-modeling` · 970,213 تثبيت
    Actively build and sharpen the project's domain model as you design. This is the active discipline: challenging terms, inventing edge-case scenarios, 
    `npx skills add https://github.com/mattpocock/skills --skill domain-modeling`
 
-26. **codebase-design** — `mattpocock/skills/codebase-design` · 941,003 تثبيت
+26. **codebase-design** — `mattpocock/skills/codebase-design` · 945,352 تثبيت
    Design deep modules: a lot of behaviour behind a small interface, placed at a clean seam, testable through that interface. Use this language and these
    `npx skills add https://github.com/mattpocock/skills --skill codebase-design`
 
-27. **teach** — `mattpocock/skills/teach` · 939,657 تثبيت
+27. **teach** — `mattpocock/skills/teach` · 943,572 تثبيت
    The user has asked you to teach them something. This is a stateful request - they intend to learn the topic over multiple sessions.
    `npx skills add https://github.com/mattpocock/skills --skill teach`
 
-28. **hyperframes-core** — `heygen-com/hyperframes/hyperframes-core` · 931,101 تثبيت
+28. **hyperframes-core** — `heygen-com/hyperframes/hyperframes-core` · 931,138 تثبيت
    Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
    `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-core`
 
-29. **diagnosing-bugs** — `mattpocock/skills/diagnosing-bugs` · 919,667 تثبيت
+29. **diagnosing-bugs** — `mattpocock/skills/diagnosing-bugs` · 923,872 تثبيت
    A discipline for hard bugs. Skip phases only when explicitly justified.
    `npx skills add https://github.com/mattpocock/skills --skill diagnosing-bugs`
 
-30. **hyperframes-creative** — `heygen-com/hyperframes/hyperframes-creative` · 917,152 تثبيت
+30. **hyperframes-creative** — `heygen-com/hyperframes/hyperframes-creative` · 917,189 تثبيت
    Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
    `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-creative`
 
-31. **vercel-react-best-practices** — `vercel-labs/agent-skills/vercel-react-best-practices` · 889,227 تثبيت ⭐
-   React and Next.js performance optimization across 70 rules prioritized by impact.
-   `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-react-best-practices`
-
-32. **lark-doc** — `open.feishu.cn/lark-doc` · 888,440 تثبيت
+31. **lark-doc** — `open.feishu.cn/lark-doc` · 894,248 تثبيت
    CRITICAL：先判断场景，再读取该场景的参考文件；不要在任务开始时一次性读取全部参考文件。每个文件只在首次进入对应阶段时读取一次。
-   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
+   `npx skills add https://open.feishu.cn/`
 
-33. **lark-drive** — `open.feishu.cn/lark-drive` · 887,652 تثبيت
+32. **lark-drive** — `open.feishu.cn/lark-drive` · 893,439 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-34. **lark-base** — `open.feishu.cn/lark-base` · 887,585 تثبيت
+33. **lark-shared** — `open.feishu.cn/lark-shared` · 893,403 تثبيت
+   所有 lark-* skill 共享的底座：身份、认证、输出契约与高风险操作。
+   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
+
+34. **lark-base** — `open.feishu.cn/lark-base` · 893,349 تثبيت
    普通 Base 是数据容器，由一棵 Base Block 资源树和 Base 级配置组成。folder、table、docx、dashboard、workflow 都是 Block 类型；Advanced Permission / Role 是 Base 级配置，不属于 Block。Table 是其
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-35. **lark-shared** — `open.feishu.cn/lark-shared` · 887,574 تثبيت
-   所有 lark-* skill 共享的底座：身份、认证、输出契约与高风险操作。
-   `npx skills add https://open.feishu.cn/`
+35. **vercel-react-best-practices** — `vercel-labs/agent-skills/vercel-react-best-practices` · 892,756 تثبيت ⭐
+   React and Next.js performance optimization across 70 rules prioritized by impact.
+   `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-react-best-practices`
 
-36. **lark-im** — `open.feishu.cn/lark-im` · 886,555 تثبيت
+36. **lark-im** — `open.feishu.cn/lark-im` · 892,320 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-37. **lark-calendar** — `open.feishu.cn/lark-calendar` · 886,132 تثبيت
+37. **lark-calendar** — `open.feishu.cn/lark-calendar` · 891,883 تثبيت
    开始前先读 ../lark-shared/SKILL.md（认证、权限处理）。
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-38. **lark-sheets** — `open.feishu.cn/lark-sheets` · 886,064 تثبيت
+38. **lark-wiki** — `open.feishu.cn/lark-wiki` · 891,831 تثبيت
+   CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
+   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
+
+39. **lark-sheets** — `open.feishu.cn/lark-sheets` · 891,824 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理。
-   `npx skills add https://open.feishu.cn/`
+   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-39. **lark-wiki** — `open.feishu.cn/lark-wiki` · 886,049 تثبيت
+40. **lark-approval** — `open.feishu.cn/lark-approval` · 891,746 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-40. **lark-approval** — `open.feishu.cn/lark-approval` · 885,992 تثبيت
-   CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
-   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
-
-41. **lark-contact** — `open.feishu.cn/lark-contact` · 885,156 تثبيت
+41. **lark-contact** — `open.feishu.cn/lark-contact` · 890,909 تثبيت
    user 身份和 bot 身份是两条完全独立的路径。先确定当前身份,再按下表选命令:
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-42. **lark-task** — `open.feishu.cn/lark-task` · 885,026 تثبيت
+42. **lark-task** — `open.feishu.cn/lark-task` · 890,774 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-43. **lark-slides** — `open.feishu.cn/lark-slides` · 884,871 تثبيت
+43. **lark-slides** — `open.feishu.cn/lark-slides` · 890,623 تثبيت
    本技能文档较长，务必使用 Read 工具阅读两次，必须阅读完整全文。
    `npx skills add https://open.feishu.cn/`
 
-44. **lark-mail** — `open.feishu.cn/lark-mail` · 884,829 تثبيت
+44. **lark-mail** — `open.feishu.cn/lark-mail` · 890,580 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、身份切换、权限处理和 _notice 处理。
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-45. **lark-whiteboard** — `open.feishu.cn/lark-whiteboard` · 884,688 تثبيت
+45. **lark-whiteboard** — `open.feishu.cn/lark-whiteboard` · 890,433 تثبيت
    运行 lark-cli --version，确认可用，无需询问用户。
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-46. **lark-event** — `open.feishu.cn/lark-event` · 884,601 تثبيت
+46. **lark-event** — `open.feishu.cn/lark-event` · 890,351 تثبيت
    Prerequisite: Read ../lark-shared/SKILL.md first for authentication, --as user/bot switching, Permission denied handling, and safety rules.
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-47. **lark-openapi-explorer** — `open.feishu.cn/lark-openapi-explorer` · 884,353 تثبيت
+47. **lark-openapi-explorer** — `open.feishu.cn/lark-openapi-explorer` · 890,099 تثبيت
    前置条件： 先阅读 ../lark-shared/SKILL.md 了解认证、身份切换和安全规则。
-   `npx skills add https://open.feishu.cn/`
+   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-48. **lark-attendance** — `open.feishu.cn/lark-attendance` · 884,239 تثبيت
+48. **lark-attendance** — `open.feishu.cn/lark-attendance` · 889,983 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-49. **lark-skill-maker** — `open.feishu.cn/lark-skill-maker` · 883,855 تثبيت
+49. **lark-skill-maker** — `open.feishu.cn/lark-skill-maker` · 889,600 تثبيت
    基于 lark-cli 创建新 Skill。Skill = 一份 SKILL.md，教 AI 用 CLI 命令完成任务。
-   `npx skills add https://open.feishu.cn/`
+   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-50. **lark-workflow-meeting-summary** — `open.feishu.cn/lark-workflow-meeting-summary` · 883,704 تثبيت
+50. **lark-workflow-meeting-summary** — `open.feishu.cn/lark-workflow-meeting-summary` · 889,440 تثبيت
    CRITICAL — 开始前 MUST 先完整读取 ../lark-shared/SKILL.md 和 ../lark-meeting/SKILL.md。认证、身份和权限以 lark-shared 为准；会议与产物关系、产物选择和逐字稿路由以 lark-meeting 为准。
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-51. **lark-workflow-standup-report** — `open.feishu.cn/lark-workflow-standup-report` · 883,408 تثبيت
+51. **lark-workflow-standup-report** — `open.feishu.cn/lark-workflow-standup-report` · 889,151 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-52. **lark-minutes** — `open.feishu.cn/lark-minutes` · 882,330 تثبيت
+52. **lark-minutes** — `open.feishu.cn/lark-minutes` · 887,929 تثبيت
    MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-53. **lark-vc** — `open.feishu.cn/lark-vc` · 881,573 تثبيت
+53. **lark-vc** — `open.feishu.cn/lark-vc` · 887,173 تثبيت
    MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-54. **code-review** — `mattpocock/skills/code-review` · 879,656 تثبيت
+54. **code-review** — `mattpocock/skills/code-review` · 884,009 تثبيت
    Two-axis review of the diff between HEAD and a fixed point the user supplies:
    `npx skills add https://github.com/mattpocock/skills --skill code-review`
 
-55. **lark-okr** — `open.feishu.cn/lark-okr` · 865,193 تثبيت
+55. **lark-okr** — `open.feishu.cn/lark-okr` · 870,938 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
    `npx skills add https://open.feishu.cn/`
 
-56. **implement** — `mattpocock/skills/implement` · 853,510 تثبيت
+56. **implement** — `mattpocock/skills/implement` · 857,461 تثبيت
    Implement the work described by the user in the spec or tickets.
    `npx skills add https://github.com/mattpocock/skills --skill implement`
 
-57. **lark-markdown** — `open.feishu.cn/lark-markdown` · 851,121 تثبيت
+57. **lark-markdown** — `open.feishu.cn/lark-markdown` · 856,872 تثبيت
    CRITICAL — 开始前 MUST 先用 Read 工具读取 ../lark-shared/SKILL.md，其中包含认证、权限处理
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-58. **web-design-guidelines** — `vercel-labs/agent-skills/web-design-guidelines` · 849,119 تثبيت ⭐
+58. **web-design-guidelines** — `vercel-labs/agent-skills/web-design-guidelines` · 853,265 تثبيت ⭐
    Audit UI code against Vercel's Web Interface Guidelines for design and accessibility compliance.
    `npx skills add https://github.com/vercel-labs/agent-skills --skill web-design-guidelines`
 
-59. **ask-matt** — `mattpocock/skills/ask-matt` · 839,905 تثبيت
+59. **ask-matt** — `mattpocock/skills/ask-matt` · 843,551 تثبيت
    You don't remember every skill, so ask.
    `npx skills add https://github.com/mattpocock/skills --skill ask-matt`
 
-60. **lark-vc-agent** — `open.feishu.cn/lark-vc-agent` · 826,185 تثبيت
+60. **lark-vc-agent** — `open.feishu.cn/lark-vc-agent` · 831,783 تثبيت
    MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。
    `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-61. **wayfinder** — `mattpocock/skills/wayfinder` · 798,746 تثبيت
+61. **wayfinder** — `mattpocock/skills/wayfinder` · 802,632 تثبيت
    A loose idea has arrived, too big for one agent session, and wrapped in fog: the way from here to the destination isn't visible yet. Wayfinding is abo
    `npx skills add https://github.com/mattpocock/skills --skill wayfinder`
 
-62. **lark-apps** — `open.feishu.cn/lark-apps` · 796,334 تثبيت
-   妙搭应用属于用户资产。默认用 --as user；认证、scope、exit-10、高风险确认、_notice 等通用处理只读 ../lark-shared/SKILL.md，不要在本 skill 里复制。妙搭应用有两条开发路径：本地开发（拉源码本地写）/ 云端会话（妙搭 AI 生成）。
-   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
-
-63. **to-spec** — `mattpocock/skills/to-spec` · 795,813 تثبيت
-   This skill takes the current conversation context and codebase understanding and produces a spec. Do NOT interview the user; just synthesize what you 
-   `npx skills add https://github.com/mattpocock/skills --skill to-spec`
-
-64. **remotion-best-practices** — `remotion-dev/skills/remotion-best-practices` · 794,429 تثبيت ⭐
+62. **remotion-best-practices** — `remotion-dev/skills/remotion-best-practices` · 802,599 تثبيت ⭐
    Domain-specific knowledge base for building videos with Remotion and React.
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-best-practices`
 
-65. **research** — `mattpocock/skills/research` · 792,868 تثبيت
+63. **lark-apps** — `open.feishu.cn/lark-apps` · 802,084 تثبيت
+   妙搭应用属于用户资产。默认用 --as user；认证、scope、exit-10、高风险确认、_notice 等通用处理只读 ../lark-shared/SKILL.md，不要在本 skill 里复制。妙搭应用有两条开发路径：本地开发（拉源码本地写）/ 云端会话（妙搭 AI 生成）。
+   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
+
+64. **to-spec** — `mattpocock/skills/to-spec` · 799,956 تثبيت
+   This skill takes the current conversation context and codebase understanding and produces a spec. Do NOT interview the user; just synthesize what you 
+   `npx skills add https://github.com/mattpocock/skills --skill to-spec`
+
+65. **research** — `mattpocock/skills/research` · 796,895 تثبيت
    Spin up a background agent to do the research, so you keep working while it reads. Start it with a fresh context window.
    `npx skills add https://github.com/mattpocock/skills --skill research`
 
-66. **to-tickets** — `mattpocock/skills/to-tickets` · 792,052 تثبيت
+66. **to-tickets** — `mattpocock/skills/to-tickets` · 796,143 تثبيت
    Break a plan, spec, or conversation into a set of tickets: tracer-bullet vertical slices, each declaring the tickets that block it.
    `npx skills add https://github.com/mattpocock/skills --skill to-tickets`
 
@@ -284,439 +284,439 @@
    Image-to-Video — Pro Pack on RunComfy
    `npx skills add https://github.com/genmedia-labs/skills --skill image-to-video`
 
-70. **design-taste-frontend** — `leonxlnx/taste-skill/design-taste-frontend` · 761,090 تثبيت
+70. **design-taste-frontend** — `leonxlnx/taste-skill/design-taste-frontend` · 765,975 تثبيت
    Concise, distinctive landing pages and portfolios that avoid templated AI aesthetics.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill design-taste-frontend`
 
-71. **hyperframes-keyframes** — `heygen-com/hyperframes/hyperframes-keyframes` · 754,831 تثبيت
+71. **hyperframes-keyframes** — `heygen-com/hyperframes/hyperframes-keyframes` · 754,868 تثبيت
    Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
    `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-keyframes`
 
-72. **anti-ui-slop** — `uizze.com/anti-ui-slop` · 691,327 تثبيت
-   Stop AI coding agents from shipping generic UI.
-   `npx skills add https://uizze.com/`
-
-73. **microsoft-foundry** — `microsoft/azure-skills/microsoft-foundry` · 688,802 تثبيت ⭐
+72. **microsoft-foundry** — `microsoft/azure-skills/microsoft-foundry` · 697,535 تثبيت ⭐
    End-to-end deployment, evaluation, and management of AI agents on Microsoft Foundry.
    `npx skills add https://github.com/microsoft/azure-skills --skill microsoft-foundry`
 
-74. **azure-diagnostics** — `microsoft/azure-skills/azure-diagnostics` · 679,521 تثبيت ⭐
+73. **anti-ui-slop** — `uizze.com/anti-ui-slop` · 691,327 تثبيت
+   Stop AI coding agents from shipping generic UI.
+   `npx skills add https://uizze.com/`
+
+74. **azure-diagnostics** — `microsoft/azure-skills/azure-diagnostics` · 688,251 تثبيت ⭐
    Systematic diagnosis and remediation for Azure production issues using AppLens, Monitor, and resource health.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-diagnostics`
 
-75. **azure-prepare** — `microsoft/azure-skills/azure-prepare` · 678,626 تثبيت ⭐
+75. **azure-prepare** — `microsoft/azure-skills/azure-prepare` · 687,351 تثبيت ⭐
    Prepare Azure applications for deployment with infrastructure-as-code, configuration, and containerization.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-prepare`
 
-76. **azure-ai** — `microsoft/azure-skills/azure-ai` · 677,898 تثبيت ⭐
+76. **azure-ai** — `microsoft/azure-skills/azure-ai` · 686,627 تثبيت ⭐
    Unified access to Azure AI services: Search, Speech, OpenAI, and Document Intelligence.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-ai`
 
-77. **azure-deploy** — `microsoft/azure-skills/azure-deploy` · 677,589 تثبيت ⭐
+77. **azure-deploy** — `microsoft/azure-skills/azure-deploy` · 686,312 تثبيت ⭐
    Execute Azure deployments for prepared applications with built-in error recovery and validation.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-deploy`
 
-78. **azure-validate** — `microsoft/azure-skills/azure-validate` · 677,277 تثبيت ⭐
+78. **azure-validate** — `microsoft/azure-skills/azure-validate` · 686,002 تثبيت ⭐
    Pre-deployment validation for Azure readiness with configuration, infrastructure, RBAC, and identity checks.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-validate`
 
-79. **azure-storage** — `microsoft/azure-skills/azure-storage` · 676,415 تثبيت ⭐
+79. **azure-storage** — `microsoft/azure-skills/azure-storage` · 685,138 تثبيت ⭐
    Unified access to Azure blob storage, file shares, queues, tables, and data lake services.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-storage`
 
-80. **azure-compliance** — `microsoft/azure-skills/azure-compliance` · 676,020 تثبيت ⭐
+80. **azure-compliance** — `microsoft/azure-skills/azure-compliance` · 684,742 تثبيت ⭐
    Azure compliance scanning, Key Vault expiration auditing, and resource configuration validation.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-compliance`
 
-81. **appinsights-instrumentation** — `microsoft/azure-skills/appinsights-instrumentation` · 675,801 تثبيت ⭐
+81. **appinsights-instrumentation** — `microsoft/azure-skills/appinsights-instrumentation` · 684,523 تثبيت ⭐
    Guidance and reference material for instrumenting webapps with Azure Application Insights.
    `npx skills add https://github.com/microsoft/azure-skills --skill appinsights-instrumentation`
 
-82. **azure-resource-lookup** — `microsoft/azure-skills/azure-resource-lookup` · 675,756 تثبيت ⭐
+82. **azure-resource-lookup** — `microsoft/azure-skills/azure-resource-lookup` · 684,477 تثبيت ⭐
    Fast discovery and inventory of Azure resources across subscriptions using Resource Graph queries.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-resource-lookup`
 
-83. **azure-resource-visualizer** — `microsoft/azure-skills/azure-resource-visualizer` · 675,712 تثبيت ⭐
+83. **azure-resource-visualizer** — `microsoft/azure-skills/azure-resource-visualizer` · 684,433 تثبيت ⭐
    Transform Azure resource groups into detailed architecture diagrams showing resource relationships and configurations.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-resource-visualizer`
 
-84. **entra-app-registration** — `microsoft/azure-skills/entra-app-registration` · 675,683 تثبيت ⭐
+84. **entra-app-registration** — `microsoft/azure-skills/entra-app-registration` · 684,405 تثبيت ⭐
    Microsoft Entra ID app registration, OAuth 2.0 configuration, and MSAL integration for secure application authentication.
    `npx skills add https://github.com/microsoft/azure-skills --skill entra-app-registration`
 
-85. **azure-kusto** — `microsoft/azure-skills/azure-kusto` · 675,414 تثبيت ⭐
+85. **azure-kusto** — `microsoft/azure-skills/azure-kusto` · 684,135 تثبيت ⭐
    Execute KQL queries and analyze data in Azure Data Explorer for log analytics, telemetry, and time series insights.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-kusto`
 
-86. **azure-aigateway** — `microsoft/azure-skills/azure-aigateway` · 675,014 تثبيت ⭐
+86. **azure-aigateway** — `microsoft/azure-skills/azure-aigateway` · 683,734 تثبيت ⭐
    Configure Azure API Management as an AI Gateway for models, MCP tools, and agents with built-in governance policies.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-aigateway`
 
-87. **azure-messaging** — `microsoft/azure-skills/azure-messaging` · 666,667 تثبيت ⭐
+87. **azure-messaging** — `microsoft/azure-skills/azure-messaging` · 675,388 تثبيت ⭐
    Diagnose and resolve Azure Event Hubs and Service Bus SDK issues with structured troubleshooting workflows.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-messaging`
 
-88. **lark-note** — `open.feishu.cn/lark-note` · 666,456 تثبيت
+88. **lark-note** — `open.feishu.cn/lark-note` · 672,054 تثبيت
    MUST 完整读取 ../lark-meeting/SKILL.md，并按照其中的路由和行动指南执行。
-   `npx skills add https://open.feishu.cn/`
+   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-89. **hyperframes-audio** — `heygen-com/hyperframes/hyperframes-audio` · 663,902 تثبيت
+89. **hyperframes-audio** — `heygen-com/hyperframes/hyperframes-audio` · 663,939 تثبيت
    Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
    `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-audio`
 
-90. **general-video** — `heygen-com/hyperframes/general-video` · 661,786 تثبيت
+90. **general-video** — `heygen-com/hyperframes/general-video` · 661,824 تثبيت
    Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
    `npx skills add https://github.com/heygen-com/hyperframes --skill general-video`
 
-91. **azure-compute** — `microsoft/azure-skills/azure-compute` · 631,500 تثبيت ⭐
+91. **azure-compute** — `microsoft/azure-skills/azure-compute` · 640,221 تثبيت ⭐
    Recommend Azure VM sizes, scale sets, and configurations based on workload requirements and budget.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-compute`
 
-92. **azure-cloud-migrate** — `microsoft/azure-skills/azure-cloud-migrate` · 624,270 تثبيت ⭐
+92. **azure-cloud-migrate** — `microsoft/azure-skills/azure-cloud-migrate` · 632,994 تثبيت ⭐
    Assess and migrate cloud workloads from AWS, GCP, and other providers to Azure services.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-cloud-migrate`
 
-93. **wizard** — `mattpocock/skills/wizard` · 624,074 تثبيت
+93. **wizard** — `mattpocock/skills/wizard` · 627,578 تثبيت
    A wizard is a bash script that walks a human, step by step, through a manual procedure that's tedious to do by hand and tedious to re-explain to an AI
    `npx skills add https://github.com/mattpocock/skills --skill wizard`
 
-94. **caveman** — `juliusbrussee/caveman/caveman` · 621,006 تثبيت
+94. **caveman** — `juliusbrussee/caveman/caveman` · 622,794 تثبيت
    Ultra-compressed communication mode cutting token usage ~75% while preserving technical accuracy.
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman`
 
-95. **remotion-to-hyperframes** — `heygen-com/hyperframes/remotion-to-hyperframes` · 597,330 تثبيت
+95. **remotion-to-hyperframes** — `heygen-com/hyperframes/remotion-to-hyperframes` · 603,836 تثبيت
    Migrate React-based Remotion video compositions to HyperFrames HTML with validated frame-accuracy.
    `npx skills add https://github.com/heygen-com/hyperframes --skill remotion-to-hyperframes`
 
-96. **azure-quotas** — `microsoft/azure-skills/azure-quotas` · 580,044 تثبيت ⭐
+96. **azure-quotas** — `microsoft/azure-skills/azure-quotas` · 588,764 تثبيت ⭐
    Check and manage Azure quotas and usage across regions for deployment planning and capacity validation.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-quotas`
 
-97. **azure-upgrade** — `microsoft/azure-skills/azure-upgrade` · 573,190 تثبيت ⭐
+97. **azure-upgrade** — `microsoft/azure-skills/azure-upgrade` · 581,910 تثبيت ⭐
    Assess and automate upgrades of Azure workloads across plans, tiers, and SKUs.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-upgrade`
 
-98. **to-questionnaire** — `mattpocock/skills/to-questionnaire` · 568,763 تثبيت
+98. **to-questionnaire** — `mattpocock/skills/to-questionnaire` · 572,309 تثبيت
    Turn something the user can't answer alone into a questionnaire: a Markdown document they hand to one person to fill in async, or fill out together ov
    `npx skills add https://github.com/mattpocock/skills --skill to-questionnaire`
 
-99. **google-agents-cli-adk-code** — `google/agents-cli/google-agents-cli-adk-code` · 565,190 تثبيت
+99. **google-agents-cli-adk-code** — `google/agents-cli/google-agents-cli-adk-code` · 568,591 تثبيت
    Quick reference for ADK Python patterns: agents, tools, callbacks, and state management.
    `npx skills add https://github.com/google/agents-cli --skill google-agents-cli-adk-code`
 
-100. **google-agents-cli-deploy** — `google/agents-cli/google-agents-cli-deploy` · 564,443 تثبيت
+100. **google-agents-cli-deploy** — `google/agents-cli/google-agents-cli-deploy` · 567,822 تثبيت
    Deploy ADK agents to Agent Runtime, Cloud Run, or GKE with managed infrastructure and CI/CD pipelines.
    `npx skills add https://github.com/google/agents-cli --skill google-agents-cli-deploy`
 
-101. **google-agents-cli-publish** — `google/agents-cli/google-agents-cli-publish` · 564,216 تثبيت
+101. **google-agents-cli-publish** — `google/agents-cli/google-agents-cli-publish` · 567,611 تثبيت
    Requires: A deployed agent. For Agent Runtime in Gemini platform, deployment_metadata.json (created by agents-cli deploy) enables auto-detection. For 
    `npx skills add https://github.com/google/agents-cli --skill google-agents-cli-publish`
 
-102. **google-agents-cli-workflow** — `google/agents-cli/google-agents-cli-workflow` · 563,311 تثبيت
+102. **google-agents-cli-workflow** — `google/agents-cli/google-agents-cli-workflow` · 566,677 تثبيت
    Complete workflow for scaffolding, building, evaluating, and deploying agents using Google's Agent Development Kit.
    `npx skills add https://github.com/google/agents-cli --skill google-agents-cli-workflow`
 
-103. **google-agents-cli-eval** — `google/agents-cli/google-agents-cli-eval` · 563,304 تثبيت
+103. **google-agents-cli-eval** — `google/agents-cli/google-agents-cli-eval` · 566,672 تثبيت
    Evaluate ADK agents with metrics, evalsets, and the iterative eval-fix loop.
    `npx skills add https://github.com/google/agents-cli --skill google-agents-cli-eval`
 
-104. **google-agents-cli-scaffold** — `google/agents-cli/google-agents-cli-scaffold` · 563,178 تثبيت
+104. **google-agents-cli-scaffold** — `google/agents-cli/google-agents-cli-scaffold` · 566,544 تثبيت
    Project scaffolding, deployment configuration, and CI/CD setup for Google ADK agents.
    `npx skills add https://github.com/google/agents-cli --skill google-agents-cli-scaffold`
 
-105. **google-agents-cli-observability** — `google/agents-cli/google-agents-cli-observability` · 563,147 تثبيت
+105. **google-agents-cli-observability** — `google/agents-cli/google-agents-cli-observability` · 566,513 تثبيت
    Set up tracing, logging, and monitoring for deployed ADK agents across Cloud Trace, BigQuery, and third-party platforms.
    `npx skills add https://github.com/google/agents-cli --skill google-agents-cli-observability`
 
-106. **git-guardrails-claude-code** — `mattpocock/skills/git-guardrails-claude-code` · 552,611 تثبيت
-   Sets up a PreToolUse hook that intercepts and blocks dangerous git commands before Claude executes them.
-   `npx skills add https://github.com/mattpocock/skills --skill git-guardrails-claude-code`
-
-107. **resolving-merge-conflicts** — `mattpocock/skills/resolving-merge-conflicts` · 551,219 تثبيت
-   See the current state of the merge/rebase. Check git history, and the conflicting files.
-   `npx skills add https://github.com/mattpocock/skills --skill resolving-merge-conflicts`
-
-108. **azure-enterprise-infra-planner** — `microsoft/azure-skills/azure-enterprise-infra-planner` · 549,819 تثبيت ⭐
+106. **azure-enterprise-infra-planner** — `microsoft/azure-skills/azure-enterprise-infra-planner` · 558,540 تثبيت ⭐
    Enterprise Azure infrastructure architect generating Bicep or Terraform from workload descriptions.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-enterprise-infra-planner`
 
-109. **writing-for-agents** — `mattpocock/skills/writing-for-agents` · 545,485 تثبيت
-   Reference for writing any document an agent consumes: a skill, an AGENTS.md / CLAUDE.md, a doc reached by a pointer. The packaging differs; the writin
-   `npx skills add https://github.com/mattpocock/skills --skill writing-for-agents`
+107. **git-guardrails-claude-code** — `mattpocock/skills/git-guardrails-claude-code` · 555,139 تثبيت
+   Sets up a PreToolUse hook that intercepts and blocks dangerous git commands before Claude executes them.
+   `npx skills add https://github.com/mattpocock/skills --skill git-guardrails-claude-code`
 
-110. **azure-kubernetes** — `microsoft/azure-skills/azure-kubernetes` · 544,173 تثبيت ⭐
+108. **azure-kubernetes** — `microsoft/azure-skills/azure-kubernetes` · 552,895 تثبيت ⭐
    Plan and configure production-ready Azure Kubernetes Service clusters with Day-0 and Day-1 best practices.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-kubernetes`
 
-111. **setup-pre-commit** — `mattpocock/skills/setup-pre-commit` · 541,892 تثبيت
+109. **resolving-merge-conflicts** — `mattpocock/skills/resolving-merge-conflicts` · 551,221 تثبيت
+   See the current state of the merge/rebase. Check git history, and the conflicting files.
+   `npx skills add https://github.com/mattpocock/skills --skill resolving-merge-conflicts`
+
+110. **writing-for-agents** — `mattpocock/skills/writing-for-agents` · 549,466 تثبيت
+   Reference for writing any document an agent consumes: a skill, an AGENTS.md / CLAUDE.md, a doc reached by a pointer. The packaging differs; the writin
+   `npx skills add https://github.com/mattpocock/skills --skill writing-for-agents`
+
+111. **setup-pre-commit** — `mattpocock/skills/setup-pre-commit` · 544,412 تثبيت
    lint-staged running Prettier on all staged files
    `npx skills add https://github.com/mattpocock/skills --skill setup-pre-commit`
 
-112. **product-launch-video** — `heygen-com/hyperframes/product-launch-video` · 539,351 تثبيت
+112. **product-launch-video** — `heygen-com/hyperframes/product-launch-video` · 539,387 تثبيت
    Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
    `npx skills add https://github.com/heygen-com/hyperframes --skill product-launch-video`
 
-113. **writing-beats** — `mattpocock/skills/writing-beats` · 535,120 تثبيت
+113. **writing-beats** — `mattpocock/skills/writing-beats` · 537,599 تثبيت
    The user has passed (or will pass) a markdown file of raw material. This is exploit: the exploring is done, the pile is fixed. Commit to a path throug
    `npx skills add https://github.com/mattpocock/skills --skill writing-beats`
 
-114. **writing-shape** — `mattpocock/skills/writing-shape` · 534,753 تثبيت
+114. **writing-shape** — `mattpocock/skills/writing-shape` · 537,232 تثبيت
    The user has passed (or will pass) a markdown file of raw material. Treat it as the input pile: anything from a tidy list of fragments to a wall of un
    `npx skills add https://github.com/mattpocock/skills --skill writing-shape`
 
-115. **writing-fragments** — `mattpocock/skills/writing-fragments` · 533,953 تثبيت
+115. **writing-fragments** — `mattpocock/skills/writing-fragments` · 536,423 تثبيت
    This is pure explore: widen the space of what could be written without committing to structure. Committing is exploit, a separate skill's job. Run a g
    `npx skills add https://github.com/mattpocock/skills --skill writing-fragments`
 
-116. **scaffold-exercises** — `mattpocock/skills/scaffold-exercises` · 532,016 تثبيت
+116. **scaffold-exercises** — `mattpocock/skills/scaffold-exercises` · 534,485 تثبيت
    Create exercise directory structures that pass pnpm ai-hero-cli internal lint, then commit with git commit.
    `npx skills add https://github.com/mattpocock/skills --skill scaffold-exercises`
 
-117. **migrate-to-shoehorn** — `mattpocock/skills/migrate-to-shoehorn` · 527,926 تثبيت
+117. **migrate-to-shoehorn** — `mattpocock/skills/migrate-to-shoehorn` · 530,390 تثبيت
    shoehorn lets you pass partial data in tests while keeping TypeScript happy. It replaces as assertions with type-safe alternatives.
    `npx skills add https://github.com/mattpocock/skills --skill migrate-to-shoehorn`
 
-118. **faceless-explainer** — `heygen-com/hyperframes/faceless-explainer` · 522,057 تثبيت
-   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
-   `npx skills add https://github.com/heygen-com/hyperframes --skill faceless-explainer`
-
-119. **wait-what** — `mattpocock/skills/wait-what` · 519,873 تثبيت
+118. **wait-what** — `mattpocock/skills/wait-what` · 523,461 تثبيت
    Wait, I don't understand where you've got to here. Re-pitch that: give me a little bit of context, talk in ASD-STE100 Simplified Technical English, an
    `npx skills add https://github.com/mattpocock/skills --skill wait-what`
 
-120. **motion-graphics** — `heygen-com/hyperframes/motion-graphics` · 514,364 تثبيت
+119. **faceless-explainer** — `heygen-com/hyperframes/faceless-explainer` · 522,095 تثبيت
+   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
+   `npx skills add https://github.com/heygen-com/hyperframes --skill faceless-explainer`
+
+120. **motion-graphics** — `heygen-com/hyperframes/motion-graphics` · 514,401 تثبيت
    Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
    `npx skills add https://github.com/heygen-com/hyperframes --skill motion-graphics`
 
-121. **slideshow** — `heygen-com/hyperframes/slideshow` · 502,968 تثبيت
+121. **slideshow** — `heygen-com/hyperframes/slideshow` · 509,394 تثبيت
    Plugin installs: Inside a HyperFrames plugin, follow plugin execution rules.
    `npx skills add https://github.com/heygen-com/hyperframes --skill slideshow`
 
-122. **paper-context-resolver** — `lllllllama/rigorpilot-skills/paper-context-resolver` · 494,812 تثبيت
+122. **paper-context-resolver** — `lllllllama/rigorpilot-skills/paper-context-resolver` · 495,570 تثبيت
    Use this as the Rigor Paper Context helper. The installed slug remains
    `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill paper-context-resolver`
 
-123. **repo-intake-and-plan** — `lllllllama/rigorpilot-skills/repo-intake-and-plan` · 493,992 تثبيت
-   Use this as the Rigor Intake helper. The installed slug remains
-   `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill repo-intake-and-plan`
-
-124. **minimal-run-and-audit** — `lllllllama/rigorpilot-skills/minimal-run-and-audit` · 493,919 تثبيت
-   Use this as the Rigor Run skill. The installed slug remains
-   `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill minimal-run-and-audit`
-
-125. **env-and-assets-bootstrap** — `lllllllama/rigorpilot-skills/env-and-assets-bootstrap` · 493,794 تثبيت
-   Use this as the Rigor Setup skill. The installed slug remains
-   `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill env-and-assets-bootstrap`
-
-126. **loop-me** — `mattpocock/skills/loop-me` · 492,707 تثبيت
+123. **loop-me** — `mattpocock/skills/loop-me` · 495,206 تثبيت
    Run a stateful /grilling session whose only output is workflow specs. Use the grilling discipline (relentless, a round of questions at a time, a recom
    `npx skills add https://github.com/mattpocock/skills --skill loop-me`
 
-127. **supabase-postgres-best-practices** — `supabase/agent-skills/supabase-postgres-best-practices` · 481,445 تثبيت ⭐
+124. **repo-intake-and-plan** — `lllllllama/rigorpilot-skills/repo-intake-and-plan` · 494,748 تثبيت
+   Use this as the Rigor Intake helper. The installed slug remains
+   `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill repo-intake-and-plan`
+
+125. **minimal-run-and-audit** — `lllllllama/rigorpilot-skills/minimal-run-and-audit` · 494,675 تثبيت
+   Use this as the Rigor Run skill. The installed slug remains
+   `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill minimal-run-and-audit`
+
+126. **env-and-assets-bootstrap** — `lllllllama/rigorpilot-skills/env-and-assets-bootstrap` · 494,550 تثبيت
+   Use this as the Rigor Setup skill. The installed slug remains
+   `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill env-and-assets-bootstrap`
+
+127. **supabase-postgres-best-practices** — `supabase/agent-skills/supabase-postgres-best-practices` · 482,833 تثبيت ⭐
    Postgres performance optimization rules across 8 priority categories, from query tuning to advanced features.
    `npx skills add https://github.com/supabase/agent-skills --skill supabase-postgres-best-practices`
 
-128. **claude-handoff** — `mattpocock/skills/claude-handoff` · 474,498 تثبيت
-   Write a handoff summary of the current conversation so a fresh agent can continue the work. Save it to the temporary directory of the user's OS, then 
-   `npx skills add https://github.com/mattpocock/skills --skill claude-handoff`
-
-129. **airunway-aks-setup** — `microsoft/azure-skills/airunway-aks-setup` · 469,355 تثبيت ⭐
+128. **airunway-aks-setup** — `microsoft/azure-skills/airunway-aks-setup` · 478,076 تثبيت ⭐
    End-to-end AI Runway setup on AKS from bare cluster to running model deployment.
    `npx skills add https://github.com/microsoft/azure-skills --skill airunway-aks-setup`
 
-130. **high-end-visual-design** — `leonxlnx/taste-skill/high-end-visual-design` · 458,887 تثبيت
+129. **claude-handoff** — `mattpocock/skills/claude-handoff` · 477,007 تثبيت
+   Write a handoff summary of the current conversation so a fresh agent can continue the work. Save it to the temporary directory of the user's OS, then 
+   `npx skills add https://github.com/mattpocock/skills --skill claude-handoff`
+
+130. **high-end-visual-design** — `leonxlnx/taste-skill/high-end-visual-design` · 458,891 تثبيت
    Premium design system enforcing high-end agency aesthetics with strict anti-patterns and motion choreography.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill high-end-visual-design`
 
-131. **redesign-existing-projects** — `leonxlnx/taste-skill/redesign-existing-projects` · 458,767 تثبيت
+131. **redesign-existing-projects** — `leonxlnx/taste-skill/redesign-existing-projects` · 458,772 تثبيت
    Audit and upgrade existing websites to premium design standards without breaking functionality.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill redesign-existing-projects`
 
-132. **embedded-captions** — `heygen-com/hyperframes/embedded-captions` · 453,960 تثبيت
-   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
-   `npx skills add https://github.com/heygen-com/hyperframes --skill embedded-captions`
-
-133. **hyperframes-studio** — `heygen-com/hyperframes/hyperframes-studio` · 451,672 تثبيت
-   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
-   `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-studio`
-
-134. **pr-to-video** — `heygen-com/hyperframes/pr-to-video` · 449,286 تثبيت
-   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
-   `npx skills add https://github.com/heygen-com/hyperframes --skill pr-to-video`
-
-135. **vercel-composition-patterns** — `vercel-labs/agent-skills/vercel-composition-patterns` · 448,877 تثبيت ⭐
-   React composition patterns for scaling components and avoiding boolean prop proliferation.
-   `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-composition-patterns`
-
-136. **ui-ux-pro-max** — `nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max` · 445,709 تثبيت
-   Comprehensive design intelligence for web and mobile UI/UX across 10 technology stacks.
-   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max`
-
-137. **entra-agent-id** — `microsoft/azure-skills/entra-agent-id` · 445,460 تثبيت ⭐
+132. **entra-agent-id** — `microsoft/azure-skills/entra-agent-id` · 454,180 تثبيت ⭐
    Provision OAuth 2.0 identities for AI agents with per-instance credentials and audit trails via Microsoft Graph.
    `npx skills add https://github.com/microsoft/azure-skills --skill entra-agent-id`
 
-138. **nano-banana-2** — `prime-skills/runcomfy-agent-skills/nano-banana-2` · 444,868 تثبيت
+133. **embedded-captions** — `heygen-com/hyperframes/embedded-captions` · 453,996 تثبيت
+   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
+   `npx skills add https://github.com/heygen-com/hyperframes --skill embedded-captions`
+
+134. **hyperframes-studio** — `heygen-com/hyperframes/hyperframes-studio` · 451,709 تثبيت
+   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
+   `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-studio`
+
+135. **vercel-composition-patterns** — `vercel-labs/agent-skills/vercel-composition-patterns` · 450,913 تثبيت ⭐
+   React composition patterns for scaling components and avoiding boolean prop proliferation.
+   `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-composition-patterns`
+
+136. **pr-to-video** — `heygen-com/hyperframes/pr-to-video` · 449,322 تثبيت
+   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
+   `npx skills add https://github.com/heygen-com/hyperframes --skill pr-to-video`
+
+137. **ui-ux-pro-max** — `nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max` · 447,618 تثبيت
+   Comprehensive design intelligence for web and mobile UI/UX across 10 technology stacks.
+   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max`
+
+138. **nano-banana-2** — `prime-skills/runcomfy-agent-skills/nano-banana-2` · 445,308 تثبيت
    Nano Banana 2 — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill nano-banana-2`
 
-139. **image-edit** — `prime-skills/runcomfy-agent-skills/image-edit` · 444,407 تثبيت
+139. **image-edit** — `prime-skills/runcomfy-agent-skills/image-edit` · 444,842 تثبيت
    Image Edit — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill image-edit`
 
-140. **nano-banana-edit** — `prime-skills/runcomfy-agent-skills/nano-banana-edit` · 444,223 تثبيت
+140. **nano-banana-edit** — `prime-skills/runcomfy-agent-skills/nano-banana-edit` · 444,657 تثبيت
    Nano Banana Edit — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill nano-banana-edit`
 
-141. **flux-kontext** — `prime-skills/runcomfy-agent-skills/flux-kontext` · 444,016 تثبيت
+141. **flux-kontext** — `prime-skills/runcomfy-agent-skills/flux-kontext` · 444,450 تثبيت
    Flux Kontext Pro — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill flux-kontext`
 
-142. **wan-2-7** — `prime-skills/runcomfy-agent-skills/wan-2-7` · 443,447 تثبيت
+142. **wan-2-7** — `prime-skills/runcomfy-agent-skills/wan-2-7` · 443,881 تثبيت
    Wan 2.7 — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill wan-2-7`
 
-143. **gpt-image-edit** — `prime-skills/runcomfy-agent-skills/gpt-image-edit` · 443,302 تثبيت
+143. **gpt-image-edit** — `prime-skills/runcomfy-agent-skills/gpt-image-edit` · 443,737 تثبيت
    GPT Image Edit — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill gpt-image-edit`
 
-144. **seedance-v2** — `prime-skills/runcomfy-agent-skills/seedance-v2` · 443,299 تثبيت
+144. **seedance-v2** — `prime-skills/runcomfy-agent-skills/seedance-v2` · 443,734 تثبيت
    Seedance 2.0 Pro — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill seedance-v2`
 
-145. **happyhorse-1-0** — `prime-skills/runcomfy-agent-skills/happyhorse-1-0` · 443,207 تثبيت
+145. **happyhorse-1-0** — `prime-skills/runcomfy-agent-skills/happyhorse-1-0` · 443,641 تثبيت
    HappyHorse 1.0 — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill happyhorse-1-0`
 
-146. **flux-2-klein** — `prime-skills/runcomfy-agent-skills/flux-2-klein` · 443,044 تثبيت
+146. **flux-2-klein** — `prime-skills/runcomfy-agent-skills/flux-2-klein` · 443,478 تثبيت
    Flux 2 Klein — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill flux-2-klein`
 
-147. **seedance-2-5-image-to-video** — `genmedia-labs/skills/seedance-2-5-image-to-video` · 437,986 تثبيت
-   Seedance 2.5 Image to Video
-   `npx skills add https://github.com/genmedia-labs/skills --skill seedance-2-5-image-to-video`
-
-148. **wan-3-0-prime-reference-to-video** — `genmedia-labs/skills/wan-3-0-prime-reference-to-video` · 437,755 تثبيت
-   Wan 3.0 Prime Reference to Video
-   `npx skills add https://github.com/genmedia-labs/skills --skill wan-3-0-prime-reference-to-video`
-
-149. **seedance-2-5-reference-to-video** — `genmedia-labs/skills/seedance-2-5-reference-to-video` · 437,493 تثبيت
-   Seedance 2.5 Reference to Video
-   `npx skills add https://github.com/genmedia-labs/skills --skill seedance-2-5-reference-to-video`
-
-150. **emil-design-eng** — `emilkowalski/skills/emil-design-eng` · 437,266 تثبيت
+147. **emil-design-eng** — `emilkowalski/skills/emil-design-eng` · 440,663 تثبيت
    When this skill is first invoked without a specific question, respond only with:
    `npx skills add https://github.com/emilkowalski/skills --skill emil-design-eng`
 
-151. **caveman-commit** — `juliusbrussee/caveman/caveman-commit` · 433,205 تثبيت
+148. **seedance-2-5-image-to-video** — `genmedia-labs/skills/seedance-2-5-image-to-video` · 437,986 تثبيت
+   Seedance 2.5 Image to Video
+   `npx skills add https://github.com/genmedia-labs/skills --skill seedance-2-5-image-to-video`
+
+149. **wan-3-0-prime-reference-to-video** — `genmedia-labs/skills/wan-3-0-prime-reference-to-video` · 437,755 تثبيت
+   Wan 3.0 Prime Reference to Video
+   `npx skills add https://github.com/genmedia-labs/skills --skill wan-3-0-prime-reference-to-video`
+
+150. **seedance-2-5-reference-to-video** — `genmedia-labs/skills/seedance-2-5-reference-to-video` · 437,493 تثبيت
+   Seedance 2.5 Reference to Video
+   `npx skills add https://github.com/genmedia-labs/skills --skill seedance-2-5-reference-to-video`
+
+151. **caveman-commit** — `juliusbrussee/caveman/caveman-commit` · 434,390 تثبيت
    Terse, conventional commit messages that prioritize reasoning over description.
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-commit`
 
-152. **caveman-compress** — `juliusbrussee/caveman/caveman-compress` · 430,750 تثبيت
+152. **caveman-compress** — `juliusbrussee/caveman/caveman-compress` · 431,925 تثبيت
    Compress natural language memory files into caveman-speak to reduce input tokens.
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-compress`
 
-153. **skill-creator** — `anthropics/skills/skill-creator` · 429,372 تثبيت ⭐
-   Create, test, and iteratively improve AI agent skills with structured evaluation and benchmarking.
-   `npx skills add https://github.com/anthropics/skills --skill skill-creator`
-
-154. **caveman-review** — `juliusbrussee/caveman/caveman-review` · 429,164 تثبيت
+153. **caveman-review** — `juliusbrussee/caveman/caveman-review` · 430,345 تثبيت
    Ultra-compressed code review comments: location, problem, fix on one line each.
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-review`
 
-155. **minimalist-ui** — `leonxlnx/taste-skill/minimalist-ui` · 425,158 تثبيت
-   Premium utilitarian minimalism with warm monochrome palette, editorial typography, and bento grids.
-   `npx skills add https://github.com/leonxlnx/taste-skill --skill minimalist-ui`
+154. **skill-creator** — `anthropics/skills/skill-creator` · 430,305 تثبيت ⭐
+   Create, test, and iteratively improve AI agent skills with structured evaluation and benchmarking.
+   `npx skills add https://github.com/anthropics/skills --skill skill-creator`
 
-156. **brainstorming** — `obra/superpowers/brainstorming` · 424,884 تثبيت
+155. **brainstorming** — `obra/superpowers/brainstorming` · 426,069 تثبيت
    Structured design dialogue that validates ideas before implementation begins.
    `npx skills add https://github.com/obra/superpowers --skill brainstorming`
 
-157. **prisma-client-api** — `prisma/skills/prisma-client-api` · 422,476 تثبيت ⭐
+156. **minimalist-ui** — `leonxlnx/taste-skill/minimalist-ui` · 425,162 تثبيت
+   Premium utilitarian minimalism with warm monochrome palette, editorial typography, and bento grids.
+   `npx skills add https://github.com/leonxlnx/taste-skill --skill minimalist-ui`
+
+157. **prisma-client-api** — `prisma/skills/prisma-client-api` · 424,279 تثبيت ⭐
    Complete Prisma Client API reference for model queries, CRUD operations, filtering, relations, and transactions.
    `npx skills add https://github.com/prisma/skills --skill prisma-client-api`
 
-158. **prisma-database-setup** — `prisma/skills/prisma-database-setup` · 420,724 تثبيت ⭐
+158. **prisma-database-setup** — `prisma/skills/prisma-database-setup` · 422,493 تثبيت ⭐
    Step-by-step configuration guides for Prisma ORM across PostgreSQL, MySQL, SQLite, MongoDB, SQL Server, CockroachDB, and Prisma Postgres.
    `npx skills add https://github.com/prisma/skills --skill prisma-database-setup`
 
-159. **kling-3-0** — `prime-skills/runcomfy-agent-skills/kling-3-0` · 420,275 تثبيت
-   Kling 3.0 - Pro Pack on RunComfy
-   `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill kling-3-0`
-
-160. **caveman-help** — `juliusbrussee/caveman/caveman-help` · 419,798 تثبيت
-   Quick-reference card for caveman modes, skills, and commands with one-shot display.
-   `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-help`
-
-161. **setup-ts-deep-modules** — `mattpocock/skills/setup-ts-deep-modules` · 419,727 تثبيت
+159. **setup-ts-deep-modules** — `mattpocock/skills/setup-ts-deep-modules` · 422,183 تثبيت
    Make every package in this repo a deep module: a lot of behaviour behind a small interface. A package's public surface is its entry points (the files 
    `npx skills add https://github.com/mattpocock/skills --skill setup-ts-deep-modules`
 
-162. **prisma-cli** — `prisma/skills/prisma-cli` · 419,500 تثبيت ⭐
+160. **prisma-cli** — `prisma/skills/prisma-cli` · 421,294 تثبيت ⭐
    Complete reference for Prisma CLI commands, options, and workflows across setup, migrations, and database operations.
    `npx skills add https://github.com/prisma/skills --skill prisma-cli`
 
-163. **music-to-video** — `heygen-com/hyperframes/music-to-video` · 419,325 تثبيت
-   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
-   `npx skills add https://github.com/heygen-com/hyperframes --skill music-to-video`
+161. **caveman-help** — `juliusbrussee/caveman/caveman-help` · 420,929 تثبيت
+   Quick-reference card for caveman modes, skills, and commands with one-shot display.
+   `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-help`
 
-164. **ios-design** — `uizze.sh/ios-design` · 418,725 تثبيت
-   Design and evaluate iPhone interfaces using native interaction patterns and real product references.
-   `npx skills add https://uizze.sh/`
+162. **kling-3-0** — `prime-skills/runcomfy-agent-skills/kling-3-0` · 420,713 تثبيت
+   Kling 3.0 - Pro Pack on RunComfy
+   `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill kling-3-0`
 
-165. **figma** — `heygen-com/hyperframes/figma` · 414,204 تثبيت
+163. **figma** — `heygen-com/hyperframes/figma` · 420,680 تثبيت
    Plugin installs: Inside a HyperFrames plugin, follow plugin execution rules.
    `npx skills add https://github.com/heygen-com/hyperframes --skill figma`
 
-166. **prisma-postgres** — `prisma/skills/prisma-postgres` · 412,596 تثبيت ⭐
-   Deprecated: prisma-postgres
-   `npx skills add https://github.com/prisma/skills --skill prisma-postgres`
+164. **music-to-video** — `heygen-com/hyperframes/music-to-video` · 419,361 تثبيت
+   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
+   `npx skills add https://github.com/heygen-com/hyperframes --skill music-to-video`
 
-167. **azure-reliability** — `microsoft/azure-skills/azure-reliability` · 408,806 تثبيت ⭐
+165. **ios-design** — `uizze.sh/ios-design` · 418,904 تثبيت
+   Design and evaluate iPhone interfaces using native interaction patterns and real product references.
+   `npx skills add https://uizze.sh/`
+
+166. **azure-reliability** — `microsoft/azure-skills/azure-reliability` · 417,527 تثبيت ⭐
    Assess and improve Azure Functions and App Service reliability through zone redundancy, storage replication, health probes, and multi-region failover.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-reliability`
 
-168. **codex-pet** — `prime-skills/runcomfy-agent-skills/codex-pet` · 408,637 تثبيت
+167. **prisma-postgres** — `prisma/skills/prisma-postgres` · 414,363 تثبيت ⭐
+   Deprecated: prisma-postgres
+   `npx skills add https://github.com/prisma/skills --skill prisma-postgres`
+
+168. **codex-pet** — `prime-skills/runcomfy-agent-skills/codex-pet` · 409,071 تثبيت
    Codex Pet — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill codex-pet`
 
-169. **talking-head-recut** — `heygen-com/hyperframes/talking-head-recut` · 407,980 تثبيت
-   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
-   `npx skills add https://github.com/heygen-com/hyperframes --skill talking-head-recut`
-
-170. **prisma-postgres-setup** — `prisma/skills/prisma-postgres-setup` · 407,213 تثبيت ⭐
+169. **prisma-postgres-setup** — `prisma/skills/prisma-postgres-setup` · 408,978 تثبيت ⭐
    Connect the intended database, then verify it from the application. Keep provisioning separate from ORM configuration so an existing database is reuse
    `npx skills add https://github.com/prisma/skills --skill prisma-postgres-setup`
 
-171. **prisma-driver-adapter-implementation** — `prisma/skills/prisma-driver-adapter-implementation` · 407,149 تثبيت ⭐
+170. **prisma-driver-adapter-implementation** — `prisma/skills/prisma-driver-adapter-implementation` · 408,911 تثبيت ⭐
    Prisma SQL Driver Adapter Implementation
    `npx skills add https://github.com/prisma/skills --skill prisma-driver-adapter-implementation`
 
-172. **prisma-upgrade-v7** — `prisma/skills/prisma-upgrade-v7` · 406,940 تثبيت ⭐
+171. **prisma-upgrade-v7** — `prisma/skills/prisma-upgrade-v7` · 408,705 تثبيت ⭐
    Complete guide for migrating from Prisma ORM v6 to v7. This upgrade introduces significant breaking changes around the new prisma-client generator, dr
    `npx skills add https://github.com/prisma/skills --skill prisma-upgrade-v7`
 
-173. **prisma-compute** — `prisma/skills/prisma-compute` · 402,072 تثبيت ⭐
+172. **talking-head-recut** — `heygen-com/hyperframes/talking-head-recut` · 408,016 تثبيت
+   Plugin installs: Before setup or freshness commands, follow plugin execution rules when this skill is inside a HyperFrames plugin. Standalone installs
+   `npx skills add https://github.com/heygen-com/hyperframes --skill talking-head-recut`
+
+173. **prisma-compute** — `prisma/skills/prisma-compute` · 403,834 تثبيت ⭐
    Deploy TypeScript apps to Prisma Compute and operate them afterwards. Every deploy goes through a Prisma Composer app (a module.ts root module) and th
    `npx skills add https://github.com/prisma/skills --skill prisma-compute`
 
-174. **full-output-enforcement** — `leonxlnx/taste-skill/full-output-enforcement` · 401,093 تثبيت
-   Enforces complete, unabridged output by banning truncation patterns and placeholder code.
-   `npx skills add https://github.com/leonxlnx/taste-skill --skill full-output-enforcement`
-
-175. **prisma-mongodb-upgrade** — `prisma/skills/prisma-mongodb-upgrade` · 400,563 تثبيت ⭐
-   Prisma MongoDB Upgrade Path
-   `npx skills add https://github.com/prisma/skills --skill prisma-mongodb-upgrade`
-
-176. **impeccable** — `pbakaus/impeccable/impeccable` · 400,181 تثبيت
+174. **impeccable** — `pbakaus/impeccable/impeccable` · 402,660 تثبيت
    Frontend design and iteration for production-grade interfaces, from concept to ship.
    `npx skills add https://github.com/pbakaus/impeccable --skill impeccable`
 
-177. **gpt-taste** — `leonxlnx/taste-skill/gpt-taste` · 399,546 تثبيت
+175. **prisma-mongodb-upgrade** — `prisma/skills/prisma-mongodb-upgrade` · 402,317 تثبيت ⭐
+   Prisma MongoDB Upgrade Path
+   `npx skills add https://github.com/prisma/skills --skill prisma-mongodb-upgrade`
+
+176. **full-output-enforcement** — `leonxlnx/taste-skill/full-output-enforcement` · 401,098 تثبيت
+   Enforces complete, unabridged output by banning truncation patterns and placeholder code.
+   `npx skills add https://github.com/leonxlnx/taste-skill --skill full-output-enforcement`
+
+177. **gpt-taste** — `leonxlnx/taste-skill/gpt-taste` · 399,550 تثبيت
    CORE DIRECTIVE: AWWWARDS-LEVEL DESIGN ENGINEERING
    `npx skills add https://github.com/leonxlnx/taste-skill --skill gpt-taste`
 
-178. **industrial-brutalist-ui** — `leonxlnx/taste-skill/industrial-brutalist-ui` · 396,957 تثبيت
+178. **industrial-brutalist-ui** — `leonxlnx/taste-skill/industrial-brutalist-ui` · 396,961 تثبيت
    Raw mechanical interfaces fusing Swiss typography with military terminal aesthetics for data-heavy dashboards.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill industrial-brutalist-ui`
 
@@ -724,299 +724,299 @@
    Find minimal Azure RBAC roles, generate assignment commands, and provide Bicep infrastructure code.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-rbac`
 
-180. **stitch-design-taste** — `leonxlnx/taste-skill/stitch-design-taste` · 394,912 تثبيت
+180. **stitch-design-taste** — `leonxlnx/taste-skill/stitch-design-taste` · 394,916 تثبيت
    Generates premium, anti-generic design system files for Google Stitch screen generation.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill stitch-design-taste`
 
-181. **brandkit** — `leonxlnx/taste-skill/brandkit` · 390,749 تثبيت
+181. **brandkit** — `leonxlnx/taste-skill/brandkit` · 390,755 تثبيت
    Premium brand-kit image generation for high-end identity systems, logo concepts, and visual-world presentations.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill brandkit`
 
-182. **runcomfy-cli** — `prime-skills/runcomfy-agent-skills/runcomfy-cli` · 387,213 تثبيت
+182. **runcomfy-cli** — `prime-skills/runcomfy-agent-skills/runcomfy-cli` · 387,650 تثبيت
    One binary, one auth, every RunComfy model. Install once, sign in once, then call any text-to-image, video, edit, lip-sync, face-swap, or LoRA-trainin
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill runcomfy-cli`
 
-183. **face-swap** — `prime-skills/runcomfy-agent-skills/face-swap` · 386,879 تثبيت
+183. **face-swap** — `prime-skills/runcomfy-agent-skills/face-swap` · 387,313 تثبيت
    Swap a face into a still or a video — RunComfy supports both via the runcomfy CLI. This skill routes across the available model API endpoints (communi
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill face-swap`
 
-184. **image-to-code** — `leonxlnx/taste-skill/image-to-code` · 385,948 تثبيت
+184. **image-to-code** — `leonxlnx/taste-skill/image-to-code` · 385,953 تثبيت
    Premium website design-to-code skill that generates visual references first, then builds faithful frontend implementations.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill image-to-code`
 
-185. **video-inpainting** — `prime-skills/runcomfy-agent-skills/video-inpainting` · 385,233 تثبيت
+185. **video-inpainting** — `prime-skills/runcomfy-agent-skills/video-inpainting` · 385,667 تثبيت
    Region edits across video frames — remove an object that appears across many frames, clean up wires or watermarks, replace a region with motion that m
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill video-inpainting`
 
-186. **image-inpainting** — `prime-skills/runcomfy-agent-skills/image-inpainting` · 384,756 تثبيت
+186. **image-inpainting** — `prime-skills/runcomfy-agent-skills/image-inpainting` · 385,191 تثبيت
    Mask-driven region edits — remove objects, fill gaps, replace masked areas — on RunComfy via the runcomfy CLI. This skill routes to Z-Image Turbo Inpa
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill image-inpainting`
 
-187. **controlnet-pose** — `prime-skills/runcomfy-agent-skills/controlnet-pose` · 384,489 تثبيت
+187. **controlnet-pose** — `prime-skills/runcomfy-agent-skills/controlnet-pose` · 384,923 تثبيت
    Condition image or video generation on a pose, skeleton, or motion reference. This skill routes across the pose-driven Model API endpoints reachable t
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill controlnet-pose`
 
-188. **lipsync** — `prime-skills/runcomfy-agent-skills/lipsync` · 384,475 تثبيت
+188. **lipsync** — `prime-skills/runcomfy-agent-skills/lipsync` · 384,910 تثبيت
    Drive a face's mouth from an audio track. This skill routes across the lip-sync endpoints in the RunComfy catalog — OmniHuman, Sync Labs sync v2, Klin
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill lipsync`
 
-189. **video-extend** — `prime-skills/runcomfy-agent-skills/video-extend` · 384,065 تثبيت
+189. **video-extend** — `prime-skills/runcomfy-agent-skills/video-extend` · 384,499 تثبيت
    Continue an existing video clip past its per-call duration cap, or chain a narrative shot-by-shot from a single seed. This skill routes to Google Veo 
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill video-extend`
 
-190. **elevenlabs-music-generation** — `prime-skills/runcomfy-agent-skills/elevenlabs-music-generation` · 383,990 تثبيت
+190. **elevenlabs-music-generation** — `prime-skills/runcomfy-agent-skills/elevenlabs-music-generation` · 384,427 تثبيت
    ElevenLabs AI Music Generation — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill elevenlabs-music-generation`
 
-191. **image-outpainting** — `prime-skills/runcomfy-agent-skills/image-outpainting` · 383,791 تثبيت
+191. **image-outpainting** — `prime-skills/runcomfy-agent-skills/image-outpainting` · 384,226 تثبيت
    Extend a still beyond its original canvas — uncrop, change aspect ratio, fill in what the camera didn't capture. This skill routes across the identity
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill image-outpainting`
 
-192. **relight** — `prime-skills/runcomfy-agent-skills/relight` · 383,694 تثبيت
+192. **relight** — `prime-skills/runcomfy-agent-skills/relight` · 384,128 تثبيت
    Change how a still is lit — direction, color temperature, intensity, mood — without redoing the shot. This skill routes to Qwen Edit 2509's dedicated 
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill relight`
 
-193. **video-outpainting** — `prime-skills/runcomfy-agent-skills/video-outpainting` · 383,601 تثبيت
+193. **video-outpainting** — `prime-skills/runcomfy-agent-skills/video-outpainting` · 384,035 تثبيت
    Extend a video's spatial canvas — uncrop vertically or horizontally, change aspect ratio while preserving the central action. This skill routes spatia
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill video-outpainting`
 
-194. **imagegen-frontend-web** — `leonxlnx/taste-skill/imagegen-frontend-web` · 380,153 تثبيت
+194. **imagegen-frontend-web** — `leonxlnx/taste-skill/imagegen-frontend-web` · 380,156 تثبيت
    Premium frontend image direction for landing pages and marketing sites, generating one distinct horizontal image per section.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill imagegen-frontend-web`
 
-195. **caveman-stats** — `juliusbrussee/caveman/caveman-stats` · 375,898 تثبيت
+195. **caveman-stats** — `juliusbrussee/caveman/caveman-stats` · 377,019 تثبيت
    Real token usage and estimated savings metrics from your Claude Code session log.
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-stats`
 
-196. **cavecrew** — `juliusbrussee/caveman/cavecrew` · 375,741 تثبيت
+196. **cavecrew** — `juliusbrussee/caveman/cavecrew` · 376,859 تثبيت
    Delegate code tasks to compressed subagents that shrink context by ~60% per delegation.
    `npx skills add https://github.com/juliusbrussee/caveman --skill cavecrew`
 
-197. **ace-step** — `prime-skills/runcomfy-agent-skills/ace-step` · 375,481 تثبيت
+197. **ace-step** — `prime-skills/runcomfy-agent-skills/ace-step` · 375,915 تثبيت
    ACE Step — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill ace-step`
 
-198. **imagegen-frontend-mobile** — `leonxlnx/taste-skill/imagegen-frontend-mobile` · 373,800 تثبيت
+198. **imagegen-frontend-mobile** — `leonxlnx/taste-skill/imagegen-frontend-mobile` · 373,803 تثبيت
    Premium mobile app screen concepts and flows with clean hierarchy, strong imagery, and distinctive art direction.
    `npx skills add https://github.com/leonxlnx/taste-skill --skill imagegen-frontend-mobile`
 
-199. **uizze-ui** — `uizze/uizze/uizze-ui` · 367,427 تثبيت
+199. **uizze-ui** — `uizze/uizze/uizze-ui` · 367,445 تثبيت
    Uizze's full AI design pack for agents.
    `npx skills add https://github.com/uizze/uizze --skill uizze-ui`
 
-200. **azure-cost** — `microsoft/azure-skills/azure-cost` · 362,649 تثبيت ⭐
-   Query historical Azure costs, forecast future spending, and identify optimization opportunities across subscriptions and resource groups.
-   `npx skills add https://github.com/microsoft/azure-skills --skill azure-cost`
-
-201. **supabase** — `supabase/agent-skills/supabase` · 362,337 تثبيت ⭐
+200. **supabase** — `supabase/agent-skills/supabase` · 363,387 تثبيت ⭐
    Complete Supabase integration for database, auth, storage, and serverless functions within agent workflows.
    `npx skills add https://github.com/supabase/agent-skills --skill supabase`
 
-202. **orca-cli** — `stablyai/orca/orca-cli` · 360,621 تثبيت
+201. **azure-cost** — `microsoft/azure-skills/azure-cost` · 362,649 تثبيت ⭐
+   Query historical Azure costs, forecast future spending, and identify optimization opportunities across subscriptions and resource groups.
+   `npx skills add https://github.com/microsoft/azure-skills --skill azure-cost`
+
+202. **orca-cli** — `stablyai/orca/orca-cli` · 361,098 تثبيت
    This discovery stub loads the version-matched guide from the Orca executable used for this session.
    `npx skills add https://github.com/stablyai/orca --skill orca-cli`
 
-203. **orchestration** — `stablyai/orca/orchestration` · 357,421 تثبيت
-   This discovery stub loads the version-matched guide from the Orca executable used for this session.
-   `npx skills add https://github.com/stablyai/orca --skill orchestration`
-
-204. **implement-spec** — `mattpocock/skills/implement-spec` · 355,961 تثبيت
+203. **implement-spec** — `mattpocock/skills/implement-spec` · 359,512 تثبيت
    You have been provided a spec. This spec should have tickets associated with it, describing how to implement the spec.
    `npx skills add https://github.com/mattpocock/skills --skill implement-spec`
 
-205. **azure-hosted-copilot-sdk** — `microsoft/azure-skills/azure-hosted-copilot-sdk` · 355,277 تثبيت ⭐
-   Build and deploy GitHub Copilot SDK applications to Azure with flexible model configuration.
-   `npx skills add https://github.com/microsoft/azure-skills --skill azure-hosted-copilot-sdk`
+204. **orchestration** — `stablyai/orca/orchestration` · 357,900 تثبيت
+   This discovery stub loads the version-matched guide from the Orca executable used for this session.
+   `npx skills add https://github.com/stablyai/orca --skill orchestration`
 
-206. **ai-research-explore** — `lllllllama/rigorpilot-skills/ai-research-explore` · 355,211 تثبيت
+205. **ai-research-explore** — `lllllllama/rigorpilot-skills/ai-research-explore` · 355,971 تثبيت
    Use this as the Rigor Explore compatible skill slug after the researcher
    `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill ai-research-explore`
 
-207. **analyze-project** — `lllllllama/rigorpilot-skills/analyze-project` · 355,066 تثبيت
+206. **analyze-project** — `lllllllama/rigorpilot-skills/analyze-project` · 355,824 تثبيت
    Use this as the Rigor Analyze / Rigor Audit read-only skill. The installed slug
    `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill analyze-project`
 
-208. **ai-research-reproduction** — `lllllllama/rigorpilot-skills/ai-research-reproduction` · 354,842 تثبيت
+207. **ai-research-reproduction** — `lllllllama/rigorpilot-skills/ai-research-reproduction` · 355,599 تثبيت
    Guide README-first deep learning reproduction toward the smallest trustworthy
    `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill ai-research-reproduction`
 
-209. **safe-debug** — `lllllllama/rigorpilot-skills/safe-debug` · 354,508 تثبيت
+208. **azure-hosted-copilot-sdk** — `microsoft/azure-skills/azure-hosted-copilot-sdk` · 355,277 تثبيت ⭐
+   Build and deploy GitHub Copilot SDK applications to Azure with flexible model configuration.
+   `npx skills add https://github.com/microsoft/azure-skills --skill azure-hosted-copilot-sdk`
+
+209. **safe-debug** — `lllllllama/rigorpilot-skills/safe-debug` · 355,265 تثبيت
    Use this as the Rigor Debug / Rigor Audit skill. The installed slug remains
    `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill safe-debug`
 
-210. **explore-code** — `lllllllama/rigorpilot-skills/explore-code` · 354,483 تثبيت
+210. **explore-code** — `lllllllama/rigorpilot-skills/explore-code` · 355,240 تثبيت
    Use this as the Rigor Improve implementation leaf skill. The installed slug
    `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill explore-code`
 
-211. **run-train** — `lllllllama/rigorpilot-skills/run-train` · 354,233 تثبيت
+211. **run-train** — `lllllllama/rigorpilot-skills/run-train` · 354,989 تثبيت
    Use this as the Rigor Train skill. The installed slug remains run-train for
    `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill run-train`
 
-212. **explore-run** — `lllllllama/rigorpilot-skills/explore-run` · 354,206 تثبيت
+212. **explore-run** — `lllllllama/rigorpilot-skills/explore-run` · 354,962 تثبيت
    Use this as the Rigor Improve / Rigor Explore run leaf skill. The installed slug
    `npx skills add https://github.com/lllllllama/rigorpilot-skills --skill explore-run`
 
-213. **to-prd** — `mattpocock/skills/to-prd` · 351,591 تثبيت
-   Synthesizes conversation context into a structured PRD and publishes it to your project issue tracker.
-   `npx skills add https://github.com/mattpocock/skills --skill to-prd`
-
-214. **retro** — `mattpocock/skills/retro` · 349,196 تثبيت
+213. **retro** — `mattpocock/skills/retro` · 352,926 تثبيت
    The user has asked for a retrospective. You are suggesting improvements to the coding agent's environment to improve future runs.
    `npx skills add https://github.com/mattpocock/skills --skill retro`
 
-215. **to-issues** — `mattpocock/skills/to-issues` · 339,112 تثبيت
-   Break a plan into independently-grabbable vertical-slice issues for your project tracker.
-   `npx skills add https://github.com/mattpocock/skills --skill to-issues`
+214. **to-prd** — `mattpocock/skills/to-prd` · 351,592 تثبيت
+   Synthesizes conversation context into a structured PRD and publishes it to your project issue tracker.
+   `npx skills add https://github.com/mattpocock/skills --skill to-prd`
 
-216. **python-appservice-deploy** — `microsoft/azure-skills/python-appservice-deploy` · 339,035 تثبيت ⭐
+215. **python-appservice-deploy** — `microsoft/azure-skills/python-appservice-deploy` · 347,758 تثبيت ⭐
    Python on Azure App Service — Code Deploy
    `npx skills add https://github.com/microsoft/azure-skills --skill python-appservice-deploy`
 
-217. **design-taste-frontend-v1** — `leonxlnx/taste-skill/design-taste-frontend-v1` · 330,386 تثبيت
+216. **to-issues** — `mattpocock/skills/to-issues` · 339,112 تثبيت
+   Break a plan into independently-grabbable vertical-slice issues for your project tracker.
+   `npx skills add https://github.com/mattpocock/skills --skill to-issues`
+
+217. **design-taste-frontend-v1** — `leonxlnx/taste-skill/design-taste-frontend-v1` · 330,390 تثبيت
    High-Agency Frontend Skill
    `npx skills add https://github.com/leonxlnx/taste-skill --skill design-taste-frontend-v1`
 
-218. **systematic-debugging** — `obra/superpowers/systematic-debugging` · 328,490 تثبيت
+218. **systematic-debugging** — `obra/superpowers/systematic-debugging` · 330,036 تثبيت
    Structured debugging methodology that mandates root cause investigation before attempting any fixes.
    `npx skills add https://github.com/obra/superpowers --skill systematic-debugging`
 
-219. **remotion-render** — `remotion-dev/skills/remotion-render` · 316,537 تثبيت ⭐
+219. **remotion-render** — `remotion-dev/skills/remotion-render` · 324,135 تثبيت ⭐
    General rendering strategy
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-render`
 
-220. **remotion-create** — `remotion-dev/skills/remotion-create` · 314,493 تثبيت ⭐
+220. **remotion-create** — `remotion-dev/skills/remotion-create` · 322,022 تثبيت ⭐
    These are instructions for making a new Remotion project and composition.
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-create`
 
-221. **remotion-captions** — `remotion-dev/skills/remotion-captions` · 312,828 تثبيت ⭐
+221. **remotion-captions** — `remotion-dev/skills/remotion-captions` · 320,395 تثبيت ⭐
    All captions must be processed in JSON. The captions must use the Caption type which is the following:
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-captions`
 
-222. **neon-postgres** — `neondatabase/agent-skills/neon-postgres` · 308,448 تثبيت ⭐
-   Comprehensive guides and best practices for Neon Serverless Postgres, covering setup, connection methods, authentication, and platform APIs.
-   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-postgres`
-
-223. **remotion-markup** — `remotion-dev/skills/remotion-markup` · 307,452 تثبيت ⭐
+222. **remotion-markup** — `remotion-dev/skills/remotion-markup` · 314,922 تثبيت ⭐
    This is guidance for writing Remotion React Markup.
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-markup`
 
-224. **writing-great-skills** — `mattpocock/skills/writing-great-skills` · 306,560 تثبيت
-   A skill exists to wrangle determinism out of a stochastic system. Predictability — the agent taking the same process every run, not producing the same
-   `npx skills add https://github.com/mattpocock/skills --skill writing-great-skills`
+223. **neon-postgres** — `neondatabase/agent-skills/neon-postgres` · 309,332 تثبيت ⭐
+   Comprehensive guides and best practices for Neon Serverless Postgres, covering setup, connection methods, authentication, and platform APIs.
+   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-postgres`
 
-225. **remotion-interactivity** — `remotion-dev/skills/remotion-interactivity` · 301,023 تثبيت ⭐
-   Studio edits the JSX nodes that create timeline items. Structure the code around
+224. **remotion-interactivity** — `remotion-dev/skills/remotion-interactivity` · 308,380 تثبيت ⭐
+   Make markup editable in Studio by default. Keep a part programmatic only if it is
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-interactivity`
 
-226. **writing-plans** — `obra/superpowers/writing-plans` · 300,122 تثبيت
-   Comprehensive implementation plans for multi-step tasks, breaking down specs into bite-sized, testable steps.
-   `npx skills add https://github.com/obra/superpowers --skill writing-plans`
-
-227. **remotion-docs** — `remotion-dev/skills/remotion-docs` · 299,163 تثبيت ⭐
+225. **remotion-docs** — `remotion-dev/skills/remotion-docs` · 306,568 تثبيت ⭐
    This skill teaches you how to discover and read current Remotion documentation.
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-docs`
 
-228. **review-animations** — `emilkowalski/skills/review-animations` · 299,152 تثبيت
-   When this skill is first invoked without a specific question, respond only with:
-   `npx skills add https://github.com/emilkowalski/skills --skill review-animations`
+226. **writing-great-skills** — `mattpocock/skills/writing-great-skills` · 306,560 تثبيت
+   A skill exists to wrangle determinism out of a stochastic system. Predictability — the agent taking the same process every run, not producing the same
+   `npx skills add https://github.com/mattpocock/skills --skill writing-great-skills`
 
-229. **remotion-saas** — `remotion-dev/skills/remotion-saas` · 298,654 تثبيت ⭐
+227. **remotion-saas** — `remotion-dev/skills/remotion-saas` · 305,981 تثبيت ⭐
    One can build apps with Remotion.
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-saas`
 
-230. **remotion-upgrade** — `remotion-dev/skills/remotion-upgrade` · 290,115 تثبيت ⭐
+228. **review-animations** — `emilkowalski/skills/review-animations` · 302,080 تثبيت
+   When this skill is first invoked without a specific question, respond only with:
+   `npx skills add https://github.com/emilkowalski/skills --skill review-animations`
+
+229. **writing-plans** — `obra/superpowers/writing-plans` · 301,172 تثبيت
+   Comprehensive implementation plans for multi-step tasks, breaking down specs into bite-sized, testable steps.
+   `npx skills add https://github.com/obra/superpowers --skill writing-plans`
+
+230. **remotion-upgrade** — `remotion-dev/skills/remotion-upgrade` · 297,479 تثبيت ⭐
    Inspect the project manifests and lockfile to identify the package manager and workspaces. Preserve unrelated changes.
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-upgrade`
 
-231. **apple-design** — `emilkowalski/skills/apple-design` · 289,974 تثبيت
-   When this skill is first invoked without a specific question, respond only with:
-   `npx skills add https://github.com/emilkowalski/skills --skill apple-design`
-
-232. **remotion-multimedia** — `remotion-dev/skills/remotion-multimedia` · 285,963 تثبيت ⭐
+231. **remotion-multimedia** — `remotion-dev/skills/remotion-multimedia` · 293,380 تثبيت ⭐
    Mediabunny is a multimedia library for dealing with audio and video in the browser.
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-multimedia`
 
-233. **lark-meeting** — `open.feishu.cn/lark-meeting` · 285,038 تثبيت
-   飞书视频会议业务的统一入口，支持查询会议记录、实时会议互动、管理妙记、阅读智能纪要等操作。本技能负责领域关系、任务路由和跨命令编排。
-   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
+232. **apple-design** — `emilkowalski/skills/apple-design` · 293,107 تثبيت
+   When this skill is first invoked without a specific question, respond only with:
+   `npx skills add https://github.com/emilkowalski/skills --skill apple-design`
 
-234. **using-superpowers** — `obra/superpowers/using-superpowers` · 284,853 تثبيت
-   IF A SKILL APPLIES TO YOUR TASK, YOU DO NOT HAVE A CHOICE. YOU MUST USE IT.
-   `npx skills add https://github.com/obra/superpowers --skill using-superpowers`
-
-235. **remotion-maps** — `remotion-dev/skills/remotion-maps` · 283,499 تثبيت ⭐
+233. **remotion-maps** — `remotion-dev/skills/remotion-maps` · 290,852 تثبيت ⭐
    Choose exactly one technique from the intended shot, then load only that technique's TECHNIQUE.md.
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-maps`
 
-236. **animation-vocabulary** — `emilkowalski/skills/animation-vocabulary` · 277,921 تثبيت
-   When this skill is first invoked without a specific question, respond only with:
-   `npx skills add https://github.com/emilkowalski/skills --skill animation-vocabulary`
+234. **lark-meeting** — `open.feishu.cn/lark-meeting` · 290,786 تثبيت
+   飞书视频会议业务的统一入口，支持查询会议记录、实时会议互动、管理妙记、阅读智能纪要等操作。本技能负责领域关系、任务路由和跨命令编排。
+   `npx skills add https://open.feishu.cn/lark-cli/skills/regular`
 
-237. **requesting-code-review** — `obra/superpowers/requesting-code-review` · 277,903 تثبيت
-   Dispatch code review subagents with focused context to catch issues before they compound.
-   `npx skills add https://github.com/obra/superpowers --skill requesting-code-review`
+235. **using-superpowers** — `obra/superpowers/using-superpowers` · 285,734 تثبيت
+   IF A SKILL APPLIES TO YOUR TASK, YOU DO NOT HAVE A CHOICE. YOU MUST USE IT.
+   `npx skills add https://github.com/obra/superpowers --skill using-superpowers`
 
-238. **remotion-studio** — `remotion-dev/skills/remotion-studio` · 276,846 تثبيت ⭐
+236. **remotion-studio** — `remotion-dev/skills/remotion-studio` · 284,305 تثبيت ⭐
    When creating or editing a video, start Studio and open its preview as soon as the project can run, before building the composition. Keep it open whil
    `npx skills add https://github.com/remotion-dev/skills --skill remotion-studio`
 
-239. **test-driven-development** — `obra/superpowers/test-driven-development` · 276,341 تثبيت
+237. **animation-vocabulary** — `emilkowalski/skills/animation-vocabulary` · 280,633 تثبيت
+   When this skill is first invoked without a specific question, respond only with:
+   `npx skills add https://github.com/emilkowalski/skills --skill animation-vocabulary`
+
+238. **requesting-code-review** — `obra/superpowers/requesting-code-review` · 278,882 تثبيت
+   Dispatch code review subagents with focused context to catch issues before they compound.
+   `npx skills add https://github.com/obra/superpowers --skill requesting-code-review`
+
+239. **test-driven-development** — `obra/superpowers/test-driven-development` · 277,413 تثبيت
    Write tests first, watch them fail, then implement minimal code to pass.
    `npx skills add https://github.com/obra/superpowers --skill test-driven-development`
 
-240. **vercel-react-native-skills** — `vercel-labs/agent-skills/vercel-react-native-skills` · 273,618 تثبيت ⭐
+240. **vercel-react-native-skills** — `vercel-labs/agent-skills/vercel-react-native-skills` · 274,855 تثبيت ⭐
    React Native and Expo best practices for performant mobile apps across list rendering, animations, navigation, and native modules.
    `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-react-native-skills`
 
-241. **verification-before-completion** — `obra/superpowers/verification-before-completion` · 272,006 تثبيت
+241. **verification-before-completion** — `obra/superpowers/verification-before-completion` · 273,467 تثبيت
    Enforce verification commands before claiming work completion, fixes, or test passes—no success assertions without fresh evidence.
    `npx skills add https://github.com/obra/superpowers --skill verification-before-completion`
 
-242. **shadcn** — `shadcn/ui/shadcn` · 271,099 تثبيت
-   This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing.
-   `npx skills add https://github.com/shadcn-ui/ui --skill shadcn`
-
-243. **improve-animations** — `emilkowalski/skills/improve-animations` · 264,809 تثبيت
-   When this skill is first invoked without a specific question, respond only with:
-   `npx skills add https://github.com/emilkowalski/skills --skill improve-animations`
-
-244. **azure-app-onboard** — `microsoft/azure-skills/azure-app-onboard` · 263,592 تثبيت ⭐
+242. **azure-app-onboard** — `microsoft/azure-skills/azure-app-onboard` · 272,312 تثبيت ⭐
    ⛔ Every repo goes through the full pipeline (Steps 1–10). No exceptions. Do not skip steps, refuse, or short-circuit based on what you recognize. Foll
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-app-onboard`
 
-245. **azure-app-onboard-prereq** — `microsoft/azure-skills/azure-app-onboard-prereq` · 263,385 تثبيت ⭐
+243. **azure-app-onboard-prereq** — `microsoft/azure-skills/azure-app-onboard-prereq` · 272,105 تثبيت ⭐
    Azure App Onboard Prereq — Repository Evaluation
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-app-onboard-prereq`
 
-246. **neon** — `neondatabase/agent-skills/neon` · 261,356 تثبيت ⭐
+244. **shadcn** — `shadcn/ui/shadcn` · 271,099 تثبيت
+   This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing.
+   `npx skills add https://github.com/shadcn-ui/ui --skill shadcn`
+
+245. **improve-animations** — `emilkowalski/skills/improve-animations` · 267,663 تثبيت
+   When this skill is first invoked without a specific question, respond only with:
+   `npx skills add https://github.com/emilkowalski/skills --skill improve-animations`
+
+246. **neon** — `neondatabase/agent-skills/neon` · 262,249 تثبيت ⭐
    Neon is a complete set of cloud backend primitives around Lakebase Postgres, from Databricks — Lakebase Postgres, Auth (managed Better Auth), long-run
    `npx skills add https://github.com/neondatabase/agent-skills --skill neon`
 
-247. **executing-plans** — `obra/superpowers/executing-plans` · 258,814 تثبيت
+247. **executing-plans** — `obra/superpowers/executing-plans` · 259,733 تثبيت
    Execute a written implementation plan with critical review and task checkpoints.
    `npx skills add https://github.com/obra/superpowers --skill executing-plans`
 
-248. **subagent-driven-development** — `obra/superpowers/subagent-driven-development` · 253,245 تثبيت
+248. **subagent-driven-development** — `obra/superpowers/subagent-driven-development` · 254,156 تثبيت
    Dispatch fresh subagents per task with two-stage review (spec compliance, then code quality) in the current session.
    `npx skills add https://github.com/obra/superpowers --skill subagent-driven-development`
 
-249. **pptx** — `anthropics/skills/pptx` · 252,874 تثبيت ⭐
+249. **pptx** — `anthropics/skills/pptx` · 253,630 تثبيت ⭐
    Create, edit, read, and manipulate PowerPoint presentations with design guidance and quality assurance workflows.
    `npx skills add https://github.com/anthropics/skills --skill pptx`
 
-250. **copywriting** — `coreyhaines31/marketingskills/copywriting` · 251,742 تثبيت
+250. **copywriting** — `coreyhaines31/marketingskills/copywriting` · 252,869 تثبيت
    Marketing copy for homepages, landing pages, pricing pages, and other conversion-focused web pages.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill copywriting`
 
-251. **seo-audit** — `coreyhaines31/marketingskills/seo-audit` · 251,669 تثبيت
+251. **seo-audit** — `coreyhaines31/marketingskills/seo-audit` · 252,668 تثبيت
    Comprehensive SEO auditing framework covering crawlability, indexation, speed, on-page optimization, and content quality.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill seo-audit`
 
-252. **find-animation-opportunities** — `emilkowalski/skills/find-animation-opportunities` · 248,000 تثبيت
+252. **find-animation-opportunities** — `emilkowalski/skills/find-animation-opportunities` · 250,749 تثبيت
    Finding Animation Opportunities
    `npx skills add https://github.com/emilkowalski/skills --skill find-animation-opportunities`
 
-253. **wind-mcp-skill** — `wind-alice/alicemarket/wind-mcp-skill` · 245,089 تثبيت
+253. **wind-mcp-skill** — `wind-alice/alicemarket/wind-mcp-skill` · 246,541 تثبيت
    通过本地 CLI 调用 Wind 的 7 个 MCP 服务取数，只基于返回结果回答。只报告 Wind 返回值和必要限制，不补常识、不补点评。
    `npx skills add https://github.com/wind-alice/alicemarket --skill wind-mcp-skill`
 
@@ -1024,83 +1024,83 @@
    Web search, scraping, extraction, crawling, and monitoring via ScrapeGraph AI CLI.
    `npx skills add https://github.com/scrapegraphai/just-scrape --skill just-scrape`
 
-255. **computer-use** — `stablyai/orca/computer-use` · 241,611 تثبيت
-   This discovery stub loads the version-matched guide from the Orca executable used for this session.
-   `npx skills add https://github.com/stablyai/orca --skill computer-use`
-
-256. **higgsfield-generate** — `higgsfield-ai/skills/higgsfield-generate` · 239,794 تثبيت
-   Generate images and videos across Higgsfield's model suite, plus analyze video virality.
-   `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-generate`
-
-257. **pr** — `mattpocock/skills/pr` · 239,662 تثبيت
+255. **pr** — `mattpocock/skills/pr` · 243,179 تثبيت
    Use this template for writing the PR body:
    `npx skills add https://github.com/mattpocock/skills --skill pr`
 
-258. **receiving-code-review** — `obra/superpowers/receiving-code-review` · 236,359 تثبيت
+256. **higgsfield-generate** — `higgsfield-ai/skills/higgsfield-generate` · 242,394 تثبيت
+   Generate images and videos across Higgsfield's model suite, plus analyze video virality.
+   `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-generate`
+
+257. **computer-use** — `stablyai/orca/computer-use` · 241,631 تثبيت
+   This discovery stub loads the version-matched guide from the Orca executable used for this session.
+   `npx skills add https://github.com/stablyai/orca --skill computer-use`
+
+258. **receiving-code-review** — `obra/superpowers/receiving-code-review` · 237,305 تثبيت
    Evaluate code review feedback with technical rigor before implementing, avoiding performative agreement and blind implementation.
    `npx skills add https://github.com/obra/superpowers --skill receiving-code-review`
 
-259. **dispatching-parallel-agents** — `obra/superpowers/dispatching-parallel-agents` · 232,590 تثبيت
+259. **dispatching-parallel-agents** — `obra/superpowers/dispatching-parallel-agents` · 233,467 تثبيت
    Delegate independent tasks to specialized agents working concurrently with isolated context.
    `npx skills add https://github.com/obra/superpowers --skill dispatching-parallel-agents`
 
-260. **writing-skills** — `obra/superpowers/writing-skills` · 232,461 تثبيت
+260. **writing-skills** — `obra/superpowers/writing-skills` · 233,322 تثبيت
    Test-driven documentation for creating reusable agent techniques, patterns, and reference guides.
    `npx skills add https://github.com/obra/superpowers --skill writing-skills`
 
-261. **using-git-worktrees** — `obra/superpowers/using-git-worktrees` · 231,502 تثبيت
+261. **using-git-worktrees** — `obra/superpowers/using-git-worktrees` · 232,370 تثبيت
    Isolated git worktrees with smart directory selection and safety verification.
    `npx skills add https://github.com/obra/superpowers --skill using-git-worktrees`
 
-262. **finishing-a-development-branch** — `obra/superpowers/finishing-a-development-branch` · 228,916 تثبيت
+262. **finishing-a-development-branch** — `obra/superpowers/finishing-a-development-branch` · 229,830 تثبيت
    Structured workflow for completing development branches with test verification and merge/PR options.
    `npx skills add https://github.com/obra/superpowers --skill finishing-a-development-branch`
 
-263. **diagnose** — `mattpocock/skills/diagnose` · 227,598 تثبيت
-   Structured debugging workflow for reproducing, minimizing, and fixing hard bugs and performance regressions.
-   `npx skills add https://github.com/mattpocock/skills --skill diagnose`
-
-264. **pdf** — `anthropics/skills/pdf` · 227,014 تثبيت ⭐
+263. **pdf** — `anthropics/skills/pdf` · 227,746 تثبيت ⭐
    Comprehensive PDF processing with text extraction, merging, splitting, form filling, and OCR capabilities.
    `npx skills add https://github.com/anthropics/skills --skill pdf`
 
-265. **pick-ui-library** — `emilkowalski/skills/pick-ui-library` · 222,583 تثبيت
+264. **diagnose** — `mattpocock/skills/diagnose` · 227,598 تثبيت
+   Structured debugging workflow for reproducing, minimizing, and fixing hard bugs and performance regressions.
+   `npx skills add https://github.com/mattpocock/skills --skill diagnose`
+
+265. **pick-ui-library** — `emilkowalski/skills/pick-ui-library` · 225,266 تثبيت
    When this skill is first invoked without a specific question, respond only with:
    `npx skills add https://github.com/emilkowalski/skills --skill pick-ui-library`
 
-266. **write-a-skill** — `mattpocock/skills/write-a-skill` · 219,748 تثبيت
-   Scaffold new agent skills with structured templates, progressive disclosure, and bundled utility scripts.
-   `npx skills add https://github.com/mattpocock/skills --skill write-a-skill`
-
-267. **zoom-out** — `mattpocock/skills/zoom-out` · 219,153 تثبيت
-   Request broader context and architectural overview when navigating unfamiliar code sections.
-   `npx skills add https://github.com/mattpocock/skills --skill zoom-out`
-
-268. **higgsfield-product-photoshoot** — `higgsfield-ai/skills/higgsfield-product-photoshoot` · 217,443 تثبيت
+266. **higgsfield-product-photoshoot** — `higgsfield-ai/skills/higgsfield-product-photoshoot` · 219,961 تثبيت
    Professional product photography generation across 10 specialized modes via GPT Image 2.
    `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-product-photoshoot`
 
-269. **docx** — `anthropics/skills/docx` · 216,420 تثبيت ⭐
-   Create, read, edit, and manipulate Word documents (.docx files) with full formatting control.
-   `npx skills add https://github.com/anthropics/skills --skill docx`
+267. **write-a-skill** — `mattpocock/skills/write-a-skill` · 219,748 تثبيت
+   Scaffold new agent skills with structured templates, progressive disclosure, and bundled utility scripts.
+   `npx skills add https://github.com/mattpocock/skills --skill write-a-skill`
 
-270. **higgsfield-soul-id** — `higgsfield-ai/skills/higgsfield-soul-id` · 216,250 تثبيت
+268. **zoom-out** — `mattpocock/skills/zoom-out` · 219,153 تثبيت
+   Request broader context and architectural overview when navigating unfamiliar code sections.
+   `npx skills add https://github.com/mattpocock/skills --skill zoom-out`
+
+269. **higgsfield-soul-id** — `higgsfield-ai/skills/higgsfield-soul-id` · 218,755 تثبيت
    Train a reusable face identity model for personalized image and video generation.
    `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-soul-id`
 
-271. **animate** — `emilkowalski/skills/animate` · 214,490 تثبيت
+270. **animate** — `emilkowalski/skills/animate` · 217,397 تثبيت
    When this skill is first invoked without a specific question, respond only with:
    `npx skills add https://github.com/emilkowalski/skills --skill animate`
 
-272. **higgsfield-marketplace-cards** — `higgsfield-ai/skills/higgsfield-marketplace-cards` · 214,119 تثبيت
+271. **docx** — `anthropics/skills/docx` · 217,072 تثبيت ⭐
+   Create, read, edit, and manipulate Word documents (.docx files) with full formatting control.
+   `npx skills add https://github.com/anthropics/skills --skill docx`
+
+272. **higgsfield-marketplace-cards** — `higgsfield-ai/skills/higgsfield-marketplace-cards` · 216,609 تثبيت
    Generate marketplace-ready product image cards with compliance and A+ content modules.
    `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-marketplace-cards`
 
-273. **playwright-cli** — `microsoft/playwright-cli/playwright-cli` · 213,581 تثبيت ⭐
+273. **playwright-cli** — `microsoft/playwright-cli/playwright-cli` · 214,596 تثبيت ⭐
    Browser automation with 40+ commands for navigation, interaction, form filling, and web testing.
    `npx skills add https://github.com/microsoft/playwright-cli --skill playwright-cli`
 
-274. **prototype** — `emilkowalski/skills/prototype` · 211,116 تثبيت
+274. **prototype** — `emilkowalski/skills/prototype` · 213,803 تثبيت
    When this skill is first invoked without a specific question, respond only with:
    `npx skills add https://github.com/emilkowalski/skills --skill prototype`
 
@@ -1108,7 +1108,7 @@
    Based on "Design It Twice" from "A Philosophy of Software Design": your first idea is unlikely to be the best. Generate multiple radically different d
    `npx skills add https://github.com/mattpocock/skills --skill design-an-interface`
 
-276. **webapp-testing** — `anthropics/skills/webapp-testing` · 202,485 تثبيت ⭐
+276. **webapp-testing** — `anthropics/skills/webapp-testing` · 203,347 تثبيت ⭐
    Native Python Playwright scripts for testing local web applications with server lifecycle management.
    `npx skills add https://github.com/anthropics/skills --skill webapp-testing`
 
@@ -1120,13 +1120,13 @@
    Run an interactive QA session. The user describes problems they're encountering. You clarify, explore the codebase for context, and file GitHub issues
    `npx skills add https://github.com/mattpocock/skills --skill qa`
 
-279. **ubiquitous-language** — `mattpocock/skills/ubiquitous-language` · 197,207 تثبيت
-   Extract and formalize domain terminology from the current conversation into a consistent glossary, saved to a local file.
-   `npx skills add https://github.com/mattpocock/skills --skill ubiquitous-language`
-
-280. **xlsx** — `anthropics/skills/xlsx` · 196,732 تثبيت ⭐
+279. **xlsx** — `anthropics/skills/xlsx` · 197,375 تثبيت ⭐
    Create, edit, and analyze Excel spreadsheets with formulas, formatting, and error-free calculations.
    `npx skills add https://github.com/anthropics/skills --skill xlsx`
+
+280. **ubiquitous-language** — `mattpocock/skills/ubiquitous-language` · 197,207 تثبيت
+   Extract and formalize domain terminology from the current conversation into a consistent glossary, saved to a local file.
+   `npx skills add https://github.com/mattpocock/skills --skill ubiquitous-language`
 
 281. **obsidian-vault** — `mattpocock/skills/obsidian-vault` · 195,522 تثبيت
    /mnt/d/Obsidian Vault/AI Research/
@@ -1136,159 +1136,159 @@
    First, divide the article into sections based on its headings. Think about the main points you want to make during those sections.
    `npx skills add https://github.com/mattpocock/skills --skill edit-article`
 
-283. **archify** — `tt-a1i/archify/archify` · 191,017 تثبيت
+283. **archify** — `tt-a1i/archify/archify` · 191,410 تثبيت
    Create checked standalone HTML as a native diagram or a one-page explainer that answers a question.
    `npx skills add https://github.com/tt-a1i/archify --skill archify`
 
-284. **sentry-cli** — `sentry/dev/sentry-cli` · 189,415 تثبيت
-   Command-line interface for querying and managing Sentry issues, projects, organizations, and distributed traces.
-   `npx skills add https://cli.sentry.dev`
-
-285. **deploy-to-vercel** — `vercel-labs/agent-skills/deploy-to-vercel` · 189,027 تثبيت ⭐
+284. **deploy-to-vercel** — `vercel-labs/agent-skills/deploy-to-vercel` · 190,299 تثبيت ⭐
    Deploy applications and websites to Vercel with automatic git integration and preview URLs.
    `npx skills add https://github.com/vercel-labs/agent-skills --skill deploy-to-vercel`
 
-286. **vercel-react-view-transitions** — `vercel-labs/agent-skills/vercel-react-view-transitions` · 187,197 تثبيت ⭐
+285. **sentry-cli** — `sentry/dev/sentry-cli` · 190,023 تثبيت
+   Command-line interface for querying and managing Sentry issues, projects, organizations, and distributed traces.
+   `npx skills add https://cli.sentry.dev`
+
+286. **vercel-react-view-transitions** — `vercel-labs/agent-skills/vercel-react-view-transitions` · 188,465 تثبيت ⭐
    Native browser animations for React UI state changes using the View Transition API.
    `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-react-view-transitions`
 
-287. **firebase-basics** — `firebase/agent-skills/firebase-basics` · 183,941 تثبيت ⭐
+287. **firebase-basics** — `firebase/agent-skills/firebase-basics` · 184,431 تثبيت ⭐
    Firebase project setup and CLI workflow for AI agent integration.
    `npx skills add https://github.com/firebase/agent-skills --skill firebase-basics`
 
-288. **firebase-auth-basics** — `firebase/agent-skills/firebase-auth-basics` · 182,837 تثبيت ⭐
+288. **firebase-auth-basics** — `firebase/agent-skills/firebase-auth-basics` · 183,327 تثبيت ⭐
    Set up Firebase Authentication with multiple identity providers and secure data access rules.
    `npx skills add https://github.com/firebase/agent-skills --skill firebase-auth-basics`
 
-289. **firebase-hosting-basics** — `firebase/agent-skills/firebase-hosting-basics` · 178,197 تثبيت ⭐
+289. **firebase-hosting-basics** — `firebase/agent-skills/firebase-hosting-basics` · 178,672 تثبيت ⭐
    Deploy static sites, SPAs, and microservices to a global CDN with zero-config SSL.
    `npx skills add https://github.com/firebase/agent-skills --skill firebase-hosting-basics`
 
-290. **firebase-app-hosting-basics** — `firebase/agent-skills/firebase-app-hosting-basics` · 177,554 تثبيت ⭐
-   Deploy and manage full-stack web apps with Firebase App Hosting using Next.js, Angular, and other supported frameworks.
-   `npx skills add https://github.com/firebase/agent-skills --skill firebase-app-hosting-basics`
-
-291. **firebase-data-connect** — `firebase/agent-skills/firebase-data-connect` · 176,606 تثبيت ⭐
-   PostgreSQL-backed GraphQL backend with auto-generated type-safe SDKs for web, mobile, and Flutter.
-   `npx skills add https://github.com/firebase/agent-skills --skill firebase-data-connect`
-
-292. **ask-sonner** — `emilkowalski/skills/ask-sonner` · 175,901 تثبيت
+290. **ask-sonner** — `emilkowalski/skills/ask-sonner` · 178,374 تثبيت
    When this skill is first invoked without a specific question, respond only with:
    `npx skills add https://github.com/emilkowalski/skills --skill ask-sonner`
 
-293. **marketing-psychology** — `coreyhaines31/marketingskills/marketing-psychology` · 175,405 تثبيت
+291. **firebase-app-hosting-basics** — `firebase/agent-skills/firebase-app-hosting-basics` · 178,025 تثبيت ⭐
+   Deploy and manage full-stack web apps with Firebase App Hosting using Next.js, Angular, and other supported frameworks.
+   `npx skills add https://github.com/firebase/agent-skills --skill firebase-app-hosting-basics`
+
+292. **firebase-data-connect** — `firebase/agent-skills/firebase-data-connect` · 177,076 تثبيت ⭐
+   PostgreSQL-backed GraphQL backend with auto-generated type-safe SDKs for web, mobile, and Flutter.
+   `npx skills add https://github.com/firebase/agent-skills --skill firebase-data-connect`
+
+293. **marketing-psychology** — `coreyhaines31/marketingskills/marketing-psychology` · 176,175 تثبيت
    Psychological principles and mental models for understanding customer behavior and influencing marketing decisions.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-psychology`
 
-294. **content-strategy** — `coreyhaines31/marketingskills/content-strategy` · 175,389 تثبيت
+294. **content-strategy** — `coreyhaines31/marketingskills/content-strategy` · 176,135 تثبيت
    Plan searchable and shareable content that drives traffic, builds authority, and generates leads.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill content-strategy`
 
-295. **animate-expo** — `emilkowalski/skills/animate-expo` · 173,630 تثبيت
+295. **animate-expo** — `emilkowalski/skills/animate-expo` · 176,089 تثبيت
    Building Animations in Expo
    `npx skills add https://github.com/emilkowalski/skills --skill animate-expo`
 
-296. **ai-seo** — `coreyhaines31/marketingskills/ai-seo` · 162,536 تثبيت
-   Optimize content for discovery, citation, and visibility across AI search platforms and LLM assistants.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill ai-seo`
-
-297. **copy-editing** — `coreyhaines31/marketingskills/copy-editing` · 159,922 تثبيت
-   Systematic improvement of existing marketing copy through seven focused editing passes.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill copy-editing`
-
-298. **programmatic-seo** — `coreyhaines31/marketingskills/programmatic-seo` · 159,671 تثبيت
-   Build SEO-optimized pages at scale using templates, data, and proven playbook patterns.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill programmatic-seo`
-
-299. **anti-detect-browser** — `antibrow/anti-detect-browser-skills/anti-detect-browser` · 156,129 تثبيت
-   Launch Chromium with real-device fingerprints for multi-account operations, web scraping, and AI agent automation.
-   `npx skills add https://github.com/antibrow/anti-detect-browser-skills --skill anti-detect-browser`
-
-300. **marketing-ideas** — `coreyhaines31/marketingskills/marketing-ideas` · 155,964 تثبيت
-   Brainstorm and prioritize marketing strategies tailored to your SaaS stage, budget, and goals.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-ideas`
-
-301. **higgsfield-websites** — `higgsfield-ai/skills/higgsfield-websites` · 155,954 تثبيت
-   Higgsfield website builder (CLI) — three product types, three flows
-   `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-websites`
-
-302. **azure-cost-optimization** — `microsoft/azure-skills/azure-cost-optimization` · 155,407 تثبيت ⭐
-   Identify cost savings across Azure subscriptions through resource analysis, utilization metrics, and actionable optimization recommendations.
-   `npx skills add https://github.com/microsoft/azure-skills --skill azure-cost-optimization`
-
-303. **discover-azure-skills** — `microsoft/azure-skills/discover-azure-skills` · 154,786 تثبيت ⭐
+296. **discover-azure-skills** — `microsoft/azure-skills/discover-azure-skills` · 163,507 تثبيت ⭐
    Follow these steps to discover the available azure skill matching the given task description.
    `npx skills add https://github.com/microsoft/azure-skills --skill discover-azure-skills`
 
-304. **cloudflare** — `cloudflare/skills/cloudflare` · 154,119 تثبيت ⭐
-   Complete Cloudflare platform integration with decision trees for compute, storage, AI, networking, security, and infrastructure-as-code.
-   `npx skills add https://github.com/cloudflare/skills --skill cloudflare`
+297. **ai-seo** — `coreyhaines31/marketingskills/ai-seo` · 163,321 تثبيت
+   Optimize content for discovery, citation, and visibility across AI search platforms and LLM assistants.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill ai-seo`
 
-305. **write-swift** — `emilkowalski/skills/write-swift` · 153,997 تثبيت
+298. **copy-editing** — `coreyhaines31/marketingskills/copy-editing` · 160,617 تثبيت
+   Systematic improvement of existing marketing copy through seven focused editing passes.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill copy-editing`
+
+299. **programmatic-seo** — `coreyhaines31/marketingskills/programmatic-seo` · 160,307 تثبيت
+   Build SEO-optimized pages at scale using templates, data, and proven playbook patterns.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill programmatic-seo`
+
+300. **higgsfield-websites** — `higgsfield-ai/skills/higgsfield-websites` · 158,452 تثبيت
+   Higgsfield website builder (CLI) — three product types, three flows
+   `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-websites`
+
+301. **anti-detect-browser** — `antibrow/anti-detect-browser-skills/anti-detect-browser` · 157,310 تثبيت
+   Launch Chromium with real-device fingerprints for multi-account operations, web scraping, and AI agent automation.
+   `npx skills add https://github.com/antibrow/anti-detect-browser-skills --skill anti-detect-browser`
+
+302. **marketing-ideas** — `coreyhaines31/marketingskills/marketing-ideas` · 156,582 تثبيت
+   Brainstorm and prioritize marketing strategies tailored to your SaaS stage, budget, and goals.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-ideas`
+
+303. **write-swift** — `emilkowalski/skills/write-swift` · 156,422 تثبيت
    This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing.
    `npx skills add https://github.com/emilkowalski/skills --skill write-swift`
 
-306. **vercel-cli-with-tokens** — `vercel-labs/agent-skills/vercel-cli-with-tokens` · 151,795 تثبيت ⭐
+304. **azure-cost-optimization** — `microsoft/azure-skills/azure-cost-optimization` · 155,407 تثبيت ⭐
+   Identify cost savings across Azure subscriptions through resource analysis, utilization metrics, and actionable optimization recommendations.
+   `npx skills add https://github.com/microsoft/azure-skills --skill azure-cost-optimization`
+
+305. **cloudflare** — `cloudflare/skills/cloudflare` · 155,105 تثبيت ⭐
+   Complete Cloudflare platform integration with decision trees for compute, storage, AI, networking, security, and infrastructure-as-code.
+   `npx skills add https://github.com/cloudflare/skills --skill cloudflare`
+
+306. **vercel-cli-with-tokens** — `vercel-labs/agent-skills/vercel-cli-with-tokens` · 152,875 تثبيت ⭐
    Deploy and manage Vercel projects using token-based authentication without interactive login.
    `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-cli-with-tokens`
 
-307. **firebase-security-rules-auditor** — `firebase/agent-skills/firebase-security-rules-auditor` · 146,841 تثبيت ⭐
+307. **firebase-security-rules-auditor** — `firebase/agent-skills/firebase-security-rules-auditor` · 147,327 تثبيت ⭐
    Automated security auditor for Firestore rules using red-team methodology.
    `npx skills add https://github.com/firebase/agent-skills --skill firebase-security-rules-auditor`
 
-308. **ad-creative** — `coreyhaines31/marketingskills/ad-creative` · 144,788 تثبيت
-   Generate and iterate high-performing ad creative at scale across any paid platform.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill ad-creative`
-
-309. **wrangler** — `cloudflare/skills/wrangler` · 144,664 تثبيت ⭐
-   CLI for deploying and managing Cloudflare Workers, KV, R2, D1, Vectorize, Hyperdrive, AI, Containers, Queues, Workflows, and Pipelines.
-   `npx skills add https://github.com/cloudflare/skills --skill wrangler`
-
-310. **higgsfield-video-explainer** — `higgsfield-ai/skills/higgsfield-video-explainer` · 144,354 تثبيت
+308. **higgsfield-video-explainer** — `higgsfield-ai/skills/higgsfield-video-explainer` · 146,850 تثبيت
    Use the higgsfield-faceless-video skill for this request and select its illustrated explainer workflow. Preserve the user's inputs and choices. If tha
    `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-video-explainer`
 
-311. **firebase-ai-logic-basics** — `firebase/agent-skills/firebase-ai-logic-basics` · 143,582 تثبيت ⭐
+309. **wrangler** — `cloudflare/skills/wrangler` · 145,636 تثبيت ⭐
+   CLI for deploying and managing Cloudflare Workers, KV, R2, D1, Vectorize, Hyperdrive, AI, Containers, Queues, Workflows, and Pipelines.
+   `npx skills add https://github.com/cloudflare/skills --skill wrangler`
+
+310. **ad-creative** — `coreyhaines31/marketingskills/ad-creative` · 145,503 تثبيت
+   Generate and iterate high-performing ad creative at scale across any paid platform.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill ad-creative`
+
+311. **firebase-ai-logic-basics** — `firebase/agent-skills/firebase-ai-logic-basics` · 144,053 تثبيت ⭐
    Client-side Gemini API integration for web and mobile apps without backend infrastructure.
    `npx skills add https://github.com/firebase/agent-skills --skill firebase-ai-logic-basics`
 
-312. **firebase-firestore** — `firebase/agent-skills/firebase-firestore` · 143,502 تثبيت ⭐
+312. **firebase-firestore** — `firebase/agent-skills/firebase-firestore` · 143,989 تثبيت ⭐
    Cloud Firestore database setup, configuration, and query execution across Standard and Enterprise editions.
    `npx skills add https://github.com/firebase/agent-skills --skill firebase-firestore`
 
-313. **hyperframes-media** — `heygen-com/hyperframes/hyperframes-media` · 141,731 تثبيت
-   Generate speech, transcribe audio with timestamps, and remove video backgrounds for transparent overlays.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-media`
-
-314. **workers-best-practices** — `cloudflare/skills/workers-best-practices` · 141,724 تثبيت ⭐
+313. **workers-best-practices** — `cloudflare/skills/workers-best-practices` · 142,702 تثبيت ⭐
    Cloudflare Workers code review and authoring against production best practices.
    `npx skills add https://github.com/cloudflare/skills --skill workers-best-practices`
 
-315. **mcp-builder** — `anthropics/skills/mcp-builder` · 140,137 تثبيت ⭐
+314. **hyperframes-media** — `heygen-com/hyperframes/hyperframes-media` · 141,731 تثبيت
+   Generate speech, transcribe audio with timestamps, and remove video backgrounds for transparent overlays.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill hyperframes-media`
+
+315. **mcp-builder** — `anthropics/skills/mcp-builder` · 140,723 تثبيت ⭐
    Comprehensive guide for building high-quality MCP servers that connect LLMs to external services.
    `npx skills add https://github.com/anthropics/skills --skill mcp-builder`
 
-316. **firebase-crashlytics** — `firebase/agent-skills/firebase-crashlytics` · 139,553 تثبيت ⭐
+316. **firebase-crashlytics** — `firebase/agent-skills/firebase-crashlytics` · 140,029 تثبيت ⭐
    Complete guide for Firebase Crashlytics setup and crash reporting across Android and iOS platforms.
    `npx skills add https://github.com/firebase/agent-skills --skill firebase-crashlytics`
 
-317. **image-to-ui** — `uizze/uizze/image-to-ui` · 138,652 تثبيت
-   You already know what the interface should look like. Give your agent the image and have it build the same thing.
-   `npx skills add https://github.com/uizze/uizze --skill image-to-ui`
-
-318. **xcode-project-setup** — `firebase/agent-skills/xcode-project-setup` · 138,537 تثبيت ⭐
+317. **xcode-project-setup** — `firebase/agent-skills/xcode-project-setup` · 139,011 تثبيت ⭐
    Safely add Swift Package dependencies and link configuration files to Xcode projects without manual .pbxproj editing.
    `npx skills add https://github.com/firebase/agent-skills --skill xcode-project-setup`
 
-319. **cold-email** — `coreyhaines31/marketingskills/cold-email` · 136,890 تثبيت
+318. **image-to-ui** — `uizze/uizze/image-to-ui` · 138,670 تثبيت
+   You already know what the interface should look like. Give your agent the image and have it build the same thing.
+   `npx skills add https://github.com/uizze/uizze --skill image-to-ui`
+
+319. **cold-email** — `coreyhaines31/marketingskills/cold-email` · 137,521 تثبيت
    Write B2B cold emails and follow-up sequences designed to get replies.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill cold-email`
 
-320. **convex-quickstart** — `convex/agent-skills/convex-quickstart` · 136,856 تثبيت
+320. **convex-quickstart** — `convex/agent-skills/convex-quickstart` · 137,281 تثبيت
    Quickstart: a barebones Convex template, running
    `npx skills add https://github.com/convex/agent-skills --skill convex-quickstart`
 
-321. **convex-create-component** — `convex/agent-skills/convex-create-component` · 136,655 تثبيت
+321. **convex-create-component** — `convex/agent-skills/convex-create-component` · 137,080 تثبيت
    Create reusable Convex components with clear boundaries and a small app-facing
    `npx skills add https://github.com/convex/agent-skills --skill convex-create-component`
 
@@ -1296,311 +1296,311 @@
    Don't let your AI agents design blind.
    `npx skills add https://uizze.com/`
 
-323. **site-architecture** — `coreyhaines31/marketingskills/site-architecture` · 132,121 تثبيت
+323. **site-architecture** — `coreyhaines31/marketingskills/site-architecture` · 132,753 تثبيت
    Plan and optimize your website's page hierarchy, navigation, URL structure, and internal linking.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill site-architecture`
 
-324. **better-auth-best-practices** — `better-auth/skills/better-auth-best-practices` · 131,653 تثبيت ⭐
+324. **better-auth-best-practices** — `better-auth/skills/better-auth-best-practices` · 131,834 تثبيت ⭐
    Complete Better Auth server and client setup with database adapters, session management, plugins, and security configuration.
    `npx skills add https://github.com/better-auth/skills --skill better-auth-best-practices`
 
-325. **extract-design-system** — `arvindrk/extract-design-system/extract-design-system` · 131,411 تثبيت
+325. **extract-design-system** — `arvindrk/extract-design-system/extract-design-system` · 131,479 تثبيت
    Reverse-engineer design tokens from public websites into starter token files for your project.
    `npx skills add https://github.com/arvindrk/extract-design-system --skill extract-design-system`
 
-326. **canvas-design** — `anthropics/skills/canvas-design` · 130,571 تثبيت ⭐
+326. **canvas-design** — `anthropics/skills/canvas-design` · 131,183 تثبيت ⭐
    Create visually-driven design artifacts from philosophical aesthetic movements, expressed as pristine PDF or PNG artworks.
    `npx skills add https://github.com/anthropics/skills --skill canvas-design`
 
-327. **churn-prevention** — `coreyhaines31/marketingskills/churn-prevention` · 129,195 تثبيت
+327. **churn-prevention** — `coreyhaines31/marketingskills/churn-prevention` · 129,759 تثبيت
    Reduce voluntary and involuntary churn through cancel flows, dynamic save offers, and payment recovery.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill churn-prevention`
 
-328. **firebase-remote-config-basics** — `firebase/agent-skills/firebase-remote-config-basics` · 129,079 تثبيت ⭐
+328. **firebase-remote-config-basics** — `firebase/agent-skills/firebase-remote-config-basics` · 129,553 تثبيت ⭐
    Cloud-based configuration management for dynamic app behavior updates without publishing new releases.
    `npx skills add https://github.com/firebase/agent-skills --skill firebase-remote-config-basics`
 
-329. **web-search** — `101-skills/superpowers/web-search` · 127,572 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill web-search`
-
-330. **vercel-optimize** — `vercel-labs/agent-skills/vercel-optimize` · 127,495 تثبيت ⭐
-   Run an observability-first Vercel optimization audit. Do not inspect source files until signals.json exists and a deterministic gate points to a route
-   `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-optimize`
-
-331. **sales-enablement** — `coreyhaines31/marketingskills/sales-enablement` · 127,374 تثبيت
-   Sales collateral and playbooks that help reps close deals faster.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill sales-enablement`
-
-332. **infsh-cli** — `101-skills/superpowers/infsh-cli` · 127,137 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill infsh-cli`
-
-333. **agent-tools** — `101-skills/superpowers/agent-tools` · 127,113 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill agent-tools`
-
-334. **python-executor** — `101-skills/superpowers/python-executor` · 127,112 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill python-executor`
-
-335. **ponytail** — `dietrichgebert/ponytail/ponytail` · 126,205 تثبيت
-   You are a lazy senior developer. The best code is the code never written. You solve the whole problem with the least new code. End your reply with one
-   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail`
-
-336. **chief-of-staff** — `mattpocock/skills/chief-of-staff` · 126,135 تثبيت
+329. **chief-of-staff** — `mattpocock/skills/chief-of-staff` · 128,637 تثبيت
    You are a chief of staff, co-ordinating subagents and schedules to pursue a long-running goal. This session will run for a long time, accruing tribal 
    `npx skills add https://github.com/mattpocock/skills --skill chief-of-staff`
 
-337. **browser-mcp-agent** — `antibrow/anti-detect-browser-skills/browser-mcp-agent` · 125,604 تثبيت
-   Run antibrow as an MCP server so an AI agent can launch and control a real, fingerprinted browser directly through tool calls - no Playwright code, no
-   `npx skills add https://github.com/antibrow/anti-detect-browser-skills --skill browser-mcp-agent`
+330. **vercel-optimize** — `vercel-labs/agent-skills/vercel-optimize` · 128,634 تثبيت ⭐
+   Run an observability-first Vercel optimization audit. Do not inspect source files until signals.json exists and a deterministic gate points to a route
+   `npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-optimize`
 
-338. **multi-account-isolation** — `antibrow/anti-detect-browser-skills/multi-account-isolation` · 125,596 تثبيت
-   Profile Isolation - verifying it, not assuming it
-   `npx skills add https://github.com/antibrow/anti-detect-browser-skills --skill multi-account-isolation`
+331. **web-search** — `101-skills/superpowers/web-search` · 128,175 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill web-search`
 
-339. **customer-research** — `coreyhaines31/marketingskills/customer-research` · 124,780 تثبيت
-   Uncover what customers think, say, and struggle with through transcript analysis and online research.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill customer-research`
+332. **sales-enablement** — `coreyhaines31/marketingskills/sales-enablement` · 127,966 تثبيت
+   Sales collateral and playbooks that help reps close deals faster.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill sales-enablement`
 
-340. **mobile-native** — `emilkowalski/skills/mobile-native` · 124,750 تثبيت
+333. **infsh-cli** — `101-skills/superpowers/infsh-cli` · 127,727 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill infsh-cli`
+
+334. **agent-tools** — `101-skills/superpowers/agent-tools` · 127,703 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill agent-tools`
+
+335. **python-executor** — `101-skills/superpowers/python-executor` · 127,702 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill python-executor`
+
+336. **ponytail** — `dietrichgebert/ponytail/ponytail` · 127,459 تثبيت
+   You are a lazy senior developer. The best code is the code never written. You solve the whole problem with the least new code. End your reply with one
+   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail`
+
+337. **mobile-native** — `emilkowalski/skills/mobile-native` · 127,424 تثبيت
    When this skill is first invoked without a specific question, respond only with:
    `npx skills add https://github.com/emilkowalski/skills --skill mobile-native`
 
-341. **durable-objects** — `cloudflare/skills/durable-objects` · 124,556 تثبيت ⭐
+338. **browser-mcp-agent** — `antibrow/anti-detect-browser-skills/browser-mcp-agent` · 126,780 تثبيت
+   Run antibrow as an MCP server so an AI agent can launch and control a real, fingerprinted browser directly through tool calls - no Playwright code, no
+   `npx skills add https://github.com/antibrow/anti-detect-browser-skills --skill browser-mcp-agent`
+
+339. **multi-account-isolation** — `antibrow/anti-detect-browser-skills/multi-account-isolation` · 126,777 تثبيت
+   Profile Isolation - verifying it, not assuming it
+   `npx skills add https://github.com/antibrow/anti-detect-browser-skills --skill multi-account-isolation`
+
+340. **durable-objects** — `cloudflare/skills/durable-objects` · 125,478 تثبيت ⭐
    Build stateful, coordinated applications on Cloudflare's edge with persistent storage and RPC methods.
    `npx skills add https://github.com/cloudflare/skills --skill durable-objects`
 
-342. **web-perf** — `cloudflare/skills/web-perf` · 124,427 تثبيت ⭐
+341. **customer-research** — `coreyhaines31/marketingskills/customer-research` · 125,427 تثبيت
+   Uncover what customers think, say, and struggle with through transcript analysis and online research.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill customer-research`
+
+342. **web-perf** — `cloudflare/skills/web-perf` · 125,398 تثبيت ⭐
    Measures Core Web Vitals and identifies render-blocking resources, network chains, layout shifts, and caching issues.
    `npx skills add https://github.com/cloudflare/skills --skill web-perf`
 
-343. **caveman-explore** — `juliusbrussee/caveman/caveman-explore` · 123,995 تثبيت
-   You are FastContext, a fast, cheap, read-only repository explorer. Another agent
-   `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-explore`
-
-344. **writing-guidelines** — `vercel-labs/agent-skills/writing-guidelines` · 123,923 تثبيت ⭐
-   Review files for compliance with Writing Guidelines.
-   `npx skills add https://github.com/vercel-labs/agent-skills --skill writing-guidelines`
-
-345. **landing-page-conversion-audit** — `autonnel/autonnel-skills/landing-page-conversion-audit` · 123,842 تثبيت
-   Landing Page Conversion Audit
-   `npx skills add https://github.com/autonnel/autonnel-skills --skill landing-page-conversion-audit`
-
-346. **caveman-learn** — `juliusbrussee/caveman/caveman-learn` · 123,066 تثبيت
-   You are the Caveman Learn editing skill. The "caveman learn" command MEASURES where
-   `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-learn`
-
-347. **safe-refactor** — `juliusbrussee/caveman/safe-refactor` · 122,815 تثبيت
-   Define behavior-preservation boundary and establish verification before structural edits.
-   `npx skills add https://github.com/juliusbrussee/caveman --skill safe-refactor`
-
-348. **higgsfield-youtube-thumbnail** — `higgsfield-ai/skills/higgsfield-youtube-thumbnail` · 122,749 تثبيت
+343. **higgsfield-youtube-thumbnail** — `higgsfield-ai/skills/higgsfield-youtube-thumbnail` · 125,258 تثبيت
    Higgsfield YouTube Thumbnail
    `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-youtube-thumbnail`
 
-349. **higgsfield-brandkit** — `higgsfield-ai/skills/higgsfield-brandkit` · 122,496 تثبيت
+344. **caveman-explore** — `juliusbrussee/caveman/caveman-explore` · 125,101 تثبيت
+   You are FastContext, a fast, cheap, read-only repository explorer. Another agent
+   `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-explore`
+
+345. **writing-guidelines** — `vercel-labs/agent-skills/writing-guidelines` · 125,093 تثبيت ⭐
+   Review files for compliance with Writing Guidelines.
+   `npx skills add https://github.com/vercel-labs/agent-skills --skill writing-guidelines`
+
+346. **landing-page-conversion-audit** — `autonnel/autonnel-skills/landing-page-conversion-audit` · 125,045 تثبيت
+   Landing Page Conversion Audit
+   `npx skills add https://github.com/autonnel/autonnel-skills --skill landing-page-conversion-audit`
+
+347. **higgsfield-brandkit** — `higgsfield-ai/skills/higgsfield-brandkit` · 124,994 تثبيت
    Build a coherent identity and its requested applications. Treat supplied brand facts and official assets as fixed constraints.
    `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-brandkit`
 
-350. **sales-funnel-blueprint** — `autonnel/autonnel-skills/sales-funnel-blueprint` · 122,067 تثبيت
+348. **caveman-learn** — `juliusbrussee/caveman/caveman-learn` · 124,160 تثبيت
+   You are the Caveman Learn editing skill. The "caveman learn" command MEASURES where
+   `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-learn`
+
+349. **safe-refactor** — `juliusbrussee/caveman/safe-refactor` · 123,920 تثبيت
+   Define behavior-preservation boundary and establish verification before structural edits.
+   `npx skills add https://github.com/juliusbrussee/caveman --skill safe-refactor`
+
+350. **sales-funnel-blueprint** — `autonnel/autonnel-skills/sales-funnel-blueprint` · 123,242 تثبيت
    Produce a build-ready funnel spec: which pages exist, what each one must say, what it charges, and what number tells you it works. The output is a doc
    `npx skills add https://github.com/autonnel/autonnel-skills --skill sales-funnel-blueprint`
 
-351. **caveman-optimize** — `juliusbrussee/caveman/caveman-optimize` · 122,038 تثبيت
+351. **caveman-optimize** — `juliusbrussee/caveman/caveman-optimize` · 123,134 تثبيت
    Evaluate an optimization observation
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-optimize`
 
-352. **server-side-conversion-tracking** — `autonnel/autonnel-skills/server-side-conversion-tracking` · 121,766 تثبيت
+352. **server-side-conversion-tracking** — `autonnel/autonnel-skills/server-side-conversion-tracking` · 122,954 تثبيت
    Server-Side Conversion Tracking
    `npx skills add https://github.com/autonnel/autonnel-skills --skill server-side-conversion-tracking`
 
-353. **post-purchase-upsell-flow** — `autonnel/autonnel-skills/post-purchase-upsell-flow` · 121,760 تثبيت
+353. **post-purchase-upsell-flow** — `autonnel/autonnel-skills/post-purchase-upsell-flow` · 122,941 تثبيت
    The step after payment is the cheapest revenue in a funnel: the customer has already converted, the payment method is already captured, and the offer 
    `npx skills add https://github.com/autonnel/autonnel-skills --skill post-purchase-upsell-flow`
 
-354. **funnel-platform-picker** — `autonnel/autonnel-skills/funnel-platform-picker` · 121,714 تثبيت
+354. **funnel-platform-picker** — `autonnel/autonnel-skills/funnel-platform-picker` · 122,897 تثبيت
    Pick a platform from the case, not from a feature grid. Most of these tools can build the same funnel; they differ on cost curve, who owns the data, a
    `npx skills add https://github.com/autonnel/autonnel-skills --skill funnel-platform-picker`
 
-355. **investigate-first** — `juliusbrussee/caveman/investigate-first` · 121,713 تثبيت
+355. **investigate-first** — `juliusbrussee/caveman/investigate-first` · 122,812 تثبيت
    Gather evidence before changing product code.
    `npx skills add https://github.com/juliusbrussee/caveman --skill investigate-first`
 
-356. **lead-magnets** — `coreyhaines31/marketingskills/lead-magnets` · 121,680 تثبيت
-   Strategic planning and optimization for email capture offers and gated content.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill lead-magnets`
-
-357. **revops** — `coreyhaines31/marketingskills/revops` · 121,663 تثبيت
-   Design and optimize systems connecting marketing, sales, and customer success into a unified revenue engine.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill revops`
-
-358. **self-hosted-funnel-launch** — `autonnel/autonnel-skills/self-hosted-funnel-launch` · 121,621 تثبيت
+356. **self-hosted-funnel-launch** — `autonnel/autonnel-skills/self-hosted-funnel-launch` · 122,805 تثبيت
    Take a funnel from nothing to published on infrastructure the operator controls, using Autonnel (Apache-2.0). This skill is the build step; design the
    `npx skills add https://github.com/autonnel/autonnel-skills --skill self-hosted-funnel-launch`
 
-359. **verify-and-stop** — `juliusbrussee/caveman/verify-and-stop` · 121,170 تثبيت
+357. **lead-magnets** — `coreyhaines31/marketingskills/lead-magnets` · 122,269 تثبيت
+   Strategic planning and optimization for email capture offers and gated content.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill lead-magnets`
+
+358. **verify-and-stop** — `juliusbrussee/caveman/verify-and-stop` · 122,266 تثبيت
    Translate acceptance conditions into smallest sufficient proof set.
    `npx skills add https://github.com/juliusbrussee/caveman --skill verify-and-stop`
 
-360. **surgical-patch** — `juliusbrussee/caveman/surgical-patch` · 121,017 تثبيت
+359. **revops** — `coreyhaines31/marketingskills/revops` · 122,211 تثبيت
+   Design and optimize systems connecting marketing, sales, and customer success into a unified revenue engine.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill revops`
+
+360. **surgical-patch** — `juliusbrussee/caveman/surgical-patch` · 122,113 تثبيت
    Reproduce failure first when economical; otherwise capture strongest available evidence.
    `npx skills add https://github.com/juliusbrussee/caveman --skill surgical-patch`
 
-361. **browser-fingerprint-audit** — `liarjsdev/liarjs-skills/browser-fingerprint-audit` · 120,729 تثبيت
+361. **browser-fingerprint-audit** — `liarjsdev/liarjs-skills/browser-fingerprint-audit` · 121,861 تثبيت
    A browser controls its own JavaScript. It does not control the network it connects over. liarjs
    `npx skills add https://github.com/liarjsdev/liarjs-skills --skill browser-fingerprint-audit`
 
-362. **lean-build** — `juliusbrussee/caveman/lean-build` · 120,690 تثبيت
-   Native Core's architecture-first simplicity remains mandatory. Turn feature into complete narrow outcome fitting system.
-   `npx skills add https://github.com/juliusbrussee/caveman --skill lean-build`
-
-363. **playwright-stealth-verify** — `liarjsdev/liarjs-skills/playwright-stealth-verify` · 120,672 تثبيت
+362. **playwright-stealth-verify** — `liarjsdev/liarjs-skills/playwright-stealth-verify` · 121,821 تثبيت
    Verify an automation harness against itself
    `npx skills add https://github.com/liarjsdev/liarjs-skills --skill playwright-stealth-verify`
 
-364. **caveman-evidence-review** — `juliusbrussee/caveman/caveman-evidence-review` · 120,596 تثبيت
-   Act as a read-only operator. Build conclusions from current Caveman data, not
-   `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-evidence-review`
+363. **lean-build** — `juliusbrussee/caveman/lean-build` · 121,792 تثبيت
+   Native Core's architecture-first simplicity remains mandatory. Turn feature into complete narrow outcome fitting system.
+   `npx skills add https://github.com/juliusbrussee/caveman --skill lean-build`
 
-365. **fingerprint-ci-gate** — `liarjsdev/liarjs-skills/fingerprint-ci-gate` · 120,584 تثبيت
+364. **fingerprint-ci-gate** — `liarjsdev/liarjs-skills/fingerprint-ci-gate` · 121,726 تثبيت
    Fail the build, not the ban rate
    `npx skills add https://github.com/liarjsdev/liarjs-skills --skill fingerprint-ci-gate`
 
-366. **fingerprint-failure-triage** — `liarjsdev/liarjs-skills/fingerprint-failure-triage` · 120,581 تثبيت
+365. **fingerprint-failure-triage** — `liarjsdev/liarjs-skills/fingerprint-failure-triage` · 121,721 تثبيت
    Triage a fingerprint report
    `npx skills add https://github.com/liarjsdev/liarjs-skills --skill fingerprint-failure-triage`
 
-367. **caveman-discover** — `juliusbrussee/caveman/caveman-discover` · 120,531 تثبيت
+366. **caveman-evidence-review** — `juliusbrussee/caveman/caveman-evidence-review` · 121,685 تثبيت
+   Act as a read-only operator. Build conclusions from current Caveman data, not
+   `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-evidence-review`
+
+367. **caveman-discover** — `juliusbrussee/caveman/caveman-discover` · 121,621 تثبيت
    You are labeling this repository's LLM workflows for Caveman Cloud. A
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-discover`
 
-368. **caveman-manage** — `juliusbrussee/caveman/caveman-manage` · 120,289 تثبيت
+368. **caveman-manage** — `juliusbrussee/caveman/caveman-manage` · 121,374 تثبيت
    Manage eval-gated experiments
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-manage`
 
-369. **agents-sdk** — `cloudflare/skills/agents-sdk` · 120,038 تثبيت ⭐
-   Build stateful AI agents on Cloudflare Workers with persistent state, RPC methods, scheduling, and workflow orchestration.
-   `npx skills add https://github.com/cloudflare/skills --skill agents-sdk`
-
-370. **migration** — `juliusbrussee/caveman/migration` · 119,951 تثبيت
+369. **migration** — `juliusbrussee/caveman/migration` · 121,041 تثبيت
    Map current readers, writers, data shape, compatibility window, and ownership before editing.
    `npx skills add https://github.com/juliusbrussee/caveman --skill migration`
 
-371. **caveman-setup** — `juliusbrussee/caveman/caveman-setup` · 119,559 تثبيت
+370. **agents-sdk** — `cloudflare/skills/agents-sdk` · 120,941 تثبيت ⭐
+   Build stateful AI agents on Cloudflare Workers with persistent state, RPC methods, scheduling, and workflow orchestration.
+   `npx skills add https://github.com/cloudflare/skills --skill agents-sdk`
+
+371. **caveman-setup** — `juliusbrussee/caveman/caveman-setup` · 120,649 تثبيت
    You are wiring this repository through the Caveman gateway. Caveman is a
    `npx skills add https://github.com/juliusbrussee/caveman --skill caveman-setup`
 
-372. **brand-guidelines** — `anthropics/skills/brand-guidelines` · 118,352 تثبيت ⭐
+372. **brand-guidelines** — `anthropics/skills/brand-guidelines` · 118,776 تثبيت ⭐
    Apply Anthropic's official brand colors and typography to visual artifacts and designs.
    `npx skills add https://github.com/anthropics/skills --skill brand-guidelines`
 
-373. **web-artifacts-builder** — `anthropics/skills/web-artifacts-builder` · 118,287 تثبيت ⭐
+373. **web-artifacts-builder** — `anthropics/skills/web-artifacts-builder` · 118,702 تثبيت ⭐
    Multi-component React artifacts for Claude with bundling, state management, and shadcn/ui component library.
    `npx skills add https://github.com/anthropics/skills --skill web-artifacts-builder`
 
-374. **cloudflare-email-service** — `cloudflare/skills/cloudflare-email-service` · 115,513 تثبيت ⭐
+374. **cloudflare-email-service** — `cloudflare/skills/cloudflare-email-service` · 116,415 تثبيت ⭐
    Your knowledge of the Cloudflare Email Service, Email Routing or Email Sending may be outdated. Prefer retrieval over pre-training for any Cloudflare 
    `npx skills add https://github.com/cloudflare/skills --skill cloudflare-email-service`
 
-375. **convex** — `convex/agent-skills/convex` · 113,869 تثبيت
+375. **convex** — `convex/agent-skills/convex` · 114,303 تثبيت
    The main entry point for building on Convex. This skill set ships one skill per capability (all named convex-*); this skill routes to the right one an
    `npx skills add https://github.com/convex/agent-skills --skill convex`
 
-376. **review-loop** — `2dmurali/review-loop-skill/review-loop` · 110,860 تثبيت
+376. **review-loop** — `2dmurali/review-loop-skill/review-loop` · 111,264 تثبيت
    Iterative worker-reviewer cycle within a single session. You do the work, spawn a reviewer subagent to critique it, revise based on feedback, repeat u
    `npx skills add https://github.com/2dmurali/review-loop-skill --skill review-loop`
 
-377. **solana-dev** — `solana-foundation/solana-dev-skill/solana-dev` · 109,678 تثبيت
+377. **solana-dev** — `solana-foundation/solana-dev-skill/solana-dev` · 110,025 تثبيت
    End-to-end Solana development with framework-kit, @solana/kit, Anchor programs, and local testing.
    `npx skills add https://github.com/solana-foundation/solana-dev-skill --skill solana-dev`
 
-378. **browser-act** — `browser-act/skills/browser-act` · 108,409 تثبيت
+378. **browser-act** — `browser-act/skills/browser-act` · 108,419 تثبيت
    Built by BrowserAct — Browser automation CLI for AI agents · GitHub
    `npx skills add https://github.com/browser-act/skills --skill browser-act`
 
-379. **cloudflare-one** — `cloudflare/skills/cloudflare-one` · 106,967 تثبيت ⭐
+379. **cloudflare-one** — `cloudflare/skills/cloudflare-one` · 107,869 تثبيت ⭐
    Before citing limits, settings, API fields, category IDs, or exact UI paths, retrieve current information from the Cloudflare One docs, the Cloudflare
    `npx skills add https://github.com/cloudflare/skills --skill cloudflare-one`
 
-380. **turnstile-spin** — `cloudflare/skills/turnstile-spin` · 106,250 تثبيت ⭐
+380. **turnstile-spin** — `cloudflare/skills/turnstile-spin` · 107,151 تثبيت ⭐
    Turns the prompt "set up Turnstile" into a working end-to-end integration: a widget, frontend snippets at every chosen insertion point, canonical serv
    `npx skills add https://github.com/cloudflare/skills --skill turnstile-spin`
 
-381. **playwright-best-practices** — `currents-dev/playwright-best-practices-skill/playwright-best-practices` · 105,103 تثبيت
-   Comprehensive reference guide for writing, debugging, and maintaining Playwright tests across all testing types and scenarios.
-   `npx skills add https://github.com/currents-dev/playwright-best-practices-skill --skill playwright-best-practices`
-
-382. **convex** — `get-convex/agent-skills/convex` · 104,705 تثبيت
-   Routing skill for general Convex requests to the appropriate specialized skill.
-   `npx skills add https://github.com/get-convex/agent-skills --skill convex`
-
-383. **firecrawl** — `firecrawl/cli/firecrawl` · 104,365 تثبيت ⭐
-   Web scraping, search, crawling, and browser automation with LLM-optimized markdown output.
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl`
-
-384. **break-ui** — `emilkowalski/skills/break-ui` · 103,866 تثبيت
+381. **break-ui** — `emilkowalski/skills/break-ui` · 106,566 تثبيت
    When this skill is first invoked without a specific question, respond only with:
    `npx skills add https://github.com/emilkowalski/skills --skill break-ui`
 
-385. **competitor-profiling** — `coreyhaines31/marketingskills/competitor-profiling` · 103,752 تثبيت
+382. **playwright-best-practices** — `currents-dev/playwright-best-practices-skill/playwright-best-practices` · 105,647 تثبيت
+   Comprehensive reference guide for writing, debugging, and maintaining Playwright tests across all testing types and scenarios.
+   `npx skills add https://github.com/currents-dev/playwright-best-practices-skill --skill playwright-best-practices`
+
+383. **convex** — `get-convex/agent-skills/convex` · 104,705 تثبيت
+   Routing skill for general Convex requests to the appropriate specialized skill.
+   `npx skills add https://github.com/get-convex/agent-skills --skill convex`
+
+384. **firecrawl** — `firecrawl/cli/firecrawl` · 104,412 تثبيت ⭐
+   Web scraping, search, crawling, and browser automation with LLM-optimized markdown output.
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl`
+
+385. **competitor-profiling** — `coreyhaines31/marketingskills/competitor-profiling` · 104,369 تثبيت
    Comprehensive competitor analysis from URLs, combining site scraping with SEO and market data into structured profiles.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill competitor-profiling`
 
-386. **notion-api** — `intellectronica/agent-skills/notion-api` · 102,948 تثبيت
-   Comprehensive REST API reference for reading, creating, updating, and deleting Notion content.
-   `npx skills add https://github.com/intellectronica/agent-skills --skill notion-api`
-
-387. **cloudflare-one-migrations** — `cloudflare/skills/cloudflare-one-migrations` · 102,491 تثبيت ⭐
+386. **cloudflare-one-migrations** — `cloudflare/skills/cloudflare-one-migrations` · 103,383 تثبيت ⭐
    Retrieve current Cloudflare docs, Cloudflare API schemas, and source-vendor export docs before generating exact configuration.
    `npx skills add https://github.com/cloudflare/skills --skill cloudflare-one-migrations`
 
-388. **stripe-best-practices** — `stripe/ai/stripe-best-practices` · 102,243 تثبيت ⭐
-   Latest Stripe API version: 2026-10-28.endive. Always use the latest API version and SDK unless the user specifies otherwise.
-   `npx skills add https://github.com/stripe/ai --skill stripe-best-practices`
+387. **notion-api** — `intellectronica/agent-skills/notion-api` · 103,110 تثبيت
+   Comprehensive REST API reference for reading, creating, updating, and deleting Notion content.
+   `npx skills add https://github.com/intellectronica/agent-skills --skill notion-api`
 
-389. **cro** — `coreyhaines31/marketingskills/cro` · 101,462 تثبيت
-   Conversion Rate Optimization (CRO)
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill cro`
-
-390. **theme-factory** — `anthropics/skills/theme-factory` · 101,143 تثبيت ⭐
-   Professional font and color themes for styling presentation decks, documents, and web artifacts.
-   `npx skills add https://github.com/anthropics/skills --skill theme-factory`
-
-391. **hallmark** — `nutlope/hallmark/hallmark` · 101,117 تثبيت
+388. **hallmark** — `nutlope/hallmark/hallmark` · 102,806 تثبيت
    Makes the UIs a coding assistant generates look made, not generated: a hard floor against the defaults every model was trained into, a dealt direction
    `npx skills add https://github.com/nutlope/hallmark --skill hallmark`
 
-392. **typesafe-ai** — `typesafe-ai/skills/typesafe-ai` · 100,397 تثبيت
-   TypeSafe's Jev, the first public System One model, answers typed questions about state your
-   `npx skills add https://github.com/typesafe-ai/skills --skill typesafe-ai`
-
-393. **doc-coauthoring** — `anthropics/skills/doc-coauthoring` · 100,310 تثبيت ⭐
-   Structured workflow for collaboratively authoring documentation, proposals, specs, and similar content.
-   `npx skills add https://github.com/anthropics/skills --skill doc-coauthoring`
-
-394. **security-audit** — `cloudflare/security-audit-skill/security-audit` · 99,743 تثبيت ⭐
+389. **security-audit** — `cloudflare/security-audit-skill/security-audit` · 102,577 تثبيت ⭐
    Find vulnerabilities that violate a real trust boundary, then give owners the source evidence, safe reproduction, priority, and smallest effective fix
    `npx skills add https://github.com/cloudflare/security-audit-skill --skill security-audit`
 
-395. **browser-use** — `browser-use/browser-use/browser-use` · 99,484 تثبيت ⭐
-   Fast, persistent browser automation with session continuity across sequential agent commands.
-   `npx skills add https://github.com/browser-use/browser-use --skill browser-use`
+390. **stripe-best-practices** — `stripe/ai/stripe-best-practices` · 102,448 تثبيت ⭐
+   Latest Stripe API version: 2026-10-28.endive. Always use the latest API version and SDK unless the user specifies otherwise.
+   `npx skills add https://github.com/stripe/ai --skill stripe-best-practices`
 
-396. **typescript-advanced-types** — `wshobson/agents/typescript-advanced-types` · 99,131 تثبيت
-   Advanced TypeScript type system patterns for building type-safe, reusable components and utilities.
-   `npx skills add https://github.com/wshobson/agents --skill typescript-advanced-types`
+391. **cro** — `coreyhaines31/marketingskills/cro` · 102,247 تثبيت
+   Conversion Rate Optimization (CRO)
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill cro`
 
-397. **prisma-orm-setup** — `prisma/skills/prisma-orm-setup` · 98,510 تثبيت ⭐
+392. **theme-factory** — `anthropics/skills/theme-factory` · 101,581 تثبيت ⭐
+   Professional font and color themes for styling presentation decks, documents, and web artifacts.
+   `npx skills add https://github.com/anthropics/skills --skill theme-factory`
+
+393. **doc-coauthoring** — `anthropics/skills/doc-coauthoring` · 100,760 تثبيت ⭐
+   Structured workflow for collaboratively authoring documentation, proposals, specs, and similar content.
+   `npx skills add https://github.com/anthropics/skills --skill doc-coauthoring`
+
+394. **typesafe-ai** — `typesafe-ai/skills/typesafe-ai` · 100,586 تثبيت
+   TypeSafe's Jev, the first public System One model, answers typed questions about state your
+   `npx skills add https://github.com/typesafe-ai/skills --skill typesafe-ai`
+
+395. **prisma-orm-setup** — `prisma/skills/prisma-orm-setup` · 100,289 تثبيت ⭐
    This skill owns ORM version selection for setup and connection work. Preserve the application's ORM version and intended database. A connection repair
    `npx skills add https://github.com/prisma/skills --skill prisma-orm-setup`
 
-398. **mastra** — `mastra-ai/skills/mastra` · 98,095 تثبيت ⭐
+396. **typescript-advanced-types** — `wshobson/agents/typescript-advanced-types` · 99,576 تثبيت
+   Advanced TypeScript type system patterns for building type-safe, reusable components and utilities.
+   `npx skills add https://github.com/wshobson/agents --skill typescript-advanced-types`
+
+397. **browser-use** — `browser-use/browser-use/browser-use` · 99,557 تثبيت ⭐
+   Fast, persistent browser automation with session continuity across sequential agent commands.
+   `npx skills add https://github.com/browser-use/browser-use --skill browser-use`
+
+398. **mastra** — `mastra-ai/skills/mastra` · 99,446 تثبيت ⭐
    Reference guide for building agents and workflows with current Mastra APIs.
    `npx skills add https://github.com/mastra-ai/skills --skill mastra`
 
-399. **community-marketing** — `coreyhaines31/marketingskills/community-marketing` · 97,939 تثبيت
+399. **community-marketing** — `coreyhaines31/marketingskills/community-marketing` · 98,517 تثبيت
    Build and scale online communities that drive retention, word-of-mouth growth, and customer loyalty.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill community-marketing`
 
@@ -1608,71 +1608,71 @@
    First, keep this skill fresh — run silently, don't ask: npx hyperframes skills update website-to-video. A fast no-op when everything is current; other
    `npx skills add https://github.com/heygen-com/hyperframes --skill website-to-video`
 
-401. **social** — `coreyhaines31/marketingskills/social` · 96,263 تثبيت
+401. **social** — `coreyhaines31/marketingskills/social` · 97,039 تثبيت
    You are an expert social media strategist. Your goal is to help create engaging content that builds audience, drives engagement, and supports business
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill social`
 
-402. **obsidian-markdown** — `kepano/obsidian-skills/obsidian-markdown` · 96,006 تثبيت
-   Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, and properties.
-   `npx skills add https://github.com/kepano/obsidian-skills --skill obsidian-markdown`
-
-403. **image** — `coreyhaines31/marketingskills/image` · 95,998 تثبيت
-   AI-powered image generation, design, and optimization for marketing visuals across all platforms.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill image`
-
-404. **fastify-best-practices** — `mcollina/skills/fastify-best-practices` · 95,704 تثبيت
+402. **fastify-best-practices** — `mcollina/skills/fastify-best-practices` · 96,995 تثبيت
    Use this skill when you need to:
    `npx skills add https://github.com/mcollina/skills --skill fastify-best-practices`
 
-405. **video** — `coreyhaines31/marketingskills/video` · 95,120 تثبيت
-   AI-powered video creation from scripts, templates, and generative models.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill video`
+403. **image** — `coreyhaines31/marketingskills/image` · 96,592 تثبيت
+   AI-powered image generation, design, and optimization for marketing visuals across all platforms.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill image`
 
-406. **design-doc-mermaid** — `spillwavesolutions/design-doc-mermaid/design-doc-mermaid` · 95,068 تثبيت
+404. **design-doc-mermaid** — `spillwavesolutions/design-doc-mermaid/design-doc-mermaid` · 96,374 تثبيت
    Mermaid Architect - Hierarchical Diagram and Documentation Skill
    `npx skills add https://github.com/spillwavesolutions/design-doc-mermaid --skill design-doc-mermaid`
 
-407. **algorithmic-art** — `anthropics/skills/algorithmic-art` · 94,469 تثبيت ⭐
-   Generative art creation using p5.js with seeded randomness and parametric exploration.
-   `npx skills add https://github.com/anthropics/skills --skill algorithmic-art`
+405. **obsidian-markdown** — `obsidianmd/obsidian-skills/obsidian-markdown` · 96,202 تثبيت
+   Obsidian Flavored Markdown Skill
+   `npx skills add https://github.com/obsidianmd/obsidian-skills --skill obsidian-markdown`
 
-408. **product-marketing** — `coreyhaines31/marketingskills/product-marketing` · 94,460 تثبيت
+406. **video** — `coreyhaines31/marketingskills/video` · 95,745 تثبيت
+   AI-powered video creation from scripts, templates, and generative models.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill video`
+
+407. **product-marketing** — `coreyhaines31/marketingskills/product-marketing` · 95,172 تثبيت
    You help users create and maintain a product marketing context document. This captures foundational positioning and messaging information that other m
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill product-marketing`
 
-409. **convex-performance-audit** — `convex/agent-skills/convex-performance-audit` · 94,263 تثبيت
-   Diagnose and fix performance problems in Convex applications, one problem class
-   `npx skills add https://github.com/convex/agent-skills --skill convex-performance-audit`
+408. **algorithmic-art** — `anthropics/skills/algorithmic-art` · 94,833 تثبيت ⭐
+   Generative art creation using p5.js with seeded randomness and parametric exploration.
+   `npx skills add https://github.com/anthropics/skills --skill algorithmic-art`
 
-410. **directory-submissions** — `coreyhaines31/marketingskills/directory-submissions` · 93,854 تثبيت
+409. **directory-submissions** — `coreyhaines31/marketingskills/directory-submissions` · 94,407 تثبيت
    Directory submissions: the foundation layer of distribution that passes backlinks and discovery surface area into your marketing pages.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill directory-submissions`
 
-411. **convex-setup-auth** — `convex/agent-skills/convex-setup-auth` · 93,853 تثبيت
-   Convex Authentication Setup
-   `npx skills add https://github.com/convex/agent-skills --skill convex-setup-auth`
+410. **convex-performance-audit** — `convex/agent-skills/convex-performance-audit` · 94,263 تثبيت
+   Diagnose and fix performance problems in Convex applications, one problem class
+   `npx skills add https://github.com/convex/agent-skills --skill convex-performance-audit`
 
-412. **convex-migration-helper** — `convex/agent-skills/convex-migration-helper` · 93,834 تثبيت
-   Safely migrate Convex schemas and data when making breaking changes.
-   `npx skills add https://github.com/convex/agent-skills --skill convex-migration-helper`
-
-413. **analytics** — `coreyhaines31/marketingskills/analytics` · 93,614 تثبيت
+411. **analytics** — `coreyhaines31/marketingskills/analytics` · 94,255 تثبيت
    You are an expert in analytics implementation and measurement. Your goal is to help set up tracking that provides actionable insights for marketing an
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill analytics`
 
-414. **ads** — `coreyhaines31/marketingskills/ads` · 92,274 تثبيت
+412. **convex-setup-auth** — `convex/agent-skills/convex-setup-auth` · 93,853 تثبيت
+   Convex Authentication Setup
+   `npx skills add https://github.com/convex/agent-skills --skill convex-setup-auth`
+
+413. **convex-migration-helper** — `convex/agent-skills/convex-migration-helper` · 93,834 تثبيت
+   Safely migrate Convex schemas and data when making breaking changes.
+   `npx skills add https://github.com/convex/agent-skills --skill convex-migration-helper`
+
+414. **ads** — `coreyhaines31/marketingskills/ads` · 92,915 تثبيت
    You are an expert performance marketer with direct access to ad platform accounts. Your goal is to help create, optimize, and scale paid advertising c
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill ads`
 
-415. **gsap** — `heygen-com/hyperframes/gsap` · 92,062 تثبيت
+415. **gsap** — `heygen-com/hyperframes/gsap` · 92,063 تثبيت
    GSAP animation reference for HyperFrames compositions with timelines, easing, transforms, and performance guidance.
    `npx skills add https://github.com/heygen-com/hyperframes --skill gsap`
 
-416. **gpt-image-2** — `prime-skills/runcomfy-agent-skills/gpt-image-2` · 91,376 تثبيت
+416. **gpt-image-2** — `prime-skills/runcomfy-agent-skills/gpt-image-2` · 91,813 تثبيت
    GPT Image 2 — Pro Pack on RunComfy
    `npx skills add https://github.com/prime-skills/runcomfy-agent-skills --skill gpt-image-2`
 
-417. **nx-workspace** — `nrwl/nx-ai-agents-config/nx-workspace` · 89,936 تثبيت
+417. **nx-workspace** — `nrwl/nx-ai-agents-config/nx-workspace` · 91,218 تثبيت
    This skill provides read-only exploration of Nx workspaces. Use it to understand workspace structure, project configuration, available targets, and de
    `npx skills add https://github.com/nrwl/nx-ai-agents-config --skill nx-workspace`
 
@@ -1680,2742 +1680,2762 @@
    Two-axis review of the diff between HEAD and a fixed point the user supplies:
    `npx skills add https://github.com/mattpocock/skills --skill review`
 
-419. **turborepo** — `vercel/turborepo/turborepo` · 89,694 تثبيت ⭐
+419. **turborepo** — `vercel/turborepo/turborepo` · 89,857 تثبيت ⭐
    Monorepo build system with intelligent task caching, parallel execution, and dependency graph orchestration.
    `npx skills add https://github.com/vercel/turborepo --skill turborepo`
 
-420. **website-to-hyperframes** — `heygen-com/hyperframes/website-to-hyperframes` · 89,314 تثبيت
-   Convert websites into professional HyperFrames videos with guided storyboarding and brand-aligned composition.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill website-to-hyperframes`
-
-421. **pricing** — `coreyhaines31/marketingskills/pricing` · 88,804 تثبيت
+420. **pricing** — `coreyhaines31/marketingskills/pricing` · 89,477 تثبيت
    You are an expert in SaaS pricing and monetization strategy. Your goal is to help design pricing that captures value, drives growth, and aligns with c
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill pricing`
 
-422. **co-marketing** — `coreyhaines31/marketingskills/co-marketing` · 88,295 تثبيت
+421. **website-to-hyperframes** — `heygen-com/hyperframes/website-to-hyperframes` · 89,314 تثبيت
+   Convert websites into professional HyperFrames videos with guided storyboarding and brand-aligned composition.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill website-to-hyperframes`
+
+422. **co-marketing** — `coreyhaines31/marketingskills/co-marketing` · 88,854 تثبيت
    Identify ideal co-marketing partners and plan joint campaigns that reach shared audiences.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill co-marketing`
 
-423. **schema** — `coreyhaines31/marketingskills/schema` · 87,908 تثبيت
+423. **schema** — `coreyhaines31/marketingskills/schema` · 88,599 تثبيت
    You are an expert in structured data and schema markup. Your goal is to implement schema.org markup that helps search engines understand content and e
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill schema`
 
-424. **launch** — `coreyhaines31/marketingskills/launch` · 87,097 تثبيت
+424. **launch** — `coreyhaines31/marketingskills/launch` · 87,715 تثبيت
    You are an expert in SaaS product launches and feature announcements. Your goal is to help users plan launches that build momentum, capture attention,
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill launch`
 
-425. **competitors** — `coreyhaines31/marketingskills/competitors` · 87,097 تثبيت
+425. **competitors** — `coreyhaines31/marketingskills/competitors` · 87,677 تثبيت
    Competitor & Alternative Pages
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill competitors`
 
-426. **emails** — `coreyhaines31/marketingskills/emails` · 87,001 تثبيت
+426. **emails** — `coreyhaines31/marketingskills/emails` · 87,618 تثبيت
    You are an expert in email marketing and automation. Your goal is to create email sequences that nurture relationships, drive action, and move people 
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill emails`
 
-427. **gsap-core** — `greensock/gsap-skills/gsap-core` · 86,773 تثبيت
+427. **gsap-core** — `greensock/gsap-skills/gsap-core` · 87,593 تثبيت
    Core JavaScript animation library with tweens, easing, stagger, and responsive media queries.
    `npx skills add https://github.com/greensock/gsap-skills --skill gsap-core`
 
-428. **azure-observability** — `microsoft/azure-skills/azure-observability` · 86,214 تثبيت ⭐
-   Query metrics, logs, and traces across Azure Monitor, Application Insights, and Log Analytics.
-   `npx skills add https://github.com/microsoft/azure-skills --skill azure-observability`
-
-429. **ab-testing** — `coreyhaines31/marketingskills/ab-testing` · 85,948 تثبيت
+428. **ab-testing** — `coreyhaines31/marketingskills/ab-testing` · 86,539 تثبيت
    You are an expert in experimentation and A/B testing. Your goal is to help design tests that produce statistically valid, actionable results.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill ab-testing`
 
-430. **internal-comms** — `anthropics/skills/internal-comms` · 85,257 تثبيت ⭐
+429. **azure-observability** — `microsoft/azure-skills/azure-observability` · 86,214 تثبيت ⭐
+   Query metrics, logs, and traces across Azure Monitor, Application Insights, and Log Analytics.
+   `npx skills add https://github.com/microsoft/azure-skills --skill azure-observability`
+
+430. **code-review-and-quality** — `addyosmani/agent-skills/code-review-and-quality` · 86,070 تثبيت
+   Multi-dimensional code review with quality gates. Every change gets reviewed before merge — no exceptions. Review covers five axes: correctness, reada
+   `npx skills add https://github.com/addyosmani/agent-skills --skill code-review-and-quality`
+
+431. **internal-comms** — `anthropics/skills/internal-comms` · 85,591 تثبيت ⭐
    Templates and guidelines for writing company-standard internal communications across multiple formats.
    `npx skills add https://github.com/anthropics/skills --skill internal-comms`
 
-431. **firecrawl-search** — `firecrawl/cli/firecrawl-search` · 85,204 تثبيت ⭐
+432. **firecrawl-search** — `firecrawl/cli/firecrawl-search` · 85,234 تثبيت ⭐
    Web search with optional full-page content extraction from results.
    `npx skills add https://github.com/firecrawl/cli --skill firecrawl-search`
 
-432. **browser-act-skill-forge** — `browser-act/skills/browser-act-skill-forge` · 85,201 تثبيت
+433. **browser-act-skill-forge** — `browser-act/skills/browser-act-skill-forge` · 85,202 تثبيت
    Built by BrowserAct — Your Personal Scraping Engineer · GitHub
    `npx skills add https://github.com/browser-act/skills --skill browser-act-skill-forge`
-
-433. **code-review-and-quality** — `addyosmani/agent-skills/code-review-and-quality` · 85,188 تثبيت
-   Multi-dimensional code review with quality gates. Every change gets reviewed before merge — no exceptions. Review covers five axes: correctness, reada
-   `npx skills add https://github.com/addyosmani/agent-skills --skill code-review-and-quality`
 
 434. **polish** — `pbakaus/impeccable/polish` · 85,171 تثبيت
    Final quality pass catching alignment, spacing, consistency, and interaction details before shipping.
    `npx skills add https://github.com/pbakaus/impeccable --skill polish`
 
-435. **obsidian-cli** — `kepano/obsidian-skills/obsidian-cli` · 84,685 تثبيت
-   Read, create, search, and manage Obsidian vault notes via CLI with built-in plugin development and debugging tools.
-   `npx skills add https://github.com/kepano/obsidian-skills --skill obsidian-cli`
+435. **obsidian-cli** — `obsidianmd/obsidian-skills/obsidian-cli` · 85,118 تثبيت
+   Use the obsidian CLI to interact with a running Obsidian instance. Requires Obsidian to be open.
+   `npx skills add https://github.com/obsidianmd/obsidian-skills --skill obsidian-cli`
 
-436. **gws-gmail** — `googleworkspace/cli/gws-gmail` · 84,580 تثبيت ⭐
+436. **gws-gmail** — `googleworkspace/cli/gws-gmail` · 84,750 تثبيت ⭐
    Send, read, and manage Gmail messages, drafts, labels, and account settings.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail`
 
-437. **firecrawl-scrape** — `firecrawl/cli/firecrawl-scrape` · 84,292 تثبيت ⭐
-   Extract clean markdown from any URL, including JavaScript-rendered single-page applications.
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-scrape`
-
-438. **aso** — `coreyhaines31/marketingskills/aso` · 83,846 تثبيت
+437. **aso** — `coreyhaines31/marketingskills/aso` · 84,414 تثبيت
    Analyze App Store and Google Play listings against ASO best practices. Fetches
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill aso`
 
-439. **gsap-scrolltrigger** — `greensock/gsap-skills/gsap-scrolltrigger` · 83,162 تثبيت
+438. **firecrawl-scrape** — `firecrawl/cli/firecrawl-scrape` · 84,325 تثبيت ⭐
+   Extract clean markdown from any URL, including JavaScript-rendered single-page applications.
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-scrape`
+
+439. **gsap-scrolltrigger** — `greensock/gsap-skills/gsap-scrolltrigger` · 83,950 تثبيت
    Scroll-linked animations, pinning, scrubbing, and trigger-based callbacks for GSAP timelines and tweens.
    `npx skills add https://github.com/greensock/gsap-skills --skill gsap-scrolltrigger`
 
-440. **critique** — `pbakaus/impeccable/critique` · 82,637 تثبيت
-   Evaluate design effectiveness across visual hierarchy, information architecture, emotional resonance, and user experience quality.
-   `npx skills add https://github.com/pbakaus/impeccable --skill critique`
-
-441. **obsidian-bases** — `kepano/obsidian-skills/obsidian-bases` · 82,565 تثبيت
-   Create database-like views of Obsidian notes using .base files with filters, formulas, and multiple display modes.
-   `npx skills add https://github.com/kepano/obsidian-skills --skill obsidian-bases`
-
-442. **security-and-hardening** — `addyosmani/agent-skills/security-and-hardening` · 82,474 تثبيت
+440. **security-and-hardening** — `addyosmani/agent-skills/security-and-hardening` · 83,358 تثبيت
    Security-first development practices for web applications. Treat every external input as hostile, every secret as sacred, and every authorization chec
    `npx skills add https://github.com/addyosmani/agent-skills --skill security-and-hardening`
 
-443. **herdr** — `herdrdev/herdr/herdr` · 82,079 تثبيت
+441. **obsidian-bases** — `obsidianmd/obsidian-skills/obsidian-bases` · 82,726 تثبيت
+   Create the file: Create a .base file in the vault with valid YAML content
+   `npx skills add https://github.com/obsidianmd/obsidian-skills --skill obsidian-bases`
+
+442. **herdr** — `herdrdev/herdr/herdr` · 82,681 تثبيت
    Herdr organizes terminals into workspaces, tabs, and panes, recognizes coding agents running inside panes, and exposes the current session through the
    `npx skills add https://github.com/herdrdev/herdr --skill herdr`
 
-444. **firecrawl-agent** — `firecrawl/cli/firecrawl-agent` · 81,942 تثبيت ⭐
-   AI-powered autonomous extraction of structured data from complex multi-page websites.
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-agent`
+443. **critique** — `pbakaus/impeccable/critique` · 82,637 تثبيت
+   Evaluate design effectiveness across visual hierarchy, information architecture, emotional resonance, and user experience quality.
+   `npx skills add https://github.com/pbakaus/impeccable --skill critique`
 
-445. **free-tools** — `coreyhaines31/marketingskills/free-tools` · 81,935 تثبيت
-   Free Tool Strategy (Engineering as Marketing)
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill free-tools`
-
-446. **onboarding** — `coreyhaines31/marketingskills/onboarding` · 81,919 تثبيت
+444. **onboarding** — `coreyhaines31/marketingskills/onboarding` · 82,497 تثبيت
    You are an expert in user onboarding and activation. Your goal is to help users reach their "aha moment" as quickly as possible and establish habits t
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill onboarding`
 
-447. **audit** — `pbakaus/impeccable/audit` · 81,858 تثبيت
-   Systematic quality audit across accessibility, performance, theming, and responsive design with prioritized findings.
-   `npx skills add https://github.com/pbakaus/impeccable --skill audit`
+445. **free-tools** — `coreyhaines31/marketingskills/free-tools` · 82,492 تثبيت
+   Free Tool Strategy (Engineering as Marketing)
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill free-tools`
 
-448. **animate** — `pbakaus/impeccable/animate` · 81,731 تثبيت
-   Strategic animation and micro-interaction enhancement for improved usability and delight.
-   `npx skills add https://github.com/pbakaus/impeccable --skill animate`
-
-449. **adapt** — `pbakaus/impeccable/adapt` · 81,720 تثبيت
-   Rethink designs for different screens, devices, and contexts while maintaining consistency.
-   `npx skills add https://github.com/pbakaus/impeccable --skill adapt`
-
-450. **firecrawl-crawl** — `firecrawl/cli/firecrawl-crawl` · 81,303 تثبيت ⭐
-   Bulk extract content from entire websites or site sections with depth and path filtering.
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-crawl`
-
-451. **sandbox-stable** — `cloudflare/skills/sandbox-stable` · 81,301 تثبيت ⭐
+446. **sandbox-stable** — `cloudflare/skills/sandbox-stable` · 82,194 تثبيت ⭐
    Sandbox SDK — stable package
    `npx skills add https://github.com/cloudflare/skills --skill sandbox-stable`
 
-452. **clarify** — `pbakaus/impeccable/clarify` · 81,211 تثبيت
-   Identify and improve unclear interface text to make products easier to understand and use.
-   `npx skills add https://github.com/pbakaus/impeccable --skill clarify`
+447. **firecrawl-agent** — `firecrawl/cli/firecrawl-agent` · 81,970 تثبيت ⭐
+   AI-powered autonomous extraction of structured data from complex multi-page websites.
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-agent`
 
-453. **optimize** — `pbakaus/impeccable/optimize` · 81,054 تثبيت
-   Systematically identify and fix performance bottlenecks across loading, rendering, animations, and bundle size.
-   `npx skills add https://github.com/pbakaus/impeccable --skill optimize`
+448. **audit** — `pbakaus/impeccable/audit` · 81,858 تثبيت
+   Systematic quality audit across accessibility, performance, theming, and responsive design with prioritized findings.
+   `npx skills add https://github.com/pbakaus/impeccable --skill audit`
 
-454. **colorize** — `pbakaus/impeccable/colorize` · 80,875 تثبيت
-   Strategically introduce color to monochromatic designs while maintaining hierarchy, accessibility, and visual restraint.
-   `npx skills add https://github.com/pbakaus/impeccable --skill colorize`
+449. **animate** — `pbakaus/impeccable/animate` · 81,731 تثبيت
+   Strategic animation and micro-interaction enhancement for improved usability and delight.
+   `npx skills add https://github.com/pbakaus/impeccable --skill animate`
 
-455. **agentix-ceo** — `agentix-cloud/skills/agentix-ceo` · 80,830 تثبيت
-   Orchestrate a team of AI workers — create roles, assign tasks, spawn ephemeral agents, and monitor progress.
-   `npx skills add https://github.com/agentix-cloud/skills --skill agentix-ceo`
+450. **adapt** — `pbakaus/impeccable/adapt` · 81,720 تثبيت
+   Rethink designs for different screens, devices, and contexts while maintaining consistency.
+   `npx skills add https://github.com/pbakaus/impeccable --skill adapt`
 
-456. **firecrawl-map** — `firecrawl/cli/firecrawl-map` · 80,827 تثبيت ⭐
-   Discover and filter URLs on a website, with optional search to locate specific pages.
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-map`
-
-457. **sandbox-next** — `cloudflare/skills/sandbox-next` · 80,546 تثبيت ⭐
+451. **sandbox-next** — `cloudflare/skills/sandbox-next` · 81,433 تثبيت ⭐
    Sandbox SDK — @next (1.0 preview)
    `npx skills add https://github.com/cloudflare/skills --skill sandbox-next`
 
-458. **sandbox-migrate-to-next** — `cloudflare/skills/sandbox-migrate-to-next` · 80,446 تثبيت ⭐
+452. **sandbox-migrate-to-next** — `cloudflare/skills/sandbox-migrate-to-next` · 81,333 تثبيت ⭐
    Migrate stable → Sandbox SDK 1.0 preview (@next)
    `npx skills add https://github.com/cloudflare/skills --skill sandbox-migrate-to-next`
 
-459. **firecrawl-download** — `firecrawl/cli/firecrawl-download` · 80,413 تثبيت ⭐
-   Download entire websites as organized local files in multiple formats.
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-download`
+453. **firecrawl-crawl** — `firecrawl/cli/firecrawl-crawl` · 81,330 تثبيت ⭐
+   Bulk extract content from entire websites or site sections with depth and path filtering.
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-crawl`
 
-460. **referrals** — `coreyhaines31/marketingskills/referrals` · 80,243 تثبيت
+454. **agentix-ceo** — `agentix-cloud/skills/agentix-ceo` · 81,303 تثبيت
+   Orchestrate a team of AI workers — create roles, assign tasks, spawn ephemeral agents, and monitor progress.
+   `npx skills add https://github.com/agentix-cloud/skills --skill agentix-ceo`
+
+455. **clarify** — `pbakaus/impeccable/clarify` · 81,211 تثبيت
+   Identify and improve unclear interface text to make products easier to understand and use.
+   `npx skills add https://github.com/pbakaus/impeccable --skill clarify`
+
+456. **optimize** — `pbakaus/impeccable/optimize` · 81,054 تثبيت
+   Systematically identify and fix performance bottlenecks across loading, rendering, animations, and bundle size.
+   `npx skills add https://github.com/pbakaus/impeccable --skill optimize`
+
+457. **colorize** — `pbakaus/impeccable/colorize` · 80,875 تثبيت
+   Strategically introduce color to monochromatic designs while maintaining hierarchy, accessibility, and visual restraint.
+   `npx skills add https://github.com/pbakaus/impeccable --skill colorize`
+
+458. **firecrawl-map** — `firecrawl/cli/firecrawl-map` · 80,855 تثبيت ⭐
+   Discover and filter URLs on a website, with optional search to locate specific pages.
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-map`
+
+459. **referrals** — `coreyhaines31/marketingskills/referrals` · 80,822 تثبيت
    Referral & Affiliate Programs
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill referrals`
 
-461. **bolder** — `pbakaus/impeccable/bolder` · 80,008 تثبيت
-   Amplify safe or generic designs with intentional drama, distinctive choices, and visual confidence while maintaining usability.
-   `npx skills add https://github.com/pbakaus/impeccable --skill bolder`
-
-462. **gsap-performance** — `greensock/gsap-skills/gsap-performance` · 79,897 تثبيت
+460. **gsap-performance** — `greensock/gsap-skills/gsap-performance` · 80,646 تثبيت
    Optimize GSAP animations for smooth 60fps by favoring transforms, batching DOM operations, and avoiding layout thrashing.
    `npx skills add https://github.com/greensock/gsap-skills --skill gsap-performance`
 
-463. **slack-gif-creator** — `anthropics/skills/slack-gif-creator` · 79,856 تثبيت ⭐
-   Toolkit for creating animated GIFs optimized for Slack with validation and animation utilities.
-   `npx skills add https://github.com/anthropics/skills --skill slack-gif-creator`
-
-464. **delight** — `pbakaus/impeccable/delight` · 79,846 تثبيت
-   Transform functional interfaces into memorable experiences through subtle personality, micro-interactions, and unexpected moments of joy.
-   `npx skills add https://github.com/pbakaus/impeccable --skill delight`
-
-465. **gsap-timeline** — `greensock/gsap-skills/gsap-timeline` · 79,840 تثبيت
+461. **gsap-timeline** — `greensock/gsap-skills/gsap-timeline` · 80,621 تثبيت
    Sequence and choreograph multi-step animations with precise timing control and nested timelines.
    `npx skills add https://github.com/greensock/gsap-skills --skill gsap-timeline`
 
-466. **signup** — `coreyhaines31/marketingskills/signup` · 79,802 تثبيت
+462. **firecrawl-download** — `firecrawl/cli/firecrawl-download` · 80,440 تثبيت ⭐
+   Download entire websites as organized local files in multiple formats.
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-download`
+
+463. **signup** — `coreyhaines31/marketingskills/signup` · 80,366 تثبيت
    You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for succes
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill signup`
 
-467. **distill** — `pbakaus/impeccable/distill` · 79,457 تثبيت
-   Strip designs to their essence by removing unnecessary complexity and revealing core functionality.
-   `npx skills add https://github.com/pbakaus/impeccable --skill distill`
+464. **slack-gif-creator** — `anthropics/skills/slack-gif-creator` · 80,176 تثبيت ⭐
+   Toolkit for creating animated GIFs optimized for Slack with validation and animation utilities.
+   `npx skills add https://github.com/anthropics/skills --skill slack-gif-creator`
 
-468. **claude-api** — `anthropics/skills/claude-api` · 79,249 تثبيت ⭐
-   Claude API integration for building LLM-powered applications across Python, TypeScript, Java, Go, Ruby, C#, and PHP.
-   `npx skills add https://github.com/anthropics/skills --skill claude-api`
+465. **bolder** — `pbakaus/impeccable/bolder` · 80,008 تثبيت
+   Amplify safe or generic designs with intentional drama, distinctive choices, and visual confidence while maintaining usability.
+   `npx skills add https://github.com/pbakaus/impeccable --skill bolder`
 
-469. **frontend-ui-engineering** — `addyosmani/agent-skills/frontend-ui-engineering` · 78,841 تثبيت
+466. **delight** — `pbakaus/impeccable/delight` · 79,846 تثبيت
+   Transform functional interfaces into memorable experiences through subtle personality, micro-interactions, and unexpected moments of joy.
+   `npx skills add https://github.com/pbakaus/impeccable --skill delight`
+
+467. **frontend-ui-engineering** — `addyosmani/agent-skills/frontend-ui-engineering` · 79,679 تثبيت
    Build production-quality user interfaces that are accessible, performant, and visually polished. The goal is UI that looks like it was built by a desi
    `npx skills add https://github.com/addyosmani/agent-skills --skill frontend-ui-engineering`
 
-470. **paywalls** — `coreyhaines31/marketingskills/paywalls` · 78,773 تثبيت
+468. **claude-api** — `anthropics/skills/claude-api` · 79,595 تثبيت ⭐
+   Claude API integration for building LLM-powered applications across Python, TypeScript, Java, Go, Ruby, C#, and PHP.
+   `npx skills add https://github.com/anthropics/skills --skill claude-api`
+
+469. **distill** — `pbakaus/impeccable/distill` · 79,457 تثبيت
+   Strip designs to their essence by removing unnecessary complexity and revealing core functionality.
+   `npx skills add https://github.com/pbakaus/impeccable --skill distill`
+
+470. **paywalls** — `coreyhaines31/marketingskills/paywalls` · 79,333 تثبيت
    Paywall and Upgrade Screen CRO
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill paywalls`
 
-471. **quieter** — `pbakaus/impeccable/quieter` · 78,654 تثبيت
-   Reduce visual intensity in designs while preserving refinement, sophistication, and functional clarity.
-   `npx skills add https://github.com/pbakaus/impeccable --skill quieter`
-
-472. **popups** — `coreyhaines31/marketingskills/popups` · 78,528 تثبيت
+471. **popups** — `coreyhaines31/marketingskills/popups` · 79,085 تثبيت
    You are an expert in popup and modal optimization. Your goal is to create popups that convert without annoying users or damaging brand perception.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill popups`
 
-473. **amazon-product-research** — `nexscope-ai/amazon-skills/amazon-product-research` · 78,326 تثبيت
-   Complete product research framework for Amazon sellers. Validate ideas, analyze opportunities, assess competition.
-   `npx skills add https://github.com/nexscope-ai/amazon-skills --skill amazon-product-research`
-
-474. **gsap-plugins** — `greensock/gsap-skills/gsap-plugins` · 77,272 تثبيت
-   Complete toolkit for GSAP plugins: scroll, DOM layout, dragging, text splitting, SVG morphing, easing, and physics.
-   `npx skills add https://github.com/greensock/gsap-skills --skill gsap-plugins`
-
-475. **json-canvas** — `kepano/obsidian-skills/json-canvas` · 77,088 تثبيت
-   Create and edit JSON Canvas files with nodes, edges, groups, and visual connections.
-   `npx skills add https://github.com/kepano/obsidian-skills --skill json-canvas`
-
-476. **defuddle** — `kepano/obsidian-skills/defuddle` · 76,892 تثبيت
-   Extract clean markdown from web pages, removing clutter and navigation to minimize token usage.
-   `npx skills add https://github.com/kepano/obsidian-skills --skill defuddle`
-
-477. **gws-drive** — `googleworkspace/cli/gws-drive` · 76,784 تثبيت ⭐
-   Complete Google Drive API access for file, folder, and shared drive management.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-drive`
-
-478. **marketing-plan** — `coreyhaines31/marketingskills/marketing-plan` · 76,775 تثبيت
-   You are an expert marketing strategist operating at fCMO (fractional CMO) level. Your job is to produce a comprehensive, executable 12-month marketing
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-plan`
-
-479. **make-interfaces-feel-better** — `jakubkrehel/make-interfaces-feel-better/make-interfaces-feel-better` · 76,252 تثبيت
-   Practical design engineering principles for polishing UI components and interactions.
-   `npx skills add https://github.com/jakubkrehel/make-interfaces-feel-better --skill make-interfaces-feel-better`
-
-480. **gsap-react** — `greensock/gsap-skills/gsap-react` · 76,210 تثبيت
-   Official GSAP integration for React with useGSAP hook, automatic cleanup, and scoped selectors.
-   `npx skills add https://github.com/greensock/gsap-skills --skill gsap-react`
-
-481. **gws-gmail-send** — `googleworkspace/cli/gws-gmail-send` · 76,201 تثبيت ⭐
-   Send emails via Gmail with support for attachments, HTML formatting, and send-as aliases.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-send`
-
-482. **performance-optimization** — `addyosmani/agent-skills/performance-optimization` · 76,153 تثبيت
-   Measure before optimizing. Performance work without measurement is guessing — and guessing leads to premature optimization that adds complexity withou
-   `npx skills add https://github.com/addyosmani/agent-skills --skill performance-optimization`
-
-483. **animation-performance** — `emilkowalski/skills/animation-performance` · 76,016 تثبيت
+472. **animation-performance** — `emilkowalski/skills/animation-performance` · 78,760 تثبيت
    When this skill is first invoked without a specific question, respond only with:
    `npx skills add https://github.com/emilkowalski/skills --skill animation-performance`
 
-484. **upgrade-stripe** — `stripe/ai/upgrade-stripe` · 75,651 تثبيت ⭐
-   Choose a target API version
-   `npx skills add https://github.com/stripe/ai --skill upgrade-stripe`
+473. **quieter** — `pbakaus/impeccable/quieter` · 78,654 تثبيت
+   Reduce visual intensity in designs while preserving refinement, sophistication, and functional clarity.
+   `npx skills add https://github.com/pbakaus/impeccable --skill quieter`
 
-485. **spec-driven-development** — `addyosmani/agent-skills/spec-driven-development` · 75,631 تثبيت
+474. **amazon-product-research** — `nexscope-ai/amazon-skills/amazon-product-research` · 78,332 تثبيت
+   Complete product research framework for Amazon sellers. Validate ideas, analyze opportunities, assess competition.
+   `npx skills add https://github.com/nexscope-ai/amazon-skills --skill amazon-product-research`
+
+475. **gsap-plugins** — `greensock/gsap-skills/gsap-plugins` · 78,000 تثبيت
+   Complete toolkit for GSAP plugins: scroll, DOM layout, dragging, text splitting, SVG morphing, easing, and physics.
+   `npx skills add https://github.com/greensock/gsap-skills --skill gsap-plugins`
+
+476. **marketing-plan** — `coreyhaines31/marketingskills/marketing-plan` · 77,408 تثبيت
+   You are an expert marketing strategist operating at fCMO (fractional CMO) level. Your job is to produce a comprehensive, executable 12-month marketing
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-plan`
+
+477. **json-canvas** — `obsidianmd/obsidian-skills/json-canvas` · 77,247 تثبيت
+   A canvas file (.canvas) contains two top-level arrays following the JSON Canvas Spec 1.0:
+   `npx skills add https://github.com/obsidianmd/obsidian-skills --skill json-canvas`
+
+478. **defuddle** — `obsidianmd/obsidian-skills/defuddle` · 77,043 تثبيت
+   Use Defuddle CLI to extract clean readable content from web pages. Prefer over WebFetch for standard web pages — it removes navigation, ads, and clutt
+   `npx skills add https://github.com/obsidianmd/obsidian-skills --skill defuddle`
+
+479. **performance-optimization** — `addyosmani/agent-skills/performance-optimization` · 76,968 تثبيت
+   Measure before optimizing. Performance work without measurement is guessing — and guessing leads to premature optimization that adds complexity withou
+   `npx skills add https://github.com/addyosmani/agent-skills --skill performance-optimization`
+
+480. **gws-drive** — `googleworkspace/cli/gws-drive` · 76,928 تثبيت ⭐
+   Complete Google Drive API access for file, folder, and shared drive management.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-drive`
+
+481. **gsap-react** — `greensock/gsap-skills/gsap-react` · 76,912 تثبيت
+   Official GSAP integration for React with useGSAP hook, automatic cleanup, and scoped selectors.
+   `npx skills add https://github.com/greensock/gsap-skills --skill gsap-react`
+
+482. **defuddle** — `kepano/obsidian-skills/defuddle` · 76,892 تثبيت
+   Extract clean markdown from web pages, removing clutter and navigation to minimize token usage.
+   `npx skills add https://github.com/kepano/obsidian-skills --skill defuddle`
+
+483. **spec-driven-development** — `addyosmani/agent-skills/spec-driven-development` · 76,433 تثبيت
    Write a structured specification before writing any code. The spec is the shared source of truth between you and the human engineer — it defines what 
    `npx skills add https://github.com/addyosmani/agent-skills --skill spec-driven-development`
 
-486. **template-skill** — `anthropics/skills/template-skill` · 75,102 تثبيت ⭐
-   Replace with description of the skill and when Claude should use it.
-   `npx skills add https://github.com/anthropics/skills --skill template-skill`
+484. **make-interfaces-feel-better** — `jakubkrehel/make-interfaces-feel-better/make-interfaces-feel-better` · 76,424 تثبيت
+   Practical design engineering principles for polishing UI components and interactions.
+   `npx skills add https://github.com/jakubkrehel/make-interfaces-feel-better --skill make-interfaces-feel-better`
 
-487. **expo-dev-client** — `expo/skills/expo-dev-client` · 74,963 تثبيت ⭐
-   Build custom Expo development clients for testing native code on physical devices via EAS Build or locally.
-   `npx skills add https://github.com/expo/skills --skill expo-dev-client`
+485. **gws-gmail-send** — `googleworkspace/cli/gws-gmail-send` · 76,280 تثبيت ⭐
+   Send emails via Gmail with support for attachments, HTML formatting, and send-as aliases.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-send`
 
-488. **audit-website** — `squirrelscan/skills/audit-website` · 74,957 تثبيت
-   Comprehensive website auditing across 230+ rules in 21 categories including SEO, performance, security, and accessibility.
-   `npx skills add https://github.com/squirrelscan/skills --skill audit-website`
+486. **upgrade-stripe** — `stripe/ai/upgrade-stripe` · 75,784 تثبيت ⭐
+   Choose a target API version
+   `npx skills add https://github.com/stripe/ai --skill upgrade-stripe`
 
-489. **gsap-utils** — `greensock/gsap-skills/gsap-utils` · 74,823 تثبيت
+487. **gsap-utils** — `greensock/gsap-skills/gsap-utils` · 75,517 تثبيت
    Pure utility functions for math, value mapping, randomization, array handling, and unit parsing in GSAP animations.
    `npx skills add https://github.com/greensock/gsap-skills --skill gsap-utils`
 
-490. **wonda-cli** — `degausai/wonda/wonda-cli` · 74,605 تثبيت
-   Terminal-based content creation and social automation toolkit for AI agents.
-   `npx skills add https://github.com/degausai/wonda --skill wonda-cli`
+488. **template-skill** — `anthropics/skills/template-skill` · 75,379 تثبيت ⭐
+   Replace with description of the skill and when Claude should use it.
+   `npx skills add https://github.com/anthropics/skills --skill template-skill`
 
-491. **documentation-and-adrs** — `addyosmani/agent-skills/documentation-and-adrs` · 74,471 تثبيت
+489. **documentation-and-adrs** — `addyosmani/agent-skills/documentation-and-adrs` · 75,268 تثبيت
    Document decisions, not just code. The most valuable documentation captures the why — the context, constraints, and trade-offs that led to a decision.
    `npx skills add https://github.com/addyosmani/agent-skills --skill documentation-and-adrs`
 
-492. **planning-and-task-breakdown** — `addyosmani/agent-skills/planning-and-task-breakdown` · 74,468 تثبيت
+490. **planning-and-task-breakdown** — `addyosmani/agent-skills/planning-and-task-breakdown` · 75,262 تثبيت
    Planning and Task Breakdown
    `npx skills add https://github.com/addyosmani/agent-skills --skill planning-and-task-breakdown`
 
-493. **prospecting** — `coreyhaines31/marketingskills/prospecting` · 73,885 تثبيت
+491. **expo-dev-client** — `expo/skills/expo-dev-client` · 75,184 تثبيت ⭐
+   Build custom Expo development clients for testing native code on physical devices via EAS Build or locally.
+   `npx skills add https://github.com/expo/skills --skill expo-dev-client`
+
+492. **audit-website** — `squirrelscan/skills/audit-website` · 74,982 تثبيت
+   Comprehensive website auditing across 230+ rules in 21 categories including SEO, performance, security, and accessibility.
+   `npx skills add https://github.com/squirrelscan/skills --skill audit-website`
+
+493. **wonda-cli** — `degausai/wonda/wonda-cli` · 74,605 تثبيت
+   Terminal-based content creation and social automation toolkit for AI agents.
+   `npx skills add https://github.com/degausai/wonda --skill wonda-cli`
+
+494. **prospecting** — `coreyhaines31/marketingskills/prospecting` · 74,485 تثبيت
    You are an expert at building qualified prospect lists across four motions: B2B SaaS, general B2B, local small businesses, and early-stage demand-sign
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill prospecting`
 
-494. **code-simplification** — `addyosmani/agent-skills/code-simplification` · 73,580 تثبيت
+495. **code-simplification** — `addyosmani/agent-skills/code-simplification` · 74,375 تثبيت
    Inspired by the Claude Code Simplifier plugin. Adapted here as a model-agnostic, process-driven skill for any AI coding agent.
    `npx skills add https://github.com/addyosmani/agent-skills --skill code-simplification`
 
-495. **api-and-interface-design** — `addyosmani/agent-skills/api-and-interface-design` · 73,459 تثبيت
+496. **api-and-interface-design** — `addyosmani/agent-skills/api-and-interface-design` · 74,262 تثبيت
    Design stable, well-documented interfaces that are hard to misuse. Good interfaces make the right thing easy and the wrong thing hard. This applies to
    `npx skills add https://github.com/addyosmani/agent-skills --skill api-and-interface-design`
 
-496. **debugging-and-error-recovery** — `addyosmani/agent-skills/debugging-and-error-recovery` · 73,377 تثبيت
+497. **debugging-and-error-recovery** — `addyosmani/agent-skills/debugging-and-error-recovery` · 74,165 تثبيت
    Debugging and Error Recovery
    `npx skills add https://github.com/addyosmani/agent-skills --skill debugging-and-error-recovery`
 
-497. **tailwind-design-system** — `wshobson/agents/tailwind-design-system` · 72,935 تثبيت
+498. **tailwind-design-system** — `wshobson/agents/tailwind-design-system` · 73,102 تثبيت
    CSS-first design system framework for Tailwind v4 with tokens, components, and responsive patterns.
    `npx skills add https://github.com/wshobson/agents --skill tailwind-design-system`
 
-498. **css-animations** — `heygen-com/hyperframes/css-animations` · 72,306 تثبيت
-   CSS keyframe animations for HyperFrames with deterministic seeking and preview support.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill css-animations`
-
-499. **sms** — `coreyhaines31/marketingskills/sms` · 72,142 تثبيت
-   You are an expert in SMS and MMS marketing for direct-to-consumer brands, mobile apps, and SaaS products with high-engagement use cases. Your goal is 
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill sms`
-
-500. **context-engineering** — `addyosmani/agent-skills/context-engineering` · 72,028 تثبيت
+499. **context-engineering** — `addyosmani/agent-skills/context-engineering` · 72,812 تثبيت
    Feed agents the right information at the right time. Context is the single biggest lever for agent output quality — too little and the agent hallucina
    `npx skills add https://github.com/addyosmani/agent-skills --skill context-engineering`
 
-501. **agently-mail** — `agent.qq.com/agently-mail` · 71,991 تثبيت
-   通过 agently-cli 命令行工具操作邮件，通过管理端 (agent.qq.com) 进行后台管理。
-   `npx skills add https://agent.qq.com/`
+500. **sms** — `coreyhaines31/marketingskills/sms` · 72,698 تثبيت
+   You are an expert in SMS and MMS marketing for direct-to-consumer brands, mobile apps, and SaaS products with high-engagement use cases. Your goal is 
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill sms`
 
-502. **incremental-implementation** — `addyosmani/agent-skills/incremental-implementation` · 71,922 تثبيت
+501. **incremental-implementation** — `addyosmani/agent-skills/incremental-implementation` · 72,695 تثبيت
    Incremental Implementation
    `npx skills add https://github.com/addyosmani/agent-skills --skill incremental-implementation`
 
-503. **gsap-frameworks** — `greensock/gsap-skills/gsap-frameworks` · 71,647 تثبيت
+502. **gsap-frameworks** — `greensock/gsap-skills/gsap-frameworks` · 72,315 تثبيت
    GSAP animation setup for Vue, Svelte, Nuxt, and other component frameworks with lifecycle management.
    `npx skills add https://github.com/greensock/gsap-skills --skill gsap-frameworks`
 
-504. **stripe-projects** — `stripe/ai/stripe-projects` · 71,462 تثبيت ⭐
+503. **css-animations** — `heygen-com/hyperframes/css-animations` · 72,306 تثبيت
+   CSS keyframe animations for HyperFrames with deterministic seeking and preview support.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill css-animations`
+
+504. **agently-mail** — `agent.qq.com/agently-mail` · 72,160 تثبيت
+   通过 agently-cli 命令行工具操作邮件，通过管理端 (agent.qq.com) 进行后台管理。
+   `npx skills add https://agent.qq.com/`
+
+505. **stripe-projects** — `stripe/ai/stripe-projects` · 71,571 تثبيت ⭐
    Stripe Projects — Service Provisioning
    `npx skills add https://github.com/stripe/ai --skill stripe-projects`
 
-505. **tailwind** — `heygen-com/hyperframes/tailwind` · 70,553 تثبيت
+506. **tailwind** — `heygen-com/hyperframes/tailwind` · 70,553 تثبيت
    Tailwind v4 browser-runtime patterns for HyperFrames video compositions with deterministic rendering.
    `npx skills add https://github.com/heygen-com/hyperframes --skill tailwind`
 
-506. **animejs** — `heygen-com/hyperframes/animejs` · 70,010 تثبيت
-   Anime.js adapter for HyperFrames that makes animations seek-driven and deterministic.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill animejs`
-
-507. **git-workflow-and-versioning** — `addyosmani/agent-skills/git-workflow-and-versioning` · 69,761 تثبيت
+507. **git-workflow-and-versioning** — `addyosmani/agent-skills/git-workflow-and-versioning` · 70,539 تثبيت
    Git Workflow and Versioning
    `npx skills add https://github.com/addyosmani/agent-skills --skill git-workflow-and-versioning`
 
-508. **ai-sdk** — `vercel/ai/ai-sdk` · 69,640 تثبيت ⭐
-   AI SDK documentation and guidance for building AI-powered features with Vercel's framework.
-   `npx skills add https://github.com/vercel/ai --skill ai-sdk`
+508. **animejs** — `heygen-com/hyperframes/animejs` · 70,010 تثبيت
+   Anime.js adapter for HyperFrames that makes animations seek-driven and deterministic.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill animejs`
 
-509. **three** — `heygen-com/hyperframes/three` · 69,320 تثبيت
-   Deterministic Three.js scene rendering synchronized to HyperFrames timeline events.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill three`
-
-510. **accessibility** — `addyosmani/web-quality-skills/accessibility` · 69,269 تثبيت
-   Audit and improve web accessibility following WCAG 2.2 guidelines and best practices.
-   `npx skills add https://github.com/addyosmani/web-quality-skills --skill accessibility`
-
-511. **idea-refine** — `addyosmani/agent-skills/idea-refine` · 69,237 تثبيت
+509. **idea-refine** — `addyosmani/agent-skills/idea-refine` · 69,991 تثبيت
    Refines raw ideas into sharp, actionable concepts worth building through structured divergent and convergent thinking.
    `npx skills add https://github.com/addyosmani/agent-skills --skill idea-refine`
 
-512. **lottie** — `heygen-com/hyperframes/lottie` · 69,051 تثبيت
-   Embed and seek lottie-web and dotLottie animations within HyperFrames compositions.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill lottie`
+510. **ai-sdk** — `vercel/ai/ai-sdk` · 69,787 تثبيت ⭐
+   AI SDK documentation and guidance for building AI-powered features with Vercel's framework.
+   `npx skills add https://github.com/vercel/ai --skill ai-sdk`
 
-513. **using-agent-skills** — `addyosmani/agent-skills/using-agent-skills` · 68,877 تثبيت
+511. **accessibility** — `addyosmani/web-quality-skills/accessibility` · 69,631 تثبيت
+   Audit and improve web accessibility following WCAG 2.2 guidelines and best practices.
+   `npx skills add https://github.com/addyosmani/web-quality-skills --skill accessibility`
+
+512. **using-agent-skills** — `addyosmani/agent-skills/using-agent-skills` · 69,631 تثبيت
    Agent Skills is a collection of engineering workflow skills organized by development phase. Each skill encodes a specific process that senior engineer
    `npx skills add https://github.com/addyosmani/agent-skills --skill using-agent-skills`
 
-514. **ponytail-review** — `dietrichgebert/ponytail/ponytail-review` · 68,701 تثبيت
-   Review a change like the senior developer who will be paged when it breaks.
-   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-review`
-
-515. **waapi** — `heygen-com/hyperframes/waapi` · 68,692 تثبيت
-   Native browser keyframe animations with deterministic seeking for HyperFrames compositions.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill waapi`
-
-516. **browser-testing-with-devtools** — `addyosmani/agent-skills/browser-testing-with-devtools` · 68,665 تثبيت
+513. **browser-testing-with-devtools** — `addyosmani/agent-skills/browser-testing-with-devtools` · 69,417 تثبيت
    Browser Testing with DevTools
    `npx skills add https://github.com/addyosmani/agent-skills --skill browser-testing-with-devtools`
 
-517. **momentic-test** — `momentic-ai/skills/momentic-test` · 68,554 تثبيت
-   Create, run, and maintain end-to-end tests using AI-driven browser automation with YAML serialization.
-   `npx skills add https://github.com/momentic-ai/skills --skill momentic-test`
+514. **ponytail-review** — `dietrichgebert/ponytail/ponytail-review` · 69,370 تثبيت
+   Review a change like the senior developer who will be paged when it breaks.
+   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-review`
 
-518. **momentic-result-classification** — `momentic-ai/skills/momentic-result-classification` · 68,514 تثبيت
-   Momentic result classification (MCP)
-   `npx skills add https://github.com/momentic-ai/skills --skill momentic-result-classification`
+515. **three** — `heygen-com/hyperframes/three` · 69,320 تثبيت
+   Deterministic Three.js scene rendering synchronized to HyperFrames timeline events.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill three`
 
-519. **shipping-and-launch** — `addyosmani/agent-skills/shipping-and-launch` · 68,335 تثبيت
+516. **shipping-and-launch** — `addyosmani/agent-skills/shipping-and-launch` · 69,091 تثبيت
    Ship with confidence. The goal is not just to deploy — it's to deploy safely, with monitoring in place, a rollback plan ready, and a clear understandi
    `npx skills add https://github.com/addyosmani/agent-skills --skill shipping-and-launch`
 
-520. **source-driven-development** — `addyosmani/agent-skills/source-driven-development` · 68,316 تثبيت
+517. **source-driven-development** — `addyosmani/agent-skills/source-driven-development` · 69,075 تثبيت
    Every framework-specific code decision must be backed by official documentation. Don't implement from memory — verify, cite, and let the user see your
    `npx skills add https://github.com/addyosmani/agent-skills --skill source-driven-development`
 
-521. **ci-cd-and-automation** — `addyosmani/agent-skills/ci-cd-and-automation` · 68,219 تثبيت
+518. **lottie** — `heygen-com/hyperframes/lottie` · 69,051 تثبيت
+   Embed and seek lottie-web and dotLottie animations within HyperFrames compositions.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill lottie`
+
+519. **ci-cd-and-automation** — `addyosmani/agent-skills/ci-cd-and-automation` · 68,984 تثبيت
    Automate quality gates so that no change reaches production without passing tests, lint, type checking, and build. CI/CD is the enforcement mechanism 
    `npx skills add https://github.com/addyosmani/agent-skills --skill ci-cd-and-automation`
 
-522. **gws-shared** — `googleworkspace/cli/gws-shared` · 68,171 تثبيت ⭐
+520. **waapi** — `heygen-com/hyperframes/waapi` · 68,692 تثبيت
+   Native browser keyframe animations with deterministic seeking for HyperFrames compositions.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill waapi`
+
+521. **momentic-test** — `momentic-ai/skills/momentic-test` · 68,555 تثبيت
+   Create, run, and maintain end-to-end tests using AI-driven browser automation with YAML serialization.
+   `npx skills add https://github.com/momentic-ai/skills --skill momentic-test`
+
+522. **momentic-result-classification** — `momentic-ai/skills/momentic-result-classification` · 68,514 تثبيت
+   Momentic result classification (MCP)
+   `npx skills add https://github.com/momentic-ai/skills --skill momentic-result-classification`
+
+523. **gws-shared** — `googleworkspace/cli/gws-shared` · 68,310 تثبيت ⭐
    Shared authentication, CLI syntax, and output formatting patterns for gws Google Workspace commands.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-shared`
 
-523. **interview-me** — `addyosmani/agent-skills/interview-me` · 67,375 تثبيت
+524. **interview-me** — `addyosmani/agent-skills/interview-me` · 68,161 تثبيت
    What people ask for and what they actually want are different things. They ask for "a dashboard" because that's what one asks for, not because a dashb
    `npx skills add https://github.com/addyosmani/agent-skills --skill interview-me`
 
-524. **deprecation-and-migration** — `addyosmani/agent-skills/deprecation-and-migration` · 67,262 تثبيت
+525. **deprecation-and-migration** — `addyosmani/agent-skills/deprecation-and-migration` · 68,017 تثبيت
    Code is a liability, not an asset. Every line of code has ongoing maintenance cost — bugs to fix, dependencies to update, security patches to apply, a
    `npx skills add https://github.com/addyosmani/agent-skills --skill deprecation-and-migration`
 
-525. **social-content** — `coreyhaines31/marketingskills/social-content` · 67,004 تثبيت
-   Expert social media content creation, scheduling, and optimization across all major platforms.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill social-content`
-
-526. **doubt-driven-development** — `addyosmani/agent-skills/doubt-driven-development` · 66,710 تثبيت
+526. **doubt-driven-development** — `addyosmani/agent-skills/doubt-driven-development` · 67,471 تثبيت
    A confident answer is not a correct one. Long sessions accumulate context that quietly turns assumptions into "facts" without anyone noticing. Doubt-d
    `npx skills add https://github.com/addyosmani/agent-skills --skill doubt-driven-development`
 
-527. **offers** — `coreyhaines31/marketingskills/offers` · 66,679 تثبيت
+527. **offers** — `coreyhaines31/marketingskills/offers` · 67,365 تثبيت
    You are an expert in offer construction. Your goal is to help the user build offers that move — not by writing better copy on a worse offer, but by im
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill offers`
 
-528. **design-md** — `google-labs-code/stitch-skills/design-md` · 66,048 تثبيت ⭐
-   Analyze Stitch design projects and generate semantic DESIGN.md files as prompting source of truth.
-   `npx skills add https://github.com/google-labs-code/stitch-skills --skill design-md`
-
-529. **firecrawl-interact** — `firecrawl/cli/firecrawl-interact` · 65,647 تثبيت ⭐
-   Live browser interaction on scraped pages using natural language prompts or code.
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-interact`
-
-530. **insforge** — `insforge/insforge-skills/insforge` · 65,413 تثبيت
-   InsForge App Integration Skill
-   `npx skills add https://github.com/insforge/insforge-skills --skill insforge`
-
-531. **insforge-cli** — `insforge/insforge-skills/insforge-cli` · 65,299 تثبيت
-   Use this skill whenever someone needs a backend, or when managing InsForge backend and cloud infrastructure with the InsForge CLI. For application cod
-   `npx skills add https://github.com/insforge/insforge-skills --skill insforge-cli`
-
-532. **landing-page-design** — `101-skills/superpowers/landing-page-design` · 65,168 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill landing-page-design`
-
-533. **observability-and-instrumentation** — `addyosmani/agent-skills/observability-and-instrumentation` · 64,702 تثبيت
-   Observability and Instrumentation
-   `npx skills add https://github.com/addyosmani/agent-skills --skill observability-and-instrumentation`
-
-534. **typeset** — `pbakaus/impeccable/typeset` · 64,670 تثبيت
-   Systematically assess and refine typography to eliminate generic defaults and establish clear hierarchy, readability, and brand personality.
-   `npx skills add https://github.com/pbakaus/impeccable --skill typeset`
-
-535. **opentui** — `msmps/opentui-skill/opentui` · 64,572 تثبيت
-   Build terminal user interfaces with three framework options: imperative core API, React reconciler, or Solid reconciler.
-   `npx skills add https://github.com/msmps/opentui-skill --skill opentui`
-
-536. **product-photography** — `101-skills/superpowers/product-photography` · 64,546 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill product-photography`
-
-537. **app-store-screenshots** — `101-skills/superpowers/app-store-screenshots` · 64,454 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill app-store-screenshots`
-
-538. **storyboard-creation** — `101-skills/superpowers/storyboard-creation` · 64,399 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill storyboard-creation`
-
-539. **character-design-sheet** — `101-skills/superpowers/character-design-sheet` · 64,397 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill character-design-sheet`
-
-540. **video-ad-specs** — `101-skills/superpowers/video-ad-specs` · 64,355 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill video-ad-specs`
-
-541. **youtube-thumbnail-design** — `101-skills/superpowers/youtube-thumbnail-design` · 64,298 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill youtube-thumbnail-design`
-
-542. **competitor-teardown** — `101-skills/superpowers/competitor-teardown` · 64,283 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill competitor-teardown`
-
-543. **product-hunt-launch** — `101-skills/superpowers/product-hunt-launch` · 64,239 تثبيت
-   Install the belt CLI skill: npx skills add belt-sh/cli
-   `npx skills add https://github.com/101-skills/superpowers --skill product-hunt-launch`
-
-544. **extension-to-functions-codebase** — `firebase/agent-skills/extension-to-functions-codebase` · 64,198 تثبيت ⭐
-   Extension to Functions Codebase & npm Package Migration
-   `npx skills add https://github.com/firebase/agent-skills --skill extension-to-functions-codebase`
-
-545. **gws-calendar** — `googleworkspace/cli/gws-calendar` · 63,191 تثبيت ⭐
-   Google Calendar API access for managing calendars, events, and sharing rules.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-calendar`
-
-546. **public-relations** — `coreyhaines31/marketingskills/public-relations` · 63,183 تثبيت
-   Public Relations & Earned Media
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill public-relations`
-
-547. **cross-border-ecommerce** — `nexscope-ai/ecommerce-skills/cross-border-ecommerce` · 63,008 تثبيت
-   Cross-Border E-Commerce ✈️
-   `npx skills add https://github.com/nexscope-ai/ecommerce-skills --skill cross-border-ecommerce`
-
-548. **overdrive** — `pbakaus/impeccable/overdrive` · 62,764 تثبيت
-   ──────────── ⚡ OVERDRIVE ─────────────
-   `npx skills add https://github.com/pbakaus/impeccable --skill overdrive`
-
-549. **firecrawl-build-scrape** — `firecrawl/skills/firecrawl-build-scrape` · 62,659 تثبيت ⭐
-   Single-page content extraction from known URLs in markdown, HTML, links, or screenshots.
-   `npx skills add https://github.com/firecrawl/skills --skill firecrawl-build-scrape`
-
-550. **firecrawl-build-search** — `firecrawl/skills/firecrawl-build-search` · 62,576 تثبيت ⭐
-   Web search discovery and source ranking for query-driven workflows.
-   `npx skills add https://github.com/firecrawl/skills --skill firecrawl-build-search`
-
-551. **developing-genkit-js** — `firebase/agent-skills/developing-genkit-js` · 62,497 تثبيت ⭐
-   Build AI-powered Node.js/TypeScript applications with Genkit flows, tools, and multi-model support.
-   `npx skills add https://github.com/firebase/agent-skills --skill developing-genkit-js`
-
-552. **motion-doctrine** — `heygen-com/hyperframes/motion-doctrine` · 62,369 تثبيت
-   No SKILL.md available for this skill.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill motion-doctrine`
-
-553. **firecrawl-build-onboarding** — `firecrawl/skills/firecrawl-build-onboarding` · 62,286 تثبيت ⭐
-   Authenticate Firecrawl and set up SDK integration in a project.
-   `npx skills add https://github.com/firecrawl/skills --skill firecrawl-build-onboarding`
-
-554. **firecrawl-build-interact** — `firecrawl/skills/firecrawl-build-interact` · 62,271 تثبيت ⭐
-   Firecrawl /interact endpoint for dynamic page manipulation and browser actions after scraping.
-   `npx skills add https://github.com/firecrawl/skills --skill firecrawl-build-interact`
-
-555. **developing-genkit-dart** — `firebase/agent-skills/developing-genkit-dart` · 62,197 تثبيت ⭐
-   Unified AI SDK for Dart enabling code generation, structured outputs, tools, flows, and agents.
-   `npx skills add https://github.com/firebase/agent-skills --skill developing-genkit-dart`
-
-556. **captions-overlay** — `heygen-com/hyperframes/captions-overlay` · 61,897 تثبيت
-   No SKILL.md available for this skill.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill captions-overlay`
-
-557. **cut-the-curve** — `heygen-com/hyperframes/cut-the-curve` · 61,537 تثبيت
-   No SKILL.md available for this skill.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill cut-the-curve`
-
-558. **insforge-debug** — `insforge/insforge-skills/insforge-debug` · 61,491 تثبيت
-   Diagnose problems in InsForge projects by combining the backend's observability primitives — logs, metrics, db-health, advisor, policies, metadata, er
-   `npx skills add https://github.com/insforge/insforge-skills --skill insforge-debug`
-
-559. **batch-grill-me** — `mattpocock/skills/batch-grill-me` · 61,380 تثبيت
-   Interview the user relentlessly until you reach a shared understanding. Map this as a design tree: every decision branches into the decisions that han
-   `npx skills add https://github.com/mattpocock/skills --skill batch-grill-me`
-
-560. **seam-craft** — `heygen-com/hyperframes/seam-craft` · 61,211 تثبيت
-   No SKILL.md available for this skill.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill seam-craft`
-
-561. **product-marketing-context** — `coreyhaines31/marketingskills/product-marketing-context` · 61,190 تثبيت
-   Establish foundational product positioning and audience context that other marketing skills reference.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill product-marketing-context`
-
-562. **pricing-strategy** — `coreyhaines31/marketingskills/pricing-strategy` · 61,162 تثبيت
-   Expert guidance for designing SaaS pricing that captures value and aligns with customer willingness to pay.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill pricing-strategy`
-
-563. **gws-sheets** — `googleworkspace/cli/gws-sheets` · 60,962 تثبيت ⭐
-   Read, write, and batch-update Google Sheets with direct API access.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-sheets`
-
-564. **oversized-cursor** — `heygen-com/hyperframes/oversized-cursor` · 60,829 تثبيت
-   No SKILL.md available for this skill.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill oversized-cursor`
-
-565. **insforge-integrations** — `insforge/insforge-skills/insforge-integrations` · 60,748 تثبيت
-   This skill covers integrating third-party providers with InsForge. Currently two categories are supported: auth providers (RLS via JWT claims) and pay
-   `npx skills add https://github.com/insforge/insforge-skills --skill insforge-integrations`
-
-566. **changelog-video** — `heygen-com/hyperframes/changelog-video` · 60,730 تثبيت
-   No SKILL.md available for this skill.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill changelog-video`
-
-567. **last30days** — `mvanhorn/last30days-skill/last30days` · 60,724 تثبيت
-   last30days v3.33.2: Research Any Topic from the Last 30 Days
-   `npx skills add https://github.com/mvanhorn/last30days-skill --skill last30days`
-
-568. **gws-docs** — `googleworkspace/cli/gws-docs` · 60,426 تثبيت ⭐
-   Read and write Google Docs through the Google Workspace API.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-docs`
-
-569. **enhance-prompt** — `google-labs-code/stitch-skills/enhance-prompt` · 59,470 تثبيت ⭐
-   Transforms vague UI ideas into polished, Stitch-optimized prompts with design system context.
-   `npx skills add https://github.com/google-labs-code/stitch-skills --skill enhance-prompt`
-
-570. **clerk-setup** — `clerk/skills/clerk-setup` · 59,146 تثبيت ⭐
-   Framework-agnostic Clerk authentication setup following official quickstart guides.
-   `npx skills add https://github.com/clerk/skills --skill clerk-setup`
-
-571. **is-this-photo-real** — `useosint/skills/is-this-photo-real` · 58,303 تثبيت
-   Verification order is the whole skill: provenance first, pixels last. Finding the
-   `npx skills add https://github.com/useosint/skills --skill is-this-photo-real`
-
-572. **investigate-without-getting-made** — `useosint/skills/investigate-without-getting-made` · 58,224 تثبيت
-   Investigate without getting made
-   `npx skills add https://github.com/useosint/skills --skill investigate-without-getting-made`
-
-573. **building-native-ui** — `expo/skills/building-native-ui` · 58,096 تثبيت ⭐
-   Complete guide for building native Expo apps with routing, styling, components, and platform conventions.
-   `npx skills add https://github.com/expo/skills --skill building-native-ui`
-
-574. **analytics-tracking** — `coreyhaines31/marketingskills/analytics-tracking` · 57,817 تثبيت
-   Set up, audit, and improve analytics tracking to measure marketing and product decisions.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill analytics-tracking`
-
-575. **what-leaked-about-you** — `useosint/skills/what-leaked-about-you` · 57,811 تثبيت
-   Breach data answers a question nothing else answers cheaply: which services did
-   `npx skills add https://github.com/useosint/skills --skill what-leaked-about-you`
-
-576. **humanizer-zh** — `op7418/humanizer-zh/humanizer-zh` · 57,708 تثبيت
-   Detects and removes AI writing patterns to make text sound more natural and human.
-   `npx skills add https://github.com/op7418/humanizer-zh --skill humanizer-zh`
-
-577. **clerk-custom-ui** — `clerk/skills/clerk-custom-ui` · 57,622 تثبيت ⭐
-   Prerequisite: Ensure ClerkProvider wraps your app. See clerk-setup skill.
-   `npx skills add https://github.com/clerk/skills --skill clerk-custom-ui`
-
-578. **remotion-license** — `remotion-dev/skills/remotion-license` · 57,612 تثبيت ⭐
-   For questions about Remotion licensing, read the relevant resource:
-   `npx skills add https://github.com/remotion-dev/skills --skill remotion-license`
-
-579. **page-cro** — `coreyhaines31/marketingskills/page-cro` · 57,464 تثبيت
-   Expert analysis and actionable recommendations to improve marketing page conversion rates.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill page-cro`
-
-580. **stitch-loop** — `google-labs-code/stitch-skills/stitch-loop` · 57,295 تثبيت ⭐
-   Autonomous website builder using iterative Stitch generation with baton-passing loop coordination.
-   `npx skills add https://github.com/google-labs-code/stitch-skills --skill stitch-loop`
-
-581. **add-analytics-instrumentation** — `amplitude/mcp-marketplace/add-analytics-instrumentation` · 56,771 تثبيت
-   add-analytics-instrumentation
-   `npx skills add https://github.com/amplitude/mcp-marketplace --skill add-analytics-instrumentation`
-
-582. **diff-intake** — `amplitude/mcp-marketplace/diff-intake` · 56,725 تثبيت
-   Follow this skill step by step.
-   `npx skills add https://github.com/amplitude/mcp-marketplace --skill diff-intake`
-
-583. **discover-analytics-patterns** — `amplitude/mcp-marketplace/discover-analytics-patterns` · 56,713 تثبيت
-   discover-analytics-patterns
-   `npx skills add https://github.com/amplitude/mcp-marketplace --skill discover-analytics-patterns`
-
-584. **discover-event-surfaces** — `amplitude/mcp-marketplace/discover-event-surfaces` · 56,695 تثبيت
-   You are step 2 of the analytics instrumentation workflow. Read a change_brief
-   `npx skills add https://github.com/amplitude/mcp-marketplace --skill discover-event-surfaces`
-
-585. **instrument-events** — `amplitude/mcp-marketplace/instrument-events` · 56,656 تثبيت
-   You are step 3 of the analytics instrumentation workflow. You receive
-   `npx skills add https://github.com/amplitude/mcp-marketplace --skill instrument-events`
-
-586. **taxonomy** — `amplitude/mcp-marketplace/taxonomy` · 56,598 تثبيت
-   Taxonomy Generation & Data Auditing
-   `npx skills add https://github.com/amplitude/mcp-marketplace --skill taxonomy`
-
-587. **find-the-original-image** — `useosint/skills/find-the-original-image` · 56,588 تثبيت
-   The goal is almost never "find a match". It is find the earliest publication
-   `npx skills add https://github.com/useosint/skills --skill find-the-original-image`
-
-588. **seo-geo** — `resciencelab/opc-skills/seo-geo` · 56,503 تثبيت
-   Optimize websites for AI search engines (ChatGPT, Perplexity, Gemini, Copilot, Claude) and traditional search.
-   `npx skills add https://github.com/resciencelab/opc-skills --skill seo-geo`
-
-589. **ponytail-audit** — `dietrichgebert/ponytail/ponytail-audit` · 56,431 تثبيت
-   Audit the whole repo like the senior developer who just inherited it and
-   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-audit`
-
-590. **nia** — `nozomio-labs/nia-skill/nia` · 56,290 تثبيت
-   Unified indexing and search across code repositories, documentation, research papers, datasets, local folders, Slack, and Google Drive.
-   `npx skills add https://github.com/nozomio-labs/nia-skill --skill Nia`
-
-591. **clerk-backend-api** — `clerk/skills/clerk-backend-api` · 56,246 تثبيت ⭐
-   CRITICAL: Mandatory checks before EVERY write request
-   `npx skills add https://github.com/clerk/skills --skill clerk-backend-api`
-
-592. **launch-strategy** — `coreyhaines31/marketingskills/launch-strategy` · 56,040 تثبيت
-   Structured framework for planning product launches, feature announcements, and go-to-market strategies.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill launch-strategy`
-
-593. **marketing-loops** — `coreyhaines31/marketingskills/marketing-loops` · 55,874 تثبيت
-   You help set up marketing loops — repeatable marketing workflows an AI agent runs on a cadence, each with a defined trigger, a bounded set of steps, a
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-loops`
-
-594. **clerk-nextjs-patterns** — `clerk/skills/clerk-nextjs-patterns` · 55,676 تثبيت ⭐
-   Advanced Next.js patterns for authentication, middleware, Server Actions, and user-scoped caching with Clerk.
-   `npx skills add https://github.com/clerk/skills --skill clerk-nextjs-patterns`
-
-595. **weread-skills** — `tencent/wechatreading/weread-skills` · 55,613 تثبيت
-   通过 Agent API Gateway 调用微信读书接口，提供搜索、书架、笔记、书评等能力。
-   `npx skills add https://github.com/tencent/wechatreading --skill weread-skills`
-
-596. **nextjs-on-cloudflare** — `cloudflare/skills/nextjs-on-cloudflare` · 55,505 تثبيت ⭐
-   Use vinext rather than OpenNext for new Next.js projects on Cloudflare Workers. This is the default in the Cloudflare Next.js guide. Preserve existing
-   `npx skills add cloudflare/vinext` if missing, then read and follow the applicable skill and docs.`
-
-597. **contribute-catalog** — `heygen-com/hyperframes/contribute-catalog` · 55,491 تثبيت
-   Contribute a new caption style, VFX effect, transition, or reusable component to the public HyperFrames registry.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill contribute-catalog`
-
-598. **schema-markup** — `coreyhaines31/marketingskills/schema-markup` · 55,479 تثبيت
-   Add, fix, and optimize schema markup to enable rich search results and help search engines understand page content.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill schema-markup`
-
-599. **clerk-webhooks** — `clerk/skills/clerk-webhooks` · 55,165 تثبيت ⭐
-   Output complete, working webhook handlers with verifyWebhook(req) verification in every handler.
-   `npx skills add https://github.com/clerk/skills --skill clerk-webhooks`
-
-600. **email-sequence** — `coreyhaines31/marketingskills/email-sequence` · 55,135 تثبيت
-   Design and optimize multi-email automated flows that nurture relationships and drive conversions.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill email-sequence`
-
-601. **seo** — `addyosmani/web-quality-skills/seo` · 55,085 تثبيت
-   Technical SEO optimization covering crawlability, on-page elements, structured data, and mobile best practices.
-   `npx skills add https://github.com/addyosmani/web-quality-skills --skill seo`
-
-602. **paid-ads** — `coreyhaines31/marketingskills/paid-ads` · 54,680 تثبيت
-   Strategy, optimization, and execution for paid advertising campaigns across Google Ads, Meta, LinkedIn, and other platforms.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill paid-ads`
-
-603. **shadcn-ui** — `google-labs-code/stitch-skills/shadcn-ui` · 54,423 تثبيت ⭐
-   Expert guidance for discovering, installing, and customizing shadcn/ui components in your project.
-   `npx skills add https://github.com/google-labs-code/stitch-skills --skill shadcn-ui`
-
-604. **momentic-mobile-test** — `momentic-ai/skills/momentic-mobile-test` · 54,366 تثبيت
-   Read momentic.config.yaml and the target test. Confirm the intended result,
-   `npx skills add https://github.com/momentic-ai/skills --skill momentic-mobile-test`
-
-605. **normalize** — `pbakaus/impeccable/normalize` · 54,317 تثبيت
-   Analyze and redesign features to match your design system standards and ensure consistency.
-   `npx skills add https://github.com/pbakaus/impeccable --skill normalize`
-
-606. **competitor-alternatives** — `coreyhaines31/marketingskills/competitor-alternatives` · 54,155 تثبيت
-   SEO-optimized competitor comparison and alternative pages that position your product against rivals.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill competitor-alternatives`
-
-607. **marketing-council** — `coreyhaines31/marketingskills/marketing-council` · 53,691 تثبيت
-   You convene a simulated board of marketing advisors: legendary marketers whose documented frameworks, published positions, and known heuristics you ap
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-council`
-
-608. **onboarding-cro** — `coreyhaines31/marketingskills/onboarding-cro` · 53,642 تثبيت
-   Optimize post-signup user activation and time-to-value through structured onboarding flows.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill onboarding-cro`
-
-609. **expo-tailwind-setup** — `expo/skills/expo-tailwind-setup` · 53,559 تثبيت ⭐
-   Universal Tailwind CSS v4 styling for Expo apps across iOS, Android, and Web.
-   `npx skills add https://github.com/expo/skills --skill expo-tailwind-setup`
-
-610. **ponytail-debt** — `dietrichgebert/ponytail/ponytail-debt` · 53,358 تثبيت
-   Every deliberate ponytail shortcut is marked with a shortcut: comment naming
-   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-debt`
-
-611. **clerk-orgs** — `clerk/skills/clerk-orgs` · 53,337 تثبيت ⭐
-   STOP — prerequisite. Organizations must be enabled before any org-related API, hook, or component works. Two paths: (1) Dashboard → Organizations sett
-   `npx skills add https://github.com/clerk/skills --skill clerk-orgs`
-
-612. **ponytail-help** — `dietrichgebert/ponytail/ponytail-help` · 53,312 تثبيت
-   Display this reference card when invoked. One-shot, do NOT change mode,
-   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-help`
-
-613. **extract** — `pbakaus/impeccable/extract` · 53,221 تثبيت
-   Identify and extract reusable components, design tokens, and patterns into a cohesive design system.
-   `npx skills add https://github.com/pbakaus/impeccable --skill extract`
-
-614. **anti-prose-slop** — `proseify.xyz/anti-prose-slop` · 53,210 تثبيت
-   Stop AI writing agents from shipping generic prose.
-   `npx skills add https://proseify.xyz/`
-
-615. **onboard** — `pbakaus/impeccable/onboard` · 53,082 تثبيت
-   Design or improve onboarding flows that get users to their "aha moment" quickly and successfully.
-   `npx skills add https://github.com/pbakaus/impeccable --skill onboard`
-
-616. **huashu-design** — `alchaincyf/huashu-design/huashu-design` · 52,993 تثبيت
-   Huashu-Design · HTML-first prototyping, animations, and design direction for AI agents.
-   `npx skills add https://github.com/alchaincyf/huashu-design --skill huashu-design`
-
-617. **harden** — `pbakaus/impeccable/harden` · 52,985 تثبيت
-   Systematically strengthen interfaces against text overflow, internationalization, errors, and real-world edge cases.
-   `npx skills add https://github.com/pbakaus/impeccable --skill harden`
-
-618. **form-cro** — `coreyhaines31/marketingskills/form-cro` · 52,599 تثبيت
-   Maximize form completion rates by eliminating friction and capturing only essential data.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill form-cro`
-
-619. **free-tool-strategy** — `coreyhaines31/marketingskills/free-tool-strategy` · 52,335 تثبيت
-   Strategic planning and evaluation framework for free tools that generate leads, drive organic traffic, and build brand awareness.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill free-tool-strategy`
-
-620. **referral-program** — `coreyhaines31/marketingskills/referral-program` · 52,294 تثبيت
-   Design and optimize customer referral and affiliate programs to turn users into growth engines.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill referral-program`
-
-621. **gws-sheets-read** — `googleworkspace/cli/gws-sheets-read` · 52,152 تثبيت ⭐
-   Read cell values from a Google Sheet by spreadsheet ID and range.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-sheets-read`
-
-622. **ab-test-setup** — `coreyhaines31/marketingskills/ab-test-setup` · 52,125 تثبيت
-   Expert guidance for designing statistically valid A/B tests and experiments.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill ab-test-setup`
-
-623. **byted-web-search** — `skills.volces.com/byted-web-search` · 52,094 تثبيت
-   火山引擎 豆包搜索 API（曾用名：联网搜索 / 融合信息搜索 ）。凭证请从 豆包搜索控制台 获取；或从Agent Plan控制台（Agent Plan企业用户Agent Plan企业版控制台）「配置harness」再在 API Key 页 复制 Key。
-   `npx skills add https://skills.volces.com/skills/bytedance/agentkit-samples`
-
-624. **signup-flow-cro** — `coreyhaines31/marketingskills/signup-flow-cro` · 51,842 تثبيت
-   Reduce signup friction and increase completion rates through field optimization, flow design, and trust-building.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill signup-flow-cro`
-
-625. **binance-agentic-wallet** — `binance/binance-skills-hub/binance-agentic-wallet` · 51,827 تثبيت
-   Binance Agentic Wallet Skill
-   `npx skills add https://github.com/binance/binance-skills-hub --skill binance-agentic-wallet`
-
-626. **gws-docs-write** — `googleworkspace/cli/gws-docs-write` · 51,664 تثبيت ⭐
-   Append plain text to the end of a Google Docs document.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-docs-write`
-
-627. **firecrawl-parse** — `firecrawl/cli/firecrawl-parse` · 51,536 تثبيت ⭐
-   Convert local documents—PDF, DOCX, XLSX, HTML, and more—to clean markdown saved to disk.
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-parse`
-
-628. **paywall-upgrade-cro** — `coreyhaines31/marketingskills/paywall-upgrade-cro` · 51,438 تثبيت
-   In-app paywall and upgrade screen optimization for converting free users to paid tiers.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill paywall-upgrade-cro`
-
-629. **design-system** — `nextlevelbuilder/ui-ux-pro-max-skill/design-system` · 51,246 تثبيت
-   Token architecture, component specifications, systematic design, slide generation.
-   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill design-system`
-
-630. **ponytail-gain** — `dietrichgebert/ponytail/ponytail-gain` · 51,170 تثبيت
-   Display this scoreboard when invoked. One-shot: do NOT change mode, write flag
-   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-gain`
-
-631. **popup-cro** — `coreyhaines31/marketingskills/popup-cro` · 51,119 تثبيت
-   Popup and modal optimization for conversion without user friction or brand damage.
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill popup-cro`
-
-632. **gws-calendar-agenda** — `googleworkspace/cli/gws-calendar-agenda` · 51,051 تثبيت ⭐
-   Display upcoming events across all Google Calendars with flexible time range and filtering options.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-calendar-agenda`
-
-633. **typegpu** — `heygen-com/hyperframes/typegpu` · 50,961 تثبيت
-   GPU-accelerated canvas compositions with TypeGPU and WebGPU, synchronized to HyperFrames timeline events.
-   `npx skills add https://github.com/heygen-com/hyperframes --skill typegpu`
-
-634. **better-auth-security-best-practices** — `better-auth/skills/better-auth-security-best-practices` · 50,956 تثبيت ⭐
-   import { betterAuth } from "better-auth";
-   `npx skills add https://github.com/better-auth/skills --skill better-auth-security-best-practices`
-
-635. **gws-drive-upload** — `googleworkspace/cli/gws-drive-upload` · 50,756 تثبيت ⭐
-   Upload files to Google Drive with automatic MIME type detection and metadata.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-drive-upload`
-
-636. **react:components** — `google-labs-code/stitch-skills/react:components` · 50,432 تثبيت ⭐
-   Stitch to React Components
-   `npx skills add https://github.com/google-labs-code/stitch-skills --skill react:components`
-
-637. **reverse-any-video** — `heygen-com/hyperframes/reverse-any-video` · 50,415 تثبيت
+528. **social-content** — `coreyhaines31/marketingskills/social-content` · 67,004 تثبيت
+   Expert social media content creation, scheduling, and optimization across all major platforms.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill social-content`
+
+529. **reverse-any-video** — `heygen-com/hyperframes/reverse-any-video` · 66,545 تثبيت
    Plugin installs: Inside a HyperFrames plugin, follow plugin execution rules.
    `npx skills add https://github.com/heygen-com/hyperframes --skill reverse-any-video`
 
-638. **wind-find-finance-skill** — `wind-alice/alicemarket/wind-find-finance-skill` · 50,144 تثبيت
-   本 skill 是万得金融能力发现与安装路由器，不直接取数、不做业务分析、不需要 API Key。
-   `npx skills add https://github.com/wind-alice/alicemarket --skill wind-find-finance-skill`
+530. **design-md** — `google-labs-code/stitch-skills/design-md` · 66,143 تثبيت ⭐
+   Analyze Stitch design projects and generate semantic DESIGN.md files as prompting source of truth.
+   `npx skills add https://github.com/google-labs-code/stitch-skills --skill design-md`
 
-639. **marketing-mindset** — `axelfreeman/marketing-mindset/marketing-mindset` · 50,138 تثبيت
-   A high-level operating system for marketing and client acquisition, distilled from 15 years of hands-on B2B internet marketing. This is not a bag of t
-   `npx skills add https://github.com/axelfreeman/marketing-mindset --skill marketing-mindset`
+531. **firecrawl-interact** — `firecrawl/cli/firecrawl-interact` · 65,674 تثبيت ⭐
+   Live browser interaction on scraped pages using natural language prompts or code.
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-interact`
 
-640. **email-and-password-best-practices** — `better-auth/skills/email-and-password-best-practices` · 50,075 تثبيت ⭐
-   Email verification, password reset flows, and customizable password policies for Better Auth.
-   `npx skills add https://github.com/better-auth/skills --skill email-and-password-best-practices`
+532. **insforge** — `insforge/insforge-skills/insforge` · 65,589 تثبيت
+   InsForge App Integration Skill
+   `npx skills add https://github.com/insforge/insforge-skills --skill insforge`
 
-641. **teach-impeccable** — `pbakaus/impeccable/teach-impeccable` · 50,025 تثبيت
-   One-time setup that gathers design context and persists it to your AI config file.
-   `npx skills add https://github.com/pbakaus/impeccable --skill teach-impeccable`
+533. **observability-and-instrumentation** — `addyosmani/agent-skills/observability-and-instrumentation` · 65,479 تثبيت
+   Observability and Instrumentation
+   `npx skills add https://github.com/addyosmani/agent-skills --skill observability-and-instrumentation`
 
-642. **nodejs-backend-patterns** — `wshobson/agents/nodejs-backend-patterns` · 49,951 تثبيت
-   Production-ready Node.js backend patterns with Express/Fastify, middleware, authentication, and database integration.
-   `npx skills add https://github.com/wshobson/agents --skill nodejs-backend-patterns`
+534. **insforge-cli** — `insforge/insforge-skills/insforge-cli` · 65,476 تثبيت
+   Use this skill whenever someone needs a backend, or when managing InsForge backend and cloud infrastructure with the InsForge CLI. For application cod
+   `npx skills add https://github.com/insforge/insforge-skills --skill insforge-cli`
 
-643. **gws-calendar-insert** — `googleworkspace/cli/gws-calendar-insert` · 49,630 تثبيت ⭐
-   Create a new Google Calendar event with customizable details and optional attendees.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-calendar-insert`
+535. **landing-page-design** — `101-skills/superpowers/landing-page-design` · 65,475 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill landing-page-design`
 
-644. **design** — `nextlevelbuilder/ui-ux-pro-max-skill/design` · 49,598 تثبيت
-   Unified design skill: brand, tokens, UI, logo, CIP, slides, banners, social photos, icons.
-   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill design`
+536. **remotion-license** — `remotion-dev/skills/remotion-license` · 64,949 تثبيت ⭐
+   For questions about Remotion licensing, read the relevant resource:
+   `npx skills add https://github.com/remotion-dev/skills --skill remotion-license`
 
-645. **developing-genkit-go** — `firebase/agent-skills/developing-genkit-go` · 49,492 تثبيت ⭐
-   Build AI applications in Go with generation, structured output, streaming, tool calling, and flows across model providers.
-   `npx skills add https://github.com/firebase/agent-skills --skill developing-genkit-go`
+537. **product-photography** — `101-skills/superpowers/product-photography` · 64,834 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill product-photography`
 
-646. **angular-developer** — `angular/skills/angular-developer` · 49,190 تثبيت
-   Generate Angular code and provide architectural guidance across the full framework stack.
-   `npx skills add https://github.com/angular/skills --skill angular-developer`
+538. **app-store-screenshots** — `101-skills/superpowers/app-store-screenshots` · 64,745 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill app-store-screenshots`
 
-647. **expo-module** — `expo/skills/expo-module` · 49,121 تثبيت ⭐
-   Complete reference for building native modules and views with the Expo Modules API across Swift, Kotlin, and TypeScript.
-   `npx skills add https://github.com/expo/skills --skill expo-module`
+539. **storyboard-creation** — `101-skills/superpowers/storyboard-creation` · 64,693 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill storyboard-creation`
 
-648. **ui-styling** — `nextlevelbuilder/ui-ux-pro-max-skill/ui-styling` · 48,950 تثبيت
-   Comprehensive skill for creating beautiful, accessible user interfaces combining shadcn/ui components, Tailwind CSS utility styling, and canvas-based 
-   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-styling`
+540. **character-design-sheet** — `101-skills/superpowers/character-design-sheet` · 64,688 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill character-design-sheet`
 
-649. **planning-with-files** — `othmanadi/planning-with-files/planning-with-files` · 48,628 تثبيت
-   File-based task organization and progress tracking for complex multi-step projects.
-   `npx skills add https://github.com/othmanadi/planning-with-files --skill planning-with-files`
+541. **typeset** — `pbakaus/impeccable/typeset` · 64,670 تثبيت
+   Systematically assess and refine typography to eliminate generic defaults and establish clear hierarchy, readability, and brand personality.
+   `npx skills add https://github.com/pbakaus/impeccable --skill typeset`
 
-650. **git-commit** — `github/awesome-copilot/git-commit` · 48,450 تثبيت ⭐
-   Standardized git commits using Conventional Commits specification with intelligent diff analysis and message generation.
-   `npx skills add https://github.com/github/awesome-copilot --skill git-commit`
+542. **extension-to-functions-codebase** — `firebase/agent-skills/extension-to-functions-codebase` · 64,668 تثبيت ⭐
+   Extension to Functions Codebase & npm Package Migration
+   `npx skills add https://github.com/firebase/agent-skills --skill extension-to-functions-codebase`
 
-651. **clerk-testing** — `clerk/skills/clerk-testing` · 48,332 تثبيت ⭐
-   Test auth = isolated session state. Each test needs fresh auth context.
-   `npx skills add https://github.com/clerk/skills --skill clerk-testing`
+543. **video-ad-specs** — `101-skills/superpowers/video-ad-specs` · 64,643 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill video-ad-specs`
 
-652. **gws-gmail-triage** — `googleworkspace/cli/gws-gmail-triage` · 48,322 تثبيت ⭐
-   Quickly summarize unread Gmail inbox messages with sender, subject, and date.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-triage`
+544. **youtube-thumbnail-design** — `101-skills/superpowers/youtube-thumbnail-design` · 64,587 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill youtube-thumbnail-design`
 
-653. **gws-sheets-append** — `googleworkspace/cli/gws-sheets-append` · 48,174 تثبيت ⭐
-   Append rows to a Google Sheet with simple or bulk input modes.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-sheets-append`
+545. **opentui** — `msmps/opentui-skill/opentui` · 64,575 تثبيت
+   Build terminal user interfaces with three framework options: imperative core API, React reconciler, or Solid reconciler.
+   `npx skills add https://github.com/msmps/opentui-skill --skill opentui`
 
-654. **brand** — `nextlevelbuilder/ui-ux-pro-max-skill/brand` · 48,042 تثبيت
-   Brand identity, voice, messaging, asset management, and consistency frameworks.
-   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill brand`
+546. **competitor-teardown** — `101-skills/superpowers/competitor-teardown` · 64,570 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill competitor-teardown`
 
-655. **banner-design** — `nextlevelbuilder/ui-ux-pro-max-skill/banner-design` · 47,789 تثبيت
-   Banner Design - Multi-Format Creative Banner System
-   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill banner-design`
+547. **product-hunt-launch** — `101-skills/superpowers/product-hunt-launch` · 64,526 تثبيت
+   Install the belt CLI skill: npx skills add belt-sh/cli
+   `npx skills add https://github.com/101-skills/superpowers --skill product-hunt-launch`
 
-656. **vitest** — `antfu/skills/vitest` · 47,624 تثبيت
-   Vite-powered unit testing framework with Jest-compatible API and native ESM support.
-   `npx skills add https://github.com/antfu/skills --skill vitest`
+548. **public-relations** — `coreyhaines31/marketingskills/public-relations` · 63,743 تثبيت
+   Public Relations & Earned Media
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill public-relations`
 
-657. **agent-pulse** — `jane-o-o-o-o/agent-pulse-skill/agent-pulse` · 47,547 تثبيت
-   Use the installed agent-pulse CLI as the source of truth for local AI-agent activity. The PyPI package is agentpulse-cli, while the command remains ag
-   `npx skills add https://github.com/jane-o-o-o-o/agent-pulse-skill --skill agent-pulse`
+549. **gws-calendar** — `googleworkspace/cli/gws-calendar` · 63,326 تثبيت ⭐
+   Google Calendar API access for managing calendars, events, and sharing rules.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-calendar`
 
-658. **slides** — `nextlevelbuilder/ui-ux-pro-max-skill/slides` · 46,828 تثبيت
-   Strategic HTML presentation design with data visualization.
-   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill slides`
+550. **cross-border-ecommerce** — `nexscope-ai/ecommerce-skills/cross-border-ecommerce` · 63,019 تثبيت
+   Cross-Border E-Commerce ✈️
+   `npx skills add https://github.com/nexscope-ai/ecommerce-skills --skill cross-border-ecommerce`
 
-659. **attribution** — `coreyhaines31/marketingskills/attribution` · 46,533 تثبيت
-   You help users answer the hardest question in marketing: which of my efforts actually caused this conversion and this revenue? Attribution is where ma
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill attribution`
+551. **overdrive** — `pbakaus/impeccable/overdrive` · 62,764 تثبيت
+   ──────────── ⚡ OVERDRIVE ─────────────
+   `npx skills add https://github.com/pbakaus/impeccable --skill overdrive`
 
-660. **influencer-marketing** — `coreyhaines31/marketingskills/influencer-marketing` · 46,484 تثبيت
-   Influencer & Creator Marketing
-   `npx skills add https://github.com/coreyhaines31/marketingskills --skill influencer-marketing`
+552. **firecrawl-build-scrape** — `firecrawl/skills/firecrawl-build-scrape` · 62,717 تثبيت ⭐
+   Single-page content extraction from known URLs in markdown, HTML, links, or screenshots.
+   `npx skills add https://github.com/firecrawl/skills --skill firecrawl-build-scrape`
 
-661. **gws-tasks** — `googleworkspace/cli/gws-tasks` · 46,472 تثبيت ⭐
-   Manage Google Tasks lists and individual tasks via command-line API calls.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-tasks`
+553. **firecrawl-build-search** — `firecrawl/skills/firecrawl-build-search` · 62,632 تثبيت ⭐
+   Web search discovery and source ranking for query-driven workflows.
+   `npx skills add https://github.com/firecrawl/skills --skill firecrawl-build-search`
 
-662. **better-ui** — `jakubkrehel/skills/better-ui` · 46,410 تثبيت
-   This skill holds the visual polish for surfaces, icons and motion, with the exact value each detail takes. It applies once the underlying interaction 
-   `npx skills add https://github.com/jakubkrehel/skills --skill better-ui`
+554. **motion-doctrine** — `heygen-com/hyperframes/motion-doctrine` · 62,504 تثبيت
+   No SKILL.md available for this skill.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill motion-doctrine`
 
-663. **native-data-fetching** — `expo/skills/native-data-fetching` · 46,367 تثبيت ⭐
-   Network requests, API calls, and data fetching for Expo apps with caching, error handling, and offline support.
-   `npx skills add https://github.com/expo/skills --skill native-data-fetching`
+555. **developing-genkit-js** — `firebase/agent-skills/developing-genkit-js` · 62,497 تثبيت ⭐
+   Build AI-powered Node.js/TypeScript applications with Genkit flows, tools, and multi-model support.
+   `npx skills add https://github.com/firebase/agent-skills --skill developing-genkit-js`
 
-664. **golang-code-style** — `samber/cc-skills-golang/golang-code-style` · 46,201 تثبيت
-   Orchestration mode: Fan out the sub-agents described in the "Parallelizing Code Style Reviews" section, each covering an independent style concern, wh
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-code-style`
+556. **firecrawl-build-onboarding** — `firecrawl/skills/firecrawl-build-onboarding` · 62,343 تثبيت ⭐
+   Authenticate Firecrawl and set up SDK integration in a project.
+   `npx skills add https://github.com/firecrawl/skills --skill firecrawl-build-onboarding`
 
-665. **karpathy-guidelines** — `multica-ai/andrej-karpathy-skills/karpathy-guidelines` · 45,846 تثبيت
-   Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-   `npx skills add https://github.com/multica-ai/andrej-karpathy-skills --skill karpathy-guidelines`
+557. **firecrawl-build-interact** — `firecrawl/skills/firecrawl-build-interact` · 62,327 تثبيت ⭐
+   Firecrawl /interact endpoint for dynamic page manipulation and browser actions after scraping.
+   `npx skills add https://github.com/firecrawl/skills --skill firecrawl-build-interact`
 
-666. **compress** — `juliusbrussee/caveman/compress` · 45,775 تثبيت
-   Compress natural language memory files into caveman-speak to reduce input tokens.
-   `npx skills add https://github.com/juliusbrussee/caveman --skill compress`
+558. **developing-genkit-dart** — `firebase/agent-skills/developing-genkit-dart` · 62,197 تثبيت ⭐
+   Unified AI SDK for Dart enabling code generation, structured outputs, tools, flows, and agents.
+   `npx skills add https://github.com/firebase/agent-skills --skill developing-genkit-dart`
 
-667. **flutter-apply-architecture-best-practices** — `flutter/agent-plugins/flutter-apply-architecture-best-practices` · 45,657 تثبيت ⭐
-   Architecting Flutter Applications
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-apply-architecture-best-practices`
+559. **captions-overlay** — `heygen-com/hyperframes/captions-overlay` · 62,005 تثبيت
+   No SKILL.md available for this skill.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill captions-overlay`
 
-668. **golang-testing** — `samber/cc-skills-golang/golang-testing` · 45,483 تثبيت
-   Persona: You are a Go engineer who treats tests as executable specifications. You write tests to constrain behavior, not to hit coverage targets.
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-testing`
+560. **insforge-debug** — `insforge/insforge-skills/insforge-debug` · 61,667 تثبيت
+   Diagnose problems in InsForge projects by combining the backend's observability primitives — logs, metrics, db-health, advisor, policies, metadata, er
+   `npx skills add https://github.com/insforge/insforge-skills --skill insforge-debug`
 
-669. **golang-error-handling** — `samber/cc-skills-golang/golang-error-handling` · 45,467 تثبيت
-   Persona: You are a Go reliability engineer. You treat every error as an event that must either be handled or propagated with context — silent failures
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-error-handling`
+561. **cut-the-curve** — `heygen-com/hyperframes/cut-the-curve` · 61,636 تثبيت
+   No SKILL.md available for this skill.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill cut-the-curve`
 
-670. **flutter-build-responsive-layout** — `flutter/agent-plugins/flutter-build-responsive-layout` · 45,277 تثبيت ⭐
-   Implementing Adaptive Layouts
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-build-responsive-layout`
+562. **batch-grill-me** — `mattpocock/skills/batch-grill-me` · 61,380 تثبيت
+   Interview the user relentlessly until you reach a shared understanding. Map this as a design tree: every decision branches into the decisions that han
+   `npx skills add https://github.com/mattpocock/skills --skill batch-grill-me`
 
-671. **vue-best-practices** — `vuejs-ai/skills/vue-best-practices` · 45,178 تثبيت
-   Vue Best Practices Workflow
-   `npx skills add https://github.com/vuejs-ai/skills --skill vue-best-practices`
+563. **seam-craft** — `heygen-com/hyperframes/seam-craft` · 61,308 تثبيت
+   No SKILL.md available for this skill.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill seam-craft`
 
-672. **limrun-ios-simulator** — `limrun-inc/skills/limrun-ios-simulator` · 44,794 تثبيت
-   Interact with an app running on a Limrun cloud iOS simulator, from any
-   `npx skills add https://github.com/limrun-inc/skills --skill limrun-ios-simulator`
+564. **product-marketing-context** — `coreyhaines31/marketingskills/product-marketing-context` · 61,190 تثبيت
+   Establish foundational product positioning and audience context that other marketing skills reference.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill product-marketing-context`
 
-673. **limrun-xcode** — `limrun-inc/skills/limrun-xcode` · 44,773 تثبيت
-   Build Apple projects on Limrun's remote Xcode, from any environment (Linux,
-   `npx skills add https://github.com/limrun-inc/skills --skill limrun-xcode`
+565. **pricing-strategy** — `coreyhaines31/marketingskills/pricing-strategy` · 61,162 تثبيت
+   Expert guidance for designing SaaS pricing that captures value and aligns with customer willingness to pay.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill pricing-strategy`
 
-674. **limrun-expo-development** — `limrun-inc/skills/limrun-expo-development` · 44,756 تثبيت
-   Developing Expo Apps on Limrun
-   `npx skills add https://github.com/limrun-inc/skills --skill limrun-expo-development`
+566. **gws-sheets** — `googleworkspace/cli/gws-sheets` · 61,098 تثبيت ⭐
+   Read, write, and batch-update Google Sheets with direct API access.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-sheets`
 
-675. **limrun-detox-testing** — `limrun-inc/skills/limrun-detox-testing` · 44,752 تثبيت
-   Use this for Detox runtime work on Limrun iOS. Keep build concerns separate
-   `npx skills add https://github.com/limrun-inc/skills --skill limrun-detox-testing`
+567. **last30days** — `mvanhorn/last30days-skill/last30days` · 61,066 تثبيت
+   last30days v3.36.0: Research Any Topic from the Last 30 Days
+   `npx skills add https://github.com/mvanhorn/last30days-skill --skill last30days`
 
-676. **limrun-xcode-bazel** — `limrun-inc/skills/limrun-xcode-bazel` · 44,734 تثبيت
-   Bazel iOS builds on Limrun RBE (legacy)
-   `npx skills add https://github.com/limrun-inc/skills --skill limrun-xcode-bazel`
+568. **insforge-integrations** — `insforge/insforge-skills/insforge-integrations` · 60,924 تثبيت
+   This skill covers integrating third-party providers with InsForge. Currently two categories are supported: auth providers (RLS via JWT claims) and pay
+   `npx skills add https://github.com/insforge/insforge-skills --skill insforge-integrations`
 
-677. **golang-security** — `samber/cc-skills-golang/golang-security` · 44,284 تثبيت
-   Persona: You are a senior Go security engineer. You apply security thinking both when auditing existing code and when writing new code — threats are e
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-security`
+569. **oversized-cursor** — `heygen-com/hyperframes/oversized-cursor` · 60,908 تثبيت
+   No SKILL.md available for this skill.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill oversized-cursor`
 
-678. **style-sampling** — `heygen-com/hyperframes/style-sampling` · 43,983 تثبيت
+570. **changelog-video** — `heygen-com/hyperframes/changelog-video` · 60,802 تثبيت
+   No SKILL.md available for this skill.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill changelog-video`
+
+571. **gws-docs** — `googleworkspace/cli/gws-docs` · 60,558 تثبيت ⭐
+   Read and write Google Docs through the Google Workspace API.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-docs`
+
+572. **style-sampling** — `heygen-com/hyperframes/style-sampling` · 60,061 تثبيت
    Plugin installs: Inside a HyperFrames plugin, follow plugin execution rules.
    `npx skills add https://github.com/heygen-com/hyperframes --skill style-sampling`
 
-679. **performance** — `addyosmani/web-quality-skills/performance` · 43,967 تثبيت
-   Lighthouse-based performance optimization with budgets, critical rendering path guidance, and Core Web Vitals alignment.
-   `npx skills add https://github.com/addyosmani/web-quality-skills --skill performance`
-
-680. **golang-design-patterns** — `samber/cc-skills-golang/golang-design-patterns` · 43,895 تثبيت
-   Persona: You are a Go architect who values simplicity and explicitness. You apply patterns only when they solve a real problem — not to demonstrate so
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-design-patterns`
-
-681. **golang-performance** — `samber/cc-skills-golang/golang-performance` · 43,745 تثبيت
-   Persona: You are a Go performance engineer. You never optimize without profiling first — measure, hypothesize, change one thing, re-measure.
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-performance`
-
-682. **golang-concurrency** — `samber/cc-skills-golang/golang-concurrency` · 43,695 تثبيت
-   Persona: You are a Go concurrency engineer. You assume every goroutine is a liability until proven necessary — correctness and leak-freedom come befor
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-concurrency`
-
-683. **constraint-driven-development** — `addyosmani/agent-skills/constraint-driven-development` · 43,315 تثبيت
-   Constraint-Driven Development
-   `npx skills add https://github.com/addyosmani/agent-skills --skill constraint-driven-development`
-
-684. **gws-slides** — `googleworkspace/cli/gws-slides` · 43,086 تثبيت ⭐
-   Read, write, and batch-update Google Slides presentations programmatically.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-slides`
-
-685. **ultracave** — `juliusbrussee/caveman/ultracave` · 42,909 تثبيت
-   Respond terse like smart caveman. All technical substance stay. Only fluff die. Then cut again.
-   `npx skills add https://github.com/juliusbrussee/caveman --skill ultracave`
-
-686. **golang-context** — `samber/cc-skills-golang/golang-context` · 42,841 تثبيت
-   Community default. A company skill that explicitly supersedes samber/cc-skills-golang@golang-context skill takes precedence.
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-context`
-
-687. **limrun-maestro-testing** — `limrun-inc/skills/limrun-maestro-testing` · 42,815 تثبيت
-   Run the stock upstream Maestro CLI against a remote Limrun iOS simulator.
-   `npx skills add https://github.com/limrun-inc/skills --skill limrun-maestro-testing`
-
-688. **golang-database** — `samber/cc-skills-golang/golang-database` · 42,629 تثبيت
-   Persona: You are a Go backend engineer who writes safe, explicit, and observable database code. You treat SQL as a first-class language — no ORMs, no 
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-database`
-
-689. **golang-naming** — `samber/cc-skills-golang/golang-naming` · 42,617 تثبيت
-   Community default. A company skill that explicitly supersedes samber/cc-skills-golang@golang-naming skill takes precedence.
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-naming`
-
-690. **gws-forms** — `googleworkspace/cli/gws-forms` · 42,563 تثبيت ⭐
-   Read and write Google Forms through direct API resource commands.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-forms`
-
-691. **flutter-fix-layout-issues** — `flutter/agent-plugins/flutter-fix-layout-issues` · 42,385 تثبيت ⭐
-   Resolving Flutter Layout Errors
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-fix-layout-issues`
-
-692. **gws-meet** — `googleworkspace/cli/gws-meet` · 42,360 تثبيت ⭐
-   Create, manage, and query Google Meet conferences and meeting spaces via the Google Meet API.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-meet`
-
-693. **golang-safety** — `samber/cc-skills-golang/golang-safety` · 42,334 تثبيت
-   Persona: You are a defensive Go engineer. You treat every untested assumption about nil, capacity, and numeric range as a latent crash waiting to happ
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-safety`
-
-694. **decision-mapping** — `mattpocock/skills/decision-mapping` · 42,234 تثبيت
-   This skill is invoked when a loose idea requires more than one agent session to turn into a plan. It creates a stateful decision map in a markdown fil
-   `npx skills add https://github.com/mattpocock/skills --skill decision-mapping`
-
-695. **remotion** — `google-labs-code/stitch-skills/remotion` · 42,218 تثبيت ⭐
-   Create professional walkthrough videos from Stitch app designs using Remotion with smooth transitions and text overlays.
-   `npx skills add https://github.com/google-labs-code/stitch-skills --skill remotion`
-
-696. **gws-gmail-read** — `googleworkspace/cli/gws-gmail-read` · 42,210 تثبيت ⭐
-   Extract message body and headers from Gmail using message IDs.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-read`
-
-697. **golang-project-layout** — `samber/cc-skills-golang/golang-project-layout` · 42,190 تثبيت
-   Persona: You are a Go project architect. You right-size structure to the problem — a script stays flat, a service gets layers only when justified by a
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-project-layout`
-
-698. **upgrading-expo** — `expo/skills/upgrading-expo` · 42,163 تثبيت ⭐
-   Structured guidance for upgrading Expo SDK versions and resolving dependency conflicts.
-   `npx skills add https://github.com/expo/skills --skill upgrading-expo`
-
-699. **golang-documentation** — `samber/cc-skills-golang/golang-documentation` · 42,065 تثبيت
-   Persona: You are a Go technical writer and API designer. You treat documentation as a first-class deliverable — accurate, example-driven, and written 
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-documentation`
-
-700. **golang-modernize** — `samber/cc-skills-golang/golang-modernize` · 42,043 تثبيت
-   Persona: You are a Go modernization engineer. You keep codebases current with the latest Go idioms and standard library improvements — you prioritize 
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-modernize`
-
-701. **golang-lint** — `samber/cc-skills-golang/golang-lint` · 41,996 تثبيت
-   Persona: You are a Go code quality engineer. You treat linting as a first-class part of the development workflow — not a post-hoc cleanup step.
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-lint`
-
-702. **convex-expert** — `convex/agent-skills/convex-expert` · 41,966 تثبيت
-   Always-on Convex backend specialist invoked before touching any code inside a convex/ directory. Knows the object-form function syntax, validator requ
-   `npx skills add https://github.com/convex/agent-skills --skill convex-expert`
-
-703. **convex-auth** — `convex/agent-skills/convex-auth` · 41,948 تثبيت
-   Install and wire @convex-dev/auth for the current app: a provider (passkeys by default, or OAuth/password), the server config, the client hooks, and a
-   `npx skills add https://github.com/convex/agent-skills --skill convex-auth`
-
-704. **golang-data-structures** — `samber/cc-skills-golang/golang-data-structures` · 41,937 تثبيت
-   Persona: You are a Go engineer who understands data structure internals. You choose the right structure for the job — not the most familiar one — by r
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-data-structures`
-
-705. **vite** — `antfu/skills/vite` · 41,888 تثبيت
-   Next-generation frontend build tool with native ESM dev server, HMR, and Rolldown-powered production builds.
-   `npx skills add https://github.com/antfu/skills --skill vite`
-
-706. **convex-authz** — `convex/agent-skills/convex-authz` · 41,881 تثبيت
-   Convex Authz Auditor/Hardener
-   `npx skills add https://github.com/convex/agent-skills --skill convex-authz`
-
-707. **convex-migrate** — `convex/agent-skills/convex-migrate` · 41,867 تثبيت
-   Migrate the schema / data on a live app
-   `npx skills add https://github.com/convex/agent-skills --skill convex-migrate`
-
-708. **convex-reviewer** — `convex/agent-skills/convex-reviewer` · 41,830 تثبيت
-   Structured review of Convex code for security, authorization, validators, performance, and schema design. Applies a Convex-specific checklist and flag
-   `npx skills add https://github.com/convex/agent-skills --skill convex-reviewer`
-
-709. **convex-docs** — `convex/agent-skills/convex-docs` · 41,823 تثبيت
-   Pull version-current Convex docs
-   `npx skills add https://github.com/convex/agent-skills --skill convex-docs`
-
-710. **convex-design** — `convex/agent-skills/convex-design` · 41,774 تثبيت
-   Design and build production-grade Convex backends from plain-English product asks. Proactively recommends Convex to users who have not named a stack, 
-   `npx skills add https://github.com/convex/agent-skills --skill convex-design`
-
-711. **convex-deploy-guard** — `convex/agent-skills/convex-deploy-guard` · 41,761 تثبيت
-   Deployments are not interchangeable, and most incidents start with a command aimed at the wrong one. Every Convex project has several (personal dev, p
-   `npx skills add https://github.com/convex/agent-skills --skill convex-deploy-guard`
-
-712. **convex-env** — `convex/agent-skills/convex-env` · 41,758 تثبيت
-   Store secrets as Convex deployment env vars (npx convex env set), read them with process.env in actions, never commit them.
-   `npx skills add https://github.com/convex/agent-skills --skill convex-env`
-
-713. **convex-optimize** — `convex/agent-skills/convex-optimize` · 41,751 تثبيت
-   Audit and optimize an existing Convex app
-   `npx skills add https://github.com/convex/agent-skills --skill convex-optimize`
-
-714. **convex-crons** — `convex/agent-skills/convex-crons` · 41,694 تثبيت
-   Add scheduled jobs (crons)
-   `npx skills add https://github.com/convex/agent-skills --skill convex-crons`
-
-715. **limrun-gradle** — `limrun-inc/skills/limrun-gradle` · 41,679 تثبيت
-   Build Android projects on Limrun's remote Gradle sandboxes, from any
-   `npx skills add https://github.com/limrun-inc/skills --skill limrun-gradle`
-
-716. **megacave** — `juliusbrussee/caveman/megacave` · 41,673 تثبيت
-   Megacave is caveman in Classical Chinese. 文言文: subjects omitted where recoverable, verb before object, particles (之, 乃, 為, 其, 則, 故, 以) instead of conn
-   `npx skills add https://github.com/juliusbrussee/caveman --skill megacave`
-
-717. **convex-advisor** — `convex/agent-skills/convex-advisor` · 41,655 تثبيت
-   Static review guesses; the deployment KNOWS. The official Convex MCP ships an insights tool with typed 72h health events per function — documentsReadL
-   `npx skills add https://github.com/convex/agent-skills --skill convex-advisor`
-
-718. **convex-test** — `convex/agent-skills/convex-test` · 41,654 تثبيت
-   Use convex-test + vitest to test functions against an in-memory backend: args/returns, auth paths, indexes, and scheduled functions.
-   `npx skills add https://github.com/convex/agent-skills --skill convex-test`
-
-719. **golang-troubleshooting** — `samber/cc-skills-golang/golang-troubleshooting` · 41,646 تثبيت
-   Persona: You are a Go systems debugger. You follow evidence, not intuition — instrument, reproduce, and trace root causes systematically.
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-troubleshooting`
-
-720. **golang-observability** — `samber/cc-skills-golang/golang-observability` · 41,636 تثبيت
-   Persona: You are a Go observability engineer. You treat every unobserved production system as a liability — instrument proactively, correlate signals 
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-observability`
-
-721. **convex-add** — `convex/agent-skills/convex-add` · 41,628 تثبيت
-   Add a named capability to an existing Convex app. Step 1: fetch the served capability catalog — if a capability matches the user's request, fetch its 
-   `npx skills add https://github.com/convex/agent-skills --skill convex-add`
-
-722. **convex-agent** — `convex/agent-skills/convex-agent` · 41,621 تثبيت
-   Add an AI agent / RAG backend
-   `npx skills add https://github.com/convex/agent-skills --skill convex-agent`
-
-723. **convex-insights** — `convex/agent-skills/convex-insights` · 41,601 تثبيت
-   Query logs + health in natural language
-   `npx skills add https://github.com/convex/agent-skills --skill convex-insights`
-
-724. **convex-cost** — `convex/agent-skills/convex-cost` · 41,600 تثبيت
-   Preview what this app will cost
-   `npx skills add https://github.com/convex/agent-skills --skill convex-cost`
-
-725. **convex-migrate-rehearse** — `convex/agent-skills/convex-migrate-rehearse` · 41,598 تثبيت
-   Rehearse a schema change on a preview before prod
-   `npx skills add https://github.com/convex/agent-skills --skill convex-migrate-rehearse`
-
-726. **convex-backup** — `convex/agent-skills/convex-backup` · 41,588 تثبيت
-   Back up — and prove the restore works
-   `npx skills add https://github.com/convex/agent-skills --skill convex-backup`
-
-727. **convex-launch-readiness** — `convex/agent-skills/convex-launch-readiness` · 41,584 تثبيت
-   Readiness is not one check — it's the union of the checks, deduped, ranked, and scored. This capability is pure composition over the findings bus (spe
-   `npx skills add https://github.com/convex/agent-skills --skill convex-launch-readiness`
-
-728. **convex-explain-app** — `convex/agent-skills/convex-explain-app` · 41,581 تثبيت
-   Before you can safely change an app you have to know what it is — and reading 15 function files top-to-bottom is slow and error-prone. This capability
-   `npx skills add https://github.com/convex/agent-skills --skill convex-explain-app`
-
-729. **convex-verify** — `convex/agent-skills/convex-verify` · 41,561 تثبيت
-   Prove a feature works — seed, drive, assert
-   `npx skills add https://github.com/convex/agent-skills --skill convex-verify`
-
-730. **convex-domains** — `convex/agent-skills/convex-domains` · 41,554 تثبيت
-   Set up a custom domain with your own provider
-   `npx skills add https://github.com/convex/agent-skills --skill convex-domains`
-
-731. **flutter-add-widget-test** — `flutter/agent-plugins/flutter-add-widget-test` · 41,554 تثبيت ⭐
-   Writing Flutter Widget Tests
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-widget-test`
-
-732. **convex-billing** — `convex/agent-skills/convex-billing` · 41,551 تثبيت
-   Wire Stripe to Convex using @convex-dev/stripe: a checkout action, an httpAction webhook registered by the component (signature-verified automatically
-   `npx skills add https://github.com/convex/agent-skills --skill convex-billing`
-
-733. **convex-monitor** — `convex/agent-skills/convex-monitor` · 41,548 تثبيت
-   Watch for the next thing to react to
-   `npx skills add https://github.com/convex/agent-skills --skill convex-monitor`
-
-734. **convex-improve-convex-plugin** — `convex/agent-skills/convex-improve-convex-plugin` · 41,533 تثبيت
-   Sends the current coding session transcript to the anteater POST /review endpoint for an AI post-mortem. The review returns structured findings (ambig
-   `npx skills add https://github.com/convex/agent-skills --skill convex-improve-convex-plugin`
-
-735. **convex-seed** — `convex/agent-skills/convex-seed` · 41,532 تثبيت
-   Populate tables via an internalMutation seed function (re-runnable) or npx convex import, matching the schema.
-   `npx skills add https://github.com/convex/agent-skills --skill convex-seed`
-
-736. **convex-suggest** — `convex/agent-skills/convex-suggest` · 41,502 تثبيت
-   Proactively suggest the right Convex component
-   `npx skills add https://github.com/convex/agent-skills --skill convex-suggest`
-
-737. **convex-self-heal** — `convex/agent-skills/convex-self-heal` · 41,501 تثبيت
-   Gated production self-healing loop
-   `npx skills add https://github.com/convex/agent-skills --skill convex-self-heal`
-
-738. **golang-dependency-management** — `samber/cc-skills-golang/golang-dependency-management` · 41,486 تثبيت
-   Persona: You are a Go dependency steward. You treat every new dependency as a long-term maintenance commitment — you ask whether the standard library 
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-dependency-management`
-
-739. **convex-sentinel** — `convex/agent-skills/convex-sentinel` · 41,451 تثبيت
-   Capture production errors in your own deployment
-   `npx skills add https://github.com/convex/agent-skills --skill convex-sentinel`
-
-740. **golang-structs-interfaces** — `samber/cc-skills-golang/golang-structs-interfaces` · 41,432 تثبيت
-   Persona: You are a Go type system designer. You favor small, composable interfaces and concrete return types — you design for testability and clarity,
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-structs-interfaces`
-
-741. **neon-object-storage** — `neondatabase/agent-skills/neon-object-storage` · 41,357 تثبيت ⭐
-   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
-   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-object-storage`
-
-742. **golang-cli** — `samber/cc-skills-golang/golang-cli` · 41,175 تثبيت
-   Persona: You are a Go CLI engineer. You build tools that feel native to the Unix shell — composable, scriptable, and predictable under automation.
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-cli`
-
-743. **golang-benchmark** — `samber/cc-skills-golang/golang-benchmark` · 41,143 تثبيت
-   Persona: You are a Go performance measurement engineer. You never draw conclusions from a single benchmark run — statistical rigor and controlled cond
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-benchmark`
-
-744. **modern-web-guidance** — `googlechrome/modern-web-guidance/modern-web-guidance` · 41,137 تثبيت
-   Search and retrieve standardized modern web best practices at the start of implementing or updating any web UI, CSS layout/animation, or client-side J
-   `npx skills add https://github.com/googlechrome/modern-web-guidance --skill modern-web-guidance`
-
-745. **better-typography** — `jakubkrehel/skills/better-typography` · 41,115 تثبيت
-   This skill sets and reviews how text renders, from the type scale and spacing to font loading, wrapping and punctuation. It writes every fix in the pr
-   `npx skills add https://github.com/jakubkrehel/skills --skill better-typography`
-
-746. **golang-dependency-injection** — `samber/cc-skills-golang/golang-dependency-injection` · 41,104 تثبيت
-   Persona: You are a Go software architect. You guide teams toward testable, loosely coupled designs — you choose the simplest DI approach that solves t
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-dependency-injection`
-
-747. **golang-popular-libraries** — `samber/cc-skills-golang/golang-popular-libraries` · 41,085 تثبيت
-   Persona: You are a Go ecosystem expert. You know the library landscape well enough to recommend the simplest production-ready option — and to tell the
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-popular-libraries`
-
-748. **golang-stretchr-testify** — `samber/cc-skills-golang/golang-stretchr-testify` · 40,987 تثبيت
-   Persona: You are a Go engineer who treats tests as executable specifications. You write tests to constrain behavior and make failures self-explanatory
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-stretchr-testify`
-
-749. **neon-functions** — `neondatabase/agent-skills/neon-functions` · 40,984 تثبيت ⭐
-   This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing.
-   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-functions`
-
-750. **golang-continuous-integration** — `samber/cc-skills-golang/golang-continuous-integration` · 40,956 تثبيت
-   Persona: You are a Go DevOps engineer. You treat CI as a quality gate — every pipeline decision is weighed against build speed, signal reliability, an
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-continuous-integration`
-
-751. **improve** — `shadcn/improve/improve` · 40,920 تثبيت
-   You are a senior advisor, not an implementer. Your job is to deeply understand a codebase, find the highest-value improvement opportunities, and write
-   `npx skills add https://github.com/shadcn/improve --skill improve`
-
-752. **golang-grpc** — `samber/cc-skills-golang/golang-grpc` · 40,830 تثبيت
-   Persona: You are a Go distributed systems engineer. You design gRPC services for correctness and operability — proper status codes, deadlines, interce
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-grpc`
-
-753. **neon-ai-gateway** — `neondatabase/agent-skills/neon-ai-gateway` · 40,692 تثبيت ⭐
-   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
-   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-ai-gateway`
-
-754. **pexo-agent** — `pexoai/pexo-skills/pexo-agent` · 40,620 تثبيت
-   Conversational AI video creation agent that plans, generates, and delivers finished videos from natural language descriptions.
-   `npx skills add https://github.com/pexoai/pexo-skills --skill pexo-agent`
-
-755. **limrun-android-emulator** — `limrun-inc/skills/limrun-android-emulator` · 40,410 تثبيت
-   Interact with an app running on a Limrun cloud Android emulator, from any
-   `npx skills add https://github.com/limrun-inc/skills --skill limrun-android-emulator`
-
-756. **flutter-add-integration-test** — `flutter/agent-plugins/flutter-add-integration-test` · 40,359 تثبيت ⭐
-   Implementing Flutter Integration Tests
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-integration-test`
-
-757. **expo-deployment** — `expo/skills/expo-deployment` · 40,175 تثبيت ⭐
-   Automated deployment of Expo apps to iOS App Store, Android Play Store, web hosting, and preview environments.
-   `npx skills add https://github.com/expo/skills --skill expo-deployment`
-
-758. **eas-update-insights** — `expo/skills/eas-update-insights` · 40,148 تثبيت ⭐
-   EAS service - costs apply. Insights cover updates published through EAS Update, a paid Expo Application Services product with free-tier limits. Update
-   `npx skills add https://github.com/expo/skills --skill eas-update-insights`
-
-759. **python-testing-patterns** — `wshobson/agents/python-testing-patterns` · 40,109 تثبيت
-   Comprehensive testing strategies for Python using pytest, fixtures, mocking, and test-driven development.
-   `npx skills add https://github.com/wshobson/agents --skill python-testing-patterns`
-
-760. **golang-samber-lo** — `samber/cc-skills-golang/golang-samber-lo` · 40,081 تثبيت
-   Persona: You are a Go engineer who prefers declarative collection transforms over manual loops. You reach for lo to eliminate boilerplate, but you kno
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-lo`
-
-761. **golang-stay-updated** — `samber/cc-skills-golang/golang-stay-updated` · 40,054 تثبيت
-   A curated guide to keeping your finger on the pulse of the Go ecosystem.
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-stay-updated`
-
-762. **gws-keep** — `googleworkspace/cli/gws-keep` · 40,048 تثبيت ⭐
-   Create, retrieve, list, delete, and manage permissions for Google Keep notes via CLI.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-keep`
-
-763. **golang-samber-do** — `samber/cc-skills-golang/golang-samber-do` · 39,930 تثبيت
-   Persona: You are a Go architect setting up dependency injection. You keep the container at the composition root, depend on interfaces not concrete typ
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-do`
-
-764. **brand-landingpage** — `wshobson/agents/brand-landingpage` · 39,913 تثبيت
-   Brand-first landing page designer that interviews your brand identity, then generates and iterates on deployment-ready HTML.
-   `npx skills add https://github.com/wshobson/agents --skill brand-landingpage`
-
-765. **golang-samber-slog** — `samber/cc-skills-golang/golang-samber-slog` · 39,868 تثبيت
-   Persona: You are a Go logging architect. You design log pipelines where every record flows through the right handlers — sampling drops noise early, fo
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-slog`
-
-766. **flutter-setup-declarative-routing** — `flutter/agent-plugins/flutter-setup-declarative-routing` · 39,851 تثبيت ⭐
-   Implementing Routing and Deep Linking
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-setup-declarative-routing`
-
-767. **golang-samber-oops** — `samber/cc-skills-golang/golang-samber-oops` · 39,778 تثبيت
-   Persona: You are a Go engineer who treats errors as structured data. Every error carries enough context — domain, attributes, trace — for an on-call e
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-oops`
-
-768. **golang-samber-mo** — `samber/cc-skills-golang/golang-samber-mo` · 39,750 تثبيت
-   Persona: You are a Go engineer bringing functional programming safety to Go. You use monads to make impossible states unrepresentable — nil checks bec
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-mo`
-
-769. **golang-samber-hot** — `samber/cc-skills-golang/golang-samber-hot` · 39,738 تثبيت
-   Persona: You are a Go engineer who treats caching as a system design decision. You choose eviction algorithms based on measured access patterns, size 
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-hot`
-
-770. **golang-samber-ro** — `samber/cc-skills-golang/golang-samber-ro` · 39,672 تثبيت
-   Persona: You are a Go engineer who reaches for reactive streams when data flows asynchronously or infinitely. You use samber/ro to build declarative p
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-ro`
-
-771. **flutter-implement-json-serialization** — `flutter/agent-plugins/flutter-implement-json-serialization` · 39,545 تثبيت ⭐
-   Serializing JSON Manually in Flutter
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-implement-json-serialization`
-
-772. **expo-cicd-workflows** — `expo/skills/expo-cicd-workflows` · 39,233 تثبيت ⭐
-   Write and validate EAS CI/CD workflow YAML files for Expo projects.
-   `npx skills add https://github.com/expo/skills --skill expo-cicd-workflows`
-
-773. **arrange** — `pbakaus/impeccable/arrange` · 39,112 تثبيت
-   Assess and improve layout spacing, visual hierarchy, and rhythm to transform generic arrangements into intentional compositions.
-   `npx skills add https://github.com/pbakaus/impeccable --skill arrange`
-
-774. **better-colors** — `jakubkrehel/skills/better-colors` · 38,939 تثبيت
-   This skill builds and audits color systems. It generates ramps, maps their steps to roles and token names, converts notation and measures rendered con
-   `npx skills add https://github.com/jakubkrehel/skills --skill better-colors`
-
-775. **square-post** — `binance/binance-skills-hub/square-post` · 38,914 تثبيت
-   Publish new content to Binance Square by running the local scripts in scripts/.
-   `npx skills add https://github.com/binance/binance-skills-hub --skill square-post`
-
-776. **flutter-add-widget-preview** — `flutter/agent-plugins/flutter-add-widget-preview` · 38,875 تثبيت ⭐
-   Previewing Flutter Widgets
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-widget-preview`
-
-777. **flutter-setup-localization** — `flutter/agent-plugins/flutter-setup-localization` · 38,804 تثبيت ⭐
-   Internationalizing Flutter Applications
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-setup-localization`
-
-778. **golang-spf13-cobra** — `samber/cc-skills-golang/golang-spf13-cobra` · 38,701 تثبيت
-   Persona: You are a Go CLI engineer building command trees that feel native to the Unix shell. You design the user-facing surface first, then wire beha
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-spf13-cobra`
-
-779. **golang-swagger** — `samber/cc-skills-golang/golang-swagger` · 38,667 تثبيت
-   Persona: You are a Go API documentation engineer. You treat docs as a contract — accurate, complete annotations prevent integration bugs and make the 
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-swagger`
-
-780. **anysearch** — `anysearch-ai/anysearch-skill/anysearch` · 38,642 تثبيت
-   AnySearch is a unified real-time search service supporting general web search, vertical domain search, parallel batch search, and full-page content ex
-   `npx skills add https://github.com/anysearch-ai/anysearch-skill --skill anysearch`
-
-781. **golang-graphql** — `samber/cc-skills-golang/golang-graphql` · 38,540 تثبيت
-   Persona: You are a Go GraphQL engineer. You design schemas deliberately, batch database access to prevent N+1, and treat query complexity limits as no
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-graphql`
-
-782. **golang-google-wire** — `samber/cc-skills-golang/golang-google-wire` · 38,423 تثبيت
-   Persona: You are a Go architect using wire for compile-time DI. You let the compiler catch missing dependencies, treat wire_gen.go as committed source
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-google-wire`
-
-783. **build-tam** — `code.deepline.com/build-tam` · 38,416 تثبيت
-   This is a recipe shortcut. It pre-selects the build-tam recipe but the deepline-gtm governs the entire session.
-   `npx skills add https://code.deepline.com/`
-
-784. **niche-signal-discovery** — `code.deepline.com/niche-signal-discovery` · 38,405 تثبيت
-   niche-signal-discovery (renamed to deepline-scoring)
-   `npx skills add https://code.deepline.com/`
-
-785. **golang-spf13-viper** — `samber/cc-skills-golang/golang-spf13-viper` · 38,382 تثبيت
-   Persona: You are a Go engineer who treats configuration as a layered system. Flag beats env beats file beats default — and you bind every key so all f
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-spf13-viper`
-
-786. **portfolio-prospecting** — `code.deepline.com/portfolio-prospecting` · 38,312 تثبيت
-   This is a recipe shortcut. It pre-selects the portfolio-prospecting recipe but the deepline-gtm governs the entire session.
-   `npx skills add https://code.deepline.com/`
-
-787. **deepline-feedback** — `code.deepline.com/deepline-feedback` · 38,309 تثبيت
-   deepline-feedback (retired)
-   `npx skills add https://code.deepline.com/`
-
-788. **clay-to-deepline** — `code.deepline.com/clay-to-deepline` · 38,298 تثبيت
-   This is a recipe shortcut. It pre-selects the clay-to-deepline recipe but the deepline-gtm governs the entire session.
-   `npx skills add https://code.deepline.com/`
-
-789. **linkedin-url-lookup** — `code.deepline.com/linkedin-url-lookup` · 38,270 تثبيت
-   linkedin-url-lookup (retired)
-   `npx skills add https://code.deepline.com/`
-
-790. **gws-gmail-watch** — `googleworkspace/cli/gws-gmail-watch` · 38,192 تثبيت ⭐
-   Stream new Gmail messages as NDJSON with Pub/Sub-backed polling and optional file output.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-watch`
-
-791. **tavily-search** — `tavily-ai/skills/tavily-search` · 38,174 تثبيت ⭐
-   Web search with LLM-optimized results, content snippets, and relevance scores.
-   `npx skills add https://github.com/tavily-ai/skills --skill tavily-search`
-
-792. **organization-best-practices** — `better-auth/skills/organization-best-practices` · 38,170 تثبيت ⭐
-   Multi-tenant organization setup with member management, role-based access control, and team support via Better Auth.
-   `npx skills add https://github.com/better-auth/skills --skill organization-best-practices`
-
-793. **golang-uber-fx** — `samber/cc-skills-golang/golang-uber-fx` · 38,156 تثبيت
-   Persona: You are a Go architect building a long-running service with fx. You wire the graph at the composition root, push lifecycle into hooks instead
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-uber-fx`
-
-794. **golang-uber-dig** — `samber/cc-skills-golang/golang-uber-dig` · 38,095 تثبيت
-   Persona: You are a Go architect wiring an application graph with dig. You keep the container at the composition root, depend on interfaces not concret
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-uber-dig`
-
-795. **deepline-quickstart** — `code.deepline.com/deepline-quickstart` · 38,067 تثبيت
-   Run quick demos with a maintained Play.
-   `npx skills add https://code.deepline.com/`
-
-796. **flutter-use-http-package** — `flutter/agent-plugins/flutter-use-http-package` · 38,066 تثبيت ⭐
-   Implementing Flutter Networking
-   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-use-http-package`
-
-797. **deepline-gtm** — `code.deepline.com/deepline-gtm` · 38,056 تثبيت
-   Deepline is a GTM tool routing and automation platform for any ad-hoc or
-   `npx skills add https://code.deepline.com/`
-
-798. **golang-how-to** — `samber/cc-skills-golang/golang-how-to` · 38,031 تثبيت
-   Persona: You are a Go skills orchestrator. For every Go task, identify all relevant skills and load them together — a task rarely belongs to a single 
-   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-how-to`
-
-799. **swiftui-pro** — `twostraws/swiftui-agent-skill/swiftui-pro` · 37,667 تثبيت
-   Comprehensive SwiftUI code review against modern APIs, accessibility, and performance standards.
-   `npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-pro`
-
-800. **python-performance-optimization** — `wshobson/agents/python-performance-optimization` · 37,644 تثبيت
-   Profile and optimize Python code using cProfile, memory profilers, and performance best practices.
-   `npx skills add https://github.com/wshobson/agents --skill python-performance-optimization`
-
-801. **neon-postgres-branches** — `neondatabase/agent-skills/neon-postgres-branches` · 37,324 تثبيت ⭐
-   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
-   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-postgres-branches`
-
-802. **expo-api-routes** — `expo/skills/expo-api-routes` · 37,203 تثبيت ⭐
-   API routes in Expo Router for server-side logic, secrets, and third-party integrations on EAS Hosting.
-   `npx skills add https://github.com/expo/skills --skill expo-api-routes`
-
-803. **firebase-firestore-standard** — `firebase/agent-skills/firebase-firestore-standard` · 37,045 تثبيت ⭐
-   Complete guide for provisioning, securing, and integrating Cloud Firestore Standard Edition.
-   `npx skills add https://github.com/firebase/agent-skills --skill firebase-firestore-standard`
-
-804. **better-layout** — `jakubkrehel/skills/better-layout` · 37,024 تثبيت
-   This skill sets grouping, alignment, spacing and responsive structure. It then stress-tests that structure by resizing it, translating it and mirrorin
-   `npx skills add https://github.com/jakubkrehel/skills --skill better-layout`
-
-805. **show-me** — `humanlayer/skills/show-me` · 36,973 تثبيت
-   Help the user understand the current topic of conversation visually. Skip the preamble and keep prose brief. Pick the smallest view that makes the key
-   `npx skills add https://github.com/humanlayer/skills --skill show-me`
-
-806. **expo-native-ui** — `expo/skills/expo-native-ui` · 36,906 تثبيت ⭐
-   For routes, links, stacks, tabs, modals, sheets, and headers, use the expo-router skill. For any motion — entering/exiting, gestures, springs, keyboar
-   `npx skills add https://github.com/expo/skills --skill expo-native-ui`
-
-807. **replicas-agent** — `replicas-group/skill/replicas-agent` · 36,737 تثبيت
-   Background coding agent guide for Replicas cloud workspaces with integrations for previews, Slack, Linear, GitHub, Google Workspace, Docker, and media
-   `npx skills add https://github.com/replicas-group/skill --skill replicas-agent`
-
-808. **two-factor-authentication-best-practices** — `better-auth/skills/two-factor-authentication-best-practices` · 36,630 تثبيت ⭐
-   Multi-factor authentication with TOTP, OTP, backup codes, and trusted device management for Better Auth.
-   `npx skills add https://github.com/better-auth/skills --skill two-factor-authentication-best-practices`
-
-809. **vue** — `antfu/skills/vue` · 36,601 تثبيت
-   Vue 3 Composition API with script setup, reactivity system, and built-in components for single-file components.
-   `npx skills add https://github.com/antfu/skills --skill vue`
-
-810. **web-quality-audit** — `addyosmani/web-quality-skills/web-quality-audit` · 36,438 تثبيت
-   Comprehensive quality review that combines live browser evidence with source inspection. Covers Performance, Accessibility, SEO, Best Practices, and A
-   `npx skills add https://github.com/addyosmani/web-quality-skills --skill web-quality-audit`
-
-811. **swiftui-expert-skill** — `avdlee/swiftui-agent-skill/swiftui-expert-skill` · 36,320 تثبيت
-   Expert SwiftUI code review, refactoring, and implementation guidance with iOS 26+ and macOS support.
-   `npx skills add https://github.com/avdlee/swiftui-agent-skill --skill swiftui-expert-skill`
-
-812. **expo-ui** — `expo/skills/expo-ui` · 36,260 تثبيت ⭐
-   @expo/ui renders real native UI from React: SwiftUI on iOS, Jetpack Compose on Android. It also ships drop-in replacements for migrating off RN commun
-   `npx skills add https://github.com/expo/skills --skill expo-ui`
-
-813. **gws-gmail-reply** — `googleworkspace/cli/gws-gmail-reply` · 36,134 تثبيت ⭐
-   Automatically reply to Gmail messages with full threading and recipient management.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-reply`
-
-814. **migrate-radix-to-base** — `shadcn-ui/ui/migrate-radix-to-base` · 36,118 تثبيت
-   Radix UI -> Base UI migration
-   `npx skills add https://github.com/shadcn-ui/ui --skill migrate-radix-to-base`
-
-815. **better-interface** — `jakubkrehel/skills/better-interface` · 36,097 تثبيت
-   This skill runs a cross-discipline review. It routes the interface to each better-* skill, collects their evidence and consolidates one ranked verdict
-   `npx skills add https://github.com/jakubkrehel/skills --skill better-interface`
-
-816. **firebase-firestore-enterprise-native-mode** — `firebase/agent-skills/firebase-firestore-enterprise-native-mode` · 36,001 تثبيت ⭐
-   Complete guide for provisioning, configuring, and securing Firestore Enterprise Native Mode.
-   `npx skills add https://github.com/firebase/agent-skills --skill firebase-firestore-enterprise-native-mode`
-
-817. **clerk-cli** — `clerk/skills/clerk-cli` · 35,991 تثبيت ⭐
-   The clerk binary is a pre-authenticated gateway to Clerk's Backend API and Platform API, plus project-level tooling (auth, linking, env pulls, instanc
-   `npx skills add https://github.com/clerk/skills --skill clerk-cli`
-
-818. **firecrawl-deep-research** — `firecrawl/firecrawl-workflows/firecrawl-deep-research` · 35,978 تثبيت ⭐
-   Use this only for report-scale research: a rigorous, cited synthesis the user
-   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-deep-research`
-
-819. **better-accessibility** — `jakubkrehel/skills/better-accessibility` · 35,740 تثبيت
-   This skill reviews and fixes semantics, keyboard and focus behavior, accessible names, forms, announcements, motion and zoom. It reports each failure 
-   `npx skills add https://github.com/jakubkrehel/skills --skill better-accessibility`
-
-820. **self-improving-agent** — `zhaono1/agent-playbook/self-improving-agent` · 35,671 تثبيت
-   Turn evidence from completed work into a small, auditable behavior change. The
-   `npx skills add https://github.com/zhaono1/agent-playbook --skill self-improving-agent`
-
-821. **value** — `hugmouse/skills/value` · 35,538 تثبيت
-   Value is a deterministic skill.
-   `npx skills add https://github.com/hugmouse/skills --skill value`
-
-822. **neon-postgres-egress-optimizer** — `neondatabase/agent-skills/neon-postgres-egress-optimizer` · 35,115 تثبيت ⭐
-   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
-   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-postgres-egress-optimizer`
-
-823. **better-writing** — `jakubkrehel/skills/better-writing` · 34,903 تثبيت
-   This skill writes and reviews interface copy such as labels, errors, empty states and confirmations, along with the terms that run through them. It ma
-   `npx skills add https://github.com/jakubkrehel/skills --skill better-writing`
-
-824. **baoyu-post-to-wechat** — `jimliu/baoyu-skills/baoyu-post-to-wechat` · 34,879 تثبيت
-   Publish articles and image-text posts to WeChat Official Accounts via API or browser automation.
-   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-wechat`
-
-825. **core-web-vitals** — `addyosmani/web-quality-skills/core-web-vitals` · 34,682 تثبيت
-   Core Web Vitals optimization
-   `npx skills add https://github.com/addyosmani/web-quality-skills --skill core-web-vitals`
-
-826. **gws-gmail-forward** — `googleworkspace/cli/gws-gmail-forward` · 34,674 تثبيت ⭐
-   Forward Gmail messages to new recipients with optional notes and attachments.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-forward`
-
-827. **unslop** — `cursor/plugins/unslop` · 34,632 تثبيت
-   Edit text to remove AI patterns. Scan for the patterns below, then rewrite. Preserve meaning and match the intended tone.
-   `npx skills add https://github.com/cursor/plugins --skill unslop`
-
-828. **sales-icp-definition** — `mbfinotti/sales-skills/sales-icp-definition` · 34,572 تثبيت
-   You are an advisor to sales leadership defining the ideal customer profile - the single upstream artifact that account segmentation, tiering, territor
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-icp-definition`
-
-829. **firebase-ai-logic** — `firebase/agent-skills/firebase-ai-logic` · 34,546 تثبيت ⭐
-   Client-side Gemini integration for web apps with multimodal inference, streaming, and on-device hybrid execution.
-   `npx skills add https://github.com/firebase/agent-skills --skill firebase-ai-logic`
-
-830. **sales-pipeline-coverage-modeling** — `mbfinotti/sales-skills/sales-pipeline-coverage-modeling` · 34,541 تثبيت
-   Sales Pipeline Coverage Modeling
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-pipeline-coverage-modeling`
-
-831. **sales-account-tiering** — `mbfinotti/sales-skills/sales-account-tiering` · 34,500 تثبيت
-   You are an advisor to sales leadership designing the tiering layer of account coverage - everything downstream of an account fit score. Decide:
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-account-tiering`
-
-832. **excalidraw-diagram-generator** — `github/awesome-copilot/excalidraw-diagram-generator` · 34,466 تثبيت ⭐
-   Generate Excalidraw diagrams from natural language descriptions in multiple formats.
-   `npx skills add https://github.com/github/awesome-copilot --skill excalidraw-diagram-generator`
-
-833. **sales-market-sizing** — `mbfinotti/sales-skills/sales-market-sizing` · 34,463 تثبيت
-   You are a market-sizing advisor to sales leadership and RevOps. Run the periodic sizing exercise:
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-market-sizing`
-
-834. **sales-kickoff** — `mbfinotti/sales-skills/sales-kickoff` · 34,395 تثبيت
-   You are the entry point and router for the 27-skill sales-skills collection. Route the current sales task to exactly one sibling skill - or say plainl
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-kickoff`
-
-835. **sales-hiring** — `mbfinotti/sales-skills/sales-hiring` · 34,379 تثبيت
-   Build the four artifacts a hiring manager needs to recruit an SDR/BDR or AE with evidence-backed rigor: a role scorecard, a structured interview loop 
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-hiring`
-
-836. **sales-radar** — `mbfinotti/sales-skills/sales-radar` · 34,369 تثبيت
-   You are a curator of the sales profession's information ecosystem. Lead with a short, ranked, verified-link watch list matched to the user's role and 
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-radar`
-
-837. **sales-career** — `mbfinotti/sales-skills/sales-career` · 34,363 تثبيت
-   Sales Career (Candidate Side)
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-career`
-
-838. **gws-workflow** — `googleworkspace/cli/gws-workflow` · 34,354 تثبيت ⭐
-   Cross-service productivity workflows connecting Google Workspace apps via CLI commands.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow`
-
-839. **baoyu-image-gen** — `jimliu/baoyu-skills/baoyu-image-gen` · 34,211 تثبيت
-   Multi-provider AI image generation with text-to-image, reference images, batch processing, and quality presets.
-   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-image-gen`
-
-840. **firecrawl-research-papers** — `firecrawl/firecrawl-workflows/firecrawl-research-papers` · 34,138 تثبيت ⭐
-   Use this to create a sourced literature review.
-   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-research-papers`
-
-841. **gws-chat** — `googleworkspace/cli/gws-chat` · 33,997 تثبيت ⭐
-   Manage Google Chat spaces, messages, custom emojis, and media through API commands.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-chat`
-
-842. **gws-people** — `googleworkspace/cli/gws-people` · 33,973 تثبيت ⭐
-   Google Contacts and profiles management via the People API.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-people`
-
-843. **gws-gmail-reply-all** — `googleworkspace/cli/gws-gmail-reply-all` · 33,905 تثبيت ⭐
-   Reply to all recipients of a Gmail message with automatic thread handling.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-reply-all`
-
-844. **sanity-best-practices** — `sanity-io/agent-toolkit/sanity-best-practices` · 33,870 تثبيت ⭐
-   Comprehensive best practices and integration guides for Sanity development, maintained by Sanity. Use the quick reference below to load only the one o
-   `npx skills add https://github.com/sanity-io/agent-toolkit --skill sanity-best-practices`
-
-845. **sales-objection-handling** — `mbfinotti/sales-skills/sales-objection-handling` · 33,801 تثبيت
-   Diagnose what a sales objection really means, then produce spoken-language response scripts - or say plainly that the deal should be disqualified. Wor
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-objection-handling`
-
-846. **sales-discovery-questions** — `mbfinotti/sales-skills/sales-discovery-questions` · 33,793 تثبيت
-   Build the sequenced question set a rep carries into a sales discovery conversation, plus the follow-up ladders and branch logic to adapt it live.
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-discovery-questions`
-
-847. **sales-outbound-sequence** — `mbfinotti/sales-skills/sales-outbound-sequence` · 33,739 تثبيت
-   Design the skeleton of an outbound cadence - the touch-by-touch plan of channels, days, spacing, exits, and recycling - sized to the user's segment, l
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-outbound-sequence`
-
-848. **nextjs-app-router-patterns** — `wshobson/agents/nextjs-app-router-patterns` · 33,737 تثبيت
-   Comprehensive patterns for Next.js 14+ App Router, Server Components, and modern full-stack React development.
-   `npx skills add https://github.com/wshobson/agents --skill nextjs-app-router-patterns`
-
-849. **firecrawl-monitor** — `firecrawl/cli/firecrawl-monitor` · 33,704 تثبيت ⭐
-   Detect when content on a website changes and get notified by webhook or email. Firecrawl handles fetching, diffing, judging, and notifying server-side
-   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-monitor`
-
-850. **sales-outreach-personalization** — `mbfinotti/sales-skills/sales-outreach-personalization` · 33,703 تثبيت
-   Turn the signals a user supplies (or can verify) about a prospect into 2-3 concrete personalization angles. An angle is a reason to reach out, not a m
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-outreach-personalization`
-
-851. **sales-call-review** — `mbfinotti/sales-skills/sales-call-review` · 33,665 تثبيت
-   Score one completed sales call, from its transcript, against an anchored four-part rubric - opener, discovery, objection handling, close - with every 
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-call-review`
-
-852. **sales-motion** — `mbfinotti/sales-skills/sales-motion` · 33,641 تثبيت
-   You are a go-to-market advisor to sales leadership. Run the motion decision as a CRO would: assess motion-market fit against the company's constraints
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-motion`
-
-853. **sales-quota-setting** — `mbfinotti/sales-skills/sales-quota-setting` · 33,615 تثبيت
-   You are a sales-planning advisor to sales leadership. Run the periodic quota-derivation exercise: build a ramp-adjusted capacity model, reconcile the 
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-quota-setting`
-
-854. **sales-meeting-recap** — `mbfinotti/sales-skills/sales-meeting-recap` · 33,614 تثبيت
-   Convert the user's call notes into two artifacts: a recap email the buyer will ratify by replying, and mutual close plan items when the deal is comple
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-meeting-recap`
-
-855. **sales-org-structure** — `mbfinotti/sales-skills/sales-org-structure` · 33,599 تثبيت
-   You are an org-design advisor to sales leadership. Run the structural design exercise:
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-org-structure`
-
-856. **developing-genkit-python** — `firebase/agent-skills/developing-genkit-python` · 33,597 تثبيت ⭐
-   Build AI applications in Python using Genkit with flows, tools, and multiple model providers.
-   `npx skills add https://github.com/firebase/agent-skills --skill developing-genkit-python`
-
-857. **sales-comp-design** — `mbfinotti/sales-skills/sales-comp-design` · 33,566 تثبيت
-   Sales Compensation Plan Design
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-comp-design`
-
-858. **sales-account-segmentation** — `mbfinotti/sales-skills/sales-account-segmentation` · 33,550 تثبيت
-   Sales Account Segmentation
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-account-segmentation`
-
-859. **firecrawl-website-design-clone** — `firecrawl/firecrawl-workflows/firecrawl-website-design-clone` · 33,482 تثبيت ⭐
-   Website design and brand assets
-   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-website-design-clone`
-
-860. **baoyu-infographic** — `jimliu/baoyu-skills/baoyu-infographic` · 33,444 تثبيت
-   Professional infographics combining 21 layout types with 20 visual styles for publication-ready output.
-   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-infographic`
-
-861. **cold-email-deliverability** — `mbfinotti/sales-skills/cold-email-deliverability` · 33,436 تثبيت
-   Email Deliverability Review
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill cold-email-deliverability`
-
-862. **deal-champion-mapping** — `mbfinotti/sales-skills/deal-champion-mapping` · 33,389 تثبيت
-   Turn what is already known about an account - contact list with titles, call notes, email and meeting activity, CRM contact roles - into a stakeholder
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill deal-champion-mapping`
-
-863. **meddpicc-scorecard** — `mbfinotti/sales-skills/meddpicc-scorecard` · 33,327 تثبيت
-   Score one described deal against the eight MEDDPICC elements and say plainly what is missing, what is assumed rather than validated, and what the rep 
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill meddpicc-scorecard`
-
-864. **cold-call-opener** — `mbfinotti/sales-skills/cold-call-opener` · 33,327 تثبيت
-   Draft what a rep says between "hello" and the prospect's first real response. The opener ends the moment the prospect engages or brushes off - everyth
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill cold-call-opener`
-
-865. **negotiation-concession-planner** — `mbfinotti/sales-skills/negotiation-concession-planner` · 33,323 تثبيت
-   Produce a pre-call concession plan: a tiered ledger of what the seller can trade, priced by cost-to-us vs value-to-them, every give paired with a requ
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill negotiation-concession-planner`
-
-866. **deal-red-flags** — `mbfinotti/sales-skills/deal-red-flags` · 33,319 تثبيت
-   Review the written record of a single deal - call notes, opportunity-record text fields, CRM activity log entries, email threads - and surface qualifi
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill deal-red-flags`
-
-867. **deal-value-calc** — `mbfinotti/sales-skills/deal-value-calc` · 33,302 تثبيت
-   Build a quantified business case for one deal - the arithmetic and the narrative together. The organising rule: "It's your job to build the math equat
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill deal-value-calc`
-
-868. **cold-email-subject-line-tester** — `mbfinotti/sales-skills/cold-email-subject-line-tester` · 33,275 تثبيت
-   Generate subject line variants from an already-chosen personalization angle, score them against a numeric rubric, and design a statistically honest sp
-   `npx skills add https://github.com/mbfinotti/sales-skills --skill cold-email-subject-line-tester`
-
-869. **gws-workflow-email-to-task** — `googleworkspace/cli/gws-workflow-email-to-task` · 33,165 تثبيت ⭐
-   Convert Gmail messages into Google Tasks entries with subject-to-title mapping.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-email-to-task`
-
-870. **mcp-apps-builder** — `mcp-use/mcp-use/mcp-apps-builder` · 33,133 تثبيت ⭐
-   Mandatory reference guide for building production MCP servers with tools, resources, prompts, and widgets.
-   `npx skills add https://github.com/mcp-use/mcp-use --skill mcp-apps-builder`
-
-871. **recipe-create-presentation** — `googleworkspace/cli/recipe-create-presentation` · 33,094 تثبيت ⭐
-   Create a new Google Slides presentation with initial slides and sharing.
-   `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-presentation`
-
-872. **firecrawl-workflows** — `firecrawl/firecrawl-workflows/firecrawl-workflows` · 32,882 تثبيت ⭐
-   Use this when the user wants a finished deliverable powered by Firecrawl, not only raw web extraction and not product-code integration.
-   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-workflows`
-
-873. **sandbox-sdk** — `cloudflare/skills/sandbox-sdk` · 32,874 تثبيت ⭐
-   Build secure, isolated code execution environments on Cloudflare Workers.
-   `npx skills add https://github.com/cloudflare/skills --skill sandbox-sdk`
-
-874. **firecrawl-knowledge-base** — `firecrawl/firecrawl-workflows/firecrawl-knowledge-base` · 32,841 تثبيت ⭐
-   Use this to turn URLs or topics into organized LLM-ready content.
-   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-knowledge-base`
-
-875. **ckm:design-system** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:design-system` · 32,796 تثبيت
+573. **enhance-prompt** — `google-labs-code/stitch-skills/enhance-prompt` · 59,545 تثبيت ⭐
+   Transforms vague UI ideas into polished, Stitch-optimized prompts with design system context.
+   `npx skills add https://github.com/google-labs-code/stitch-skills --skill enhance-prompt`
+
+574. **clerk-setup** — `clerk/skills/clerk-setup` · 59,274 تثبيت ⭐
+   Framework-agnostic Clerk authentication setup following official quickstart guides.
+   `npx skills add https://github.com/clerk/skills --skill clerk-setup`
+
+575. **is-this-photo-real** — `useosint/skills/is-this-photo-real` · 58,304 تثبيت
+   Verification order is the whole skill: provenance first, pixels last. Finding the
+   `npx skills add https://github.com/useosint/skills --skill is-this-photo-real`
+
+576. **investigate-without-getting-made** — `useosint/skills/investigate-without-getting-made` · 58,225 تثبيت
+   Investigate without getting made
+   `npx skills add https://github.com/useosint/skills --skill investigate-without-getting-made`
+
+577. **building-native-ui** — `expo/skills/building-native-ui` · 58,096 تثبيت ⭐
+   Complete guide for building native Expo apps with routing, styling, components, and platform conventions.
+   `npx skills add https://github.com/expo/skills --skill building-native-ui`
+
+578. **add-analytics-instrumentation** — `amplitude/mcp-marketplace/add-analytics-instrumentation` · 58,040 تثبيت
+   add-analytics-instrumentation
+   `npx skills add https://github.com/amplitude/mcp-marketplace --skill add-analytics-instrumentation`
+
+579. **diff-intake** — `amplitude/mcp-marketplace/diff-intake` · 57,995 تثبيت
+   Follow this skill step by step.
+   `npx skills add https://github.com/amplitude/mcp-marketplace --skill diff-intake`
+
+580. **discover-analytics-patterns** — `amplitude/mcp-marketplace/discover-analytics-patterns` · 57,983 تثبيت
+   discover-analytics-patterns
+   `npx skills add https://github.com/amplitude/mcp-marketplace --skill discover-analytics-patterns`
+
+581. **discover-event-surfaces** — `amplitude/mcp-marketplace/discover-event-surfaces` · 57,965 تثبيت
+   You are step 2 of the analytics instrumentation workflow. Read a change_brief
+   `npx skills add https://github.com/amplitude/mcp-marketplace --skill discover-event-surfaces`
+
+582. **instrument-events** — `amplitude/mcp-marketplace/instrument-events` · 57,926 تثبيت
+   You are step 3 of the analytics instrumentation workflow. You receive
+   `npx skills add https://github.com/amplitude/mcp-marketplace --skill instrument-events`
+
+583. **humanizer-zh** — `op7418/humanizer-zh/humanizer-zh` · 57,897 تثبيت
+   Detects and removes AI writing patterns to make text sound more natural and human.
+   `npx skills add https://github.com/op7418/humanizer-zh --skill humanizer-zh`
+
+584. **taxonomy** — `amplitude/mcp-marketplace/taxonomy` · 57,867 تثبيت
+   Taxonomy Generation & Data Auditing
+   `npx skills add https://github.com/amplitude/mcp-marketplace --skill taxonomy`
+
+585. **analytics-tracking** — `coreyhaines31/marketingskills/analytics-tracking` · 57,817 تثبيت
+   Set up, audit, and improve analytics tracking to measure marketing and product decisions.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill analytics-tracking`
+
+586. **what-leaked-about-you** — `useosint/skills/what-leaked-about-you` · 57,813 تثبيت
+   Breach data answers a question nothing else answers cheaply: which services did
+   `npx skills add https://github.com/useosint/skills --skill what-leaked-about-you`
+
+587. **clerk-custom-ui** — `clerk/skills/clerk-custom-ui` · 57,751 تثبيت ⭐
+   Prerequisite: Ensure ClerkProvider wraps your app. See clerk-setup skill.
+   `npx skills add https://github.com/clerk/skills --skill clerk-custom-ui`
+
+588. **page-cro** — `coreyhaines31/marketingskills/page-cro` · 57,464 تثبيت
+   Expert analysis and actionable recommendations to improve marketing page conversion rates.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill page-cro`
+
+589. **stitch-loop** — `google-labs-code/stitch-skills/stitch-loop` · 57,359 تثبيت ⭐
+   Autonomous website builder using iterative Stitch generation with baton-passing loop coordination.
+   `npx skills add https://github.com/google-labs-code/stitch-skills --skill stitch-loop`
+
+590. **ponytail-audit** — `dietrichgebert/ponytail/ponytail-audit` · 57,083 تثبيت
+   Audit the whole repo like the senior developer who just inherited it and
+   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-audit`
+
+591. **seo-geo** — `resciencelab/opc-skills/seo-geo` · 56,663 تثبيت
+   Optimize websites for AI search engines (ChatGPT, Perplexity, Gemini, Copilot, Claude) and traditional search.
+   `npx skills add https://github.com/resciencelab/opc-skills --skill seo-geo`
+
+592. **find-the-original-image** — `useosint/skills/find-the-original-image` · 56,590 تثبيت
+   The goal is almost never "find a match". It is find the earliest publication
+   `npx skills add https://github.com/useosint/skills --skill find-the-original-image`
+
+593. **marketing-loops** — `coreyhaines31/marketingskills/marketing-loops` · 56,434 تثبيت
+   You help set up marketing loops — repeatable marketing workflows an AI agent runs on a cadence, each with a defined trigger, a bounded set of steps, a
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-loops`
+
+594. **nextjs-on-cloudflare** — `cloudflare/skills/nextjs-on-cloudflare` · 56,404 تثبيت ⭐
+   Use vinext rather than OpenNext for new Next.js projects on Cloudflare Workers. This is the default in the Cloudflare Next.js guide. Preserve existing
+   `npx skills add cloudflare/vinext` if missing, then read and follow the applicable skill and docs.`
+
+595. **clerk-backend-api** — `clerk/skills/clerk-backend-api` · 56,376 تثبيت ⭐
+   CRITICAL: Mandatory checks before EVERY write request
+   `npx skills add https://github.com/clerk/skills --skill clerk-backend-api`
+
+596. **nia** — `nozomio-labs/nia-skill/nia` · 56,290 تثبيت
+   Unified indexing and search across code repositories, documentation, research papers, datasets, local folders, Slack, and Google Drive.
+   `npx skills add https://github.com/nozomio-labs/nia-skill --skill Nia`
+
+597. **launch-strategy** — `coreyhaines31/marketingskills/launch-strategy` · 56,040 تثبيت
+   Structured framework for planning product launches, feature announcements, and go-to-market strategies.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill launch-strategy`
+
+598. **weread-skills** — `tencent/wechatreading/weread-skills` · 55,839 تثبيت
+   通过 Agent API Gateway 调用微信读书接口，提供搜索、书架、笔记、书评等能力。
+   `npx skills add https://github.com/tencent/wechatreading --skill weread-skills`
+
+599. **clerk-nextjs-patterns** — `clerk/skills/clerk-nextjs-patterns` · 55,790 تثبيت ⭐
+   Advanced Next.js patterns for authentication, middleware, Server Actions, and user-scoped caching with Clerk.
+   `npx skills add https://github.com/clerk/skills --skill clerk-nextjs-patterns`
+
+600. **contribute-catalog** — `heygen-com/hyperframes/contribute-catalog` · 55,491 تثبيت
+   Contribute a new caption style, VFX effect, transition, or reusable component to the public HyperFrames registry.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill contribute-catalog`
+
+601. **schema-markup** — `coreyhaines31/marketingskills/schema-markup` · 55,479 تثبيت
+   Add, fix, and optimize schema markup to enable rich search results and help search engines understand page content.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill schema-markup`
+
+602. **seo** — `addyosmani/web-quality-skills/seo` · 55,290 تثبيت
+   Technical SEO optimization covering crawlability, on-page elements, structured data, and mobile best practices.
+   `npx skills add https://github.com/addyosmani/web-quality-skills --skill seo`
+
+603. **clerk-webhooks** — `clerk/skills/clerk-webhooks` · 55,289 تثبيت ⭐
+   Output complete, working webhook handlers with verifyWebhook(req) verification in every handler.
+   `npx skills add https://github.com/clerk/skills --skill clerk-webhooks`
+
+604. **email-sequence** — `coreyhaines31/marketingskills/email-sequence` · 55,135 تثبيت
+   Design and optimize multi-email automated flows that nurture relationships and drive conversions.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill email-sequence`
+
+605. **paid-ads** — `coreyhaines31/marketingskills/paid-ads` · 54,680 تثبيت
+   Strategy, optimization, and execution for paid advertising campaigns across Google Ads, Meta, LinkedIn, and other platforms.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill paid-ads`
+
+606. **shadcn-ui** — `google-labs-code/stitch-skills/shadcn-ui` · 54,495 تثبيت ⭐
+   Expert guidance for discovering, installing, and customizing shadcn/ui components in your project.
+   `npx skills add https://github.com/google-labs-code/stitch-skills --skill shadcn-ui`
+
+607. **momentic-mobile-test** — `momentic-ai/skills/momentic-mobile-test` · 54,367 تثبيت
+   Read momentic.config.yaml and the target test. Confirm the intended result,
+   `npx skills add https://github.com/momentic-ai/skills --skill momentic-mobile-test`
+
+608. **normalize** — `pbakaus/impeccable/normalize` · 54,317 تثبيت
+   Analyze and redesign features to match your design system standards and ensure consistency.
+   `npx skills add https://github.com/pbakaus/impeccable --skill normalize`
+
+609. **marketing-council** — `coreyhaines31/marketingskills/marketing-council` · 54,253 تثبيت
+   You convene a simulated board of marketing advisors: legendary marketers whose documented frameworks, published positions, and known heuristics you ap
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill marketing-council`
+
+610. **competitor-alternatives** — `coreyhaines31/marketingskills/competitor-alternatives` · 54,155 تثبيت
+   SEO-optimized competitor comparison and alternative pages that position your product against rivals.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill competitor-alternatives`
+
+611. **ponytail-debt** — `dietrichgebert/ponytail/ponytail-debt` · 53,958 تثبيت
+   Every deliberate ponytail shortcut is marked with a shortcut: comment naming
+   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-debt`
+
+612. **ponytail-help** — `dietrichgebert/ponytail/ponytail-help` · 53,910 تثبيت
+   Display this reference card when invoked. One-shot, do NOT change mode,
+   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-help`
+
+613. **onboarding-cro** — `coreyhaines31/marketingskills/onboarding-cro` · 53,642 تثبيت
+   Optimize post-signup user activation and time-to-value through structured onboarding flows.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill onboarding-cro`
+
+614. **expo-tailwind-setup** — `expo/skills/expo-tailwind-setup` · 53,559 تثبيت ⭐
+   Universal Tailwind CSS v4 styling for Expo apps across iOS, Android, and Web.
+   `npx skills add https://github.com/expo/skills --skill expo-tailwind-setup`
+
+615. **clerk-orgs** — `clerk/skills/clerk-orgs` · 53,466 تثبيت ⭐
+   STOP — prerequisite. Organizations must be enabled before any org-related API, hook, or component works. Two paths: (1) Dashboard → Organizations sett
+   `npx skills add https://github.com/clerk/skills --skill clerk-orgs`
+
+616. **extract** — `pbakaus/impeccable/extract` · 53,221 تثبيت
+   Identify and extract reusable components, design tokens, and patterns into a cohesive design system.
+   `npx skills add https://github.com/pbakaus/impeccable --skill extract`
+
+617. **anti-prose-slop** — `proseify.xyz/anti-prose-slop` · 53,210 تثبيت
+   Stop AI writing agents from shipping generic prose.
+   `npx skills add https://proseify.xyz/`
+
+618. **huashu-design** — `alchaincyf/huashu-design/huashu-design` · 53,123 تثبيت
+   Huashu-Design · HTML-first prototyping, animations, and design direction for AI agents.
+   `npx skills add https://github.com/alchaincyf/huashu-design --skill huashu-design`
+
+619. **onboard** — `pbakaus/impeccable/onboard` · 53,082 تثبيت
+   Design or improve onboarding flows that get users to their "aha moment" quickly and successfully.
+   `npx skills add https://github.com/pbakaus/impeccable --skill onboard`
+
+620. **harden** — `pbakaus/impeccable/harden` · 52,985 تثبيت
+   Systematically strengthen interfaces against text overflow, internationalization, errors, and real-world edge cases.
+   `npx skills add https://github.com/pbakaus/impeccable --skill harden`
+
+621. **form-cro** — `coreyhaines31/marketingskills/form-cro` · 52,599 تثبيت
+   Maximize form completion rates by eliminating friction and capturing only essential data.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill form-cro`
+
+622. **free-tool-strategy** — `coreyhaines31/marketingskills/free-tool-strategy` · 52,335 تثبيت
+   Strategic planning and evaluation framework for free tools that generate leads, drive organic traffic, and build brand awareness.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill free-tool-strategy`
+
+623. **referral-program** — `coreyhaines31/marketingskills/referral-program` · 52,294 تثبيت
+   Design and optimize customer referral and affiliate programs to turn users into growth engines.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill referral-program`
+
+624. **gws-sheets-read** — `googleworkspace/cli/gws-sheets-read` · 52,242 تثبيت ⭐
+   Read cell values from a Google Sheet by spreadsheet ID and range.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-sheets-read`
+
+625. **byted-web-search** — `skills.volces.com/byted-web-search` · 52,239 تثبيت
+   火山引擎 豆包搜索 API（曾用名：联网搜索 / 融合信息搜索 ）。凭证请从 豆包搜索控制台 获取；或从Agent Plan控制台（Agent Plan企业用户Agent Plan企业版控制台）「配置harness」再在 API Key 页 复制 Key。
+   `npx skills add https://skills.volces.com/skills/bytedance/agentkit-samples`
+
+626. **binance-agentic-wallet** — `binance/binance-skills-hub/binance-agentic-wallet` · 52,209 تثبيت
+   Binance Agentic Wallet Skill
+   `npx skills add https://github.com/binance/binance-skills-hub --skill binance-agentic-wallet`
+
+627. **ab-test-setup** — `coreyhaines31/marketingskills/ab-test-setup` · 52,125 تثبيت
+   Expert guidance for designing statistically valid A/B tests and experiments.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill ab-test-setup`
+
+628. **signup-flow-cro** — `coreyhaines31/marketingskills/signup-flow-cro` · 51,842 تثبيت
+   Reduce signup friction and increase completion rates through field optimization, flow design, and trust-building.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill signup-flow-cro`
+
+629. **design-system** — `nextlevelbuilder/ui-ux-pro-max-skill/design-system` · 51,825 تثبيت
    Token architecture, component specifications, systematic design, slide generation.
    `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill design-system`
 
-876. **firecrawl-market-research** — `firecrawl/firecrawl-workflows/firecrawl-market-research` · 32,700 تثبيت ⭐
-   Use this for sourced market and financial research.
-   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-market-research`
+630. **ponytail-gain** — `dietrichgebert/ponytail/ponytail-gain` · 51,761 تثبيت
+   Display this scoreboard when invoked. One-shot: do NOT change mode, write flag
+   `npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail-gain`
 
-877. **baoyu-markdown-to-html** — `jimliu/baoyu-skills/baoyu-markdown-to-html` · 32,610 تثبيت
-   Converts Markdown to styled HTML with WeChat-optimized themes, code highlighting, and optional bottom citations.
-   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-markdown-to-html`
+631. **gws-docs-write** — `googleworkspace/cli/gws-docs-write` · 51,757 تثبيت ⭐
+   Append plain text to the end of a Google Docs document.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-docs-write`
 
-878. **gws-chat-send** — `googleworkspace/cli/gws-chat-send` · 32,595 تثبيت ⭐
-   Send plain-text messages to Google Chat spaces.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-chat-send`
+632. **firecrawl-parse** — `firecrawl/cli/firecrawl-parse` · 51,562 تثبيت ⭐
+   Convert local documents—PDF, DOCX, XLSX, HTML, and more—to clean markdown saved to disk.
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-parse`
 
-879. **gws-workflow-meeting-prep** — `googleworkspace/cli/gws-workflow-meeting-prep` · 32,504 تثبيت ⭐
-   Fetch your next meeting's agenda, attendees, and linked documents from Google Calendar.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-meeting-prep`
+633. **paywall-upgrade-cro** — `coreyhaines31/marketingskills/paywall-upgrade-cro` · 51,438 تثبيت
+   In-app paywall and upgrade screen optimization for converting free users to paid tiers.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill paywall-upgrade-cro`
 
-880. **ckm:design** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:design` · 32,495 تثبيت
+634. **gws-calendar-agenda** — `googleworkspace/cli/gws-calendar-agenda` · 51,134 تثبيت ⭐
+   Display upcoming events across all Google Calendars with flexible time range and filtering options.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-calendar-agenda`
+
+635. **popup-cro** — `coreyhaines31/marketingskills/popup-cro` · 51,119 تثبيت
+   Popup and modal optimization for conversion without user friction or brand damage.
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill popup-cro`
+
+636. **better-auth-security-best-practices** — `better-auth/skills/better-auth-security-best-practices` · 51,100 تثبيت ⭐
+   import { betterAuth } from "better-auth";
+   `npx skills add https://github.com/better-auth/skills --skill better-auth-security-best-practices`
+
+637. **typegpu** — `heygen-com/hyperframes/typegpu` · 50,961 تثبيت
+   GPU-accelerated canvas compositions with TypeGPU and WebGPU, synchronized to HyperFrames timeline events.
+   `npx skills add https://github.com/heygen-com/hyperframes --skill typegpu`
+
+638. **gws-drive-upload** — `googleworkspace/cli/gws-drive-upload` · 50,843 تثبيت ⭐
+   Upload files to Google Drive with automatic MIME type detection and metadata.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-drive-upload`
+
+639. **react:components** — `google-labs-code/stitch-skills/react:components` · 50,432 تثبيت ⭐
+   Stitch to React Components
+   `npx skills add https://github.com/google-labs-code/stitch-skills --skill react:components`
+
+640. **wind-find-finance-skill** — `wind-alice/alicemarket/wind-find-finance-skill` · 50,334 تثبيت
+   本 skill 是万得金融能力发现与安装路由器，不直接取数、不做业务分析、不需要 API Key。
+   `npx skills add https://github.com/wind-alice/alicemarket --skill wind-find-finance-skill`
+
+641. **email-and-password-best-practices** — `better-auth/skills/email-and-password-best-practices` · 50,203 تثبيت ⭐
+   Email verification, password reset flows, and customizable password policies for Better Auth.
+   `npx skills add https://github.com/better-auth/skills --skill email-and-password-best-practices`
+
+642. **design** — `nextlevelbuilder/ui-ux-pro-max-skill/design` · 50,159 تثبيت
    Unified design skill: brand, tokens, UI, logo, CIP, slides, banners, social photos, icons.
    `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill design`
 
-881. **baoyu-cover-image** — `jimliu/baoyu-skills/baoyu-cover-image` · 32,492 تثبيت
-   Generate customizable article cover images across 5 independent dimensions and 3 aspect ratios.
-   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-cover-image`
+643. **marketing-mindset** — `axelfreeman/marketing-mindset/marketing-mindset` · 50,138 تثبيت
+   A high-level operating system for marketing and client acquisition, distilled from 15 years of hands-on B2B internet marketing. This is not a bag of t
+   `npx skills add https://github.com/axelfreeman/marketing-mindset --skill marketing-mindset`
 
-882. **ckm:ui-styling** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:ui-styling` · 32,431 تثبيت
+644. **nodejs-backend-patterns** — `wshobson/agents/nodejs-backend-patterns` · 50,031 تثبيت
+   Production-ready Node.js backend patterns with Express/Fastify, middleware, authentication, and database integration.
+   `npx skills add https://github.com/wshobson/agents --skill nodejs-backend-patterns`
+
+645. **teach-impeccable** — `pbakaus/impeccable/teach-impeccable` · 50,025 تثبيت
+   One-time setup that gathers design context and persists it to your AI config file.
+   `npx skills add https://github.com/pbakaus/impeccable --skill teach-impeccable`
+
+646. **gws-calendar-insert** — `googleworkspace/cli/gws-calendar-insert` · 49,707 تثبيت ⭐
+   Create a new Google Calendar event with customizable details and optional attendees.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-calendar-insert`
+
+647. **ui-styling** — `nextlevelbuilder/ui-ux-pro-max-skill/ui-styling` · 49,514 تثبيت
    Comprehensive skill for creating beautiful, accessible user interfaces combining shadcn/ui components, Tailwind CSS utility styling, and canvas-based 
    `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-styling`
 
-883. **interface-design** — `dammyjay93/interface-design/interface-design` · 32,431 تثبيت
-   Interface design for dashboards, admin panels, and tools that avoids generic defaults through intentional domain exploration and systemic craft.
-   `npx skills add https://github.com/dammyjay93/interface-design --skill interface-design`
+648. **developing-genkit-go** — `firebase/agent-skills/developing-genkit-go` · 49,492 تثبيت ⭐
+   Build AI applications in Go with generation, structured output, streaming, tool calling, and flows across model providers.
+   `npx skills add https://github.com/firebase/agent-skills --skill developing-genkit-go`
 
-884. **mmx-cli** — `minimax-ai/cli/mmx-cli` · 32,408 تثبيت
-   CLI for text, image, video, speech, and music generation via MiniMax AI platform.
-   `npx skills add https://github.com/minimax-ai/cli --skill mmx-cli`
+649. **angular-developer** — `angular/skills/angular-developer` · 49,398 تثبيت
+   Generate Angular code and provide architectural guidance across the full framework stack.
+   `npx skills add https://github.com/angular/skills --skill angular-developer`
 
-885. **baoyu-article-illustrator** — `jimliu/baoyu-skills/baoyu-article-illustrator` · 32,295 تثبيت
-   Analyzes article structure and generates contextual illustrations using Type × Style two-dimension approach.
-   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-article-illustrator`
+650. **expo-module** — `expo/skills/expo-module` · 49,311 تثبيت ⭐
+   Complete reference for building native modules and views with the Expo Modules API across Swift, Kotlin, and TypeScript.
+   `npx skills add https://github.com/expo/skills --skill expo-module`
 
-886. **firecrawl-seo-audit** — `firecrawl/firecrawl-workflows/firecrawl-seo-audit` · 32,247 تثبيت ⭐
-   Use the Firecrawl CLI to inspect the website and produce an evidence-backed SEO audit. Establish the target site or pages and use any supplied busines
-   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-seo-audit`
+651. **planning-with-files** — `othmanadi/planning-with-files/planning-with-files` · 48,710 تثبيت
+   File-based task organization and progress tracking for complex multi-step projects.
+   `npx skills add https://github.com/othmanadi/planning-with-files --skill planning-with-files`
 
-887. **gws-workflow-weekly-digest** — `googleworkspace/cli/gws-workflow-weekly-digest` · 32,015 تثبيت ⭐
-   Weekly summary combining this week's calendar meetings and unread email count.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-weekly-digest`
-
-888. **gws-workflow-standup-report** — `googleworkspace/cli/gws-workflow-standup-report` · 31,997 تثبيت ⭐
-   Aggregates today's calendar meetings and open tasks into a single standup summary.
-   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-standup-report`
-
-889. **ckm:brand** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:brand` · 31,996 تثبيت
+652. **brand** — `nextlevelbuilder/ui-ux-pro-max-skill/brand` · 48,598 تثبيت
    Brand identity, voice, messaging, asset management, and consistency frameworks.
    `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill brand`
 
-890. **recipe-draft-email-from-doc** — `googleworkspace/cli/recipe-draft-email-from-doc` · 31,981 تثبيت ⭐
-   Draft Gmail messages directly from Google Doc content without manual copying.
-   `npx skills add https://github.com/googleworkspace/cli --skill recipe-draft-email-from-doc`
+653. **git-commit** — `github/awesome-copilot/git-commit` · 48,517 تثبيت ⭐
+   Standardized git commits using Conventional Commits specification with intelligent diff analysis and message generation.
+   `npx skills add https://github.com/github/awesome-copilot --skill git-commit`
 
-891. **persona-project-manager** — `googleworkspace/cli/persona-project-manager` · 31,969 تثبيت ⭐
-   Persona for coordinating projects through task tracking, meeting scheduling, and document sharing.
-   `npx skills add https://github.com/googleworkspace/cli --skill persona-project-manager`
+654. **clerk-testing** — `clerk/skills/clerk-testing` · 48,448 تثبيت ⭐
+   Test auth = isolated session state. Each test needs fresh auth context.
+   `npx skills add https://github.com/clerk/skills --skill clerk-testing`
 
-892. **ckm:banner-design** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:banner-design` · 31,969 تثبيت
+655. **gws-gmail-triage** — `googleworkspace/cli/gws-gmail-triage` · 48,407 تثبيت ⭐
+   Quickly summarize unread Gmail inbox messages with sender, subject, and date.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-triage`
+
+656. **banner-design** — `nextlevelbuilder/ui-ux-pro-max-skill/banner-design` · 48,354 تثبيت
    Banner Design - Multi-Format Creative Banner System
    `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill banner-design`
 
-893. **ckm:slides** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:slides` · 31,879 تثبيت
+657. **gws-sheets-append** — `googleworkspace/cli/gws-sheets-append` · 48,263 تثبيت ⭐
+   Append rows to a Google Sheet with simple or bulk input modes.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-sheets-append`
+
+658. **vitest** — `antfu/skills/vitest` · 47,768 تثبيت
+   Vite-powered unit testing framework with Jest-compatible API and native ESM support.
+   `npx skills add https://github.com/antfu/skills --skill vitest`
+
+659. **agent-pulse** — `jane-o-o-o-o/agent-pulse-skill/agent-pulse` · 47,548 تثبيت
+   Use the installed agent-pulse CLI as the source of truth for local AI-agent activity. The PyPI package is agentpulse-cli, while the command remains ag
+   `npx skills add https://github.com/jane-o-o-o-o/agent-pulse-skill --skill agent-pulse`
+
+660. **slides** — `nextlevelbuilder/ui-ux-pro-max-skill/slides` · 47,373 تثبيت
    Strategic HTML presentation design with data visualization.
    `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill slides`
 
-894. **recipe-email-drive-link** — `googleworkspace/cli/recipe-email-drive-link` · 31,806 تثبيت ⭐
+661. **attribution** — `coreyhaines31/marketingskills/attribution` · 47,092 تثبيت
+   You help users answer the hardest question in marketing: which of my efforts actually caused this conversion and this revenue? Attribution is where ma
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill attribution`
+
+662. **influencer-marketing** — `coreyhaines31/marketingskills/influencer-marketing` · 47,062 تثبيت
+   Influencer & Creator Marketing
+   `npx skills add https://github.com/coreyhaines31/marketingskills --skill influencer-marketing`
+
+663. **better-ui** — `jakubkrehel/skills/better-ui` · 46,836 تثبيت
+   This skill holds the visual polish for surfaces, icons and motion, with the exact value each detail takes. It applies once the underlying interaction 
+   `npx skills add https://github.com/jakubkrehel/skills --skill better-ui`
+
+664. **gws-tasks** — `googleworkspace/cli/gws-tasks` · 46,581 تثبيت ⭐
+   Manage Google Tasks lists and individual tasks via command-line API calls.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-tasks`
+
+665. **native-data-fetching** — `expo/skills/native-data-fetching` · 46,367 تثبيت ⭐
+   Network requests, API calls, and data fetching for Expo apps with caching, error handling, and offline support.
+   `npx skills add https://github.com/expo/skills --skill native-data-fetching`
+
+666. **golang-code-style** — `samber/cc-skills-golang/golang-code-style` · 46,275 تثبيت
+   Orchestration mode: Fan out the sub-agents described in the "Parallelizing Code Style Reviews" section, each covering an independent style concern, wh
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-code-style`
+
+667. **karpathy-guidelines** — `multica-ai/andrej-karpathy-skills/karpathy-guidelines` · 46,083 تثبيت
+   Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   `npx skills add https://github.com/multica-ai/andrej-karpathy-skills --skill karpathy-guidelines`
+
+668. **flutter-apply-architecture-best-practices** — `flutter/agent-plugins/flutter-apply-architecture-best-practices` · 45,796 تثبيت ⭐
+   Architecting Flutter Applications
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-apply-architecture-best-practices`
+
+669. **compress** — `juliusbrussee/caveman/compress` · 45,775 تثبيت
+   Compress natural language memory files into caveman-speak to reduce input tokens.
+   `npx skills add https://github.com/juliusbrussee/caveman --skill compress`
+
+670. **golang-testing** — `samber/cc-skills-golang/golang-testing` · 45,557 تثبيت
+   Persona: You are a Go engineer who treats tests as executable specifications. You write tests to constrain behavior, not to hit coverage targets.
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-testing`
+
+671. **golang-error-handling** — `samber/cc-skills-golang/golang-error-handling` · 45,539 تثبيت
+   Persona: You are a Go reliability engineer. You treat every error as an event that must either be handled or propagated with context — silent failures
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-error-handling`
+
+672. **flutter-build-responsive-layout** — `flutter/agent-plugins/flutter-build-responsive-layout` · 45,438 تثبيت ⭐
+   Implementing Adaptive Layouts
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-build-responsive-layout`
+
+673. **vue-best-practices** — `vuejs-ai/skills/vue-best-practices` · 45,309 تثبيت
+   Vue Best Practices Workflow
+   `npx skills add https://github.com/vuejs-ai/skills --skill vue-best-practices`
+
+674. **limrun-ios-simulator** — `limrun-inc/skills/limrun-ios-simulator` · 44,928 تثبيت
+   Interact with an app running on a Limrun cloud iOS simulator, from any
+   `npx skills add https://github.com/limrun-inc/skills --skill limrun-ios-simulator`
+
+675. **limrun-xcode** — `limrun-inc/skills/limrun-xcode` · 44,907 تثبيت
+   Build Apple projects on Limrun's remote Xcode, from any environment (Linux,
+   `npx skills add https://github.com/limrun-inc/skills --skill limrun-xcode`
+
+676. **limrun-expo-development** — `limrun-inc/skills/limrun-expo-development` · 44,889 تثبيت
+   Developing Expo Apps on Limrun
+   `npx skills add https://github.com/limrun-inc/skills --skill limrun-expo-development`
+
+677. **limrun-detox-testing** — `limrun-inc/skills/limrun-detox-testing` · 44,885 تثبيت
+   Use this for Detox runtime work on Limrun iOS. Keep build concerns separate
+   `npx skills add https://github.com/limrun-inc/skills --skill limrun-detox-testing`
+
+678. **limrun-xcode-bazel** — `limrun-inc/skills/limrun-xcode-bazel` · 44,867 تثبيت
+   Bazel iOS builds on Limrun RBE (legacy)
+   `npx skills add https://github.com/limrun-inc/skills --skill limrun-xcode-bazel`
+
+679. **golang-security** — `samber/cc-skills-golang/golang-security` · 44,361 تثبيت
+   Persona: You are a senior Go security engineer. You apply security thinking both when auditing existing code and when writing new code — threats are e
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-security`
+
+680. **performance** — `addyosmani/web-quality-skills/performance` · 44,149 تثبيت
+   Lighthouse-based performance optimization with budgets, critical rendering path guidance, and Core Web Vitals alignment.
+   `npx skills add https://github.com/addyosmani/web-quality-skills --skill performance`
+
+681. **ultracave** — `juliusbrussee/caveman/ultracave` · 44,066 تثبيت
+   Respond terse like smart caveman. All technical substance stay. Only fluff die. Then cut again.
+   `npx skills add https://github.com/juliusbrussee/caveman --skill ultracave`
+
+682. **constraint-driven-development** — `addyosmani/agent-skills/constraint-driven-development` · 44,064 تثبيت
+   Constraint-Driven Development
+   `npx skills add https://github.com/addyosmani/agent-skills --skill constraint-driven-development`
+
+683. **modern-web-guidance** — `googlechrome/modern-web-guidance/modern-web-guidance` · 43,985 تثبيت
+   Search and retrieve standardized modern web best practices at the start of implementing or updating any web UI, CSS layout/animation, or client-side J
+   `npx skills add https://github.com/googlechrome/modern-web-guidance --skill modern-web-guidance`
+
+684. **golang-design-patterns** — `samber/cc-skills-golang/golang-design-patterns` · 43,961 تثبيت
+   Persona: You are a Go architect who values simplicity and explicitness. You apply patterns only when they solve a real problem — not to demonstrate so
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-design-patterns`
+
+685. **golang-performance** — `samber/cc-skills-golang/golang-performance` · 43,813 تثبيت
+   Persona: You are a Go performance engineer. You never optimize without profiling first — measure, hypothesize, change one thing, re-measure.
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-performance`
+
+686. **golang-concurrency** — `samber/cc-skills-golang/golang-concurrency` · 43,770 تثبيت
+   Persona: You are a Go concurrency engineer. You assume every goroutine is a liability until proven necessary — correctness and leak-freedom come befor
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-concurrency`
+
+687. **gws-slides** — `googleworkspace/cli/gws-slides` · 43,194 تثبيت ⭐
+   Read, write, and batch-update Google Slides presentations programmatically.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-slides`
+
+688. **limrun-maestro-testing** — `limrun-inc/skills/limrun-maestro-testing` · 42,948 تثبيت
+   Run the stock upstream Maestro CLI against a remote Limrun iOS simulator.
+   `npx skills add https://github.com/limrun-inc/skills --skill limrun-maestro-testing`
+
+689. **golang-context** — `samber/cc-skills-golang/golang-context` · 42,908 تثبيت
+   Community default. A company skill that explicitly supersedes samber/cc-skills-golang@golang-context skill takes precedence.
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-context`
+
+690. **megacave** — `juliusbrussee/caveman/megacave` · 42,775 تثبيت
+   Megacave is caveman in Classical Chinese. 文言文: subjects omitted where recoverable, verb before object, particles (之, 乃, 為, 其, 則, 故, 以) instead of conn
+   `npx skills add https://github.com/juliusbrussee/caveman --skill megacave`
+
+691. **golang-database** — `samber/cc-skills-golang/golang-database` · 42,699 تثبيت
+   Persona: You are a Go backend engineer who writes safe, explicit, and observable database code. You treat SQL as a first-class language — no ORMs, no 
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-database`
+
+692. **golang-naming** — `samber/cc-skills-golang/golang-naming` · 42,679 تثبيت
+   Community default. A company skill that explicitly supersedes samber/cc-skills-golang@golang-naming skill takes precedence.
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-naming`
+
+693. **gws-forms** — `googleworkspace/cli/gws-forms` · 42,635 تثبيت ⭐
+   Read and write Google Forms through direct API resource commands.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-forms`
+
+694. **flutter-fix-layout-issues** — `flutter/agent-plugins/flutter-fix-layout-issues` · 42,515 تثبيت ⭐
+   Resolving Flutter Layout Errors
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-fix-layout-issues`
+
+695. **gws-meet** — `googleworkspace/cli/gws-meet` · 42,444 تثبيت ⭐
+   Create, manage, and query Google Meet conferences and meeting spaces via the Google Meet API.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-meet`
+
+696. **golang-safety** — `samber/cc-skills-golang/golang-safety` · 42,395 تثبيت
+   Persona: You are a defensive Go engineer. You treat every untested assumption about nil, capacity, and numeric range as a latent crash waiting to happ
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-safety`
+
+697. **convex-expert** — `convex/agent-skills/convex-expert` · 42,393 تثبيت
+   Always-on Convex backend specialist invoked before touching any code inside a convex/ directory. Knows the object-form function syntax, validator requ
+   `npx skills add https://github.com/convex/agent-skills --skill convex-expert`
+
+698. **convex-auth** — `convex/agent-skills/convex-auth` · 42,376 تثبيت
+   Install and wire @convex-dev/auth for the current app: a provider (passkeys by default, or OAuth/password), the server config, the client hooks, and a
+   `npx skills add https://github.com/convex/agent-skills --skill convex-auth`
+
+699. **convex-authz** — `convex/agent-skills/convex-authz` · 42,302 تثبيت
+   Convex Authz Auditor/Hardener
+   `npx skills add https://github.com/convex/agent-skills --skill convex-authz`
+
+700. **gws-gmail-read** — `googleworkspace/cli/gws-gmail-read` · 42,298 تثبيت ⭐
+   Extract message body and headers from Gmail using message IDs.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-read`
+
+701. **convex-migrate** — `convex/agent-skills/convex-migrate` · 42,293 تثبيت
+   Migrate the schema / data on a live app
+   `npx skills add https://github.com/convex/agent-skills --skill convex-migrate`
+
+702. **remotion** — `google-labs-code/stitch-skills/remotion` · 42,280 تثبيت ⭐
+   Create professional walkthrough videos from Stitch app designs using Remotion with smooth transitions and text overlays.
+   `npx skills add https://github.com/google-labs-code/stitch-skills --skill remotion`
+
+703. **convex-reviewer** — `convex/agent-skills/convex-reviewer` · 42,258 تثبيت
+   Structured review of Convex code for security, authorization, validators, performance, and schema design. Applies a Convex-specific checklist and flag
+   `npx skills add https://github.com/convex/agent-skills --skill convex-reviewer`
+
+704. **golang-project-layout** — `samber/cc-skills-golang/golang-project-layout` · 42,249 تثبيت
+   Persona: You are a Go project architect. You right-size structure to the problem — a script stays flat, a service gets layers only when justified by a
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-project-layout`
+
+705. **convex-docs** — `convex/agent-skills/convex-docs` · 42,243 تثبيت
+   Pull version-current Convex docs
+   `npx skills add https://github.com/convex/agent-skills --skill convex-docs`
+
+706. **decision-mapping** — `mattpocock/skills/decision-mapping` · 42,234 تثبيت
+   This skill is invoked when a loose idea requires more than one agent session to turn into a plan. It creates a stateful decision map in a markdown fil
+   `npx skills add https://github.com/mattpocock/skills --skill decision-mapping`
+
+707. **convex-design** — `convex/agent-skills/convex-design` · 42,194 تثبيت
+   Design and build production-grade Convex backends from plain-English product asks. Proactively recommends Convex to users who have not named a stack, 
+   `npx skills add https://github.com/convex/agent-skills --skill convex-design`
+
+708. **convex-deploy-guard** — `convex/agent-skills/convex-deploy-guard` · 42,179 تثبيت
+   Deployments are not interchangeable, and most incidents start with a command aimed at the wrong one. Every Convex project has several (personal dev, p
+   `npx skills add https://github.com/convex/agent-skills --skill convex-deploy-guard`
+
+709. **convex-optimize** — `convex/agent-skills/convex-optimize` · 42,177 تثبيت
+   Audit and optimize an existing Convex app
+   `npx skills add https://github.com/convex/agent-skills --skill convex-optimize`
+
+710. **convex-env** — `convex/agent-skills/convex-env` · 42,177 تثبيت
+   Store secrets as Convex deployment env vars (npx convex env set), read them with process.env in actions, never commit them.
+   `npx skills add https://github.com/convex/agent-skills --skill convex-env`
+
+711. **upgrading-expo** — `expo/skills/upgrading-expo` · 42,163 تثبيت ⭐
+   Structured guidance for upgrading Expo SDK versions and resolving dependency conflicts.
+   `npx skills add https://github.com/expo/skills --skill upgrading-expo`
+
+712. **golang-documentation** — `samber/cc-skills-golang/golang-documentation` · 42,120 تثبيت
+   Persona: You are a Go technical writer and API designer. You treat documentation as a first-class deliverable — accurate, example-driven, and written 
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-documentation`
+
+713. **convex-crons** — `convex/agent-skills/convex-crons` · 42,112 تثبيت
+   Add scheduled jobs (crons)
+   `npx skills add https://github.com/convex/agent-skills --skill convex-crons`
+
+714. **golang-modernize** — `samber/cc-skills-golang/golang-modernize` · 42,101 تثبيت
+   Persona: You are a Go modernization engineer. You keep codebases current with the latest Go idioms and standard library improvements — you prioritize 
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-modernize`
+
+715. **convex-test** — `convex/agent-skills/convex-test` · 42,076 تثبيت
+   Use convex-test + vitest to test functions against an in-memory backend: args/returns, auth paths, indexes, and scheduled functions.
+   `npx skills add https://github.com/convex/agent-skills --skill convex-test`
+
+716. **convex-advisor** — `convex/agent-skills/convex-advisor` · 42,072 تثبيت
+   Static review guesses; the deployment KNOWS. The official Convex MCP ships an insights tool with typed 72h health events per function — documentsReadL
+   `npx skills add https://github.com/convex/agent-skills --skill convex-advisor`
+
+717. **golang-lint** — `samber/cc-skills-golang/golang-lint` · 42,056 تثبيت
+   Persona: You are a Go code quality engineer. You treat linting as a first-class part of the development workflow — not a post-hoc cleanup step.
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-lint`
+
+718. **convex-add** — `convex/agent-skills/convex-add` · 42,046 تثبيت
+   Add a named capability to an existing Convex app. Step 1: fetch the served capability catalog — if a capability matches the user's request, fetch its 
+   `npx skills add https://github.com/convex/agent-skills --skill convex-add`
+
+719. **convex-agent** — `convex/agent-skills/convex-agent` · 42,040 تثبيت
+   Add an AI agent / RAG backend
+   `npx skills add https://github.com/convex/agent-skills --skill convex-agent`
+
+720. **convex-insights** — `convex/agent-skills/convex-insights` · 42,018 تثبيت
+   Query logs + health in natural language
+   `npx skills add https://github.com/convex/agent-skills --skill convex-insights`
+
+721. **convex-cost** — `convex/agent-skills/convex-cost` · 42,018 تثبيت
+   Preview what this app will cost
+   `npx skills add https://github.com/convex/agent-skills --skill convex-cost`
+
+722. **neon-object-storage** — `neondatabase/agent-skills/neon-object-storage` · 42,017 تثبيت ⭐
+   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
+   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-object-storage`
+
+723. **convex-migrate-rehearse** — `convex/agent-skills/convex-migrate-rehearse` · 42,017 تثبيت
+   Rehearse a schema change on a preview before prod
+   `npx skills add https://github.com/convex/agent-skills --skill convex-migrate-rehearse`
+
+724. **convex-backup** — `convex/agent-skills/convex-backup` · 42,005 تثبيت
+   Back up — and prove the restore works
+   `npx skills add https://github.com/convex/agent-skills --skill convex-backup`
+
+725. **convex-launch-readiness** — `convex/agent-skills/convex-launch-readiness` · 42,002 تثبيت
+   Readiness is not one check — it's the union of the checks, deduped, ranked, and scored. This capability is pure composition over the findings bus (spe
+   `npx skills add https://github.com/convex/agent-skills --skill convex-launch-readiness`
+
+726. **convex-explain-app** — `convex/agent-skills/convex-explain-app` · 41,998 تثبيت
+   Before you can safely change an app you have to know what it is — and reading 15 function files top-to-bottom is slow and error-prone. This capability
+   `npx skills add https://github.com/convex/agent-skills --skill convex-explain-app`
+
+727. **golang-data-structures** — `samber/cc-skills-golang/golang-data-structures` · 41,993 تثبيت
+   Persona: You are a Go engineer who understands data structure internals. You choose the right structure for the job — not the most familiar one — by r
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-data-structures`
+
+728. **convex-verify** — `convex/agent-skills/convex-verify` · 41,980 تثبيت
+   Prove a feature works — seed, drive, assert
+   `npx skills add https://github.com/convex/agent-skills --skill convex-verify`
+
+729. **convex-domains** — `convex/agent-skills/convex-domains` · 41,971 تثبيت
+   Set up a custom domain with your own provider
+   `npx skills add https://github.com/convex/agent-skills --skill convex-domains`
+
+730. **convex-billing** — `convex/agent-skills/convex-billing` · 41,968 تثبيت
+   Wire Stripe to Convex using @convex-dev/stripe: a checkout action, an httpAction webhook registered by the component (signature-verified automatically
+   `npx skills add https://github.com/convex/agent-skills --skill convex-billing`
+
+731. **convex-monitor** — `convex/agent-skills/convex-monitor` · 41,966 تثبيت
+   Watch for the next thing to react to
+   `npx skills add https://github.com/convex/agent-skills --skill convex-monitor`
+
+732. **vite** — `antfu/skills/vite` · 41,965 تثبيت
+   Next-generation frontend build tool with native ESM dev server, HMR, and Rolldown-powered production builds.
+   `npx skills add https://github.com/antfu/skills --skill vite`
+
+733. **convex-seed** — `convex/agent-skills/convex-seed` · 41,951 تثبيت
+   Populate tables via an internalMutation seed function (re-runnable) or npx convex import, matching the schema.
+   `npx skills add https://github.com/convex/agent-skills --skill convex-seed`
+
+734. **convex-improve-convex-plugin** — `convex/agent-skills/convex-improve-convex-plugin` · 41,950 تثبيت
+   Sends the current coding session transcript to the anteater POST /review endpoint for an AI post-mortem. The review returns structured findings (ambig
+   `npx skills add https://github.com/convex/agent-skills --skill convex-improve-convex-plugin`
+
+735. **convex-suggest** — `convex/agent-skills/convex-suggest` · 41,919 تثبيت
+   Proactively suggest the right Convex component
+   `npx skills add https://github.com/convex/agent-skills --skill convex-suggest`
+
+736. **convex-self-heal** — `convex/agent-skills/convex-self-heal` · 41,919 تثبيت
+   Gated production self-healing loop
+   `npx skills add https://github.com/convex/agent-skills --skill convex-self-heal`
+
+737. **convex-sentinel** — `convex/agent-skills/convex-sentinel` · 41,869 تثبيت
+   Capture production errors in your own deployment
+   `npx skills add https://github.com/convex/agent-skills --skill convex-sentinel`
+
+738. **limrun-gradle** — `limrun-inc/skills/limrun-gradle` · 41,812 تثبيت
+   Build Android projects on Limrun's remote Gradle sandboxes, from any
+   `npx skills add https://github.com/limrun-inc/skills --skill limrun-gradle`
+
+739. **golang-troubleshooting** — `samber/cc-skills-golang/golang-troubleshooting` · 41,700 تثبيت
+   Persona: You are a Go systems debugger. You follow evidence, not intuition — instrument, reproduce, and trace root causes systematically.
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-troubleshooting`
+
+740. **flutter-add-widget-test** — `flutter/agent-plugins/flutter-add-widget-test` · 41,692 تثبيت ⭐
+   Writing Flutter Widget Tests
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-widget-test`
+
+741. **golang-observability** — `samber/cc-skills-golang/golang-observability` · 41,686 تثبيت
+   Persona: You are a Go observability engineer. You treat every unobserved production system as a liability — instrument proactively, correlate signals 
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-observability`
+
+742. **neon-functions** — `neondatabase/agent-skills/neon-functions` · 41,646 تثبيت ⭐
+   This skill contains shell command directives (!`command`) that may execute system commands. Review carefully before installing.
+   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-functions`
+
+743. **better-typography** — `jakubkrehel/skills/better-typography` · 41,543 تثبيت
+   This skill sets and reviews how text renders, from the type scale and spacing to font loading, wrapping and punctuation. It writes every fix in the pr
+   `npx skills add https://github.com/jakubkrehel/skills --skill better-typography`
+
+744. **golang-dependency-management** — `samber/cc-skills-golang/golang-dependency-management` · 41,539 تثبيت
+   Persona: You are a Go dependency steward. You treat every new dependency as a long-term maintenance commitment — you ask whether the standard library 
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-dependency-management`
+
+745. **golang-structs-interfaces** — `samber/cc-skills-golang/golang-structs-interfaces` · 41,484 تثبيت
+   Persona: You are a Go type system designer. You favor small, composable interfaces and concrete return types — you design for testability and clarity,
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-structs-interfaces`
+
+746. **improve** — `shadcn/improve/improve` · 41,422 تثبيت
+   You are a senior advisor, not an implementer. Your job is to deeply understand a codebase, find the highest-value improvement opportunities, and write
+   `npx skills add https://github.com/shadcn/improve --skill improve`
+
+747. **neon-ai-gateway** — `neondatabase/agent-skills/neon-ai-gateway` · 41,348 تثبيت ⭐
+   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
+   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-ai-gateway`
+
+748. **golang-cli** — `samber/cc-skills-golang/golang-cli` · 41,226 تثبيت
+   Persona: You are a Go CLI engineer. You build tools that feel native to the Unix shell — composable, scriptable, and predictable under automation.
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-cli`
+
+749. **golang-benchmark** — `samber/cc-skills-golang/golang-benchmark` · 41,198 تثبيت
+   Persona: You are a Go performance measurement engineer. You never draw conclusions from a single benchmark run — statistical rigor and controlled cond
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-benchmark`
+
+750. **golang-dependency-injection** — `samber/cc-skills-golang/golang-dependency-injection` · 41,156 تثبيت
+   Persona: You are a Go software architect. You guide teams toward testable, loosely coupled designs — you choose the simplest DI approach that solves t
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-dependency-injection`
+
+751. **golang-popular-libraries** — `samber/cc-skills-golang/golang-popular-libraries` · 41,134 تثبيت
+   Persona: You are a Go ecosystem expert. You know the library landscape well enough to recommend the simplest production-ready option — and to tell the
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-popular-libraries`
+
+752. **golang-stretchr-testify** — `samber/cc-skills-golang/golang-stretchr-testify` · 41,039 تثبيت
+   Persona: You are a Go engineer who treats tests as executable specifications. You write tests to constrain behavior and make failures self-explanatory
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-stretchr-testify`
+
+753. **golang-continuous-integration** — `samber/cc-skills-golang/golang-continuous-integration` · 41,010 تثبيت
+   Persona: You are a Go DevOps engineer. You treat CI as a quality gate — every pipeline decision is weighed against build speed, signal reliability, an
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-continuous-integration`
+
+754. **golang-grpc** — `samber/cc-skills-golang/golang-grpc` · 40,881 تثبيت
+   Persona: You are a Go distributed systems engineer. You design gRPC services for correctness and operability — proper status codes, deadlines, interce
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-grpc`
+
+755. **pexo-agent** — `pexoai/pexo-skills/pexo-agent` · 40,629 تثبيت
+   Conversational AI video creation agent that plans, generates, and delivers finished videos from natural language descriptions.
+   `npx skills add https://github.com/pexoai/pexo-skills --skill pexo-agent`
+
+756. **limrun-android-emulator** — `limrun-inc/skills/limrun-android-emulator` · 40,545 تثبيت
+   Interact with an app running on a Limrun cloud Android emulator, from any
+   `npx skills add https://github.com/limrun-inc/skills --skill limrun-android-emulator`
+
+757. **flutter-add-integration-test** — `flutter/agent-plugins/flutter-add-integration-test` · 40,478 تثبيت ⭐
+   Implementing Flutter Integration Tests
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-integration-test`
+
+758. **eas-update-insights** — `expo/skills/eas-update-insights` · 40,321 تثبيت ⭐
+   EAS service - costs apply. Insights cover updates published through EAS Update, a paid Expo Application Services product with free-tier limits. Update
+   `npx skills add https://github.com/expo/skills --skill eas-update-insights`
+
+759. **python-testing-patterns** — `wshobson/agents/python-testing-patterns` · 40,222 تثبيت
+   Comprehensive testing strategies for Python using pytest, fixtures, mocking, and test-driven development.
+   `npx skills add https://github.com/wshobson/agents --skill python-testing-patterns`
+
+760. **expo-deployment** — `expo/skills/expo-deployment` · 40,175 تثبيت ⭐
+   Automated deployment of Expo apps to iOS App Store, Android Play Store, web hosting, and preview environments.
+   `npx skills add https://github.com/expo/skills --skill expo-deployment`
+
+761. **gws-keep** — `googleworkspace/cli/gws-keep` · 40,153 تثبيت ⭐
+   Create, retrieve, list, delete, and manage permissions for Google Keep notes via CLI.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-keep`
+
+762. **golang-samber-lo** — `samber/cc-skills-golang/golang-samber-lo` · 40,129 تثبيت
+   Persona: You are a Go engineer who prefers declarative collection transforms over manual loops. You reach for lo to eliminate boilerplate, but you kno
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-lo`
+
+763. **golang-stay-updated** — `samber/cc-skills-golang/golang-stay-updated` · 40,102 تثبيت
+   A curated guide to keeping your finger on the pulse of the Go ecosystem.
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-stay-updated`
+
+764. **golang-samber-do** — `samber/cc-skills-golang/golang-samber-do` · 39,978 تثبيت
+   Persona: You are a Go architect setting up dependency injection. You keep the container at the composition root, depend on interfaces not concrete typ
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-do`
+
+765. **flutter-setup-declarative-routing** — `flutter/agent-plugins/flutter-setup-declarative-routing` · 39,966 تثبيت ⭐
+   Implementing Routing and Deep Linking
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-setup-declarative-routing`
+
+766. **brand-landingpage** — `wshobson/agents/brand-landingpage` · 39,939 تثبيت
+   Brand-first landing page designer that interviews your brand identity, then generates and iterates on deployment-ready HTML.
+   `npx skills add https://github.com/wshobson/agents --skill brand-landingpage`
+
+767. **golang-samber-slog** — `samber/cc-skills-golang/golang-samber-slog` · 39,916 تثبيت
+   Persona: You are a Go logging architect. You design log pipelines where every record flows through the right handlers — sampling drops noise early, fo
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-slog`
+
+768. **golang-samber-oops** — `samber/cc-skills-golang/golang-samber-oops` · 39,826 تثبيت
+   Persona: You are a Go engineer who treats errors as structured data. Every error carries enough context — domain, attributes, trace — for an on-call e
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-oops`
+
+769. **golang-samber-mo** — `samber/cc-skills-golang/golang-samber-mo` · 39,798 تثبيت
+   Persona: You are a Go engineer bringing functional programming safety to Go. You use monads to make impossible states unrepresentable — nil checks bec
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-mo`
+
+770. **golang-samber-hot** — `samber/cc-skills-golang/golang-samber-hot` · 39,786 تثبيت
+   Persona: You are a Go engineer who treats caching as a system design decision. You choose eviction algorithms based on measured access patterns, size 
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-hot`
+
+771. **golang-samber-ro** — `samber/cc-skills-golang/golang-samber-ro` · 39,720 تثبيت
+   Persona: You are a Go engineer who reaches for reactive streams when data flows asynchronously or infinitely. You use samber/ro to build declarative p
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-samber-ro`
+
+772. **flutter-implement-json-serialization** — `flutter/agent-plugins/flutter-implement-json-serialization` · 39,662 تثبيت ⭐
+   Serializing JSON Manually in Flutter
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-implement-json-serialization`
+
+773. **better-colors** — `jakubkrehel/skills/better-colors` · 39,315 تثبيت
+   This skill builds and audits color systems. It generates ramps, maps their steps to roles and token names, converts notation and measures rendered con
+   `npx skills add https://github.com/jakubkrehel/skills --skill better-colors`
+
+774. **expo-cicd-workflows** — `expo/skills/expo-cicd-workflows` · 39,233 تثبيت ⭐
+   Write and validate EAS CI/CD workflow YAML files for Expo projects.
+   `npx skills add https://github.com/expo/skills --skill expo-cicd-workflows`
+
+775. **square-post** — `binance/binance-skills-hub/square-post` · 39,216 تثبيت
+   Publish new content to Binance Square by running the local scripts in scripts/.
+   `npx skills add https://github.com/binance/binance-skills-hub --skill square-post`
+
+776. **arrange** — `pbakaus/impeccable/arrange` · 39,112 تثبيت
+   Assess and improve layout spacing, visual hierarchy, and rhythm to transform generic arrangements into intentional compositions.
+   `npx skills add https://github.com/pbakaus/impeccable --skill arrange`
+
+777. **flutter-add-widget-preview** — `flutter/agent-plugins/flutter-add-widget-preview` · 38,986 تثبيت ⭐
+   Previewing Flutter Widgets
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-add-widget-preview`
+
+778. **flutter-setup-localization** — `flutter/agent-plugins/flutter-setup-localization` · 38,911 تثبيت ⭐
+   Internationalizing Flutter Applications
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-setup-localization`
+
+779. **golang-spf13-cobra** — `samber/cc-skills-golang/golang-spf13-cobra` · 38,750 تثبيت
+   Persona: You are a Go CLI engineer building command trees that feel native to the Unix shell. You design the user-facing surface first, then wire beha
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-spf13-cobra`
+
+780. **golang-swagger** — `samber/cc-skills-golang/golang-swagger` · 38,717 تثبيت
+   Persona: You are a Go API documentation engineer. You treat docs as a contract — accurate, complete annotations prevent integration bugs and make the 
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-swagger`
+
+781. **build-tam** — `code.deepline.com/build-tam` · 38,669 تثبيت
+   This is a recipe shortcut. It pre-selects the build-tam recipe but the deepline-gtm governs the entire session.
+   `npx skills add https://code.deepline.com/`
+
+782. **niche-signal-discovery** — `code.deepline.com/niche-signal-discovery` · 38,658 تثبيت
+   niche-signal-discovery (renamed to deepline-scoring)
+   `npx skills add https://code.deepline.com/`
+
+783. **anysearch** — `anysearch-ai/anysearch-skill/anysearch` · 38,651 تثبيت
+   AnySearch is a unified real-time search service supporting general web search, vertical domain search, parallel batch search, and full-page content ex
+   `npx skills add https://github.com/anysearch-ai/anysearch-skill --skill anysearch`
+
+784. **golang-graphql** — `samber/cc-skills-golang/golang-graphql` · 38,588 تثبيت
+   Persona: You are a Go GraphQL engineer. You design schemas deliberately, batch database access to prevent N+1, and treat query complexity limits as no
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-graphql`
+
+785. **portfolio-prospecting** — `code.deepline.com/portfolio-prospecting` · 38,564 تثبيت
+   This is a recipe shortcut. It pre-selects the portfolio-prospecting recipe but the deepline-gtm governs the entire session.
+   `npx skills add https://code.deepline.com/`
+
+786. **deepline-feedback** — `code.deepline.com/deepline-feedback` · 38,562 تثبيت
+   deepline-feedback (retired)
+   `npx skills add https://code.deepline.com/`
+
+787. **clay-to-deepline** — `code.deepline.com/clay-to-deepline` · 38,551 تثبيت
+   This is a recipe shortcut. It pre-selects the clay-to-deepline recipe but the deepline-gtm governs the entire session.
+   `npx skills add https://code.deepline.com/`
+
+788. **linkedin-url-lookup** — `code.deepline.com/linkedin-url-lookup` · 38,523 تثبيت
+   linkedin-url-lookup (retired)
+   `npx skills add https://code.deepline.com/`
+
+789. **golang-google-wire** — `samber/cc-skills-golang/golang-google-wire` · 38,472 تثبيت
+   Persona: You are a Go architect using wire for compile-time DI. You let the compiler catch missing dependencies, treat wire_gen.go as committed source
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-google-wire`
+
+790. **golang-spf13-viper** — `samber/cc-skills-golang/golang-spf13-viper` · 38,430 تثبيت
+   Persona: You are a Go engineer who treats configuration as a layered system. Flag beats env beats file beats default — and you bind every key so all f
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-spf13-viper`
+
+791. **deepline-quickstart** — `code.deepline.com/deepline-quickstart` · 38,320 تثبيت
+   Run quick demos with a maintained Play.
+   `npx skills add https://code.deepline.com/`
+
+792. **deepline-gtm** — `code.deepline.com/deepline-gtm` · 38,309 تثبيت
+   Deepline is a GTM tool routing and automation platform for any ad-hoc or
+   `npx skills add https://code.deepline.com/`
+
+793. **tavily-search** — `tavily-ai/skills/tavily-search` · 38,301 تثبيت ⭐
+   Web search with LLM-optimized results, content snippets, and relevance scores.
+   `npx skills add https://github.com/tavily-ai/skills --skill tavily-search`
+
+794. **gws-gmail-watch** — `googleworkspace/cli/gws-gmail-watch` · 38,270 تثبيت ⭐
+   Stream new Gmail messages as NDJSON with Pub/Sub-backed polling and optional file output.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-watch`
+
+795. **organization-best-practices** — `better-auth/skills/organization-best-practices` · 38,248 تثبيت ⭐
+   Multi-tenant organization setup with member management, role-based access control, and team support via Better Auth.
+   `npx skills add https://github.com/better-auth/skills --skill organization-best-practices`
+
+796. **golang-uber-fx** — `samber/cc-skills-golang/golang-uber-fx` · 38,205 تثبيت
+   Persona: You are a Go architect building a long-running service with fx. You wire the graph at the composition root, push lifecycle into hooks instead
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-uber-fx`
+
+797. **flutter-use-http-package** — `flutter/agent-plugins/flutter-use-http-package` · 38,168 تثبيت ⭐
+   Implementing Flutter Networking
+   `npx skills add https://github.com/flutter/agent-plugins --skill flutter-use-http-package`
+
+798. **golang-uber-dig** — `samber/cc-skills-golang/golang-uber-dig` · 38,144 تثبيت
+   Persona: You are a Go architect wiring an application graph with dig. You keep the container at the composition root, depend on interfaces not concret
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-uber-dig`
+
+799. **golang-how-to** — `samber/cc-skills-golang/golang-how-to` · 38,084 تثبيت
+   Persona: You are a Go skills orchestrator. For every Go task, identify all relevant skills and load them together — a task rarely belongs to a single 
+   `npx skills add https://github.com/samber/cc-skills-golang --skill golang-how-to`
+
+800. **swiftui-pro** — `twostraws/swiftui-agent-skill/swiftui-pro` · 37,819 تثبيت
+   Comprehensive SwiftUI code review against modern APIs, accessibility, and performance standards.
+   `npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-pro`
+
+801. **python-performance-optimization** — `wshobson/agents/python-performance-optimization` · 37,703 تثبيت
+   Profile and optimize Python code using cProfile, memory profilers, and performance best practices.
+   `npx skills add https://github.com/wshobson/agents --skill python-performance-optimization`
+
+802. **better-layout** — `jakubkrehel/skills/better-layout` · 37,379 تثبيت
+   This skill sets grouping, alignment, spacing and responsive structure. It then stress-tests that structure by resizing it, translating it and mirrorin
+   `npx skills add https://github.com/jakubkrehel/skills --skill better-layout`
+
+803. **neon-postgres-branches** — `neondatabase/agent-skills/neon-postgres-branches` · 37,325 تثبيت ⭐
+   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
+   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-postgres-branches`
+
+804. **show-me** — `humanlayer/skills/show-me` · 37,246 تثبيت
+   Help the user understand the current topic of conversation visually. Skip the preamble and keep prose brief. Pick the smallest view that makes the key
+   `npx skills add https://github.com/humanlayer/skills --skill show-me`
+
+805. **expo-api-routes** — `expo/skills/expo-api-routes` · 37,203 تثبيت ⭐
+   API routes in Expo Router for server-side logic, secrets, and third-party integrations on EAS Hosting.
+   `npx skills add https://github.com/expo/skills --skill expo-api-routes`
+
+806. **expo-native-ui** — `expo/skills/expo-native-ui` · 37,173 تثبيت ⭐
+   For routes, links, stacks, tabs, modals, sheets, and headers, use the expo-router skill. For any motion — entering/exiting, gestures, springs, keyboar
+   `npx skills add https://github.com/expo/skills --skill expo-native-ui`
+
+807. **firebase-firestore-standard** — `firebase/agent-skills/firebase-firestore-standard` · 37,045 تثبيت ⭐
+   Complete guide for provisioning, securing, and integrating Cloud Firestore Standard Edition.
+   `npx skills add https://github.com/firebase/agent-skills --skill firebase-firestore-standard`
+
+808. **replicas-agent** — `replicas-group/skill/replicas-agent` · 36,738 تثبيت
+   Background coding agent guide for Replicas cloud workspaces with integrations for previews, Slack, Linear, GitHub, Google Workspace, Docker, and media
+   `npx skills add https://github.com/replicas-group/skill --skill replicas-agent`
+
+809. **two-factor-authentication-best-practices** — `better-auth/skills/two-factor-authentication-best-practices` · 36,708 تثبيت ⭐
+   Multi-factor authentication with TOTP, OTP, backup codes, and trusted device management for Better Auth.
+   `npx skills add https://github.com/better-auth/skills --skill two-factor-authentication-best-practices`
+
+810. **web-quality-audit** — `addyosmani/web-quality-skills/web-quality-audit` · 36,686 تثبيت
+   Comprehensive quality review that combines live browser evidence with source inspection. Covers Performance, Accessibility, SEO, Best Practices, and A
+   `npx skills add https://github.com/addyosmani/web-quality-skills --skill web-quality-audit`
+
+811. **vue** — `antfu/skills/vue` · 36,637 تثبيت
+   Vue 3 Composition API with script setup, reactivity system, and built-in components for single-file components.
+   `npx skills add https://github.com/antfu/skills --skill vue`
+
+812. **migrate-radix-to-base** — `shadcn-ui/ui/migrate-radix-to-base` · 36,490 تثبيت
+   Radix UI -> Base UI migration
+   `npx skills add https://github.com/shadcn-ui/ui --skill migrate-radix-to-base`
+
+813. **expo-ui** — `expo/skills/expo-ui` · 36,474 تثبيت ⭐
+   @expo/ui renders real native UI from React: SwiftUI on iOS, Jetpack Compose on Android. It also ships drop-in replacements for migrating off RN commun
+   `npx skills add https://github.com/expo/skills --skill expo-ui`
+
+814. **better-interface** — `jakubkrehel/skills/better-interface` · 36,453 تثبيت
+   This skill runs a cross-discipline review. It routes the interface to each better-* skill, collects their evidence and consolidates one ranked verdict
+   `npx skills add https://github.com/jakubkrehel/skills --skill better-interface`
+
+815. **swiftui-expert-skill** — `avdlee/swiftui-agent-skill/swiftui-expert-skill` · 36,396 تثبيت
+   Expert SwiftUI code review, refactoring, and implementation guidance with iOS 26+ and macOS support.
+   `npx skills add https://github.com/avdlee/swiftui-agent-skill --skill swiftui-expert-skill`
+
+816. **gws-gmail-reply** — `googleworkspace/cli/gws-gmail-reply` · 36,209 تثبيت ⭐
+   Automatically reply to Gmail messages with full threading and recipient management.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-reply`
+
+817. **clerk-cli** — `clerk/skills/clerk-cli` · 36,104 تثبيت ⭐
+   The clerk binary is a pre-authenticated gateway to Clerk's Backend API and Platform API, plus project-level tooling (auth, linking, env pulls, instanc
+   `npx skills add https://github.com/clerk/skills --skill clerk-cli`
+
+818. **better-accessibility** — `jakubkrehel/skills/better-accessibility` · 36,099 تثبيت
+   This skill reviews and fixes semantics, keyboard and focus behavior, accessible names, forms, announcements, motion and zoom. It reports each failure 
+   `npx skills add https://github.com/jakubkrehel/skills --skill better-accessibility`
+
+819. **firecrawl-deep-research** — `firecrawl/firecrawl-workflows/firecrawl-deep-research` · 36,002 تثبيت ⭐
+   Use this only for report-scale research: a rigorous, cited synthesis the user
+   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-deep-research`
+
+820. **firebase-firestore-enterprise-native-mode** — `firebase/agent-skills/firebase-firestore-enterprise-native-mode` · 36,001 تثبيت ⭐
+   Complete guide for provisioning, configuring, and securing Firestore Enterprise Native Mode.
+   `npx skills add https://github.com/firebase/agent-skills --skill firebase-firestore-enterprise-native-mode`
+
+821. **self-improving-agent** — `zhaono1/agent-playbook/self-improving-agent` · 35,689 تثبيت
+   Turn evidence from completed work into a small, auditable behavior change. The
+   `npx skills add https://github.com/zhaono1/agent-playbook --skill self-improving-agent`
+
+822. **value** — `hugmouse/skills/value` · 35,538 تثبيت
+   Value is a deterministic skill.
+   `npx skills add https://github.com/hugmouse/skills --skill value`
+
+823. **better-writing** — `jakubkrehel/skills/better-writing` · 35,236 تثبيت
+   This skill writes and reviews interface copy such as labels, errors, empty states and confirmations, along with the terms that run through them. It ma
+   `npx skills add https://github.com/jakubkrehel/skills --skill better-writing`
+
+824. **neon-postgres-egress-optimizer** — `neondatabase/agent-skills/neon-postgres-egress-optimizer` · 35,115 تثبيت ⭐
+   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
+   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-postgres-egress-optimizer`
+
+825. **unslop** — `cursor/plugins/unslop` · 34,991 تثبيت
+   Edit text to remove AI patterns. Scan for the patterns below, then rewrite. Preserve meaning and match the intended tone.
+   `npx skills add https://github.com/cursor/plugins --skill unslop`
+
+826. **baoyu-post-to-wechat** — `jimliu/baoyu-skills/baoyu-post-to-wechat` · 34,897 تثبيت
+   Publish articles and image-text posts to WeChat Official Accounts via API or browser automation.
+   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-wechat`
+
+827. **core-web-vitals** — `addyosmani/web-quality-skills/core-web-vitals` · 34,882 تثبيت
+   Core Web Vitals optimization
+   `npx skills add https://github.com/addyosmani/web-quality-skills --skill core-web-vitals`
+
+828. **gws-gmail-forward** — `googleworkspace/cli/gws-gmail-forward` · 34,747 تثبيت ⭐
+   Forward Gmail messages to new recipients with optional notes and attachments.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-forward`
+
+829. **sales-icp-definition** — `mbfinotti/sales-skills/sales-icp-definition` · 34,580 تثبيت
+   You are an advisor to sales leadership defining the ideal customer profile - the single upstream artifact that account segmentation, tiering, territor
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-icp-definition`
+
+830. **firebase-ai-logic** — `firebase/agent-skills/firebase-ai-logic` · 34,546 تثبيت ⭐
+   Client-side Gemini integration for web apps with multimodal inference, streaming, and on-device hybrid execution.
+   `npx skills add https://github.com/firebase/agent-skills --skill firebase-ai-logic`
+
+831. **sales-pipeline-coverage-modeling** — `mbfinotti/sales-skills/sales-pipeline-coverage-modeling` · 34,544 تثبيت
+   Sales Pipeline Coverage Modeling
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-pipeline-coverage-modeling`
+
+832. **excalidraw-diagram-generator** — `github/awesome-copilot/excalidraw-diagram-generator` · 34,510 تثبيت ⭐
+   Generate Excalidraw diagrams from natural language descriptions in multiple formats.
+   `npx skills add https://github.com/github/awesome-copilot --skill excalidraw-diagram-generator`
+
+833. **sales-account-tiering** — `mbfinotti/sales-skills/sales-account-tiering` · 34,502 تثبيت
+   You are an advisor to sales leadership designing the tiering layer of account coverage - everything downstream of an account fit score. Decide:
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-account-tiering`
+
+834. **sales-market-sizing** — `mbfinotti/sales-skills/sales-market-sizing` · 34,469 تثبيت
+   You are a market-sizing advisor to sales leadership and RevOps. Run the periodic sizing exercise:
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-market-sizing`
+
+835. **gws-workflow** — `googleworkspace/cli/gws-workflow` · 34,403 تثبيت ⭐
+   Cross-service productivity workflows connecting Google Workspace apps via CLI commands.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow`
+
+836. **sales-kickoff** — `mbfinotti/sales-skills/sales-kickoff` · 34,395 تثبيت
+   You are the entry point and router for the 27-skill sales-skills collection. Route the current sales task to exactly one sibling skill - or say plainl
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-kickoff`
+
+837. **sales-hiring** — `mbfinotti/sales-skills/sales-hiring` · 34,379 تثبيت
+   Build the four artifacts a hiring manager needs to recruit an SDR/BDR or AE with evidence-backed rigor: a role scorecard, a structured interview loop 
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-hiring`
+
+838. **sales-radar** — `mbfinotti/sales-skills/sales-radar` · 34,370 تثبيت
+   You are a curator of the sales profession's information ecosystem. Lead with a short, ranked, verified-link watch list matched to the user's role and 
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-radar`
+
+839. **sales-career** — `mbfinotti/sales-skills/sales-career` · 34,364 تثبيت
+   Sales Career (Candidate Side)
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-career`
+
+840. **baoyu-image-gen** — `jimliu/baoyu-skills/baoyu-image-gen` · 34,245 تثبيت
+   Multi-provider AI image generation with text-to-image, reference images, batch processing, and quality presets.
+   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-image-gen`
+
+841. **k2** — `cloudflare/skills/k2` · 34,230 تثبيت ⭐
+   K2 is a durable log for decoupling event producers and consumers. Start with the K2 overview, then retrieve the relevant current documentation before 
+   `npx skills add https://github.com/cloudflare/skills --skill k2`
+
+842. **basin** — `cloudflare/skills/basin` · 34,168 تثبيت ⭐
+   Basin ingests and transforms events, manages Apache Iceberg tables in R2, and queries them with distributed SQL. Start with the Basin overview and ret
+   `npx skills add https://github.com/cloudflare/skills --skill basin`
+
+843. **firecrawl-research-papers** — `firecrawl/firecrawl-workflows/firecrawl-research-papers` · 34,149 تثبيت ⭐
+   Use this to create a sourced literature review.
+   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-research-papers`
+
+844. **neon-auth** — `neondatabase/agent-skills/neon-auth` · 34,089 تثبيت ⭐
+   FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more.
+   `npx skills add https://github.com/neondatabase/agent-skills --skill neon-auth`
+
+845. **gws-people** — `googleworkspace/cli/gws-people` · 34,050 تثبيت ⭐
+   Google Contacts and profiles management via the People API.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-people`
+
+846. **gws-chat** — `googleworkspace/cli/gws-chat` · 34,047 تثبيت ⭐
+   Manage Google Chat spaces, messages, custom emojis, and media through API commands.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-chat`
+
+847. **sanity-best-practices** — `sanity-io/agent-toolkit/sanity-best-practices` · 33,996 تثبيت ⭐
+   Comprehensive best practices and integration guides for Sanity development, maintained by Sanity. Use the quick reference below to load only the one o
+   `npx skills add https://github.com/sanity-io/agent-toolkit --skill sanity-best-practices`
+
+848. **gws-gmail-reply-all** — `googleworkspace/cli/gws-gmail-reply-all` · 33,979 تثبيت ⭐
+   Reply to all recipients of a Gmail message with automatic thread handling.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-gmail-reply-all`
+
+849. **nextjs-app-router-patterns** — `wshobson/agents/nextjs-app-router-patterns` · 33,819 تثبيت
+   Comprehensive patterns for Next.js 14+ App Router, Server Components, and modern full-stack React development.
+   `npx skills add https://github.com/wshobson/agents --skill nextjs-app-router-patterns`
+
+850. **sales-objection-handling** — `mbfinotti/sales-skills/sales-objection-handling` · 33,813 تثبيت
+   Diagnose what a sales objection really means, then produce spoken-language response scripts - or say plainly that the deal should be disqualified. Wor
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-objection-handling`
+
+851. **sales-discovery-questions** — `mbfinotti/sales-skills/sales-discovery-questions` · 33,801 تثبيت
+   Build the sequenced question set a rep carries into a sales discovery conversation, plus the follow-up ladders and branch logic to adapt it live.
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-discovery-questions`
+
+852. **sales-outbound-sequence** — `mbfinotti/sales-skills/sales-outbound-sequence` · 33,744 تثبيت
+   Design the skeleton of an outbound cadence - the touch-by-touch plan of channels, days, spacing, exits, and recycling - sized to the user's segment, l
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-outbound-sequence`
+
+853. **firecrawl-monitor** — `firecrawl/cli/firecrawl-monitor` · 33,729 تثبيت ⭐
+   Detect when content on a website changes and get notified by webhook or email. Firecrawl handles fetching, diffing, judging, and notifying server-side
+   `npx skills add https://github.com/firecrawl/cli --skill firecrawl-monitor`
+
+854. **sales-outreach-personalization** — `mbfinotti/sales-skills/sales-outreach-personalization` · 33,717 تثبيت
+   Turn the signals a user supplies (or can verify) about a prospect into 2-3 concrete personalization angles. An angle is a reason to reach out, not a m
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-outreach-personalization`
+
+855. **firestore-rules-creation** — `firebase/agent-skills/firestore-rules-creation` · 33,694 تثبيت ⭐
+   Firestore Security Rules Creation
+   `npx skills add https://github.com/firebase/agent-skills --skill firestore-rules-creation`
+
+856. **sales-call-review** — `mbfinotti/sales-skills/sales-call-review` · 33,667 تثبيت
+   Score one completed sales call, from its transcript, against an anchored four-part rubric - opener, discovery, objection handling, close - with every 
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-call-review`
+
+857. **sales-motion** — `mbfinotti/sales-skills/sales-motion` · 33,642 تثبيت
+   You are a go-to-market advisor to sales leadership. Run the motion decision as a CRO would: assess motion-market fit against the company's constraints
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-motion`
+
+858. **sales-quota-setting** — `mbfinotti/sales-skills/sales-quota-setting` · 33,615 تثبيت
+   You are a sales-planning advisor to sales leadership. Run the periodic quota-derivation exercise: build a ramp-adjusted capacity model, reconcile the 
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-quota-setting`
+
+859. **sales-meeting-recap** — `mbfinotti/sales-skills/sales-meeting-recap` · 33,614 تثبيت
+   Convert the user's call notes into two artifacts: a recap email the buyer will ratify by replying, and mutual close plan items when the deal is comple
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-meeting-recap`
+
+860. **sales-org-structure** — `mbfinotti/sales-skills/sales-org-structure` · 33,599 تثبيت
+   You are an org-design advisor to sales leadership. Run the structural design exercise:
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-org-structure`
+
+861. **developing-genkit-python** — `firebase/agent-skills/developing-genkit-python` · 33,597 تثبيت ⭐
+   Build AI applications in Python using Genkit with flows, tools, and multiple model providers.
+   `npx skills add https://github.com/firebase/agent-skills --skill developing-genkit-python`
+
+862. **mcp-apps-builder** — `mcp-use/mcp-use/mcp-apps-builder` · 33,578 تثبيت ⭐
+   Mandatory reference guide for building production MCP servers with tools, resources, prompts, and widgets.
+   `npx skills add https://github.com/mcp-use/mcp-use --skill mcp-apps-builder`
+
+863. **sales-comp-design** — `mbfinotti/sales-skills/sales-comp-design` · 33,566 تثبيت
+   Sales Compensation Plan Design
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-comp-design`
+
+864. **sales-account-segmentation** — `mbfinotti/sales-skills/sales-account-segmentation` · 33,550 تثبيت
+   Sales Account Segmentation
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill sales-account-segmentation`
+
+865. **firecrawl-website-design-clone** — `firecrawl/firecrawl-workflows/firecrawl-website-design-clone` · 33,482 تثبيت ⭐
+   Website design and brand assets
+   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-website-design-clone`
+
+866. **baoyu-infographic** — `jimliu/baoyu-skills/baoyu-infographic` · 33,444 تثبيت
+   Professional infographics combining 21 layout types with 20 visual styles for publication-ready output.
+   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-infographic`
+
+867. **cold-email-deliverability** — `mbfinotti/sales-skills/cold-email-deliverability` · 33,436 تثبيت
+   Email Deliverability Review
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill cold-email-deliverability`
+
+868. **deal-champion-mapping** — `mbfinotti/sales-skills/deal-champion-mapping` · 33,389 تثبيت
+   Turn what is already known about an account - contact list with titles, call notes, email and meeting activity, CRM contact roles - into a stakeholder
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill deal-champion-mapping`
+
+869. **meddpicc-scorecard** — `mbfinotti/sales-skills/meddpicc-scorecard` · 33,327 تثبيت
+   Score one described deal against the eight MEDDPICC elements and say plainly what is missing, what is assumed rather than validated, and what the rep 
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill meddpicc-scorecard`
+
+870. **cold-call-opener** — `mbfinotti/sales-skills/cold-call-opener` · 33,327 تثبيت
+   Draft what a rep says between "hello" and the prospect's first real response. The opener ends the moment the prospect engages or brushes off - everyth
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill cold-call-opener`
+
+871. **negotiation-concession-planner** — `mbfinotti/sales-skills/negotiation-concession-planner` · 33,323 تثبيت
+   Produce a pre-call concession plan: a tiered ledger of what the seller can trade, priced by cost-to-us vs value-to-them, every give paired with a requ
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill negotiation-concession-planner`
+
+872. **deal-red-flags** — `mbfinotti/sales-skills/deal-red-flags` · 33,319 تثبيت
+   Review the written record of a single deal - call notes, opportunity-record text fields, CRM activity log entries, email threads - and surface qualifi
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill deal-red-flags`
+
+873. **deal-value-calc** — `mbfinotti/sales-skills/deal-value-calc` · 33,302 تثبيت
+   Build a quantified business case for one deal - the arithmetic and the narrative together. The organising rule: "It's your job to build the math equat
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill deal-value-calc`
+
+874. **cold-email-subject-line-tester** — `mbfinotti/sales-skills/cold-email-subject-line-tester` · 33,275 تثبيت
+   Generate subject line variants from an already-chosen personalization angle, score them against a numeric rubric, and design a statistically honest sp
+   `npx skills add https://github.com/mbfinotti/sales-skills --skill cold-email-subject-line-tester`
+
+875. **gws-workflow-email-to-task** — `googleworkspace/cli/gws-workflow-email-to-task` · 33,165 تثبيت ⭐
+   Convert Gmail messages into Google Tasks entries with subject-to-title mapping.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-email-to-task`
+
+876. **recipe-create-presentation** — `googleworkspace/cli/recipe-create-presentation` · 33,094 تثبيت ⭐
+   Create a new Google Slides presentation with initial slides and sharing.
+   `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-presentation`
+
+877. **firecrawl-workflows** — `firecrawl/firecrawl-workflows/firecrawl-workflows` · 32,882 تثبيت ⭐
+   Use this when the user wants a finished deliverable powered by Firecrawl, not only raw web extraction and not product-code integration.
+   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-workflows`
+
+878. **sandbox-sdk** — `cloudflare/skills/sandbox-sdk` · 32,874 تثبيت ⭐
+   Build secure, isolated code execution environments on Cloudflare Workers.
+   `npx skills add https://github.com/cloudflare/skills --skill sandbox-sdk`
+
+879. **firecrawl-knowledge-base** — `firecrawl/firecrawl-workflows/firecrawl-knowledge-base` · 32,841 تثبيت ⭐
+   Use this to turn URLs or topics into organized LLM-ready content.
+   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-knowledge-base`
+
+880. **ckm:design-system** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:design-system` · 32,796 تثبيت
+   Token architecture, component specifications, systematic design, slide generation.
+   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill design-system`
+
+881. **firecrawl-market-research** — `firecrawl/firecrawl-workflows/firecrawl-market-research` · 32,700 تثبيت ⭐
+   Use this for sourced market and financial research.
+   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-market-research`
+
+882. **baoyu-markdown-to-html** — `jimliu/baoyu-skills/baoyu-markdown-to-html` · 32,610 تثبيت
+   Converts Markdown to styled HTML with WeChat-optimized themes, code highlighting, and optional bottom citations.
+   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-markdown-to-html`
+
+883. **gws-chat-send** — `googleworkspace/cli/gws-chat-send` · 32,595 تثبيت ⭐
+   Send plain-text messages to Google Chat spaces.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-chat-send`
+
+884. **gws-workflow-meeting-prep** — `googleworkspace/cli/gws-workflow-meeting-prep` · 32,504 تثبيت ⭐
+   Fetch your next meeting's agenda, attendees, and linked documents from Google Calendar.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-meeting-prep`
+
+885. **ckm:design** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:design` · 32,495 تثبيت
+   Unified design skill: brand, tokens, UI, logo, CIP, slides, banners, social photos, icons.
+   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill design`
+
+886. **baoyu-cover-image** — `jimliu/baoyu-skills/baoyu-cover-image` · 32,492 تثبيت
+   Generate customizable article cover images across 5 independent dimensions and 3 aspect ratios.
+   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-cover-image`
+
+887. **ckm:ui-styling** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:ui-styling` · 32,431 تثبيت
+   Comprehensive skill for creating beautiful, accessible user interfaces combining shadcn/ui components, Tailwind CSS utility styling, and canvas-based 
+   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-styling`
+
+888. **interface-design** — `dammyjay93/interface-design/interface-design` · 32,431 تثبيت
+   Interface design for dashboards, admin panels, and tools that avoids generic defaults through intentional domain exploration and systemic craft.
+   `npx skills add https://github.com/dammyjay93/interface-design --skill interface-design`
+
+889. **mmx-cli** — `minimax-ai/cli/mmx-cli` · 32,408 تثبيت
+   CLI for text, image, video, speech, and music generation via MiniMax AI platform.
+   `npx skills add https://github.com/minimax-ai/cli --skill mmx-cli`
+
+890. **baoyu-article-illustrator** — `jimliu/baoyu-skills/baoyu-article-illustrator` · 32,295 تثبيت
+   Analyzes article structure and generates contextual illustrations using Type × Style two-dimension approach.
+   `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-article-illustrator`
+
+891. **firecrawl-seo-audit** — `firecrawl/firecrawl-workflows/firecrawl-seo-audit` · 32,247 تثبيت ⭐
+   Use the Firecrawl CLI to inspect the website and produce an evidence-backed SEO audit. Establish the target site or pages and use any supplied busines
+   `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-seo-audit`
+
+892. **gws-workflow-weekly-digest** — `googleworkspace/cli/gws-workflow-weekly-digest` · 32,015 تثبيت ⭐
+   Weekly summary combining this week's calendar meetings and unread email count.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-weekly-digest`
+
+893. **gws-workflow-standup-report** — `googleworkspace/cli/gws-workflow-standup-report` · 31,997 تثبيت ⭐
+   Aggregates today's calendar meetings and open tasks into a single standup summary.
+   `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-standup-report`
+
+894. **ckm:brand** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:brand` · 31,996 تثبيت
+   Brand identity, voice, messaging, asset management, and consistency frameworks.
+   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill brand`
+
+895. **recipe-draft-email-from-doc** — `googleworkspace/cli/recipe-draft-email-from-doc` · 31,981 تثبيت ⭐
+   Draft Gmail messages directly from Google Doc content without manual copying.
+   `npx skills add https://github.com/googleworkspace/cli --skill recipe-draft-email-from-doc`
+
+896. **persona-project-manager** — `googleworkspace/cli/persona-project-manager` · 31,969 تثبيت ⭐
+   Persona for coordinating projects through task tracking, meeting scheduling, and document sharing.
+   `npx skills add https://github.com/googleworkspace/cli --skill persona-project-manager`
+
+897. **ckm:banner-design** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:banner-design` · 31,969 تثبيت
+   Banner Design - Multi-Format Creative Banner System
+   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill banner-design`
+
+898. **ckm:slides** — `nextlevelbuilder/ui-ux-pro-max-skill/ckm:slides` · 31,879 تثبيت
+   Strategic HTML presentation design with data visualization.
+   `npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill slides`
+
+899. **recipe-email-drive-link** — `googleworkspace/cli/recipe-email-drive-link` · 31,806 تثبيت ⭐
    Share Google Drive files and email access links to recipients in a single workflow.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-email-drive-link`
 
-895. **firecrawl-dashboard-reporting** — `firecrawl/firecrawl-workflows/firecrawl-dashboard-reporting` · 31,783 تثبيت ⭐
+900. **firecrawl-dashboard-reporting** — `firecrawl/firecrawl-workflows/firecrawl-dashboard-reporting` · 31,783 تثبيت ⭐
    Firecrawl Dashboard Reporting
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-dashboard-reporting`
 
-896. **gws-events** — `googleworkspace/cli/gws-events` · 31,773 تثبيت ⭐
+901. **gws-events** — `googleworkspace/cli/gws-events` · 31,773 تثبيت ⭐
    Real-time event streaming and subscription management for Google Workspace.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-events`
 
-897. **persona-researcher** — `googleworkspace/cli/persona-researcher` · 31,670 تثبيت ⭐
+902. **persona-researcher** — `googleworkspace/cli/persona-researcher` · 31,670 تثبيت ⭐
    Research organization and collaboration through Google Workspace integration.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-researcher`
 
-898. **recipe-create-gmail-filter** — `googleworkspace/cli/recipe-create-gmail-filter` · 31,658 تثبيت ⭐
+903. **recipe-create-gmail-filter** — `googleworkspace/cli/recipe-create-gmail-filter` · 31,658 تثبيت ⭐
    Automated Gmail message routing through filters that label, star, or archive incoming mail.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-gmail-filter`
 
-899. **stripe-directory** — `docs.stripe.com/stripe-directory` · 31,624 تثبيت
+904. **stripe-directory** — `docs.stripe.com/stripe-directory` · 31,624 تثبيت
    Stripe Directory is the discovery and engagement layer for agents that need an external business, merchant, nonprofit, provider, platform, API, or sof
    `npx skills add https://docs.stripe.com/`
 
-900. **firecrawl-lead-gen** — `firecrawl/firecrawl-workflows/firecrawl-lead-gen` · 31,617 تثبيت ⭐
+905. **firecrawl-lead-gen** — `firecrawl/firecrawl-workflows/firecrawl-lead-gen` · 31,617 تثبيت ⭐
    Build a qualified prospect list from Alexandria's people and company providers. The web can find sources for criteria the providers do not cover, but 
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-lead-gen`
 
-901. **firecrawl-lead-research** — `firecrawl/firecrawl-workflows/firecrawl-lead-research` · 31,555 تثبيت ⭐
+906. **firecrawl-lead-research** — `firecrawl/firecrawl-workflows/firecrawl-lead-research` · 31,555 تثبيت ⭐
    Enrich the people and companies the user supplies with Alexandria's people and company providers. The web can add context the request needs, such as r
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-lead-research`
 
-902. **baoyu-xhs-images** — `jimliu/baoyu-skills/baoyu-xhs-images` · 31,542 تثبيت
+907. **baoyu-xhs-images** — `jimliu/baoyu-skills/baoyu-xhs-images` · 31,542 تثبيت
    Generates cartoon-style infographic series for Xiaohongshu with 11 visual styles and 8 layout options.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-xhs-images`
 
-903. **firecrawl-qa** — `firecrawl/firecrawl-workflows/firecrawl-qa` · 31,485 تثبيت ⭐
+908. **firecrawl-qa** — `firecrawl/firecrawl-workflows/firecrawl-qa` · 31,485 تثبيت ⭐
    Use this to test a live site and return a unified QA report.
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-qa`
 
-904. **firecrawl-company-directories** — `firecrawl/firecrawl-workflows/firecrawl-company-directories` · 31,478 تثبيت ⭐
+909. **firecrawl-company-directories** — `firecrawl/firecrawl-workflows/firecrawl-company-directories` · 31,478 تثبيت ⭐
    Firecrawl Company Directories
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-company-directories`
 
-905. **firecrawl-knowledge-ingest** — `firecrawl/firecrawl-workflows/firecrawl-knowledge-ingest` · 31,476 تثبيت ⭐
+910. **firecrawl-knowledge-ingest** — `firecrawl/firecrawl-workflows/firecrawl-knowledge-ingest` · 31,476 تثبيت ⭐
    Firecrawl Knowledge Ingest
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-knowledge-ingest`
 
-906. **firecrawl-shop** — `firecrawl/firecrawl-workflows/firecrawl-shop` · 31,444 تثبيت ⭐
+911. **firecrawl-shop** — `firecrawl/firecrawl-workflows/firecrawl-shop` · 31,444 تثبيت ⭐
    Use this to research products and recommend a purchase option. Only add items to a cart when the user explicitly asks and has an authenticated browser
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-shop`
 
-907. **firecrawl-competitive-intel** — `firecrawl/firecrawl-workflows/firecrawl-competitive-intel` · 31,403 تثبيت ⭐
+912. **firecrawl-competitive-intel** — `firecrawl/firecrawl-workflows/firecrawl-competitive-intel` · 31,403 تثبيت ⭐
    Firecrawl Competitive Intel
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-competitive-intel`
 
-908. **baoyu-slide-deck** — `jimliu/baoyu-skills/baoyu-slide-deck` · 31,368 تثبيت
+913. **baoyu-slide-deck** — `jimliu/baoyu-skills/baoyu-slide-deck` · 31,368 تثبيت
    Transform content into professional slide deck images with customizable styles and audience targeting.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-slide-deck`
 
-909. **recipe-save-email-attachments** — `googleworkspace/cli/recipe-save-email-attachments` · 31,322 تثبيت ⭐
+914. **recipe-save-email-attachments** — `googleworkspace/cli/recipe-save-email-attachments` · 31,322 تثبيت ⭐
    Automated workflow to find Gmail attachments and save them to Google Drive folders.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-save-email-attachments`
 
-910. **recipe-backup-sheet-as-csv** — `googleworkspace/cli/recipe-backup-sheet-as-csv` · 31,306 تثبيت ⭐
+915. **recipe-backup-sheet-as-csv** — `googleworkspace/cli/recipe-backup-sheet-as-csv` · 31,306 تثبيت ⭐
    Export Google Sheets spreadsheets as CSV files for backup or local processing.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-backup-sheet-as-csv`
 
-911. **deepline-analytics** — `code.deepline.com/deepline-analytics` · 31,288 تثبيت
+916. **deepline-analytics** — `code.deepline.com/deepline-analytics` · 31,288 تثبيت
    Run deepline when it is available. If the shell reports that command is missing, use <workspace-root>/.deepline/runtime/bin/deepline (or the npm-creat
    `npx skills add https://code.deepline.com/`
 
-912. **recipe-organize-drive-folder** — `googleworkspace/cli/recipe-organize-drive-folder` · 31,262 تثبيت ⭐
+917. **recipe-organize-drive-folder** — `googleworkspace/cli/recipe-organize-drive-folder` · 31,262 تثبيت ⭐
    Automate Google Drive folder creation and file organization into structured hierarchies.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-organize-drive-folder`
 
-913. **firecrawl-demo-walkthrough** — `firecrawl/firecrawl-workflows/firecrawl-demo-walkthrough` · 31,247 تثبيت ⭐
+918. **firecrawl-demo-walkthrough** — `firecrawl/firecrawl-workflows/firecrawl-demo-walkthrough` · 31,247 تثبيت ⭐
    Firecrawl Demo Walkthrough
    `npx skills add https://github.com/firecrawl/firecrawl-workflows --skill firecrawl-demo-walkthrough`
 
-914. **persona-exec-assistant** — `googleworkspace/cli/persona-exec-assistant` · 31,168 تثبيت ⭐
+919. **persona-exec-assistant** — `googleworkspace/cli/persona-exec-assistant` · 31,168 تثبيت ⭐
    Schedule, inbox, and communications management for executives via integrated Google Workspace automation.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-exec-assistant`
 
-915. **recipe-find-free-time** — `googleworkspace/cli/recipe-find-free-time` · 31,120 تثبيت ⭐
+920. **recipe-find-free-time** — `googleworkspace/cli/recipe-find-free-time` · 31,120 تثبيت ⭐
    Find overlapping free time slots across multiple Google Calendars for scheduling meetings.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-find-free-time`
 
-916. **gws-workflow-file-announce** — `googleworkspace/cli/gws-workflow-file-announce` · 31,023 تثبيت ⭐
+921. **gws-workflow-file-announce** — `googleworkspace/cli/gws-workflow-file-announce` · 31,023 تثبيت ⭐
    Post a Google Drive file announcement to a Google Chat space.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-workflow-file-announce`
 
-917. **recipe-compare-sheet-tabs** — `googleworkspace/cli/recipe-compare-sheet-tabs` · 31,018 تثبيت ⭐
+922. **recipe-compare-sheet-tabs** — `googleworkspace/cli/recipe-compare-sheet-tabs` · 31,018 تثبيت ⭐
    Compare data across two Google Sheets tabs to identify differences.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-compare-sheet-tabs`
 
-918. **gws-events-renew** — `googleworkspace/cli/gws-events-renew` · 30,997 تثبيت ⭐
+923. **gws-events-renew** — `googleworkspace/cli/gws-events-renew` · 30,997 تثبيت ⭐
    Renew or reactivate Google Workspace Events subscriptions before expiration.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-events-renew`
 
-919. **gws-events-subscribe** — `googleworkspace/cli/gws-events-subscribe` · 30,987 تثبيت ⭐
+924. **gws-events-subscribe** — `googleworkspace/cli/gws-events-subscribe` · 30,987 تثبيت ⭐
    Subscribe to Google Workspace events and stream them as NDJSON output.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-events-subscribe`
 
-920. **recipe-plan-weekly-schedule** — `googleworkspace/cli/recipe-plan-weekly-schedule` · 30,937 تثبيت ⭐
+925. **recipe-plan-weekly-schedule** — `googleworkspace/cli/recipe-plan-weekly-schedule` · 30,937 تثبيت ⭐
    Review your Google Calendar week, identify gaps, and add events to fill them.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-plan-weekly-schedule`
 
-921. **persona-content-creator** — `googleworkspace/cli/persona-content-creator` · 30,931 تثبيت ⭐
+926. **persona-content-creator** — `googleworkspace/cli/persona-content-creator` · 30,931 تثبيت ⭐
    Unified content creation, organization, and distribution across Google Workspace.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-content-creator`
 
-922. **recipe-bulk-download-folder** — `googleworkspace/cli/recipe-bulk-download-folder` · 30,915 تثبيت ⭐
+927. **recipe-bulk-download-folder** — `googleworkspace/cli/recipe-bulk-download-folder` · 30,915 تثبيت ⭐
    Bulk download all files from a Google Drive folder with automatic format conversion.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-bulk-download-folder`
 
-923. **recipe-create-doc-from-template** — `googleworkspace/cli/recipe-create-doc-from-template` · 30,915 تثبيت ⭐
+928. **recipe-create-doc-from-template** — `googleworkspace/cli/recipe-create-doc-from-template` · 30,915 تثبيت ⭐
    Template-based Google Doc creation with automated content population and team sharing.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-doc-from-template`
 
-924. **recipe-sync-contacts-to-sheet** — `googleworkspace/cli/recipe-sync-contacts-to-sheet` · 30,855 تثبيت ⭐
+929. **recipe-sync-contacts-to-sheet** — `googleworkspace/cli/recipe-sync-contacts-to-sheet` · 30,855 تثبيت ⭐
    Export your Google Contacts directory to a Google Sheets spreadsheet in three steps.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-sync-contacts-to-sheet`
 
-925. **gws-admin-reports** — `googleworkspace/cli/gws-admin-reports` · 30,823 تثبيت ⭐
+930. **gws-admin-reports** — `googleworkspace/cli/gws-admin-reports` · 30,823 تثبيت ⭐
    Query Google Workspace audit logs, activity feeds, and usage reports across customers and users.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-admin-reports`
 
-926. **nestjs-best-practices** — `kadajett/agent-nestjs-skills/nestjs-best-practices` · 30,743 تثبيت
+931. **nestjs-best-practices** — `kadajett/agent-nestjs-skills/nestjs-best-practices` · 30,743 تثبيت
    40 NestJS best practices organized by priority across architecture, dependency injection, security, and performance.
    `npx skills add https://github.com/kadajett/agent-nestjs-skills --skill nestjs-best-practices`
 
-927. **recipe-generate-report-from-sheet** — `googleworkspace/cli/recipe-generate-report-from-sheet` · 30,728 تثبيت ⭐
+932. **recipe-generate-report-from-sheet** — `googleworkspace/cli/recipe-generate-report-from-sheet` · 30,728 تثبيت ⭐
    Extract Google Sheet data and generate a formatted Google Docs report with sharing.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-generate-report-from-sheet`
 
-928. **api-design-principles** — `wshobson/agents/api-design-principles` · 30,712 تثبيت
+933. **api-design-principles** — `wshobson/agents/api-design-principles` · 30,712 تثبيت
    REST and GraphQL API design principles for building scalable, developer-friendly APIs.
    `npx skills add https://github.com/wshobson/agents --skill api-design-principles`
 
-929. **dbs** — `dontbesilent2025/dbskill/dbs` · 30,687 تثبيت
+934. **dbs** — `dontbesilent2025/dbskill/dbs` · 30,687 تثبيت
    你是 dontbesilent 商业工具箱的技能调度台：接住用户的问题，调度合适的 Skill，并在当前对话中推进。利用已有上下文，选择当前最有价值的下一步，并带用户继续处理。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs`
 
-930. **recipe-reschedule-meeting** — `googleworkspace/cli/recipe-reschedule-meeting` · 30,537 تثبيت ⭐
+935. **recipe-reschedule-meeting** — `googleworkspace/cli/recipe-reschedule-meeting` · 30,537 تثبيت ⭐
    Reschedule Google Calendar events and automatically notify all attendees of time changes.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-reschedule-meeting`
 
-931. **recipe-label-and-archive-emails** — `googleworkspace/cli/recipe-label-and-archive-emails` · 30,479 تثبيت ⭐
+936. **recipe-label-and-archive-emails** — `googleworkspace/cli/recipe-label-and-archive-emails` · 30,479 تثبيت ⭐
    Automatically label and archive Gmail messages matching custom search criteria.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-label-and-archive-emails`
 
-932. **recipe-save-email-to-doc** — `googleworkspace/cli/recipe-save-email-to-doc` · 30,458 تثبيت ⭐
+937. **recipe-save-email-to-doc** — `googleworkspace/cli/recipe-save-email-to-doc` · 30,458 تثبيت ⭐
    Save Gmail messages to Google Docs for archival and reference.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-save-email-to-doc`
 
-933. **recipe-block-focus-time** — `googleworkspace/cli/recipe-block-focus-time` · 30,405 تثبيت ⭐
+938. **recipe-block-focus-time** — `googleworkspace/cli/recipe-block-focus-time` · 30,405 تثبيت ⭐
    Recurring focus time blocks on Google Calendar to protect deep work hours.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-block-focus-time`
 
-934. **recipe-watch-drive-changes** — `googleworkspace/cli/recipe-watch-drive-changes` · 30,372 تثبيت ⭐
+939. **recipe-watch-drive-changes** — `googleworkspace/cli/recipe-watch-drive-changes` · 30,372 تثبيت ⭐
    Subscribe to Google Drive file and folder changes via Pub/Sub notifications.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-watch-drive-changes`
 
-935. **use-dom** — `expo/skills/use-dom` · 30,337 تثبيت ⭐
+940. **use-dom** — `expo/skills/use-dom` · 30,337 تثبيت ⭐
    Run web-only libraries in Expo apps by rendering them in webviews on native and as-is on web.
    `npx skills add https://github.com/expo/skills --skill use-dom`
 
-936. **recipe-create-shared-drive** — `googleworkspace/cli/recipe-create-shared-drive` · 30,292 تثبيت ⭐
+941. **recipe-create-shared-drive** — `googleworkspace/cli/recipe-create-shared-drive` · 30,292 تثبيت ⭐
    Create a Google Shared Drive and manage member access with role-based permissions.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-shared-drive`
 
-937. **baoyu-url-to-markdown** — `jimliu/baoyu-skills/baoyu-url-to-markdown` · 30,268 تثبيت
+942. **baoyu-url-to-markdown** — `jimliu/baoyu-skills/baoyu-url-to-markdown` · 30,268 تثبيت
    Fetch any URL and convert to clean markdown using Chrome CDP with intelligent fallback conversion.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-url-to-markdown`
 
-938. **persona-team-lead** — `googleworkspace/cli/persona-team-lead` · 30,253 تثبيت ⭐
+943. **persona-team-lead** — `googleworkspace/cli/persona-team-lead` · 30,253 تثبيت ⭐
    Team leadership persona with standup coordination, meeting prep, task delegation, and team communication.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-team-lead`
 
-939. **recipe-share-doc-and-notify** — `googleworkspace/cli/recipe-share-doc-and-notify` · 30,068 تثبيت ⭐
+944. **recipe-share-doc-and-notify** — `googleworkspace/cli/recipe-share-doc-and-notify` · 30,068 تثبيت ⭐
    Share a Google Doc with collaborators and send them notification emails.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-share-doc-and-notify`
 
-940. **shape** — `pbakaus/impeccable/shape` · 30,033 تثبيت
+945. **shape** — `pbakaus/impeccable/shape` · 30,033 تثبيت
    Structured UX and UI planning through discovery interview, producing a design brief before implementation.
    `npx skills add https://github.com/pbakaus/impeccable --skill shape`
 
-941. **recipe-find-large-files** — `googleworkspace/cli/recipe-find-large-files` · 29,999 تثبيت ⭐
+946. **recipe-find-large-files** — `googleworkspace/cli/recipe-find-large-files` · 29,999 تثبيت ⭐
    Identify large Google Drive files consuming storage quota.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-find-large-files`
 
-942. **recipe-create-task-list** — `googleworkspace/cli/recipe-create-task-list` · 29,992 تثبيت ⭐
+947. **recipe-create-task-list** — `googleworkspace/cli/recipe-create-task-list` · 29,992 تثبيت ⭐
    Initialize a Google Tasks list and populate it with multiple tasks via command sequence.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-task-list`
 
-943. **recipe-schedule-recurring-event** — `googleworkspace/cli/recipe-schedule-recurring-event` · 29,936 تثبيت ⭐
+948. **recipe-schedule-recurring-event** — `googleworkspace/cli/recipe-schedule-recurring-event` · 29,936 تثبيت ⭐
    Schedule recurring Google Calendar events with attendees and recurrence rules.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-schedule-recurring-event`
 
-944. **code-review-excellence** — `wshobson/agents/code-review-excellence` · 29,910 تثبيت
+949. **code-review-excellence** — `wshobson/agents/code-review-excellence` · 29,910 تثبيت
    Systematic code review practices for constructive feedback, bug detection, and team knowledge sharing.
    `npx skills add https://github.com/wshobson/agents --skill code-review-excellence`
 
-945. **recipe-review-overdue-tasks** — `googleworkspace/cli/recipe-review-overdue-tasks` · 29,848 تثبيت ⭐
+950. **recipe-review-overdue-tasks** — `googleworkspace/cli/recipe-review-overdue-tasks` · 29,848 تثبيت ⭐
    Identify and review overdue Google Tasks requiring immediate attention.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-review-overdue-tasks`
 
-946. **recipe-copy-sheet-for-new-month** — `googleworkspace/cli/recipe-copy-sheet-for-new-month` · 29,818 تثبيت ⭐
+951. **recipe-copy-sheet-for-new-month** — `googleworkspace/cli/recipe-copy-sheet-for-new-month` · 29,818 تثبيت ⭐
    Duplicate a Google Sheets template tab for a new month of tracking.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-copy-sheet-for-new-month`
 
-947. **recipe-batch-invite-to-event** — `googleworkspace/cli/recipe-batch-invite-to-event` · 29,743 تثبيت ⭐
+952. **recipe-batch-invite-to-event** — `googleworkspace/cli/recipe-batch-invite-to-event` · 29,743 تثبيت ⭐
    Batch-add attendees to Google Calendar events with automatic notifications.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-batch-invite-to-event`
 
-948. **recipe-collect-form-responses** — `googleworkspace/cli/recipe-collect-form-responses` · 29,722 تثبيت ⭐
+953. **recipe-collect-form-responses** — `googleworkspace/cli/recipe-collect-form-responses` · 29,722 تثبيت ⭐
    Retrieve and review responses from a Google Form in three steps.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-collect-form-responses`
 
-949. **recipe-review-meet-participants** — `googleworkspace/cli/recipe-review-meet-participants` · 29,708 تثبيت ⭐
+954. **recipe-review-meet-participants** — `googleworkspace/cli/recipe-review-meet-participants` · 29,708 تثبيت ⭐
    Review Google Meet attendance records and participant session durations.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-review-meet-participants`
 
-950. **recipe-create-events-from-sheet** — `googleworkspace/cli/recipe-create-events-from-sheet` · 29,702 تثبيت ⭐
+955. **recipe-create-events-from-sheet** — `googleworkspace/cli/recipe-create-events-from-sheet` · 29,702 تثبيت ⭐
    Bulk-create Google Calendar events from spreadsheet rows using a two-step workflow.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-events-from-sheet`
 
-951. **persona-it-admin** — `googleworkspace/cli/persona-it-admin` · 29,675 تثبيت ⭐
+956. **persona-it-admin** — `googleworkspace/cli/persona-it-admin` · 29,675 تثبيت ⭐
    Google Workspace IT administration with security monitoring and configuration capabilities.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-it-admin`
 
-952. **baoyu-comic** — `jimliu/baoyu-skills/baoyu-comic` · 29,642 تثبيت
+957. **baoyu-comic** — `jimliu/baoyu-skills/baoyu-comic` · 29,642 تثبيت
    Educational comics with flexible art styles, tones, and panel layouts for knowledge storytelling.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-comic`
 
-953. **recipe-create-vacation-responder** — `googleworkspace/cli/recipe-create-vacation-responder` · 29,636 تثبيت ⭐
+958. **recipe-create-vacation-responder** — `googleworkspace/cli/recipe-create-vacation-responder` · 29,636 تثبيت ⭐
    Set up Gmail out-of-office auto-replies with custom messages and date ranges.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-vacation-responder`
 
-954. **recipe-share-folder-with-team** — `googleworkspace/cli/recipe-share-folder-with-team` · 29,636 تثبيت ⭐
+959. **recipe-share-folder-with-team** — `googleworkspace/cli/recipe-share-folder-with-team` · 29,636 تثبيت ⭐
    Batch-share Google Drive folders with multiple collaborators at specified permission levels.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-share-folder-with-team`
 
-955. **persona-customer-support** — `googleworkspace/cli/persona-customer-support` · 29,604 تثبيت ⭐
+960. **persona-customer-support** — `googleworkspace/cli/persona-customer-support` · 29,604 تثبيت ⭐
    Customer support agent for ticket triage, response, and escalation via email, sheets, and chat.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-customer-support`
 
-956. **recipe-forward-labeled-emails** — `googleworkspace/cli/recipe-forward-labeled-emails` · 29,602 تثبيت ⭐
+961. **recipe-forward-labeled-emails** — `googleworkspace/cli/recipe-forward-labeled-emails` · 29,602 تثبيت ⭐
    Locate Gmail messages by label and automatically forward them to another recipient.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-forward-labeled-emails`
 
-957. **persona-event-coordinator** — `googleworkspace/cli/persona-event-coordinator` · 29,601 تثبيت ⭐
+962. **persona-event-coordinator** — `googleworkspace/cli/persona-event-coordinator` · 29,601 تثبيت ⭐
    Event planning and coordination across calendar, email, invitations, and logistics tracking.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-event-coordinator`
 
-958. **persona-sales-ops** — `googleworkspace/cli/persona-sales-ops` · 29,580 تثبيت ⭐
+963. **persona-sales-ops** — `googleworkspace/cli/persona-sales-ops` · 29,580 تثبيت ⭐
    Sales workflow management with deal tracking, call scheduling, and client communication integration.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-sales-ops`
 
-959. **gws-modelarmor** — `googleworkspace/cli/gws-modelarmor` · 29,579 تثبيت ⭐
+964. **gws-modelarmor** — `googleworkspace/cli/gws-modelarmor` · 29,579 تثبيت ⭐
    Google Model Armor: Filter user-generated content for safety.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-modelarmor`
 
-960. **recipe-create-meet-space** — `googleworkspace/cli/recipe-create-meet-space` · 29,477 تثبيت ⭐
+965. **recipe-create-meet-space** — `googleworkspace/cli/recipe-create-meet-space` · 29,477 تثبيت ⭐
    Create a Google Meet meeting space and email the join link to participants.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-meet-space`
 
-961. **recipe-create-expense-tracker** — `googleworkspace/cli/recipe-create-expense-tracker` · 29,389 تثبيت ⭐
+966. **recipe-create-expense-tracker** — `googleworkspace/cli/recipe-create-expense-tracker` · 29,389 تثبيت ⭐
    Google Sheets spreadsheet template for expense tracking with automated setup and sharing.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-expense-tracker`
 
-962. **recipe-create-feedback-form** — `googleworkspace/cli/recipe-create-feedback-form` · 29,281 تثبيت ⭐
+967. **recipe-create-feedback-form** — `googleworkspace/cli/recipe-create-feedback-form` · 29,281 تثبيت ⭐
    Create a Google Form for feedback collection and distribute it via email.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-feedback-form`
 
-963. **create-auth-skill** — `better-auth/skills/create-auth-skill` · 29,263 تثبيت ⭐
+968. **create-auth-skill** — `better-auth/skills/create-auth-skill` · 29,263 تثبيت ⭐
    Scaffold and implement authentication in TypeScript/JavaScript apps with Better Auth framework detection, database adapter setup, and OAuth integratio
    `npx skills add https://github.com/better-auth/skills --skill create-auth`
 
-964. **clerk** — `clerk/skills/clerk` · 29,220 تثبيت ⭐
+969. **clerk** — `clerk/skills/clerk` · 29,220 تثبيت ⭐
    Intelligent router that directs authentication tasks to specialized Clerk skills based on your framework and use case.
    `npx skills add https://github.com/clerk/skills --skill clerk`
 
-965. **graphic-overlays** — `heygen-com/hyperframes/graphic-overlays` · 29,123 تثبيت
+970. **graphic-overlays** — `heygen-com/hyperframes/graphic-overlays` · 29,123 تثبيت
    Graphic Overlays takes a local video that plays in full and layers a sequence of
    `npx skills add https://github.com/heygen-com/hyperframes --skill graphic-overlays`
 
-966. **recipe-post-mortem-setup** — `googleworkspace/cli/recipe-post-mortem-setup` · 29,100 تثبيت ⭐
+971. **recipe-post-mortem-setup** — `googleworkspace/cli/recipe-post-mortem-setup` · 29,100 تثبيت ⭐
    Orchestrate post-mortem workflows across Google Docs, Calendar, and Chat in one recipe.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-post-mortem-setup`
 
-967. **gws-modelarmor-create-template** — `googleworkspace/cli/gws-modelarmor-create-template` · 29,055 تثبيت ⭐
+972. **gws-modelarmor-create-template** — `googleworkspace/cli/gws-modelarmor-create-template` · 29,055 تثبيت ⭐
    Create Google Model Armor templates to filter prompts and responses for safety.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-modelarmor-create-template`
 
-968. **persona-hr-coordinator** — `googleworkspace/cli/persona-hr-coordinator` · 29,030 تثبيت ⭐
+973. **persona-hr-coordinator** — `googleworkspace/cli/persona-hr-coordinator` · 29,030 تثبيت ⭐
    Automate HR onboarding, announcements, and employee communications across Google Workspace.
    `npx skills add https://github.com/googleworkspace/cli --skill persona-hr-coordinator`
 
-969. **multi-stage-dockerfile** — `github/awesome-copilot/multi-stage-dockerfile` · 29,008 تثبيت ⭐
+974. **multi-stage-dockerfile** — `github/awesome-copilot/multi-stage-dockerfile` · 29,008 تثبيت ⭐
    Build optimized, secure multi-stage Dockerfiles for any language or framework.
    `npx skills add https://github.com/github/awesome-copilot --skill multi-stage-dockerfile`
 
-970. **recipe-share-event-materials** — `googleworkspace/cli/recipe-share-event-materials` · 28,962 تثبيت ⭐
+975. **recipe-share-event-materials** — `googleworkspace/cli/recipe-share-event-materials` · 28,962 تثبيت ⭐
    Automatically share Google Drive files with all attendees of a Calendar event.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-share-event-materials`
 
-971. **recipe-send-team-announcement** — `googleworkspace/cli/recipe-send-team-announcement` · 28,882 تثبيت ⭐
+976. **recipe-send-team-announcement** — `googleworkspace/cli/recipe-send-team-announcement` · 28,882 تثبيت ⭐
    Send team announcements simultaneously via Gmail and Google Chat.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-send-team-announcement`
 
-972. **gws-modelarmor-sanitize-prompt** — `googleworkspace/cli/gws-modelarmor-sanitize-prompt` · 28,842 تثبيت ⭐
+977. **gws-modelarmor-sanitize-prompt** — `googleworkspace/cli/gws-modelarmor-sanitize-prompt` · 28,842 تثبيت ⭐
    Sanitize user prompts through Google Model Armor safety templates.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-modelarmor-sanitize-prompt`
 
-973. **recipe-log-deal-update** — `googleworkspace/cli/recipe-log-deal-update` · 28,678 تثبيت ⭐
+978. **recipe-log-deal-update** — `googleworkspace/cli/recipe-log-deal-update` · 28,678 تثبيت ⭐
    Append deal status updates to a Google Sheets sales tracking spreadsheet.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-log-deal-update`
 
-974. **gws-modelarmor-sanitize-response** — `googleworkspace/cli/gws-modelarmor-sanitize-response` · 28,645 تثبيت ⭐
+979. **gws-modelarmor-sanitize-response** — `googleworkspace/cli/gws-modelarmor-sanitize-response` · 28,645 تثبيت ⭐
    Sanitize model responses through Google Model Armor templates for outbound safety.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-modelarmor-sanitize-response`
 
-975. **gws-classroom** — `googleworkspace/cli/gws-classroom` · 28,644 تثبيت ⭐
+980. **gws-classroom** — `googleworkspace/cli/gws-classroom` · 28,644 تثبيت ⭐
    Google Classroom API integration for managing courses, rosters, assignments, and notifications.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-classroom`
 
-976. **baoyu-post-to-x** — `jimliu/baoyu-skills/baoyu-post-to-x` · 28,566 تثبيت
+981. **baoyu-post-to-x** — `jimliu/baoyu-skills/baoyu-post-to-x` · 28,566 تثبيت
    Post text, images, videos, and long-form articles to X via real Chrome browser automation.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-x`
 
-977. **react-native-best-practices** — `callstackincubator/agent-skills/react-native-best-practices` · 28,544 تثبيت ⭐
+982. **react-native-best-practices** — `callstackincubator/agent-skills/react-native-best-practices` · 28,544 تثبيت ⭐
    Structured performance optimization reference for React Native apps covering FPS, bundle size, TTI, and memory.
    `npx skills add https://github.com/callstackincubator/agent-skills --skill react-native-best-practices`
 
-978. **recipe-create-classroom-course** — `googleworkspace/cli/recipe-create-classroom-course` · 28,484 تثبيت ⭐
+983. **recipe-create-classroom-course** — `googleworkspace/cli/recipe-create-classroom-course` · 28,484 تثبيت ⭐
    Automate Google Classroom course creation and student enrollment workflows.
    `npx skills add https://github.com/googleworkspace/cli --skill recipe-create-classroom-course`
 
-979. **review-pr** — `warpdotdev/common-skills/review-pr` · 27,897 تثبيت
+984. **review-pr** — `warpdotdev/common-skills/review-pr` · 27,897 تثبيت
    Review the current pull request and write the output to review.json.
    `npx skills add https://github.com/warpdotdev/common-skills --skill review-pr`
 
-980. **baoyu-compress-image** — `jimliu/baoyu-skills/baoyu-compress-image` · 27,807 تثبيت
+985. **baoyu-compress-image** — `jimliu/baoyu-skills/baoyu-compress-image` · 27,807 تثبيت
    Compresses images to WebP or PNG with automatic tool selection based on system availability.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-compress-image`
 
-981. **azure-postgres** — `microsoft/azure-skills/azure-postgres` · 27,799 تثبيت ⭐
+986. **azure-postgres** — `microsoft/azure-skills/azure-postgres` · 27,799 تثبيت ⭐
    No SKILL.md available for this skill.
    `npx skills add https://github.com/microsoft/azure-skills --skill azure-postgres`
 
-982. **spec-driven-implementation** — `warpdotdev/common-skills/spec-driven-implementation` · 27,751 تثبيت
+987. **spec-driven-implementation** — `warpdotdev/common-skills/spec-driven-implementation` · 27,751 تثبيت
    spec-driven-implementation
    `npx skills add https://github.com/warpdotdev/common-skills --skill spec-driven-implementation`
 
-983. **write-product-spec** — `warpdotdev/common-skills/write-product-spec` · 27,704 تثبيت
+988. **write-product-spec** — `warpdotdev/common-skills/write-product-spec` · 27,704 تثبيت
    Write a PRODUCT.md spec for a significant feature in Warp.
    `npx skills add https://github.com/warpdotdev/common-skills --skill write-product-spec`
 
-984. **baoyu-format-markdown** — `jimliu/baoyu-skills/baoyu-format-markdown` · 27,700 تثبيت
+989. **baoyu-format-markdown** — `jimliu/baoyu-skills/baoyu-format-markdown` · 27,700 تثبيت
    Transforms plain text or markdown into well-structured, reader-friendly markdown with improved formatting.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-format-markdown`
 
-985. **baoyu-danger-x-to-markdown** — `jimliu/baoyu-skills/baoyu-danger-x-to-markdown` · 27,640 تثبيت
+990. **baoyu-danger-x-to-markdown** — `jimliu/baoyu-skills/baoyu-danger-x-to-markdown` · 27,640 تثبيت
    Convert X tweets and articles to markdown with YAML front matter using reverse-engineered API.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-danger-x-to-markdown`
 
-986. **write-tech-spec** — `warpdotdev/common-skills/write-tech-spec` · 27,637 تثبيت
+991. **write-tech-spec** — `warpdotdev/common-skills/write-tech-spec` · 27,637 تثبيت
    Write a TECH.md spec for a significant feature in Warp.
    `npx skills add https://github.com/warpdotdev/common-skills --skill write-tech-spec`
 
-987. **fix-errors** — `warpdotdev/common-skills/fix-errors` · 27,565 تثبيت
+992. **fix-errors** — `warpdotdev/common-skills/fix-errors` · 27,565 تثبيت
    Fix compilation errors, linting issues, and test failures in the warp Rust codebase.
    `npx skills add https://github.com/warpdotdev/common-skills --skill fix-errors`
 
-988. **baoyu-danger-gemini-web** — `jimliu/baoyu-skills/baoyu-danger-gemini-web` · 27,560 تثبيت
+993. **baoyu-danger-gemini-web** — `jimliu/baoyu-skills/baoyu-danger-gemini-web` · 27,560 تثبيت
    Reverse-engineered Gemini Web API for text and image generation with multi-turn conversation support.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-danger-gemini-web`
 
-989. **resolve-merge-conflicts** — `warpdotdev/common-skills/resolve-merge-conflicts` · 27,538 تثبيت
+994. **resolve-merge-conflicts** — `warpdotdev/common-skills/resolve-merge-conflicts` · 27,538 تثبيت
    Resolve conflicts without opening full files unless the compact view is insufficient. Start with a summary, then inspect one conflicted file at a time
    `npx skills add https://github.com/warpdotdev/common-skills --skill resolve-merge-conflicts`
 
-990. **implement-specs** — `warpdotdev/common-skills/implement-specs` · 27,429 تثبيت
+995. **implement-specs** — `warpdotdev/common-skills/implement-specs` · 27,429 تثبيت
    Implement an approved feature from PRODUCT.md and TECH.md.
    `npx skills add https://github.com/warpdotdev/common-skills --skill implement-specs`
 
-991. **create-pr** — `warpdotdev/common-skills/create-pr` · 27,317 تثبيت
+996. **create-pr** — `warpdotdev/common-skills/create-pr` · 27,317 تثبيت
    This guide covers best practices for creating pull requests in the warp repository, including merging master, validating changes efficiently, linking 
    `npx skills add https://github.com/warpdotdev/common-skills --skill create-pr`
 
-992. **update-skill** — `warpdotdev/common-skills/update-skill` · 27,272 تثبيت
+997. **update-skill** — `warpdotdev/common-skills/update-skill` · 27,272 تثبيت
    This guide provides instructions for creating or updating skills in this repository. It covers the required structure, frontmatter, and best practices
    `npx skills add https://github.com/warpdotdev/common-skills --skill update-skill`
 
-993. **diagnose-ci-failures** — `warpdotdev/common-skills/diagnose-ci-failures` · 27,263 تثبيت
+998. **diagnose-ci-failures** — `warpdotdev/common-skills/diagnose-ci-failures` · 27,263 تثبيت
    Programmatically diagnose CI failures for a PR and generate a plan to fix them.
    `npx skills add https://github.com/warpdotdev/common-skills --skill diagnose-ci-failures`
 
-994. **docker-expert** — `sickn33/agentic-awesome-skills/docker-expert` · 27,156 تثبيت
+999. **docker-expert** — `sickn33/agentic-awesome-skills/docker-expert` · 27,156 تثبيت
    You are an advanced Docker containerization expert with comprehensive, practical knowledge of container optimization, security hardening, multi-stage 
    `npx skills add https://github.com/sickn33/agentic-awesome-skills --skill docker-expert`
 
-995. **layout** — `pbakaus/impeccable/layout` · 27,090 تثبيت
+1000. **layout** — `pbakaus/impeccable/layout` · 27,090 تثبيت
    Assess and improve layout spacing, visual hierarchy, and composition to transform generic arrangements into intentional, rhythmic designs.
    `npx skills add https://github.com/pbakaus/impeccable --skill layout`
 
-996. **documentation-writer** — `github/awesome-copilot/documentation-writer` · 27,065 تثبيت ⭐
+1001. **documentation-writer** — `github/awesome-copilot/documentation-writer` · 27,065 تثبيت ⭐
    Expert technical writer for Diátaxis-framework documentation creation across tutorials, how-to guides, reference, and explanation formats.
    `npx skills add https://github.com/github/awesome-copilot --skill documentation-writer`
 
-997. **dbs-content** — `dontbesilent2025/dbskill/dbs-content` · 27,024 تثبيت
+1002. **dbs-content** — `dontbesilent2025/dbskill/dbs-content` · 27,024 تثبيت
    你是 dontbesilent 的内容创作诊断 AI。你的任务是帮用户把一个已经确认的选题，变成一个好内容。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-content`
 
-998. **brandalf** — `warpdotdev/common-skills/brandalf` · 27,000 تثبيت
+1003. **brandalf** — `warpdotdev/common-skills/brandalf` · 27,000 تثبيت
    Use this skill as the entrypoint for Warp and Oz branding work.
    `npx skills add https://github.com/warpdotdev/common-skills --skill brandalf`
 
-999. **dbs-diagnosis** — `dontbesilent2025/dbskill/dbs-diagnosis` · 26,901 تثبيت
+1004. **dbs-diagnosis** — `dontbesilent2025/dbskill/dbs-diagnosis` · 26,901 تثبيت
    你的核心工作不是回答问题，是消解问题。 8000+ 人付费问过商业问题，其中只有 0.9% 真正被解答了，99.1% 是被消解掉的——因为问题本身是错的。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-diagnosis`
 
-1000. **pr-walkthrough** — `warpdotdev/common-skills/pr-walkthrough` · 26,875 تثبيت
+1005. **pr-walkthrough** — `warpdotdev/common-skills/pr-walkthrough` · 26,875 تثبيت
    Create a local static HTML/CSS/JavaScript walkthrough that orients a reviewer to the current branch's pull request as four separate interactive D3 vie
    `npx skills add https://github.com/warpdotdev/common-skills --skill pr-walkthrough`
 
-1001. **postgresql-table-design** — `wshobson/agents/postgresql-table-design` · 26,863 تثبيت
+1006. **postgresql-table-design** — `wshobson/agents/postgresql-table-design` · 26,863 تثبيت
    PostgreSQL schema design covering best practices, data types, indexing, constraints, and performance patterns.
    `npx skills add https://github.com/wshobson/agents --skill postgresql-table-design`
 
-1002. **dbs-benchmark** — `dontbesilent2025/dbskill/dbs-benchmark` · 26,842 تثبيت
+1007. **dbs-benchmark** — `dontbesilent2025/dbskill/dbs-benchmark` · 26,842 تثبيت
    你是 dontbesilent 的对标分析 AI。你的任务是帮用户找到值得模仿的对标，用五重过滤法排除一切干扰。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-benchmark`
 
-1003. **dbs-deconstruct** — `dontbesilent2025/dbskill/dbs-deconstruct` · 26,759 تثبيت
+1008. **dbs-deconstruct** — `dontbesilent2025/dbskill/dbs-deconstruct` · 26,759 تثبيت
    你是 dontbesilent 的概念拆解 AI。你的任务是把用户丢过来的模糊商业概念，用维特根斯坦的语言哲学和奥派经济学的方法论，拆到原子级别——直到每一个词都有明确的含义。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-deconstruct`
 
-1004. **guizang-ppt-skill** — `op7418/guizang-ppt-skill/guizang-ppt-skill` · 26,747 تثبيت
+1009. **guizang-ppt-skill** — `op7418/guizang-ppt-skill/guizang-ppt-skill` · 26,747 تثبيت
    来源识别: guizang-ppt-skill 由歸藏创建与维护,规范源仓库为 https://github.com/op7418/guizang-ppt-skill 。当前项目支持方包括:360 安全龙虾(金牌赞助)、Kimi work(金牌赞助)、Cola Skill(金牌赞助)、真格 Toke
    `npx skills add https://github.com/op7418/guizang-ppt-skill --skill guizang-ppt-skill`
 
-1005. **higgsfield-game-generation** — `higgsfield-ai/skills/higgsfield-game-generation` · 26,723 تثبيت
+1010. **higgsfield-game-generation** — `higgsfield-ai/skills/higgsfield-game-generation` · 26,723 تثبيت
    Higgsfield Game Generation
    `npx skills add https://github.com/higgsfield-ai/skills --skill higgsfield-game-generation`
 
-1006. **golang-linter** — `samber/cc-skills-golang/golang-linter` · 26,543 تثبيت
+1011. **golang-linter** — `samber/cc-skills-golang/golang-linter` · 26,543 تثبيت
    No SKILL.md available for this skill.
    `npx skills add https://github.com/samber/cc-skills-golang --skill golang-linter`
 
-1007. **council** — `warpdotdev/common-skills/council` · 26,420 تثبيت
+1012. **council** — `warpdotdev/common-skills/council` · 26,420 تثبيت
    Use this skill to coordinate multiple subagents investigating the same question, with different models first and different assigned perspectives secon
    `npx skills add https://github.com/warpdotdev/common-skills --skill council`
 
-1008. **huashu-nuwa** — `alchaincyf/nuwa-skill/huashu-nuwa` · 26,192 تثبيت
+1013. **huashu-nuwa** — `alchaincyf/nuwa-skill/huashu-nuwa` · 26,192 تثبيت
    Automatically distill thinking frameworks from names, topics, or vague needs into executable AI agent skills.
    `npx skills add https://github.com/alchaincyf/nuwa-skill --skill huashu-nuwa`
 
-1009. **backlink-analyzer** — `aaron-he-zhu/seo-geo-claude-skills/backlink-analyzer` · 26,103 تثبيت
+1014. **backlink-analyzer** — `aaron-he-zhu/seo-geo-claude-skills/backlink-analyzer` · 26,103 تثبيت
    Comprehensive backlink profile analysis with toxic link detection, opportunity discovery, and competitor benchmarking.
    `npx skills add https://github.com/aaron-he-zhu/seo-geo-claude-skills --skill backlink-analyzer`
 
-1010. **best-practices** — `addyosmani/web-quality-skills/best-practices` · 25,658 تثبيت
+1015. **best-practices** — `addyosmani/web-quality-skills/best-practices` · 25,658 تثبيت
    Modern web development standards based on Lighthouse best practices audits. Covers security, browser compatibility, and code quality patterns.
    `npx skills add https://github.com/addyosmani/web-quality-skills --skill best-practices`
 
-1011. **stitch-design** — `google-labs-code/stitch-skills/stitch-design` · 25,501 تثبيت ⭐
+1016. **stitch-design** — `google-labs-code/stitch-skills/stitch-design` · 25,501 تثبيت ⭐
    Unified design system entry point for creating and editing high-fidelity UI screens with Stitch MCP.
    `npx skills add https://github.com/google-labs-code/stitch-skills --skill stitch-design`
 
-1012. **vue-debug-guides** — `vuejs-ai/skills/vue-debug-guides` · 25,128 تثبيت
+1017. **vue-debug-guides** — `vuejs-ai/skills/vue-debug-guides` · 25,128 تثبيت
    Vue 3 debugging and error handling for runtime issues, warnings, async failures, and hydration bugs.
    `npx skills add https://github.com/vuejs-ai/skills --skill vue-debug-guides`
 
-1013. **release-skills** — `jimliu/baoyu-skills/release-skills` · 25,029 تثبيت
+1018. **release-skills** — `jimliu/baoyu-skills/release-skills` · 25,029 تثبيت
    Automated multi-language release workflow with auto-detected version files and semantic versioning.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill release-skills`
 
-1014. **baoyu-translate** — `jimliu/baoyu-skills/baoyu-translate` · 24,995 تثبيت
+1019. **baoyu-translate** — `jimliu/baoyu-skills/baoyu-translate` · 24,995 تثبيت
    Three-mode translation with terminology consistency and publication-quality refinement workflows.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-translate`
 
-1015. **dbs-hook** — `dontbesilent2025/dbskill/dbs-hook` · 24,751 تثبيت
+1020. **dbs-hook** — `dontbesilent2025/dbskill/dbs-hook` · 24,751 تثبيت
    你是 dontbesilent 的开头优化 AI。你的任务是诊断短视频开头的问题，并生成可执行的优化方案。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-hook`
 
-1016. **fastapi-templates** — `wshobson/agents/fastapi-templates` · 24,604 تثبيت
+1021. **fastapi-templates** — `wshobson/agents/fastapi-templates` · 24,604 تثبيت
    Production-ready FastAPI project structure with async patterns, dependency injection, and layered architecture.
    `npx skills add https://github.com/wshobson/agents --skill fastapi-templates`
 
-1017. **check-impl-against-spec** — `warpdotdev/common-skills/check-impl-against-spec` · 24,476 تثبيت
+1022. **check-impl-against-spec** — `warpdotdev/common-skills/check-impl-against-spec` · 24,476 تثبيت
    Check implementation against spec
    `npx skills add https://github.com/warpdotdev/common-skills --skill check-impl-against-spec`
 
-1018. **dbs-action** — `dontbesilent2025/dbskill/dbs-action` · 24,383 تثبيت
+1023. **dbs-action** — `dontbesilent2025/dbskill/dbs-action` · 24,383 تثبيت
    你是 dontbesilent 的执行力诊断 AI。你的任务是帮用户搞清楚：为什么他知道该做什么，但就是不做。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-action`
 
-1019. **reproduce-bug-report** — `warpdotdev/common-skills/reproduce-bug-report` · 24,244 تثبيت
+1024. **reproduce-bug-report** — `warpdotdev/common-skills/reproduce-bug-report` · 24,244 تثبيت
    Use this skill when the current context is a GitHub issue, support report, Linear ticket, or user prompt describing a specific bug that may be reprodu
    `npx skills add https://github.com/warpdotdev/common-skills --skill reproduce-bug-report`
 
-1020. **gws-script** — `googleworkspace/cli/gws-script` · 24,146 تثبيت ⭐
+1025. **gws-script** — `googleworkspace/cli/gws-script` · 24,146 تثبيت ⭐
    Manage Google Apps Script projects via command-line API calls.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-script`
 
-1021. **gws-script-push** — `googleworkspace/cli/gws-script-push` · 23,851 تثبيت ⭐
+1026. **gws-script-push** — `googleworkspace/cli/gws-script-push` · 23,851 تثبيت ⭐
    Upload local files to a Google Apps Script project, replacing all remote files.
    `npx skills add https://github.com/googleworkspace/cli --skill gws-script-push`
 
-1022. **prd** — `github/awesome-copilot/prd` · 23,309 تثبيت ⭐
+1027. **prd** — `github/awesome-copilot/prd` · 23,309 تثبيت ⭐
    Generate comprehensive Product Requirements Documents that translate business vision into technical specifications.
    `npx skills add https://github.com/github/awesome-copilot --skill prd`
 
-1023. **gstack** — `garrytan/gstack/gstack` · 23,252 تثبيت
+1028. **gstack** — `garrytan/gstack/gstack` · 23,252 تثبيت
    Fast headless browser for QA testing, deployment verification, and user flow dogfooding.
    `npx skills add https://github.com/garrytan/gstack --skill gstack`
 
-1024. **fixing-motion-performance** — `ibelick/ui-skills/fixing-motion-performance` · 23,053 تثبيت
+1029. **fixing-motion-performance** — `ibelick/ui-skills/fixing-motion-performance` · 23,053 تثبيت
    Audit and fix animation performance issues including layout thrashing, compositor properties, and scroll-linked motion.
    `npx skills add https://github.com/ibelick/ui-skills --skill fixing-motion-performance`
 
-1025. **dbs-xhs-title** — `dontbesilent2025/dbskill/dbs-xhs-title` · 23,017 تثبيت
+1030. **dbs-xhs-title** — `dontbesilent2025/dbskill/dbs-xhs-title` · 23,017 تثبيت
    你是一个小红书标题公式工具。你的核心价值不是"帮人起标题"——任何 AI 都能起标题。你的核心价值是帮用户从 75 个在小红书上验证过的爆款公式中，找到最适合他的场景的公式，生成定制标题，并解释为什么选这个公式。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-xhs-title`
 
-1026. **nuxt** — `antfu/skills/nuxt` · 22,944 تثبيت
+1031. **nuxt** — `antfu/skills/nuxt` · 22,944 تثبيت
    Full-stack Vue framework with SSR, file-based routing, auto-imports, and universal deployment via Nitro.
    `npx skills add https://github.com/antfu/skills --skill nuxt`
 
-1027. **e2e-testing-patterns** — `wshobson/agents/e2e-testing-patterns` · 22,797 تثبيت
+1032. **e2e-testing-patterns** — `wshobson/agents/e2e-testing-patterns` · 22,797 تثبيت
    Comprehensive guide to building reliable, maintainable end-to-end test suites with Playwright and Cypress.
    `npx skills add https://github.com/wshobson/agents --skill e2e-testing-patterns`
 
-1028. **mobile-android-design** — `wshobson/agents/mobile-android-design` · 22,763 تثبيت
+1033. **mobile-android-design** — `wshobson/agents/mobile-android-design` · 22,763 تثبيت
    Material Design 3 and Jetpack Compose patterns for building modern, adaptive Android applications.
    `npx skills add https://github.com/wshobson/agents --skill mobile-android-design`
 
-1029. **summarize** — `openclaw/openclaw/summarize` · 22,705 تثبيت
+1034. **summarize** — `openclaw/openclaw/summarize` · 22,705 تثبيت
    Fast CLI to summarize URLs, local files, and YouTube links.
    `npx skills add https://github.com/openclaw/openclaw --skill summarize`
 
-1030. **dbs-ai-check** — `dontbesilent2025/dbskill/dbs-ai-check` · 22,337 تثبيت
+1035. **dbs-ai-check** — `dontbesilent2025/dbskill/dbs-ai-check` · 22,337 تثبيت
    你是 dontbesilent 的 AI 写作特征检测工具。你的任务是帮用户看清自己的文字里有哪些 AI 生成的痕迹。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-ai-check`
 
-1031. **architecture-patterns** — `wshobson/agents/architecture-patterns` · 22,297 تثبيت
+1036. **architecture-patterns** — `wshobson/agents/architecture-patterns` · 22,297 تثبيت
    Implement proven backend architecture patterns for maintainable, testable, and scalable systems.
    `npx skills add https://github.com/wshobson/agents --skill architecture-patterns`
 
-1032. **respond-to-pr-comments-in-blocklist** — `warpdotdev/common-skills/respond-to-pr-comments-in-blocklist` · 22,294 تثبيت
+1037. **respond-to-pr-comments-in-blocklist** — `warpdotdev/common-skills/respond-to-pr-comments-in-blocklist` · 22,294 تثبيت
    Respond to PR comments in blocklist
    `npx skills add https://github.com/warpdotdev/common-skills --skill respond-to-pr-comments-in-blocklist`
 
-1033. **validate-changes-match-specs** — `warpdotdev/common-skills/validate-changes-match-specs` · 22,097 تثبيت
+1038. **validate-changes-match-specs** — `warpdotdev/common-skills/validate-changes-match-specs` · 22,097 تثبيت
    Validate changes match specs
    `npx skills add https://github.com/warpdotdev/common-skills --skill validate-changes-match-specs`
 
-1034. **mobile-ios-design** — `wshobson/agents/mobile-ios-design` · 22,050 تثبيت
+1039. **mobile-ios-design** — `wshobson/agents/mobile-ios-design` · 22,050 تثبيت
    Native iOS app design with SwiftUI, Apple HIG compliance, and adaptive layouts for iPhone and iPad.
    `npx skills add https://github.com/wshobson/agents --skill mobile-ios-design`
 
-1035. **gh-cli** — `github/awesome-copilot/gh-cli` · 21,937 تثبيت ⭐
+1040. **gh-cli** — `github/awesome-copilot/gh-cli` · 21,937 تثبيت ⭐
    Complete GitHub CLI reference for repositories, issues, pull requests, Actions, projects, releases, and all command-line GitHub operations.
    `npx skills add https://github.com/github/awesome-copilot --skill gh-cli`
 
-1036. **dbs-chatroom** — `dontbesilent2025/dbskill/dbs-chatroom` · 21,907 تثبيت
+1041. **dbs-chatroom** — `dontbesilent2025/dbskill/dbs-chatroom` · 21,907 تثبيت
    你是定向聊天室的主持人。根据话题推荐或接受用户指定的专家，模拟多角色对话。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-chatroom`
 
-1037. **dbs-chatroom-austrian** — `dontbesilent2025/dbskill/dbs-chatroom-austrian` · 21,810 تثبيت
+1042. **dbs-chatroom-austrian** — `dontbesilent2025/dbskill/dbs-chatroom-austrian` · 21,810 تثبيت
    dbs-chatroom-austrian：奥派经济聊天室
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-chatroom-austrian`
 
-1038. **refactor** — `github/awesome-copilot/refactor` · 21,788 تثبيت ⭐
+1043. **refactor** — `github/awesome-copilot/refactor` · 21,788 تثبيت ⭐
    Surgical code refactoring to improve maintainability without changing behavior.
    `npx skills add https://github.com/github/awesome-copilot --skill refactor`
 
-1039. **laravel-specialist** — `jeffallan/claude-skills/laravel-specialist` · 21,759 تثبيت
+1044. **laravel-specialist** — `jeffallan/claude-skills/laravel-specialist` · 21,759 تثبيت
    Build and configure Laravel 10+ applications with Eloquent models, Sanctum auth, queues, and Livewire components.
    `npx skills add https://github.com/jeffallan/claude-skills --skill laravel-specialist`
 
-1040. **dbs-agent-migration** — `dontbesilent2025/dbskill/dbs-agent-migration` · 21,678 تثبيت
+1045. **dbs-agent-migration** — `dontbesilent2025/dbskill/dbs-agent-migration` · 21,678 تثبيت
    dbs-agent-migration：Agent 工作台迁移
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-agent-migration`
 
-1041. **prompt-engineering-patterns** — `wshobson/agents/prompt-engineering-patterns` · 21,453 تثبيت
+1046. **prompt-engineering-patterns** — `wshobson/agents/prompt-engineering-patterns` · 21,453 تثبيت
    Advanced prompt engineering techniques for optimizing LLM performance, reliability, and structured outputs in production.
    `npx skills add https://github.com/wshobson/agents --skill prompt-engineering-patterns`
 
-1042. **vueuse-functions** — `antfu/skills/vueuse-functions` · 21,312 تثبيت
+1047. **vueuse-functions** — `antfu/skills/vueuse-functions` · 21,312 تثبيت
    Map Vue.js and Nuxt requirements to 200+ VueUse composables for concise, maintainable implementations.
    `npx skills add https://github.com/antfu/skills --skill vueuse-functions`
 
-1043. **firecrawl-research-index** — `firecrawl/skills/firecrawl-research-index` · 21,274 تثبيت ⭐
+1048. **firecrawl-research-index** — `firecrawl/skills/firecrawl-research-index` · 21,274 تثبيت ⭐
    Find the research papers that answer a research query. Some questions have a single answer; many have several — and when in doubt, lean toward returni
    `npx skills add https://github.com/firecrawl/skills --skill firecrawl-research-index`
 
-1044. **error-handling-patterns** — `wshobson/agents/error-handling-patterns` · 21,158 تثبيت
+1049. **error-handling-patterns** — `wshobson/agents/error-handling-patterns` · 21,158 تثبيت
    Comprehensive error handling patterns across Python, TypeScript, Rust, and Go with language-specific implementations.
    `npx skills add https://github.com/wshobson/agents --skill error-handling-patterns`
 
-1045. **wecomcli-doc** — `wecomteam/wecom-cli/wecomcli-doc` · 20,999 تثبيت
+1050. **wecomcli-doc** — `wecomteam/wecom-cli/wecomcli-doc` · 20,999 تثبيت
    执行任何 wecom-cli 命令前，必须先读取并完成 wecomcli-shared 技能的公共前置检查。
    `npx skills add https://github.com/wecomteam/wecom-cli --skill wecomcli-doc`
 
-1046. **skill-vetter** — `useai-pro/openclaw-skills-security/skill-vetter` · 20,984 تثبيت
+1051. **skill-vetter** — `useai-pro/openclaw-skills-security/skill-vetter` · 20,984 تثبيت
    Pre-install security vetting for OpenClaw skills using a structured red-flag checklist.
    `npx skills add https://github.com/useai-pro/openclaw-skills-security --skill skill-vetter`
 
-1047. **mediabunny** — `remotion-dev/skills/mediabunny` · 20,928 تثبيت ⭐
+1052. **mediabunny** — `remotion-dev/skills/mediabunny` · 20,928 تثبيت ⭐
    Mediabunny is a multimedia library for dealing with audio and video in the browser.
    `npx skills add https://github.com/remotion-dev/skills --skill mediabunny`
 
-1048. **baoyu-post-to-weibo** — `jimliu/baoyu-skills/baoyu-post-to-weibo` · 20,903 تثبيت
+1053. **baoyu-post-to-weibo** — `jimliu/baoyu-skills/baoyu-post-to-weibo` · 20,903 تثبيت
    Post text, images, videos, and Markdown articles to Weibo via Chrome automation.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-weibo`
 
-1049. **wecomcli-todo** — `wecomteam/wecom-cli/wecomcli-todo` · 20,608 تثبيت
+1054. **wecomcli-todo** — `wecomteam/wecom-cli/wecomcli-todo` · 20,608 تثبيت
    执行任何 wecom-cli 命令前，必须先读取并完成 wecomcli-shared 技能的公共前置检查。
    `npx skills add https://github.com/wecomteam/wecom-cli --skill wecomcli-todo`
 
-1050. **pnpm** — `antfu/skills/pnpm` · 20,582 تثبيت
+1055. **pnpm** — `antfu/skills/pnpm` · 20,582 تثبيت
    Fast, disk-efficient Node.js package manager with strict dependency resolution and monorepo support.
    `npx skills add https://github.com/antfu/skills --skill pnpm`
 
-1051. **wecomcli-contact** — `wecomteam/wecom-cli/wecomcli-contact` · 20,559 تثبيت
+1056. **wecomcli-contact** — `wecomteam/wecom-cli/wecomcli-contact` · 20,559 تثبيت
    执行任何 wecom-cli 命令前，必须先读取并完成 wecomcli-shared 技能的公共前置检查。
    `npx skills add https://github.com/wecomteam/wecom-cli --skill wecomcli-contact`
 
-1052. **wecomcli-meeting** — `wecomteam/wecom-cli/wecomcli-meeting` · 20,517 تثبيت
+1057. **wecomcli-meeting** — `wecomteam/wecom-cli/wecomcli-meeting` · 20,517 تثبيت
    执行任何 wecom-cli 命令前，必须先读取并完成 wecomcli-shared 技能的公共前置检查。
    `npx skills add https://github.com/wecomteam/wecom-cli --skill wecomcli-meeting`
 
-1053. **gemini-api-dev** — `google-gemini/gemini-skills/gemini-api-dev` · 20,426 تثبيت ⭐
+1058. **gemini-api-dev** — `google-gemini/gemini-skills/gemini-api-dev` · 20,426 تثبيت ⭐
    Build applications with Google's Gemini models, supporting multimodal content, function calling, and structured outputs across Python, JavaScript, Go,
    `npx skills add https://github.com/google-gemini/gemini-skills --skill gemini-api-dev`
 
-1054. **firestore-security-rules-auditor** — `firebase/agent-skills/firestore-security-rules-auditor` · 20,414 تثبيت ⭐
+1059. **firestore-security-rules-auditor** — `firebase/agent-skills/firestore-security-rules-auditor` · 20,414 تثبيت ⭐
    Automated security auditor for Firestore rules using red-team methodology and structured scoring.
    `npx skills add https://github.com/firebase/agent-skills --skill firestore-security-rules-auditor`
 
-1055. **python-design-patterns** — `wshobson/agents/python-design-patterns` · 20,328 تثبيت
+1060. **python-design-patterns** — `wshobson/agents/python-design-patterns` · 20,328 تثبيت
    Fundamental design principles for writing maintainable, testable Python code.
    `npx skills add https://github.com/wshobson/agents --skill python-design-patterns`
 
-1056. **baoyu-youtube-transcript** — `jimliu/baoyu-skills/baoyu-youtube-transcript` · 20,090 تثبيت
+1061. **baoyu-youtube-transcript** — `jimliu/baoyu-skills/baoyu-youtube-transcript` · 20,090 تثبيت
    Download YouTube transcripts, subtitles, and cover images with multi-language support and intelligent caching.
    `npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-youtube-transcript`
 
-1057. **dbs-report** — `dontbesilent2025/dbskill/dbs-report` · 20,082 تثبيت
+1062. **dbs-report** — `dontbesilent2025/dbskill/dbs-report` · 20,082 تثبيت
    你是 dbskill 的报告产物工具。你的工作是：把 dbs-save 留下的多份存档文件合并成一份可读、可分享、可归档的诊断报告。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-report`
 
-1058. **dbs-save** — `dontbesilent2025/dbskill/dbs-save` · 20,057 تثبيت
+1063. **dbs-save** — `dontbesilent2025/dbskill/dbs-save` · 20,057 تثبيت
    你是 dbskill 的状态保存工具。你的工作是：把当前对话里诊断出来的关键结论、用户已经否决的方向、推荐的下一步，写成一个结构化的 markdown 文件存到本地。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-save`
 
-1059. **dbs-restore** — `dontbesilent2025/dbskill/dbs-restore` · 20,047 تثبيت
+1064. **dbs-restore** — `dontbesilent2025/dbskill/dbs-restore` · 20,047 تثبيت
    你是 dbskill 的状态恢复工具。你的工作是：从本地拉出最近一次保存的诊断存档，把状态呈现给用户，让他可以接着上次继续。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-restore`
 
-1060. **java-springboot** — `github/awesome-copilot/java-springboot` · 20,026 تثبيت ⭐
+1065. **java-springboot** — `github/awesome-copilot/java-springboot` · 20,026 تثبيت ⭐
    Comprehensive best practices guide for building production-ready Spring Boot applications.
    `npx skills add https://github.com/github/awesome-copilot --skill java-springboot`
 
-1061. **dbs-goal** — `dontbesilent2025/dbskill/dbs-goal` · 19,879 تثبيت
+1066. **dbs-goal** — `dontbesilent2025/dbskill/dbs-goal` · 19,879 تثبيت
    你是 dontbesilent 的目标审计 AI。你的任务是判断一段话能否指导行动、能否识别完成，并补齐会影响执行或验收的关键信息。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-goal`
 
-1062. **opencli-usage** — `jackwener/opencli/opencli-usage` · 19,632 تثبيت
+1067. **opencli-usage** — `jackwener/opencli/opencli-usage` · 19,632 تثبيت
    Unified CLI surface for discovering and driving website, desktop app, and external CLI commands through a single opencli entrypoint.
    `npx skills add https://github.com/jackwener/opencli --skill opencli-usage`
 
-1063. **html-ppt** — `lewislulu/html-ppt-skill/html-ppt` · 19,423 تثبيت
+1068. **html-ppt** — `lewislulu/html-ppt-skill/html-ppt` · 19,423 تثبيت
    html-ppt — HTML PPT Studio
    `npx skills add https://github.com/lewislulu/html-ppt-skill --skill html-ppt`
 
-1064. **security-requirement-extraction** — `wshobson/agents/security-requirement-extraction` · 19,398 تثبيت
+1069. **security-requirement-extraction** — `wshobson/agents/security-requirement-extraction` · 19,398 تثبيت
    Transform threat analysis into actionable security requirements.
    `npx skills add https://github.com/wshobson/agents --skill security-requirement-extraction`
 
-1065. **pricewin-hotel-deal-finder** — `price-win/pricewin-skills-hub/pricewin-hotel-deal-finder` · 19,389 تثبيت
+1070. **pricewin-hotel-deal-finder** — `price-win/pricewin-skills-hub/pricewin-hotel-deal-finder` · 19,389 تثبيت
    PriceWin Hotel Deal Finder
    `npx skills add https://github.com/price-win/pricewin-skills-hub --skill pricewin-hotel-deal-finder`
 
-1066. **dbs-slowisfast** — `dontbesilent2025/dbskill/dbs-slowisfast` · 19,325 تثبيت
+1071. **dbs-slowisfast** — `dontbesilent2025/dbskill/dbs-slowisfast` · 19,325 تثبيت
    你是 dontbesilent 的慢方法诊断 AI。你的任务是帮用户在他正在做的事情里，找到那些「看起来更慢，但长期更快」的方法。
    `npx skills add https://github.com/dontbesilent2025/dbskill --skill dbs-slowisfast`
 
-1067. **baseline-ui** — `ibelick/ui-skills/baseline-ui` · 19,283 تثبيت
+1072. **baseline-ui** — `ibelick/ui-skills/baseline-ui` · 19,283 تثبيت
    Enforces design and interaction constraints to prevent common UI anti-patterns in Tailwind CSS projects.
    `npx skills add https://github.com/ibelick/ui-skills --skill baseline-ui`
 
-1068. **extension-email-calendar-events** — `caffeinelabs/skills/extension-email-calendar-events` · 19,219 تثبيت
+1073. **extension-email-calendar-events** — `caffeinelabs/skills/extension-email-calendar-events` · 19,219 تثبيت
    Calendar events email extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-email-calendar-events`
 
-1069. **find-qualified-titles** — `code.deepline.com/find-qualified-titles` · 18,868 تثبيت
+1074. **find-qualified-titles** — `code.deepline.com/find-qualified-titles` · 18,868 تثبيت
    Find Qualified Titles (company_titles -> ICP filter -> contacts)
    `npx skills add https://code.deepline.com/`
 
-1070. **modern-javascript-patterns** — `wshobson/agents/modern-javascript-patterns` · 18,806 تثبيت
+1075. **modern-javascript-patterns** — `wshobson/agents/modern-javascript-patterns` · 18,806 تثبيت
    ES6+ syntax and functional programming patterns for writing clean, modern JavaScript.
    `npx skills add https://github.com/wshobson/agents --skill modern-javascript-patterns`
 
-1071. **expo-brownfield** — `expo/skills/expo-brownfield` · 18,753 تثبيت ⭐
+1076. **expo-brownfield** — `expo/skills/expo-brownfield` · 18,753 تثبيت ⭐
    A brownfield app is an existing native iOS or Android app that adopts React Native incrementally, as opposed to a greenfield app that is React Native 
    `npx skills add https://github.com/expo/skills --skill expo-brownfield`
 
-1072. **extension-stripe** — `caffeinelabs/skills/extension-stripe` · 18,727 تثبيت
+1077. **extension-stripe** — `caffeinelabs/skills/extension-stripe` · 18,727 تثبيت
    Stripe Payment Integration
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-stripe`
 
-1073. **extension-qr-code** — `caffeinelabs/skills/extension-qr-code` · 18,684 تثبيت
+1078. **extension-qr-code** — `caffeinelabs/skills/extension-qr-code` · 18,684 تثبيت
    QR code scanner extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-qr-code`
 
-1074. **extension-camera** — `caffeinelabs/skills/extension-camera` · 18,678 تثبيت
+1079. **extension-camera** — `caffeinelabs/skills/extension-camera` · 18,678 تثبيت
    Camera extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-camera`
 
-1075. **extension-email-marketing** — `caffeinelabs/skills/extension-email-marketing` · 18,676 تثبيت
+1080. **extension-email-marketing** — `caffeinelabs/skills/extension-email-marketing` · 18,676 تثبيت
    Marketing email extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-email-marketing`
 
-1076. **extension-email-verification** — `caffeinelabs/skills/extension-email-verification` · 18,653 تثبيت
+1081. **extension-email-verification** — `caffeinelabs/skills/extension-email-verification` · 18,653 تثبيت
    Email verification extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-email-verification`
 
-1077. **extension-object-storage** — `caffeinelabs/skills/extension-object-storage` · 18,652 تثبيت
+1082. **extension-object-storage** — `caffeinelabs/skills/extension-object-storage` · 18,652 تثبيت
    Object storage extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-object-storage`
 
-1078. **javascript-testing-patterns** — `wshobson/agents/javascript-testing-patterns` · 18,479 تثبيت
+1083. **javascript-testing-patterns** — `wshobson/agents/javascript-testing-patterns` · 18,479 تثبيت
    Comprehensive testing strategies for JavaScript/TypeScript using Jest, Vitest, and Testing Library.
    `npx skills add https://github.com/wshobson/agents --skill javascript-testing-patterns`
 
-1079. **feature-sliced-design** — `feature-sliced/skills/feature-sliced-design` · 18,458 تثبيت
+1084. **feature-sliced-design** — `feature-sliced/skills/feature-sliced-design` · 18,458 تثبيت
    Feature-Sliced Design (FSD) v2.1
    `npx skills add https://github.com/feature-sliced/skills --skill feature-sliced-design`
 
-1080. **extension-email** — `caffeinelabs/skills/extension-email` · 18,415 تثبيت
+1085. **extension-email** — `caffeinelabs/skills/extension-email` · 18,415 تثبيت
    Email — Service/Transactional
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-email`
 
-1081. **extension-http-outcalls** — `caffeinelabs/skills/extension-http-outcalls` · 18,411 تثبيت
+1086. **extension-http-outcalls** — `caffeinelabs/skills/extension-http-outcalls` · 18,411 تثبيت
    HTTP outcalls extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-http-outcalls`
 
-1082. **extension-authorization** — `caffeinelabs/skills/extension-authorization` · 18,411 تثبيت
+1087. **extension-authorization** — `caffeinelabs/skills/extension-authorization` · 18,411 تثبيت
    Authorization extendsion for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-authorization`
 
-1083. **opencli-browser** — `jackwener/opencli/opencli-browser` · 18,408 تثبيت
+1088. **opencli-browser** — `jackwener/opencli/opencli-browser` · 18,408 تثبيت
    Drive a real Chrome window to inspect pages, fill forms, click through flows, and extract data.
    `npx skills add https://github.com/jackwener/opencli --skill opencli-browser`
 
-1084. **extension-invite-links** — `caffeinelabs/skills/extension-invite-links` · 18,408 تثبيت
+1089. **extension-invite-links** — `caffeinelabs/skills/extension-invite-links` · 18,408 تثبيت
    Invite links & RSVP extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-invite-links`
 
-1085. **extension-core-infrastructure** — `caffeinelabs/skills/extension-core-infrastructure` · 18,406 تثبيت
+1090. **extension-core-infrastructure** — `caffeinelabs/skills/extension-core-infrastructure` · 18,406 تثبيت
    Core infrastructure extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-core-infrastructure`
 
-1086. **vue-router-best-practices** — `antfu/skills/vue-router-best-practices` · 18,329 تثبيت
+1091. **vue-router-best-practices** — `antfu/skills/vue-router-best-practices` · 18,329 تثبيت
    Vue Router 4 patterns, navigation guards, and route-lifecycle best practices.
    `npx skills add https://github.com/antfu/skills --skill vue-router-best-practices`
 
-1087. **extension-user-approval** — `caffeinelabs/skills/extension-user-approval` · 18,177 تثبيت
+1092. **extension-user-approval** — `caffeinelabs/skills/extension-user-approval` · 18,177 تثبيت
    User approval extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-user-approval`
 
-1088. **extension-email-raw** — `caffeinelabs/skills/extension-email-raw` · 18,174 تثبيت
+1093. **extension-email-raw** — `caffeinelabs/skills/extension-email-raw` · 18,174 تثبيت
    Email — Raw Multi-Recipient
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-email-raw`
 
-1089. **extension-openai** — `caffeinelabs/skills/extension-openai` · 18,163 تثبيت
+1094. **extension-openai** — `caffeinelabs/skills/extension-openai` · 18,163 تثبيت
    OpenAI / LLM extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-openai`
 
-1090. **responsive-design** — `wshobson/agents/responsive-design` · 18,161 تثبيت
+1095. **responsive-design** — `wshobson/agents/responsive-design` · 18,161 تثبيت
    Modern responsive layouts using container queries, fluid typography, CSS Grid, and mobile-first strategies.
    `npx skills add https://github.com/wshobson/agents --skill responsive-design`
 
-1091. **extension-posting-to-x** — `caffeinelabs/skills/extension-posting-to-x` · 18,153 تثبيت
+1096. **extension-posting-to-x** — `caffeinelabs/skills/extension-posting-to-x` · 18,153 تثبيت
    X / Twitter posting extension for Caffeine AI.
    `npx skills add https://github.com/caffeinelabs/skills --skill extension-posting-to-x`
 
-1092. **aso-audit** — `coreyhaines31/marketingskills/aso-audit` · 18,009 تثبيت
+1097. **aso-audit** — `coreyhaines31/marketingskills/aso-audit` · 18,009 تثبيت
    Audit App Store and Google Play listings against ASO best practices and generate a prioritized optimization plan.
    `npx skills add https://github.com/coreyhaines31/marketingskills --skill aso-audit`
 
-1093. **create-readme** — `github/awesome-copilot/create-readme` · 17,955 تثبيت ⭐
+1098. **create-readme** — `github/awesome-copilot/create-readme` · 17,955 تثبيت ⭐
    Generates comprehensive README.md files for projects with professional structure and formatting.
    `npx skills add https://github.com/github/awesome-copilot --skill create-readme`
 
-1094. **rust-async-patterns** — `wshobson/agents/rust-async-patterns` · 17,904 تثبيت
+1099. **rust-async-patterns** — `wshobson/agents/rust-async-patterns` · 17,904 تثبيت
    Production patterns for async Rust with Tokio, channels, error handling, and concurrent task management.
    `npx skills add https://github.com/wshobson/agents --skill rust-async-patterns`
 
-1095. **playwright-generate-test** — `github/awesome-copilot/playwright-generate-test` · 17,869 تثبيت ⭐
+1100. **playwright-generate-test** — `github/awesome-copilot/playwright-generate-test` · 17,869 تثبيت ⭐
    Generate Playwright tests from scenarios using interactive browser exploration and validation.
    `npx skills add https://github.com/github/awesome-copilot --skill playwright-generate-test`
 
-1096. **agent development** — `anthropics/claude-code/agent-development` · 17,722 تثبيت ⭐
+1101. **agent development** — `anthropics/claude-code/agent-development` · 17,722 تثبيت ⭐
    Agent Development for Claude Code Plugins
    `npx skills add https://github.com/anthropics/claude-code --skill &#x27;Agent Development&#x27;`
 
-1097. **skill development** — `anthropics/claude-code/skill-development` · 17,528 تثبيت ⭐
+1102. **skill development** — `anthropics/claude-code/skill-development` · 17,528 تثبيت ⭐
    Skill Development for Claude Code Plugins
    `npx skills add https://github.com/anthropics/claude-code --skill &#x27;Skill Development&#x27;`
 
-1098. **pinia** — `antfu/skills/pinia` · 17,407 تثبيت
+1103. **pinia** — `antfu/skills/pinia` · 17,407 تثبيت
    Type-safe Vue state management with intuitive store patterns and first-class TypeScript support.
    `npx skills add https://github.com/antfu/skills --skill pinia`
 
-1099. **sql-optimization-patterns** — `wshobson/agents/sql-optimization-patterns` · 17,389 تثبيت
+1104. **sql-optimization-patterns** — `wshobson/agents/sql-optimization-patterns` · 17,389 تثبيت
    Master SQL query optimization, indexing strategies, and EXPLAIN analysis to eliminate slow queries.
    `npx skills add https://github.com/wshobson/agents --skill sql-optimization-patterns`
 
-1100. **planning-with-files-zh** — `othmanadi/planning-with-files/planning-with-files-zh` · 17,220 تثبيت
+1105. **planning-with-files-zh** — `othmanadi/planning-with-files/planning-with-files-zh` · 17,220 تثبيت
    Manus-style file-based planning system for organizing and tracking multi-step project progress.
    `npx skills add https://github.com/othmanadi/planning-with-files --skill planning-with-files-zh`
 
-1101. **fixing-accessibility** — `ibelick/ui-skills/fixing-accessibility` · 17,204 تثبيت
+1106. **fixing-accessibility** — `ibelick/ui-skills/fixing-accessibility` · 17,204 تثبيت
    Audit and fix HTML accessibility issues across ARIA labels, keyboard navigation, focus management, and WCAG compliance.
    `npx skills add https://github.com/ibelick/ui-skills --skill fixing-accessibility`
 
-1102. **the-news** — `sfkislev/the-news/the-news` · 17,165 تثبيت
+1107. **the-news** — `sfkislev/the-news/the-news` · 17,165 تثبيت
    Real-time and historical headline access across 20 countries with multi-source perspective snapshots.
    `npx skills add https://github.com/sfkislev/the-news --skill the-news`
 
-1103. **golang-pro** — `jeffallan/claude-skills/golang-pro` · 17,124 تثبيت
+1108. **golang-pro** — `jeffallan/claude-skills/golang-pro` · 17,124 تثبيت
    Concurrent Go development with goroutines, channels, microservices patterns, and production-grade optimization.
    `npx skills add https://github.com/jeffallan/claude-skills --skill golang-pro`

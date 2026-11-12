@@ -18,17 +18,25 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,103** |
+| المهارات في الأرشيف | **1,108** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **251** |
-| مهارات رسمية ⭐ | **329** |
-| مكرّرات محذوفة 🧹 | **148** |
+| مهارات محفوظة خارج النطاق 📌 | **256** |
+| مهارات رسمية ⭐ | **333** |
+| مكرّرات محذوفة 🧹 | **152** |
 | إجمالي المهارات على skills.sh | **9,902** |
-| آخر تحديث | **2026-11-11** |
+| آخر تحديث | **2026-11-12** |
 
 ## 🆕 أحدث الإضافات
 
-- **style-sampling** — `heygen-com/hyperframes` (43,983 تثبيت)
+- **obsidian-markdown** — `obsidianmd/obsidian-skills` (96,202 تثبيت)
+- **obsidian-cli** — `obsidianmd/obsidian-skills` (85,118 تثبيت)
+- **obsidian-bases** — `obsidianmd/obsidian-skills` (82,726 تثبيت)
+- **json-canvas** — `obsidianmd/obsidian-skills` (77,247 تثبيت)
+- **defuddle** — `obsidianmd/obsidian-skills` (77,043 تثبيت)
+- **k2** — `cloudflare/skills` (34,230 تثبيت)
+- **basin** — `cloudflare/skills` (34,168 تثبيت)
+- **neon-auth** — `neondatabase/agent-skills` (34,089 تثبيت)
+- **firestore-rules-creation** — `firebase/agent-skills` (33,694 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 

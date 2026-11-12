@@ -3,6 +3,28 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-12
+### 🆕 مهارات جديدة في الأرشيف (9)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **obsidian-markdown** | `obsidianmd/obsidian-skills` | 96,202 | Obsidian Flavored Markdown Skill |
+| **obsidian-cli** | `obsidianmd/obsidian-skills` | 85,118 | Use the obsidian CLI to interact with a running Obsidian instance. Requires Obsidian to be open. |
+| **obsidian-bases** | `obsidianmd/obsidian-skills` | 82,726 | Create the file: Create a .base file in the vault with valid YAML content |
+| **json-canvas** | `obsidianmd/obsidian-skills` | 77,247 | A canvas file (.canvas) contains two top-level arrays following the JSON Canvas Spec 1.0: |
+| **defuddle** | `obsidianmd/obsidian-skills` | 77,043 | Use Defuddle CLI to extract clean readable content from web pages. Prefer over WebFetch for standard web pages — it removes navigation, ads, |
+| **k2** | `cloudflare/skills` | 34,230 | K2 is a durable log for decoupling event producers and consumers. Start with the K2 overview, then retrieve the relevant current documentati |
+| **basin** | `cloudflare/skills` | 34,168 | Basin ingests and transforms events, manages Apache Iceberg tables in R2, and queries them with distributed SQL. Start with the Basin overvi |
+| **neon-auth** | `neondatabase/agent-skills` | 34,089 | FIRST: Use the parent neon skill for a Neon overview, getting started with Neon, Neon development best practices, and more. |
+| **firestore-rules-creation** | `firebase/agent-skills` | 33,694 | Firestore Security Rules Creation |
+
+### 🧹 مكرّرات حُذفت (4)
+
+- `kepano/obsidian-skills/obsidian-markdown` ← أُبقيت `obsidianmd/obsidian-skills/obsidian-markdown` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `kepano/obsidian-skills/obsidian-cli` ← أُبقيت `obsidianmd/obsidian-skills/obsidian-cli` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `kepano/obsidian-skills/obsidian-bases` ← أُبقيت `obsidianmd/obsidian-skills/obsidian-bases` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `kepano/obsidian-skills/json-canvas` ← أُبقيت `obsidianmd/obsidian-skills/json-canvas` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+
 ## 2026-11-11
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
