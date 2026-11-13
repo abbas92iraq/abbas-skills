@@ -3,6 +3,15 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-13
+### 🆕 مهارات جديدة في الأرشيف (3)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **remove-animations** | `emilkowalski/skills` | 35,945 | When this skill is first invoked without a specific question, respond only with: |
+| **anatomy** | `wheresryan22/anatomy` | 33,840 | This skill makes figures like a small instrument on a bench: a heavy base on feet, rails with tick rulers, a carriage on bushings, knurled k |
+| **diagnosing-superpowers** | `obra/superpowers` | 33,680 | Pin down with your human partner what went wrong in a session, read the |
+
 ## 2026-11-12
 ### 🆕 مهارات جديدة في الأرشيف (9)
 

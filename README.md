@@ -18,25 +18,19 @@
 
 | | |
 |---|---:|
-| المهارات في الأرشيف | **1,108** |
+| المهارات في الأرشيف | **1,111** |
 | نطاق المتابعة اليومية | **أعلى 1,000** |
-| مهارات محفوظة خارج النطاق 📌 | **256** |
+| مهارات محفوظة خارج النطاق 📌 | **259** |
 | مهارات رسمية ⭐ | **333** |
-| مكرّرات محذوفة 🧹 | **152** |
+| مكرّرات محذوفة 🧹 | **148** |
 | إجمالي المهارات على skills.sh | **9,902** |
-| آخر تحديث | **2026-11-12** |
+| آخر تحديث | **2026-11-13** |
 
 ## 🆕 أحدث الإضافات
 
-- **obsidian-markdown** — `obsidianmd/obsidian-skills` (96,202 تثبيت)
-- **obsidian-cli** — `obsidianmd/obsidian-skills` (85,118 تثبيت)
-- **obsidian-bases** — `obsidianmd/obsidian-skills` (82,726 تثبيت)
-- **json-canvas** — `obsidianmd/obsidian-skills` (77,247 تثبيت)
-- **defuddle** — `obsidianmd/obsidian-skills` (77,043 تثبيت)
-- **k2** — `cloudflare/skills` (34,230 تثبيت)
-- **basin** — `cloudflare/skills` (34,168 تثبيت)
-- **neon-auth** — `neondatabase/agent-skills` (34,089 تثبيت)
-- **firestore-rules-creation** — `firebase/agent-skills` (33,694 تثبيت)
+- **remove-animations** — `emilkowalski/skills` (35,945 تثبيت)
+- **anatomy** — `wheresryan22/anatomy` (33,840 تثبيت)
+- **diagnosing-superpowers** — `obra/superpowers` (33,680 تثبيت)
 
 السجل الكامل في [`CHANGELOG.md`](./CHANGELOG.md).
 
