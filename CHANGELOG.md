@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-14
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **website-builder** | `flowkit-labs/skills` | 41,525 | Describe your business in a sentence and get a working website you can preview. Start with a homepage that shows what you offer, shares your |
+| **i-have-adhd** | `ayghri/i-have-adhd` | 33,782 | The reader has ADHD. Output is not just brief. It is shaped so an ADHD brain can act on it. |
+
 ## 2026-11-13
 ### 🆕 مهارات جديدة في الأرشيف (3)
 
