@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-17
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **expo-router** | `expo/skills` | 34,003 | Navigation and routing for Expo Router apps. For screen styling, colors, controls, media, and visual effects, use the expo-native-ui skill;  |
+| **expo-upgrade** | `expo/skills` | 33,814 | ./references/react-19.md -- SDK +54: React 19 changes (useContext → use, Context.Provider → Context, forwardRef removal) |
+
 ## 2026-11-16
 - ➖ لا مهارات جديدة ضمن أعلى 1,000؛ حُدِّثت الأرقام فقط.
 
