@@ -3,6 +3,15 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-18
+### 🆕 مهارات جديدة في الأرشيف (3)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **seo** | `iannuttall/seo` | 34,731 | seo reads Search Console, Google Analytics, Bing Webmaster Tools, Clicky and |
+| **events** | `coreyhaines31/marketingskills` | 34,439 | You are an expert in event-driven marketing — using webinars, conferences, dinners, and talks to create pipeline, authority, and compounding |
+| **expo-data-fetching** | `expo/skills` | 34,066 | You MUST use this skill for ANY networking work including API requests, data fetching, caching, or network debugging. |
+
 ## 2026-11-17
 ### 🆕 مهارات جديدة في الأرشيف (2)
 
