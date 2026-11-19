@@ -3,6 +3,20 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-19
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **choreograph** | `emilkowalski/skills` | 35,769 | When this skill is first invoked without a specific question, respond only with: |
+
+### 🧹 مكرّرات حُذفت (4)
+
+- `beltsh/superpowers/ai-video-generation` ← أُبقيت `101-skills/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `beltsh/superpowers/ai-image-generation` ← أُبقيت `101-skills/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `beltsh/superpowers/twitter-automation` ← أُبقيت `101-skills/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `beltsh/superpowers/ai-avatar-video` ← أُبقيت `101-skills/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-11-18
 ### 🆕 مهارات جديدة في الأرشيف (3)
 
