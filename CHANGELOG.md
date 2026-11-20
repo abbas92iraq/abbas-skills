@@ -3,6 +3,13 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-20
+### 🆕 مهارات جديدة في الأرشيف (1)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **higgsfield-faceless-video** | `higgsfield-ai/skills` | 35,448 | Create one finished video with a consistent visual style and narration. For an illustrated explainer use deliberate, diagram-led scenes; for |
+
 ## 2026-11-19
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
