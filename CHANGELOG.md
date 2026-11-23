@@ -3,6 +3,21 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-23
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **cf-cli** | `cloudflare/skills` | 35,022 | cf is Cloudflare's command-line interface for the public Cloudflare API (2,900+ commands, most generated from API schemas) and for Workers p |
+| **gestures** | `emilkowalski/skills` | 35,008 | How to build gestures that feel physical. A gesture is direct manipulation: while the finger is down, the UI is the finger; the moment it li |
+
+### 🧹 مكرّرات حُذفت (4)
+
+- `whytryharder/superpowers/ai-video-generation` ← أُبقيت `101-skills/superpowers/ai-video-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `whytryharder/superpowers/ai-image-generation` ← أُبقيت `101-skills/superpowers/ai-image-generation` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+- `whytryharder/superpowers/twitter-automation` ← أُبقيت `101-skills/superpowers/twitter-automation` (اسم مركّب متطابق (2 كلمات) عبر مصادر مختلفة)
+- `whytryharder/superpowers/ai-avatar-video` ← أُبقيت `101-skills/superpowers/ai-avatar-video` (اسم مركّب متطابق (3 كلمات) عبر مصادر مختلفة)
+
 ## 2026-11-22
 ### 🆕 مهارات جديدة في الأرشيف (1)
 
