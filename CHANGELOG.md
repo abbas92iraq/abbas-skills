@@ -3,6 +3,14 @@
 سجل يومي بالمهارات الجديدة الداخلة إلى الأرشيف وبالمكرّرات المحذوفة.
 الأرشيف تراكمي: لا تخرج مهارة بسبب تراجع ترتيبها.
 
+## 2026-11-27
+### 🆕 مهارات جديدة في الأرشيف (2)
+
+| المهارة | المصدر | التثبيتات | الوصف |
+|---|---|---:|---|
+| **ui-design** | `uxpilot-ai/frontend-design-skill` | 44,455 | Design the screens first on a UX Pilot canvas the user can see and edit, then build them in their code. |
+| **thinkui** | `thinkui.xyz` | 38,192 | ThinkUI — UI references over MCP |
+
 ## 2026-11-26
 - ➖ لا مهارات جديدة ضمن أعلى 1,000؛ حُدِّثت الأرقام فقط.
 
